@@ -8,6 +8,7 @@ class Index:
         self.database = WebDB.WebDB(dbfile)
         self.index = dict()
         self.total_count = 0 #number of documents we have
+        self.nnn_indexing = True
     def filename2ID(filename):
         temp = filename.rstrip(".txt")
         return int(temp)
@@ -27,6 +28,34 @@ class Index:
                     stripped_token = token.rstrip("\n")
                     self._addToken(stripped_token,DocID+1,position)
         print("population complete")
+    def nnn_query(self, query_string):
+        terms = query_string.split()
+        for term in terms:
+            term = self._stem_query(term)
+        query_dic = dict()
+        for term in terms:
+            if term not in query_dic:
+                query_dic[term] = 1
+            else:
+                query_dic[term] += 1
+        return query_dic
+    def ltc_query(self, query_string):
+        terms = query_string.split()
+        for term in terms:
+            term = self._stem_query(term)
+        query_dic = dict()
+        for term in terms:
+            if term not in query_dic:
+                query_dic[term] = 1
+            else:
+                query_dic[term] += 1
+
+        for key in query_dic.keys():
+            term_freq = 1+ math.log2(query_dic[term])
+            ###
+
+
+        return query_dic
     def _stem_query(self, word):
         word = word.lower()
         s = stem.PorterStemmer()
