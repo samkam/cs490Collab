@@ -1,4 +1,5 @@
 import pickle
+import collections
 import WebDB
 from nltk import stem
 import os
@@ -29,9 +30,9 @@ class Index:
                     self._addToken(stripped_token,DocID+1,position)
         print("population complete")
     def nnn_query(self, query_string):
-        terms = query_string.split()
-        for term in terms:
-            term = self._stem_query(term)
+        terms = []
+        for term in query_string.split():
+            terms.append(self._stem_query(term))
         query_dic = dict()
         for term in terms:
             if term not in query_dic:
@@ -40,9 +41,9 @@ class Index:
                 query_dic[term] += 1
         return query_dic
     def ltc_query(self, query_string):
-        terms = query_string.split()
-        for term in terms:
-            term = self._stem_query(term)
+        terms = []
+        for term in query_string.split():
+            terms.append(self._stem_query(term))
         query_dic = dict()
         for term in terms:
             if term not in query_dic:
@@ -51,11 +52,33 @@ class Index:
                 query_dic[term] += 1
 
         for key in query_dic.keys():
-            term_freq = 1+ math.log2(query_dic[term])
-            ###
-
+            term_freq = 1+ math.log2(query_dic[key])
+            try:
+                inverse_document_freq = math.log2(self.total_count/(len(self.index[term].keys())))
+                query_dic[key] = term_freq * inverse_document_freq
+            except KeyError:
+                query_dic[key] = 0.0
 
         return query_dic
+    def process_query(self, query_dic):
+        scores = dict()
+        for term in query_dic.keys():
+            for DocID in self.index[term].keys():
+                #multiply weights of each term in query by document weight to find cosine distance
+                if DocID not in scores:
+                    scores[DocID] = 0.0
+                scores[DocID] +=query_dic[term] *self.index[term][DocID][0]
+        s = collections.OrderedDict(sorted(scores.items(), key=lambda t: t[1],reverse=True))
+        #iter_dic = s.iterkeys()
+        #for i in range(max(len(s),num_results)
+        #count = num_results
+        out = []
+        for key in s.keys():
+            out.append((key, s[key]))
+        return out
+
+
+
     def _stem_query(self, word):
         word = word.lower()
         s = stem.PorterStemmer()
@@ -69,7 +92,11 @@ class Index:
             self.index[token][DocID] = [0.0]# 0th position will contain weight for dodcuments
             #print("novel docId added to ")
         self.index[token][DocID].append(token_position)
-    def _addWeights(self):
+    def _addWeights_nnn(self):
+        for term in self.index.keys():
+            for docID in self.index[term].keys():
+                self.index[term][docID][0]= len(self.index[term][docID]) -1
+    def _addWeights_ltc(self):
         '''
         adds weight calculated by (ltc) idf and tf values for each key in the sub dictionary
         :return:
