@@ -98,11 +98,9 @@ class UserInterface:
         print(str(len(Doc_ids))+"results")
         #self.print_by_urlID(Doc_ids)
 def main():
-    a = UserInterface()
-    while True:
-        a.print_menu()
-        a.select_option()
-
+    myDB = WebDB.WebDB("Data/cache.db")
+    results = myDB.ItemIDfromUrlID(1)
+    print(results)
 '''
     print("in main")
     a = Index.Index()

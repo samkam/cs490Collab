@@ -52,9 +52,9 @@ class Index:
                 query_dic[term] += 1
 
         for key in query_dic.keys():
-            term_freq = 1+ math.log2(query_dic[key])
+            term_freq = 1+ math.log10(query_dic[key])
             try:
-                inverse_document_freq = math.log2(self.total_count/(len(self.index[term].keys())))
+                inverse_document_freq = math.log10(self.total_count/(len(self.index[term].keys())))
                 query_dic[key] = term_freq * inverse_document_freq
             except KeyError:
                 query_dic[key] = 0.0
@@ -104,9 +104,9 @@ class Index:
         N = self.total_count #number of all documents
         docLengths = dict()
         for term in self.index.keys():
-            inverse_document_freq = math.log2(N/(len(self.index[term].keys())))
+            inverse_document_freq = math.log10(N/(len(self.index[term].keys())))
             for docID in self.index[term].keys():
-                term_freq = 1+ math.log2(len(self.index[term][docID]) -1)
+                term_freq = 1+ math.log10(len(self.index[term][docID]) -1)
                 if docID not in docLengths:
                     docLengths[docID] = 0.0
                 weight =  term_freq * inverse_document_freq

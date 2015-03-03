@@ -36,6 +36,9 @@ class controller:
         for i in range(self.k):
             out.append(results[i])
         return out
+    def print_top_items(self,all_results):
+        for i in all_results:
+            self.database.
     def print_by_urlID(self,list_url_id):
         print(list_url_id)
         for i in list_url_id:
@@ -43,6 +46,7 @@ class controller:
             holder = self.database.lookupCachedURL_byID(i[0])
             for j in holder:
                 print(j)
+            print("from: "+str(self.database.ItemIDfromUrlID(i)))
             #print("\n")
 def main():
     a = controller()

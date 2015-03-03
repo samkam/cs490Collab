@@ -59,7 +59,6 @@ class Spider:
             URLs.append(i)
         return URLs
 
-
     def remove_duplicates(self,str_list):
         out = []
         for token in str_list:
