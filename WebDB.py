@@ -121,9 +121,7 @@ class WebDB:
             return reslist[0][0]
     def ItemIDfromUrlID(self,urlID):
         #gets list of itemIDs associated with urlID
-        pass
-        sql = "SELECT name, type FROM Item JOIN UrlToItem on Item.id =UrlToItem.itemID WHERE UrlToItem.urlID = %d"\
-                % (urlID)
+        sql = "SELECT name, type FROM Item JOIN UrlToItem on Item.id =UrlToItem.itemID WHERE UrlToItem.urlID = {}".format(urlID)
         res = self.execute(sql)
         reslist= res.fetchall()
         if reslist == []:
@@ -133,7 +131,7 @@ class WebDB:
             for i in reslist:
                 itemTitle = i[0].rstrip("\n")+"("+i[1]+")"
                 out.append(itemTitle)
-            return out
+            return out[0]
 
     def lookupURLToItem(self, urlID, itemID):
         """
