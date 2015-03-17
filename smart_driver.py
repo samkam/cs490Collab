@@ -54,14 +54,26 @@ class controller:
 
 
     def print_by_urlID(self,list_url_id):
-        print(list_url_id)
+        #print(list_url_id)
+        print("\n")
+        count = 1
         for i in list_url_id:
-            print("weight:"+str(i[1]))
             holder = self.database.lookupCachedURL_byID(i[0])
-            for j in holder:
-                print(j)
+            place = 1
+            for j in reversed(holder):
+                if place == 1:
+                    print(str(count) + ") " + str(j))
+                    place = 2
+                elif place == 2:
+                    place = 3
+                    continue
+                elif place == 3:
+                    place = 1
+                    print(j)
+            print("weight: "+str(round(i[1], 4)))
             print("from: "+str(self.database.ItemIDfromUrlID(i[0])))
-            #print("\n")
+            print("\n")
+            count += 1
 def main():
     a = controller()
     a.userInit()
