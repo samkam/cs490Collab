@@ -37,9 +37,7 @@ class WebDB:
                                  id  INTEGER PRIMARY KEY,
                                  name VARCHAR,
                                  type VARCHAR
-                            );""")           
-                             
-                                
+                            );""")
 
     def _quote(self, text):
         """
@@ -104,6 +102,20 @@ class WebDB:
         else:
             return reslist[0]
 
+    def lookupURLs_byItem(self, name, itemType):
+        #gets list of URLs associated with item
+        sql = "SELECT url FROM Item WHERE name='%s' AND type='%s'"\
+            % (self._quote(name), self._quote(itemType))
+        res = self.execute(sql)
+        reslist = res.fetchall()
+        if reslist == []:
+            return None
+        else:
+            out = []
+            for i in reslist:
+                out.append(i)
+            return out[0]
+
     def lookupItem(self, name, itemType):
         """
         Returns a Item ID for the row
@@ -119,6 +131,7 @@ class WebDB:
             return None
         else:
             return reslist[0][0]
+
     def ItemIDfromUrlID(self,urlID):
         #gets list of itemIDs associated with urlID
         sql = "SELECT name, type FROM Item JOIN UrlToItem on Item.id =UrlToItem.itemID WHERE UrlToItem.urlID = {}".format(urlID)

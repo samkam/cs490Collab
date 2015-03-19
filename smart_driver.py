@@ -11,6 +11,7 @@ class controller:
         self.is_nnn_index = True
         self.k = 10
         self.top_items = {}
+
     def userInit(self):
         index_type = input("would you like nnn or ltc Indexing? ").lower()
         query_type = input("would you like nnn or ltc queries? ").lower()
@@ -38,6 +39,7 @@ class controller:
         for i in range(self.k):
             out.append(results[i])
         return out
+
     def print_top_items(self,all_results):
         item_dict = dict()
         for i in all_results:
@@ -51,7 +53,6 @@ class controller:
         s = collections.OrderedDict(sorted(item_dict.items(), key=lambda t: t[1],reverse=True))
         for i in range(self.k):
             print(s.popitem(last=False))
-
 
     def print_by_urlID(self,list_url_id):
         #print(list_url_id)
@@ -74,6 +75,29 @@ class controller:
             print("from: "+str(self.database.ItemIDfromUrlID(i[0])))
             print("\n")
             count += 1
+
+def evaluation():
+    isIndexNNN = [True, False]
+    isQueryNNN = [True, False]
+    for IndexType in isIndexNNN:
+        current_index = Index.Index()
+        current_index.populate()
+        if IndexType:
+            current_index._addWeights_nnn()
+        else:
+            current_index._addWeights_ltc()
+        for queryType in isQueryNNN:
+            items = []
+            average_results = [0,0,0,0]
+            # items =current_index.database.Get_All_ITEmS
+            for item in items:
+                print()
+                #get results of item name inputted as search query
+                #compare to list of URLids associated with that item in the database
+                #do all of the calculations (ap, r, k, AUC)
+                #add to average results
+            print(average_results)
+
 def main():
     a = controller()
     a.userInit()
