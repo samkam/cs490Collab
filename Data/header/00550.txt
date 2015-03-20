@@ -1,0 +1,11 @@
+Age: 0
+Cache-Control: public, max-age=0, s-maxage=0
+Content-Type: text/html;charset=utf-8
+Date: Tue, 24 Feb 2015 06:49:26 GMT
+Via: 1.1 varnish
+X-Cache: MISS
+x-cacheable: C:5m
+X-Varnish: 3926190296
+transfer-encoding: chunked
+Connection: Close
+

@@ -1,0 +1,225 @@
+<!DOCTYPE doctype html>
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Manhattanrarebooks-Literature.com</title>
+<meta content=" manhattanrarebooks-literature.com" name="keywords"/>
+<meta content="" name="description"/>
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/standard.js?rte=1&amp;tm=2&amp;dn=manhattanrarebooks-literature.com&amp;tid=1020"></script>
+<meta name="google" value="notranslate"/>
+<script language="JavaScript" src="/js/google_caf.js?rte=1&amp;tm=2&amp;dn=manhattanrarebooks-literature.com&amp;tid=1020" type="text/javascript"></script>
+<script language="JavaScript" src="http://www.google.com/adsense/domains/caf.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageOptions =
+{
+    'domainRegistrant' : 'as-drid-2421601518898051',
+    'relatedSearchBaseUrl': 'http://www.manhattanrarebooks-literature.com/?ac=2&slt=8&slr=1&lpt=2',
+    'resultsPageBaseUrl': 'http://www.manhattanrarebooks-literature.com/?ac=2&slt=8&slr=1&lpt=2',
+    'pageLoadedCallback': google_callback,
+    'pubId': 'dp-demandmedia01',
+    'channel': '000001',
+    'terms': '',
+    'optimizeTerms': true,
+    'adtest': 'off',
+    'hl': 'de'
+};
+
+var searchboxBlock =
+{
+    'container': 'searchbox',
+    'type': 'searchbox',
+    'width': '300px',
+    'widthSearchButton': 70,
+    'colorBackground': 'transparent',
+    'colorSearchButton': '#17181A',
+    'colorSearchButtonText': '#B4EC6A',
+    'fontSizeSearchInput': 16,
+    'fontSizeSearchButton': 16,
+    'hideSearchInputBorder': true,
+    'hideSearchButtonBorder': true
+};
+
+var rsblock2 =
+{
+    'container': 'searchLinks2',
+    'type': 'relatedsearch',
+    'width': '250px',
+    'number': 10,
+    'colorBackground': 'transparent',
+    'fontFamilyAttribution': 'arial',
+    'fontSizeAttribution': 14,
+    'colorAttribution': '#aaa',
+    'attributionBold': 'true',
+    'fontFamily': 'arial',
+    'fontSizeTitle': 22,
+    'colorTitleLink': '#9FD801',
+    'rolloverLinkColor': '#E57921',
+    'rolloverLinkUnderline': true,
+    'noTitleUnderline': true,
+    'titleBold': false,
+    'lineHeightTitle': 32,
+    'verticalSpacing': 2
+};
+
+var adblock =
+{
+    'container': 'ads',
+    'type': 'ads',
+    'number': 5,
+    'width': '800px',
+    'colorBackground': 'transparent',
+    'colorAttribution': '#999',
+    'fontFamilyAttribution': 'arial',
+    'fontSizeAttribution': 14,
+    'attributionBold': 'false',
+    'colorTitleLink': '#9FD801',
+    'rolloverLinkColor': '#E57921',
+    'rolloverLinkUnderline': true,
+    'colorText': '#c1c1c1',
+    'colorDomainLink': '#C9EC6A',
+    'fontSizeTitle': 26,
+    'fontSizeDescription': 16,
+    'fontSizeDomainLink': 16,
+    'titleBold': true,
+    'verticalSpacing': 6,
+    'adIconUrl': 'http://afs.googleusercontent.com/dp-demandmedia/t1020/bullet-green-arrow.png',
+    'adIconWidth': 20,
+    'adIconHeight': 20,
+    'adIconSpacingAbove': 8,
+    'adIconSpacingBefore': 2,
+    'adIconSpacingAfter': 10,
+    'clicktrackUrl': 'http://www.manhattanrarebooks-literature.com/clickLog?ck=8caf16c8-7d6e-44e2-b47b-e70c2de8a08f&d=manhattanrarebooks-literature.com&aid=2000001&r=0&rc=10&rlt=21&du=&rid=8b54ff03-51e6-43e2-9fef-f7f7de6f8027'
+};
+
+
+var parkingData = 
+{
+    'pageType': '2',
+    'googleStatus': 'Clean',
+    'cacheKey': '8caf16c8-7d6e-44e2-b47b-e70c2de8a08f',
+    'clientIPHash': '-1667388099',
+    'userAgentHash': '551459447',
+    'time': '2/23/2015 10:29:27 PM',
+    'ticks': '635603273675061345',
+    'domainName': 'manhattanrarebooks-literature.com',
+    'searchText': 'Salinger Catcher',
+    'actionCode': 'ManualSearch',
+    'adNetworkID': '2000001',
+    'moduleID': '29',
+    'resultLinkType': '5',
+    'webLinkType': 'GoogleWeb',
+    'vipIP': '8.5.1.33',
+    'sessionID': '2cf85e4d-56fe-4c4d-b79a-cd6a11979198',
+    'visitorID': '98df87c2-6646-41b9-a5ea-345bd85cf3ca',
+    'ippiClassification': '0',
+    'requestGuid': '8b54ff03-51e6-43e2-9fef-f7f7de6f8027',
+    'searchLinkType': 'ManualSearch',
+    'templateID': '1020',
+    'themeID': '220538',
+    'pageUrl': '/salinger_catcher.htm',
+    'searchLinkRank': '0',
+    'referrer': '',
+    'referrerSearchText': '',
+    'subID': '0',
+    'searchLinkAreas': 
+    [ 
+        {
+            'maxCount': 10,
+            'divID': 'sec_20',
+            'class': 'rsSB',
+            'headerText': 'Related Searches'
+        }
+    ],
+    'apiIteration': 0,
+    'mobileBrowserType': 4,
+    'adLineFormat': 3,
+    'wClass': 'wr',
+    'adHeader': 'Sponsored Listings'
+};
+
+new google.ads.domains.Caf(pageOptions, searchboxBlock, rsblock2, adblock);
+</script>
+<title></title>
+<link href="/css/style.css?rte=1&amp;tm=2&amp;dn=manhattanrarebooks-literature.com&amp;tid=1020&amp;def=Akamai%3aHostingURL%3dhttp%3a%2f%2fi.nuseek.com" rel="stylesheet" type="text/css"/>
+</head>
+<body class="caf" id="result">
+<form action="/default.php" id="parking_form" method="get">
+<!--
+=================================================
+** START DEBUG OUTPUT                          **
+=================================================
+             Version: 3.7.169.20
+     Logging_Version: 3.6
+           Webserver: 302B
+           Client_IP: 76.78.3.187
+              VIP_IP: 8.5.1.33
+           HTTP_Host: www.manhattanrarebooks-literature.com
+         Domain_Name: manhattanrarebooks-literature.com
+  Total_Process_Time: 32ms
+       MemCache_Time: 6ms (19%)
+       Database_Time: 22ms (70%)
+            API_Time: 1ms (4%)
+=================================================
+** END DEBUG OUTPUT                            **
+=================================================
+-->
+<div class="customHdr"></div>
+<div class="wrapper">
+<div class="header">
+<div class="pageHeader"><h1>Manhattanrarebooks-Literature.com</h1></div>
+<div class="searchBox" id="searchbox">
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="content">
+<div class="colFixed">
+<div class="rsSB" id="searchLinks2"></div>
+</div>
+<div class="colFluid">
+<div class="results" id="ads"></div>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="footer">
+<div class="customFtr"><div class="renewalText">
+<p style="margin:10px 0;">
+    This Domain Name Has Expired - <a href="/renewal.aspx" target="_blank">Renewal Instructions.</a>
+</p>
+</div></div>
+<div class="legal"><a href="http://whoisprivacyprotect.com/terms/privacy.html" target="_blank">Privacy Policy</a></div>
+</div>
+</div><!-- end .wrapper -->
+<script language="javascript" type="Text/Javascript">
+function GetIPPI(g) {
+    var xmlHttp = createXMLHttpRequest();
+    if (xmlHttp != null) {
+        xmlHttp.open('GET', '/'+g+'.ippi?g='+g, true);
+        xmlHttp.send(null);
+    }
+}
+
+function createXMLHttpRequest() {
+  try { return new ActiveXObject('Msxml2.XMLHTTP'); } catch(e) {}
+  try { return new ActiveXObject('Microsoft.XMLHTTP'); } catch(e) {}
+  try { return new XMLHttpRequest(); } catch(e) {}
+  return null;
+}
+
+GetIPPI('8b54ff03-51e6-43e2-9fef-f7f7de6f8027');
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2249740-16");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</form>
+</body>
+</html>

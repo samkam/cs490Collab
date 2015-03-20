@@ -1,0 +1,2838 @@
+
+<!DOCTYPE html>
+
+<html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+<head>
+<script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
+<script type="text/javascript">
+                var ue_mid = "A1EVAM02EL8SFB"; 
+                var ue_sn = "www.imdb.com";  
+                var ue_furl = "fls-na.amazon.com";
+                var ue_sid = "558-7871730-3440549";
+                var ue_id = "1AK0XKZG13BD3NB5PXAZ";
+                (function(e){var c=e;var a=c.ue||{};a.main_scope="mainscopecsm";a.q=[];a.t0=c.ue_t0||+new Date();a.d=g;function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(m,l,h,j,i){var k={m:m,f:l,l:h,c:""+j,err:i,fromOnError:1,args:arguments};c.ueLogError(k);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-051542d0cfa6f645f8266601739de597._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){if(a.loadUEFull){a.loadUEFull()}else{b()}}a.uels=c;e.ue=a})(window,document);
+                if (!('CS' in window)) { window.CS = {}; }
+                    window.CS.loginSecureHost = "https://secure.imdb.com";
+            </script>
+<script type="text/javascript">var IMDbTimer={starttime: new Date().getTime(),pt:'java'};</script>
+<script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
+<title>Across the Universe (2007) - IMDb</title>
+<script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="http://www.imdb.com/title/tt0445922/" rel="canonical"/>
+<meta content="http://www.imdb.com/title/tt0445922/" property="og:url"/>
+<script>(function(t){ (t.events = t.events || {})["csm_head_pre_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+<link href="http://ia.media-imdb.com/images/G/01/imdb/images/favicon-2165806970._CB379387995_.ico" rel="icon" type="image/ico"/>
+<link href="http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._CB379390718_.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-4151659188._CB361295786_.png" rel="apple-touch-icon">
+<link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-76x76-53536248._CB361295462_.png" rel="apple-touch-icon" sizes="76x76">
+<link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-120x120-2442878471._CB361295428_.png" rel="apple-touch-icon" sizes="120x120">
+<link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-152x152-1475823641._CB361295368_.png" rel="apple-touch-icon" sizes="152x152">
+<link href="http://ia.media-imdb.com/images/G/01/imdb/images/imdbsearch-3349468880._CB379388505_.xml" rel="search" title="IMDb" type="application/opensearchdescription+xml"/>
+<script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+<link href="http://ia.media-imdb.com/images/M/MV5BMTIyMTUwNzg3Nl5BMl5BanBnXkFtZTcwMjM1MDI1MQ@@._V1_.jpg" rel="image_src">
+<meta content="http://ia.media-imdb.com/images/M/MV5BMTIyMTUwNzg3Nl5BMl5BanBnXkFtZTcwMjM1MDI1MQ@@._V1_.jpg" property="og:image"/>
+<meta content="video.movie" property="og:type"/>
+<meta content="115109575169727" property="fb:app_id"/>
+<meta content="Across the Universe (2007)" property="og:title"/>
+<meta content="IMDb" property="og:site_name"/>
+<meta content="Across the Universe (2007) - IMDb" name="title"/>
+<meta content="Directed by Julie Taymor.  With Evan Rachel Wood, Jim Sturgess, Joe Anderson, Dana Fuchs. The music of the Beatles and the Vietnam War form the backdrop for the romance between an upper-class American girl and a poor Liverpudlian artist." name="description"/>
+<meta content="Directed by Julie Taymor.  With Evan Rachel Wood, Jim Sturgess, Joe Anderson, Dana Fuchs. The music of the Beatles and the Vietnam War form the backdrop for the romance between an upper-class American girl and a poor Liverpudlian artist." property="og:description"/>
+<meta content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits" name="keywords"/>
+<meta content="1AK0XKZG13BD3NB5PXAZ" name="request_id"/>
+<script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
+<!-- h=ics-1d-c3-2xl-i-e006400a.us-east-1 -->
+<link href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-flat-4031562111._CB328669226_.css" rel="stylesheet" type="text/css"/>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/ie-1918465287._CB354866480_.css" /><![endif]-->
+<link href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-mega-1801187020._CB325753108_.css" rel="stylesheet" type="text/css"/>
+<noscript>
+<link href="http://ia.media-imdb.com/images/G/01/imdb/css/wheel/nojs-2627072490._CB343672767_.css" rel="stylesheet" type="text/css">
+</link></noscript>
+<script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
+<script>(function(t){ (t.events = t.events || {})["csm_head_pre_ads"] = new Date().getTime(); })(IMDbTimer);</script>
+<script>
+window.ads_js_start = new Date().getTime();
+var imdbads = imdbads || {}; imdbads.cmd = imdbads.cmd || [];
+</script>
+<!-- begin SRA -->
+<script>
+(function(){var d=function(o){return Object.prototype.toString.call(o)==="[object Array]";},g=function(q,p){var o;for(o=0;o<q.length;o++){if(o in q){p.call(null,q[o],o);}}},h=[],k,b,l=false,n=false,f=function(){var o=[],p=[],q={};g(h,function(s){var r="";g(s.dartsite.split("/"),function(t){if(t!==""){if(t in q){}else{q[t]=o.length;o.push(t);}r+="/"+q[t];}});p.push(r);});return{iu_parts:o,enc_prev_ius:p};},c=function(){var o=[];g(h,function(q){var p=[];g(q.sizes,function(r){p.push(r.join("x"));});o.push(p.join("|"));});return o;},m=function(){var o=[];g(h,function(p){o.push(a(p.targeting));});return o.join("|");},a=function(r,o){var q,p,s=[];for(q in r){p=[];for(j=0;j<r[q].length;j++){p.push(encodeURIComponent(r[q][j]));}if(o){s.push(q+"="+encodeURIComponent(p.join(",")));}else{s.push(q+"="+p.join(","));}}return s.join("&");},e=function(){var o=+new Date();if(n){return;}if(!this.readyState||"loaded"===this.readyState){n=true;if(l){imdbads.cmd.push(function(){for(i=0;i<h.length;i++){generic.monitoring.record_metric(h[i].name+".fail",csm.duration(o));}});}}};window.tinygpt={define_slot:function(r,q,o,p){h.push({dartsite:r.replace(/\/$/,""),sizes:q,name:o,targeting:p});},set_targeting:function(o){k=o;},callback:function(q){var r,p={},t,o,s=+new Date();l=false;for(r=0;r<h.length;r++){t=h[r].dartsite;o=h[r].name;if(q[r][t]){p[o]=q[r][t];}else{window.console&&console.error&&console.error("Unable to correlate GPT response for "+o);}}imdbads.cmd.push(function(){for(r=0;r<h.length;r++){ad_utils.slot_events.trigger(h[r].name,"request",{timestamp:b});ad_utils.slot_events.trigger(h[r].name,"tagdeliver",{timestamp:s});}ad_utils.gpt.handle_response(p);});},send:function(){var r=[],q=function(s,t){if(d(t)){t=t.join(",");}if(t){r.push(s+"="+encodeURIComponent(""+t));}},o,p;if(h.length===0){tinygpt.callback({});return;}q("gdfp_req","1");q("correlator",Math.floor(4503599627370496*Math.random()));q("output","json_html");q("callback","tinygpt.callback");q("impl","fifs");q("json_a","1");result=f();q("iu_parts",result.iu_parts);q("enc_prev_ius",result.enc_prev_ius);q("prev_iu_szs",c());q("prev_scp",m());q("cust_params",a(k,true));o=document.createElement("script");p=document.getElementsByTagName("script")[0];o.async=true;o.type="text/javascript";o.src="http://pubads.g.doubleclick.net/gampad/ads?"+r.join("&");o.id="tinygpt";o.onload=o.onerror=o.onreadystatechange=e;l=true;p.parentNode.insertBefore(o,p);b=+new Date();}};})();</script>
+<script>
+tinygpt.define_slot('/4215/imdb2.consumer.title/maindetails',
+[[728,90],[1008,150],[1008,200],[1008,30],[970,250],[1008,400],[9,1]],
+'top_ad',
+{
+'p': ['top','t']
+});
+tinygpt.define_slot('/4215/imdb2.consumer.title/maindetails',
+[[300,250],[300,600],[300,300],[11,1]],
+'top_rhs',
+{
+'p': ['tr']
+});
+tinygpt.set_targeting({
+'g' : ['f','ro','m','dr'],
+'tt' : ['f'],
+'m' : ['PG13'],
+'mh' : ['PG13'],
+'ml' : ['PG13'],
+'coo' : ['us','gb'],
+'b' : [],
+'fv' : ['1'],
+'id' : ['tt0445922'],
+'ab' : ['d'],
+'bpx' : ['1'],
+'md' : ['tt0445922'],
+'c' : ['1'],
+'s' : ['3075','32'],
+'u': ['328316877365'],
+'oe': ['utf-8']
+});
+tinygpt.send();
+</script>
+<!-- begin ads header -->
+<script src="http://ia.media-imdb.com/images/G/01/imdbads/js/collections/ads-1829257791._CB328522705_.js"></script>
+<script>
+doWithAds = function(){};
+</script>
+<script>
+doWithAds = function(inside, failureMessage){
+if ('consoleLog' in window &&
+'generic' in window &&
+'ad_utils' in window &&
+'custom' in window &&
+'monitoring' in generic &&
+'document_is_ready' in generic) {
+try{
+inside.call(this);
+}catch(e) {
+if ( window.ueLogError ) {
+if(typeof failureMessage !== 'undefined'){
+e.message = failureMessage;
+}
+e.attribution = "Advertising";
+e.logLevel = "ERROR";
+ueLogError(e);
+}
+if( (document.location.hash.match('debug=1')) &&
+(typeof failureMessage !== 'undefined') ){
+console.error(failureMessage);
+}
+}
+} else {
+if( (document.location.hash.match('debug=1')) &&
+(typeof failureMessage !== 'undefined') ){
+console.error(failureMessage);
+}
+}
+};
+</script><script>
+doWithAds(function(){
+generic.monitoring.record_metric("ads_js_request_to_done", (new Date().getTime()) - window.ads_js_start);
+generic.monitoring.set_forester_info("title");
+generic.monitoring.set_twilight_info(
+"title",
+"US",
+"74543e752ec87ddda15e9316095f416ffa9f95a7",
+"2015-02-24T06%3A46%3A37GMT",
+"http://s.media-imdb.com/twilight/?",
+"consumer");
+generic.send_csm_head_metrics && generic.send_csm_head_metrics();
+generic.monitoring.start_timing("page_load");
+generic.seconds_to_midnight = 4403;
+generic.days_to_midnight = 0.050960648804903;
+ad_utils.set_slots_on_page({ 'injected_navstrip':1, 'top_rhs':1, 'top_ad':1, 'navboard':1, 'btf_rhs2':1, 'bottom_ad':1, 'injected_billboard':1, 'rhs_cornerstone':1 });
+custom.full_page.data_url = "http://ia.media-imdb.com/images/G/01/imdbads/js/graffiti_data-3955167245._CB318919114_.js";
+consoleLog('advertising initialized','ads');
+},"ads js missing, skipping ads setup.");
+var _gaq = _gaq || [];
+_gaq.push(['_setCustomVar', 4, 'ads_abtest_treatment', 'd']);
+</script>
+<script>
+doWithAds(function(){
+ad_utils.register_punt_ad("top_ad","728","90"," <!DOCTYPE html><html><body><style>.ac{display:block;position:absolute;overflow:hidden;width:19px;height:15px;z-index:9;top:0;right:0;background:url(https://images-na.ssl-images-amazon.com/images/G/01/da/adchoices/ac-topright-sprite.png)}.ac:hover{width:77px;background-position:-19px 0}.hide{display:none!important}#ad{position:relative;overflow:hidden;width:728px;height:90px;display:none}</style><a id=\"ad\" href=\"http://aax-us-east.amazon-adsystem.com/x/c/QduW-zQW2qJoqQML9pCN0jMAAAFLulZfpQEAAADKejtMfA/http://www.amazon.com/gp/video/primesignup/ref=o_disp_wbpivhou_20130108\" target=\"_top\"><img id=\"staticImage\" width=\"100%\" height=\"100%\"><a id=\"aapInfo\" target=\"_blank\" class=\"hide ac\" href=\"http://amazon.com/gp/dra/info/ref=cs_aap_4027398622990\"></a></a><script>setTimeout(function(){!function(t,a,n){var e=/\\.amazon\\.com(:.*)?$/,o=\"undefined\"!=typeof IS_3P&&IS_3P,c=!1;if(!o){try{c=t.SFClient?SFClient.isOnAmazon():e.test(n.location.host)}catch(s){}var i=a.referrer;if(!c&&i){var r=/^((?:https?:)\\/\\/)?([\\w\\-\\.]+(?::[0-9]+)?)\\/?(.*)$/,m=i.match(r),f=m[2];c=e.test(f)}}var l=!o&&!c,u=function(t){return/s/.test(t.protocol)},p=function(t){return a.getElementById(t)},g=function(t,a,n){t.href=a,t.target=n?\"_blank\":\"_top\"},h=function(t,a){return t.className.match(new RegExp(\"(\\\\s|^)\"+a+\"(\\\\s|$)\"))},d=function(t,a){h(t,a)||(t.className+=\" \"+a)},_=function(t,a){if(h(t,a)){var n=new RegExp(\"(\\\\s|^)\"+a+\"(\\\\s|$)\");t.className=t.className.replace(n,\" \")}},v=function(t){_(t,\"hide\")},I=(u(location)?\"//images-na.ssl-\":\"//g-ecx.\")+\"images-amazon.com/images/G/01/\",w=p(\"aapInfo\"),y=p(\"ad\"),z=\"shazam/PIV-LogoCentric-Current-728x90-SJOhj._V334208418_.jpg\",S=p(\"staticImage\");z&&(S.src=I+z,y.style.display=\"block\");var x;o&&d(y,\"aap\"),(o||l)&&(y.target=\"_blank\"),w&&o&&v(w),x&&g(w,\"http://amazon.com/gp/dra/info\",!0)}(window,document,parent)},0);<\/script>\n</body></html><\!-- creativeModDate = 1423696341000 --\>\n <div id=\"top_ad_webbug\" style=\"display:none;\">\n <img src=\"http://aax-us-east.amazon-adsystem.com/e/loi/imp?b=cba421d5-2e6a-4455-8bba-6ace39bd84b6&pj=[PUNT_ORIGIN]\" border=\"0\" height=\"1\" width=\"1\" alt=\"\"/>\n </div>\n");
+}, "ad_utils not defined, skipping punt ad data setup.");
+</script>
+<script>doWithAds(function() { ad_utils.ads_header.done(); });</script>
+<!-- end ads header -->
+<script type="text/javascript">
+            // ensures js doesn't die if ads service fails.  
+            // Note that we need to define the js here, since ad js is being rendered inline after this.
+            (function(f) {
+                // Fallback javascript, when the ad Service call fails.  
+                
+                if((window.csm === undefined || window.generic === undefined || window.consoleLog === undefined)) {
+                    if (console !== undefined && console.log !== undefined) {
+                        console.log("one or more of window.csm, window.generic or window.consoleLog has been stubbed...");
+                    }
+                }
+                
+                window.csm = window.csm || { measure:f, record:f, duration:f, listen:f, metrics:{} };
+                window.generic = window.generic || { monitoring: { start_timing: f, stop_timing: f } };
+                window.consoleLog = window.consoleLog || f;
+            })(function() {});
+        </script>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_head_delivery_finished');
+    }
+  </script>
+</link></link></link></link></link></head>
+<body class="fixed" id="styleguide-v2">
+<script>
+    if (typeof uet == 'function') {
+      uet("bb");
+    }
+</script>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_body_delivery_started');
+    }
+  </script>
+<div id="wrapper">
+<div class="redesign" id="root">
+<script>
+    if (typeof uet == 'function') {
+      uet("ns");
+    }
+</script>
+<div class="navbarSprite" id="nb20">
+<div id="supertab">
+<!-- begin TOP_AD -->
+<div class="dfp_slot" id="top_ad_wrapper">
+<script type="text/javascript">
+doWithAds(function(){
+ad_utils.register_ad('top_ad');
+});
+</script>
+<iframe allowtransparency="true" class="yesScript" data-config-height="0" data-config-width="0" data-cookie-height="null" data-cookie-width="null" data-dart-params="#imdb2.consumer.title/maindetails;!TILE!;sz=728x90,1008x150,1008x200,1008x30,970x250,1008x400,9x1;p=top;p=t;g=f;g=ro;g=m;g=dr;tt=f;m=PG13;mh=PG13;ml=PG13;coo=us;coo=gb;fv=1;id=tt0445922;ab=d;bpx=1;md=tt0445922;c=1;s=3075;s=32;oe=utf-8;[CLIENT_SIDE_KEYVALUES];u=328316877365;ord=328316877365?" data-original-height="0" data-original-width="0" frameborder="0" height="0" id="top_ad" marginheight="0" marginwidth="0" name="top_ad" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" width="0"></iframe>
+<noscript><a href="http://ad.doubleclick.net/N4215/jump/imdb2.consumer.title/maindetails;tile=1;sz=728x90,1008x150,1008x200,1008x30,970x250,1008x400,9x1;p=top;p=t;g=f;g=ro;g=m;g=dr;tt=f;m=PG13;mh=PG13;ml=PG13;coo=us;coo=gb;fv=1;id=tt0445922;ab=d;bpx=1;md=tt0445922;c=1;s=3075;s=32;ord=328316877365?" target="_blank"><img alt="advertisement" border="0" src="http://ad.doubleclick.net/N4215/ad/imdb2.consumer.title/maindetails;tile=1;sz=728x90,1008x150,1008x200,1008x30,970x250,1008x400,9x1;p=top;p=t;g=f;g=ro;g=m;g=dr;tt=f;m=PG13;mh=PG13;ml=PG13;coo=us;coo=gb;fv=1;id=tt0445922;ab=d;bpx=1;md=tt0445922;c=1;s=3075;s=32;ord=328316877365?"/></a></noscript>
+</div>
+<div id="top_ad_reflow_helper"></div>
+<script>
+doWithAds(function(){
+ad_utils.gpt.render_ad('top_ad');
+}, "ad_utils not defined, unable to render client-side GPT ad.");
+</script>
+<!-- End TOP_AD -->
+</div>
+<div class="navbarSprite" id="navbar">
+<noscript>
+<link href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-no-js-4175877511._CB379390803_.css" rel="stylesheet" type="text/css"/>
+</noscript>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-ie-470687728._CB379390980_.css"><![endif]-->
+<span id="home_img_holder">
+<a class="navbarSprite" href="/?ref_=nv_home" id="home_img" title="Home"></a> <span class="alt_logo">
+<a href="/?ref_=nv_home" title="Home">IMDb</a>
+</span>
+</span>
+<form action="/find" class="nav-searchbar-inner" id="navbar-form" method="get" onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';">
+<div id="nb_search">
+<noscript><div id="more_if_no_javascript"><a href="/search/">More</a></div></noscript>
+<button class="primary btn" id="navbar-submit-button" type="submit"><div class="magnifyingglass navbarSprite"></div></button>
+<input name="ref_" type="hidden" value="nv_sr_fn"/>
+<input autocomplete="off" id="navbar-query" name="q" placeholder="Find Movies, TV shows, Celebrities and more..." type="text" value="">
+<div class="quicksearch_dropdown_wrapper">
+<select class="quicksearch_dropdown navbarSprite" id="quicksearch" name="s" onchange="jumpMenu(this); suggestionsearch_dropdown_choice(this);">
+<option value="all">All</option>
+<option value="tt">Titles</option>
+<option value="ep">TV Episodes</option>
+<option value="nm">Names</option>
+<option value="co">Companies</option>
+<option value="kw">Keywords</option>
+<option value="ch">Characters</option>
+<option value="qu">Quotes</option>
+<option value="bi">Bios</option>
+<option value="pl">Plots</option>
+</select>
+</div>
+<div id="navbar-suggestionsearch"></div>
+</input></div>
+</form>
+<div id="megaMenu">
+<ul class="main_nav" id="consumer_main_nav">
+<li class="spacer"></li>
+<li class="css_nav_item" id="navTitleMenu">
+<p class="navCategory">
+<a href="/movies-in-theaters/?ref_=nv_tp_inth_1">Movies</a>,
+                <a href="/tv/?ref_=nv_tp_tvhm_2">TV</a><br/>
+                &amp; <a href="/showtimes/?ref_=nv_tp_sh_3">Showtimes</a></p>
+<span class="downArrow"></span>
+<div class="sub_nav" id="navMenu1">
+<div id="titleAd"></div>
+<div class="subNavListContainer">
+<h5>MOVIES</h5>
+<ul>
+<li><a href="/movies-in-theaters/?ref_=nv_mv_inth_1">In Theaters</a></li>
+<li><a href="/showtimes/?ref_=nv_mv_sh_2">Showtimes &amp; Tickets</a></li>
+<li><a href="/trailers/?ref_=nv_mv_tr_3">Latest Trailers</a></li>
+<li><a href="/movies-coming-soon/?ref_=nv_mv_cs_4">Coming Soon</a></li>
+<li><a href="/calendar/?ref_=nv_mv_cal_5">Release Calendar</a></li>
+</ul>
+<h5>CHARTS &amp; TRENDS</h5>
+<ul>
+<li><a href="/search/title?count=100&amp;title_type=feature%2Ctv_series%2Ctv_movie&amp;ref_=nv_ch_mm_1">Popular Movies &amp; TV</a></li>
+<li><a href="/chart/?ref_=nv_ch_cht_2">Box Office</a></li>
+<li><a href="/search/title?count=100&amp;groups=oscar_best_picture_winners&amp;sort=year%2Cdesc&amp;ref_=nv_ch_osc_3">Oscar Winners</a></li>
+<li><a href="/chart/top?ref_=nv_ch_250_4">Top 250</a></li>
+<li><a href="/genre/?ref_=nv_ch_gr_5">Most Popular by Genre</a></li>
+</ul>
+</div>
+<div class="subNavListContainer">
+<h5>TV &amp; VIDEO</h5>
+<ul>
+<li><a href="/tv/?ref_=nv_tvv_hm_1">TV Home</a></li>
+<li><a href="/tvgrid/?ref_=nv_tvv_ls_2">On Tonight</a></li>
+<li><a href="/watchnow/?ref_=nv_tvv_wn_3">Watch Now on Amazon</a></li>
+<li><a href="/sections/dvd/?ref_=nv_tvv_dvd_4">DVD &amp; Blu-Ray</a></li>
+<li><a href="/tv/blog?ref_=nv_tvv_blog_5">TV Blog</a></li>
+</ul>
+<h5>SPECIAL FEATURES</h5>
+<ul>
+<li><a href="/academymuseum/?ref_=nv_sf_am_1">Academy Museum</a></li>
+<li><a href="/imdbpicks/?ref_=nv_sf_pks_2">IMDb Picks</a></li>
+<li><a href="/best-of/?ref_=nv_sf_bo_3">Best of 2014</a></li>
+<li><a href="/x-ray/?ref_=nv_sf_xray_4">X-Ray for Movies &amp; TV</a></li>
+<li><a href="/whattowatch/?ref_=nv_sf_wtw_5">What to Watch</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="spacer"></li>
+<li class="css_nav_item" id="navNameMenu">
+<p class="navCategory">
+<a href="/search/name?gender=male%2Cfemale&amp;ref_=nv_tp_cel_1">Celebs</a>,
+                <a href="/awards-central/?ref_=nv_tp_awrd_2">Events</a><br/>
+                &amp; <a href="/media/index/rg1176148480?ref_=nv_tp_ph_3">Photos</a></p>
+<span class="downArrow"></span>
+<div class="sub_nav" id="navMenu2">
+<div id="nameAd"></div>
+<div class="subNavListContainer">
+<h5>CELEBS</h5>
+<ul>
+<li><a href="/search/name?birth_monthday=02-24&amp;refine=birth_monthday&amp;ref_=nv_cel_brn_1">Born Today</a></li>
+<li><a href="/news/celebrity?ref_=nv_cel_nw_2">Celebrity News</a></li>
+<li><a href="/search/name?gender=male%2Cfemale&amp;ref_=nv_cel_m_3">Most Popular Celebs</a></li>
+</ul>
+<h5>PHOTOS</h5>
+<ul>
+<li><a href="/media/index/rg1176148480?ref_=nv_ph_ls_1">Latest Stills</a></li>
+<li><a href="/media/index/rg1528338944?ref_=nv_ph_lp_2">Latest Posters</a></li>
+<li><a href="/media/index/rg2465176320?ref_=nv_ph_lv_3">Photos We Love</a></li>
+</ul>
+</div>
+<div class="subNavListContainer">
+<h5>EVENTS</h5>
+<ul>
+<li><a href="/awards-central/?ref_=nv_ev_awrd_1">Awards Central</a></li>
+<li><a href="/sundance/?ref_=nv_ev_sun_2">Sundance</a></li>
+<li><a href="/sxsw/?ref_=nv_ev_sxsw_3">SXSW Film Festival</a></li>
+<li><a href="/tribeca/?ref_=nv_ev_tri_4">Tribeca</a></li>
+<li><a href="/cannes/?ref_=nv_ev_can_5">Cannes</a></li>
+<li><a href="/comic-con/?ref_=nv_ev_comic_6">Comic-Con</a></li>
+<li><a href="/emmys/?ref_=nv_ev_rte_7">Road to the Emmys</a></li>
+<li><a href="/venice/?ref_=nv_ev_venice_8">Venice Film Festival</a></li>
+<li><a href="/toronto/?ref_=nv_ev_tff_9">Toronto Film Festival</a></li>
+<li><a href="/awards-central/?ref_=nv_ev_all_10">More Popular Events</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="spacer"></li>
+<li class="css_nav_item" id="navNewsMenu">
+<p class="navCategory">
+<a href="/news/top?ref_=nv_tp_nw_1">News</a> &amp;<br/>
+<a href="/boards/?ref_=nv_tp_bd_2">Community</a></p>
+<span class="downArrow"></span>
+<div class="sub_nav" id="navMenu3">
+<div id="latestHeadlines">
+<div class="subNavListContainer">
+<h5>LATEST HEADLINES</h5>
+<ul>
+<li itemprop="headline">
+<a href="/news/ni58324992/?ref_=nv_nw_tn_1"> American Horror Story's Ben Woolf Dead at 34 After Suffering Head Injury
+</a><br/>
+<span class="time">6 hours ago</span>
+</li>
+<li itemprop="headline">
+<a href="/news/ni58323413/?ref_=nv_nw_tn_2"> Twitter and Facebook Users Agree: Top Oscars Moment Goes to Lady Gaga
+</a><br/>
+<span class="time">13 hours ago</span>
+</li>
+<li itemprop="headline">
+<a href="/news/ni58323451/?ref_=nv_nw_tn_3"> Oscars 2016: It's Never Too Early for the Next Best Picture Predictions
+</a><br/>
+<span class="time">13 hours ago</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="subNavListContainer">
+<h5>NEWS</h5>
+<ul>
+<li><a href="/news/top?ref_=nv_nw_tp_1">Top News</a></li>
+<li><a href="/news/movie?ref_=nv_nw_mv_2">Movie News</a></li>
+<li><a href="/news/tv?ref_=nv_nw_tv_3">TV News</a></li>
+<li><a href="/news/celebrity?ref_=nv_nw_cel_4">Celebrity News</a></li>
+<li><a href="/news/indie?ref_=nv_nw_ind_5">Indie News</a></li>
+</ul>
+<h5>COMMUNITY</h5>
+<ul>
+<li><a href="/boards/?ref_=nv_cm_bd_1">Message Boards</a></li>
+<li><a href="/czone/?ref_=nv_cm_cz_2">Contributor Zone</a></li>
+<li><a href="/games/guess?ref_=nv_cm_qz_3">Quiz Game</a></li>
+<li><a href="/poll/?ref_=nv_cm_pl_4">Polls</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="spacer"></li>
+<li class="css_nav_item" id="navWatchlistMenu">
+<p class="navCategory singleLine watchlist">
+<a href="/list/watchlist?ref_=nv_wl_all_0">Watchlist</a>
+</p>
+<span class="downArrow"></span>
+<div class="sub_nav" id="navMenu4">
+<h5>
+            YOUR WATCHLIST
+    </h5>
+<ul id="navWatchlist">
+</ul>
+<script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.watchlistTeaserData = [
+                {
+                        href : "/list/watchlist",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot1_logged_out-1670046337._CB360061167_.jpg"
+                },
+                {
+                    href : "/search/title?count=100&title_type=feature,tv_series",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot2_popular-4090757197._CB360060945_.jpg"
+                },
+                {
+                    href : "/chart/top",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot3_top250-575799966._CB360061165_.jpg"
+                }
+    ];
+    </script>
+</div>
+</li>
+<li class="spacer"></li>
+</ul>
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.navbarAdSlots = {
+    titleAd : {
+            clickThru : "http://www.imdb.com/awards-central/oscars",
+            sideCarImageUrl : "http://ia.media-imdb.com/images/G/01/mobile/blank_pixel._V137875076_.gif",
+            coords : "0,74,485,315", 
+            shape : "rect",
+            imageUrl : "http://ia.media-imdb.com/images/G/01/shazam/Oscars-Megamenu-2015-POST-winners-1ypMSL._V328768342_.jpg",
+            impressionTrackers : [
+                {url : "http://s.amazon-adsystem.com/iui3?d=forester-did&ex-fch=416719&rd=&cb=4,720,472,317,004,084,708&ex-fargs=%3Fi%3DSGHpD8NAQe1sXk8H8l2qFw%26a%3D9248039213406%26c%3D7827568271379%26s%3Dpda%26e%3DadCustomAction20&-3168780521201138728&-4909629082321207265"},
+                {url : "http://aax-us-east.amazon-adsystem.com/e/loi/imp?b=a79fd0fb-abb1-4d0c-8960-d400b059ebc9"}
+            ],
+            clickTrackers : [
+                {url : "http://s.amazon-adsystem.com/iui3?d=forester-did&ex-fch=416719&rd=&cb=5,632,972,296,006,182,007&ex-fargs=%3Fi%3DSGHpD8NAQe1sXk8H8l2qFw%26a%3D9248039213406%26c%3D7827568271379%26s%3Dpda%26e%3Dclick&5250872536820048979"}
+            ],
+    },
+    nameAd : {
+            clickThru : "/name/nm0004266/",
+            imageUrl : "http://ia.media-imdb.com/images/M/MV5BMjA1NzkyNjAzNV5BMl5BanBnXkFtZTcwNzYyOTUxOQ@@._V1._SX250_CR0,0,250,315_.jpg",
+            rank : 154,
+            headline : "Anne Hathaway"
+    }
+}
+</script>
+</div>
+<div id="nb_extra">
+<ul class="main_nav" id="nb_extra_nav">
+<li class="css_nav_item" id="navProMenu">
+<p class="navCategory">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&amp;ref_=cons_nb_hm"> <img alt="IMDbPro Menu" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_nb-720143162._CB377744227_.png"/>
+</a> </p>
+<span class="downArrow"></span>
+<div class="sub_nav" id="navMenuPro">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&amp;ref_=cons_nb_hm" id="proLink"> <div id="proAd">
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.proMenuTeaser = {
+imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu_user-2082544740._CB377744226_.jpg"
+};
+</script>
+</div>
+<div class="subNavListContainer">
+<img alt="Go to IMDbPro" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_menu-2185879182._CB377744253_.png" title="Go to IMDbPro"/>
+<h5>GET INFORMED</h5>
+<p>Industry information at your fingertips</p>
+<h5>GET CONNECTED</h5>
+<p>Over 200,000 Hollywood insiders</p>
+<h5>GET DISCOVERED</h5>
+<p>Enhance your IMDb Page</p>
+<p><strong>Go to IMDbPro »</strong></p>
+</div>
+</a> </div>
+</li>
+<li class="spacer"><span class="ghost">|</span></li>
+<li>
+<a href="/apps/?ref_=nb_app">IMDb Apps</a>
+</li>
+<li class="spacer"><span class="ghost">|</span></li>
+<li>
+<a href="/help/?ref_=nb_hlp">Help</a>
+</li>
+</ul>
+</div>
+<div id="nb_personal">
+<ul class="main_nav" id="consumer_user_nav">
+<li class="css_nav_menu" id="navUserMenu">
+<p class="navCategory singleLine">
+<a href="/register/login?ref_=nv_usr_lgin_1" id="nblogin" rel="login">Login</a>
+</p>
+<span class="downArrow"></span>
+<div class="sub_nav">
+<div class="subNavListContainer">
+<br/>
+<ul>
+<li>
+<a href="https://secure.imdb.com/register-imdb/form-v2?ref_=nv_usr_reg_2">Register</a>
+</li>
+<li>
+<a href="/register/login?ref_=nv_usr_lgin_3" id="nblogin" rel="login">Login</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- no content received for slot: navstrip -->
+<!-- begin injectable INJECTED_NAVSTRIP -->
+<div class="injected_slot" id="injected_navstrip_wrapper">
+<iframe allowtransparency="true" class="yesScript" data-config-height="0" data-config-width="0" data-cookie-height="null" data-cookie-width="null" data-dart-params="#imdb2.consumer.title/maindetails;oe=utf-8;u=328316877365;ord=328316877365?" data-original-height="0" data-original-width="0" frameborder="0" height="0" id="injected_navstrip" marginheight="0" marginwidth="0" name="injected_navstrip" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" width="0"></iframe> </div>
+<script>
+doWithAds(function(){
+ad_utils.inject_ad.register('injected_navstrip');
+}, "ad_utils not defined, unable to render injected ad.");
+</script>
+<div id="injected_navstrip_reflow_helper"></div>
+<!-- end injectable INJECTED_NAVSTRIP -->
+<script>
+    if (typeof uet == 'function') {
+      uet("ne");
+    }
+</script>
+<div id="pagecontent" itemscope="" itemtype="http://schema.org/Movie">
+<!-- begin injectable INJECTED_BILLBOARD -->
+<div class="injected_slot" id="injected_billboard_wrapper">
+<iframe allowtransparency="true" class="yesScript" data-config-height="0" data-config-width="0" data-cookie-height="null" data-cookie-width="null" data-dart-params="#imdb2.consumer.title/maindetails;oe=utf-8;u=328316877365;ord=328316877365?" data-original-height="0" data-original-width="0" frameborder="0" height="0" id="injected_billboard" marginheight="0" marginwidth="0" name="injected_billboard" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" width="0"></iframe> </div>
+<script>
+doWithAds(function(){
+ad_utils.inject_ad.register('injected_billboard');
+}, "ad_utils not defined, unable to render injected ad.");
+</script>
+<div id="injected_billboard_reflow_helper"></div>
+<!-- end injectable INJECTED_BILLBOARD -->
+<!-- begin NAVBOARD -->
+<div class="cornerstone_slot" id="navboard_wrapper">
+<script type="text/javascript">
+doWithAds(function(){
+ad_utils.register_ad('navboard');
+});
+</script>
+<iframe allowfullscreen="true" allowtransparency="true" class="yesScript" data-blank-serverside="" data-original-height="377" data-original-width="1008" frameborder="0" height="377" id="navboard" marginheight="0" marginwidth="0" name="navboard" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" width="1008"></iframe>
+</div>
+<div id="navboard_reflow_helper"></div>
+<script>
+doWithAds(function(){
+ad_utils.inject_serverside_ad('navboard', '');
+},"unable to inject serverside ad");
+</script>
+<div class="redesign" id="content-2-wide">
+<div class="maindetails_center" id="maindetails_center_top">
+<div class="article native-ad-promoted-provider">
+<a class="full-link native-ad-link" data-ct-0="http://s.amazon-adsystem.com/iui3?d=forester-did&amp;ex-fch=416719&amp;rd=&amp;cb=148,449,400,843,169,720&amp;ex-fargs=%3Fi%3DkP7.oZTOa6rNCSzV8Ovgww%26a%3D9296943255468%26c%3D6705983478345%26s%3Dpda%26e%3Dclick&amp;3102043295960374521" data-ct-count="1" href="/offsite/?page-action=promo&amp;token=BCYlK4wL8zdOTWDsZS--Gz6p5idOFVr30EdfkN0JkZ8qLs0vCg3AK5BjsIKAF8PUKpf9NPzdilpf%0D%0A1C123bbOg3Hk-b7Q3STM3FDe_tWPHp8UOOf5qB3H3dnz2Q8D2SJRf_6uzqMbrTXsbFa3EYrXsYho%0D%0ANcYBUVXjvIBdc5teMj4sByZ1o-Q3GQLlp9XUkFjxu4bJU7P384TJovo46B9Zzp-rmTr4oHYVZp7r%0D%0A3_Vg-jt67MJN3vHlSUjVUirIymPW1Gh5%0D%0A&amp;ref_=tt_napp"> <img class="provider-logo" src="http://ia.media-imdb.com/images/G/01/shazam/primegrey-1xzrtA._V324937475_.png"/>
+<div class="provider-message">IMDb Works Better with Prime Instant Video</div>
+<span class="message">40,000 other titles are available to watch now.</span>
+</a> <img class="impression-tracker" src="http://s.amazon-adsystem.com/iui3?d=forester-did&amp;ex-fch=416719&amp;rd=&amp;cb=4,137,223,843,949,318,349&amp;ex-fargs=%3Fi%3DkP7.oZTOa6rNCSzV8Ovgww%26a%3D9296943255468%26c%3D6705983478345%26s%3Dpda%26e%3DadCustomAction20&amp;1986860187100115592&amp;2037171310018658982"/>
+<img class="impression-tracker" src="http://aax-us-east.amazon-adsystem.com/e/loi/imp?b=263d4d95-3248-4ea4-ba76-3926c7c18d69"/>
+</div>
+<div class="article title-overview">
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleOverviewWidget_started');
+    }
+  </script>
+<div id="title-overview-widget">
+<table border="0" cellpadding="0" cellspacing="0" id="title-overview-widget-layout">
+<tbody>
+<tr>
+<td id="img_primary" rowspan="2">
+<div class="image">
+<a href="/media/rm2828309248/tt0445922?ref_=tt_ov_i"> <img alt="Across the Universe (2007) Poster" height="317" itemprop="image" src="http://ia.media-imdb.com/images/M/MV5BMTIyMTUwNzg3Nl5BMl5BanBnXkFtZTcwMjM1MDI1MQ@@._V1_SX214_AL_.jpg" title="Across the Universe (2007) Poster" width="214"/>
+</a> </div>
+<div class="pro-title-link text-center">
+<a href="http://pro.imdb.com/title/tt0445922?rf=cons_tt_contact&amp;ref_=cons_tt_contact">Contact the Filmmakers on IMDbPro »</a>
+</div>
+</td>
+<td id="overview-top">
+<div id="prometer_container">
+<div class="meter-collapsed up" id="prometer">
+<div id="meterHeaderBox">
+<div class="meterToggleOnHover" id="meterTitle">MOVIEmeter</div>
+<a href="http://pro.imdb.com/title/tt0445922?rf=cons_tt_meter&amp;ref_=cons_tt_meter" id="meterRank">Top 5000
+</a> </div>
+<div class="meterToggleOnHover" id="meterChangeRow">
+<span>Up</span>
+<span id="meterChange">595</span>
+<span>this week</span>
+</div>
+<div class="meterToggleOnHover" id="meterSeeMoreRow">
+<a href="http://pro.imdb.com/title/tt0445922?rf=cons_tt_meter&amp;ref_=cons_tt_meter">View rank on IMDbPro</a>
+<span>»</span>
+</div>
+</div>
+</div>
+<h1 class="header"> <span class="itemprop" itemprop="name">Across the Universe</span>
+<span class="nobr">(<a href="/year/2007/?ref_=tt_ov_inf">2007</a>)</span>
+</h1>
+<div class="infobar">
+<span class="de_12 titlePageSprite absmiddle" content="12" itemprop="contentRating" title="12"></span>
+<time datetime="PT133M" itemprop="duration">
+                133 min
+</time>
+                 - 
+<a href="/genre/Drama?ref_=tt_ov_inf"><span class="itemprop" itemprop="genre">Drama</span></a>
+<span class="ghost">|</span>
+<a href="/genre/Fantasy?ref_=tt_ov_inf"><span class="itemprop" itemprop="genre">Fantasy</span></a>
+<span class="ghost">|</span>
+<a href="/genre/Musical?ref_=tt_ov_inf"><span class="itemprop" itemprop="genre">Musical</span></a>
+                 - 
+            <span class="nobr">
+<a href="/title/tt0445922/releaseinfo?ref_=tt_ov_inf+" title="See all release dates"> 22 November 2007<meta content="2007-11-22" itemprop="datePublished"/>
+(Germany)
+</a> </span>
+</div>
+<div class="star-box giga-star">
+<div class="titlePageSprite star-box-giga-star"> 7,5 </div>
+<div class="star-box-rating-widget">
+<span class="star-box-rating-label">Your rating:</span>
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt0445922|imdb|0|0|title-maindetails|tt0445922|title|main" title="Users rated this 7,5/10 (84.870 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 0px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">-</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0445922/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+</div>
+<div class="star-box-details" itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+            Ratings:
+<strong><span itemprop="ratingValue">7,5</span></strong><span class="mellow">/<span itemprop="bestRating">10</span></span>            from <a href="ratings?ref_=tt_ov_rt" title="84.870 IMDb users have given a weighted average vote of 7,5/10"> <span itemprop="ratingCount">84.870</span> users
+</a> 
+            Metascore: <a href="criticreviews?ref_=tt_ov_rt" title="56 review excerpts provided by Metacritic.com"> 56/100
+</a> <br/>
+            Reviews:
+<a href="reviews?ref_=tt_ov_rt" title="515 IMDb user reviews"> <span itemprop="reviewCount">515 user</span>
+</a>
+<span class="ghost">|</span>
+<a href="externalreviews?ref_=tt_ov_rt" title="152 IMDb critic reviews"> <span itemprop="reviewCount">152 critic</span>
+</a>
+<span class="ghost">|</span>
+<a href="criticreviews?ref_=tt_ov_rt" title="29 review excerpts provided by Metacritic.com"> 29
+</a>                from
+<a href="http://www.metacritic.com" target="_blank"> Metacritic.com
+</a>
+</div>
+<div class="clear"></div>
+</div>
+<p></p>
+<p itemprop="description">
+The music of the Beatles and the Vietnam War form the backdrop for the romance between an upper-class American girl and a poor Liverpudlian artist.</p>
+<p></p>
+<div class="txt-block" itemprop="director" itemscope="" itemtype="http://schema.org/Person">
+<h4 class="inline">Director:</h4>
+<a href="/name/nm0853380/?ref_=tt_ov_dr" itemprop="url"><span class="itemprop" itemprop="name">Julie Taymor</span></a>
+</div>
+<div class="txt-block" itemprop="creator" itemscope="" itemtype="http://schema.org/Person">
+<h4 class="inline">Writers:</h4>
+<a href="/name/nm0166074/?ref_=tt_ov_wr" itemprop="url"><span class="itemprop" itemprop="name">Dick Clement</span></a>               (screenplay), 
+<a href="/name/nm0478588/?ref_=tt_ov_wr" itemprop="url"><span class="itemprop" itemprop="name">Ian La Frenais</span></a>               (screenplay), <a href="fullcredits?ref_=tt_ov_wr#writers">3 more credits</a> »
+    </div>
+<div class="txt-block" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<h4 class="inline">Stars:</h4>
+<a href="/name/nm0939697/?ref_=tt_ov_st" itemprop="url"><span class="itemprop" itemprop="name">Evan Rachel Wood</span></a>, 
+<a href="/name/nm0836343/?ref_=tt_ov_st" itemprop="url"><span class="itemprop" itemprop="name">Jim Sturgess</span></a>, 
+<a href="/name/nm1725848/?ref_=tt_ov_st" itemprop="url"><span class="itemprop" itemprop="name">Joe Anderson</span></a> <span class="ghost">|</span>
+<span class="see-more inline nobr">
+<a href="fullcredits?ref_=tt_ov_st_sm" itemprop="url"> See full cast and crew</a> »
+                          </span>
+</div>
+</td>
+</tr>
+<tr>
+<td id="overview-bottom">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="wlb_watchlist_btn" data-caller-name="title" data-show-message="1" data-size="large" data-tconst="tt0445922" data-type="primary">
+</a>
+<a class="wlb_dropdown_btn" data-caller-name="title" data-size="large" data-tconst="tt0445922" data-type="primary">
+</a>
+</span>
+<div class="wlb_dropdown_list" style="display:none;">
+</div>
+<div class="wlb_alert" style="display:none">
+</div>
+</div>
+<a class="btn2 btn2_text_on large title-trailer video-colorbox" data-context="screenplay" data-tconst="tt0445922" data-type="recommends" data-video="vi95748377" href="/video/screenplay/vi95748377/?ref_=tt_ov_vi" itemprop="trailer"> <span class="btn2_text">Watch Trailer</span>
+</a>
+<div id="share-checkin">
+<div class="add_to_checkins" data-const="tt0445922" data-lcn="title-maindetails">
+<span class="btn2_wrapper"><a class="btn2 large btn2_text_on disabled checkins_action_btn" onclick=""><span class="btn2_glyph">0</span><span class="btn2_text">Check in</span></a></span> <div class="popup checkin-dialog">
+<a class="small disabled close btn">X</a>
+<span class="beta">Beta</span>
+<span class="title">I'm Watching This!</span>
+<div class="body">
+<div class="info">Keep track of everything you watch; tell your friends.
+            </div>
+<div class="small message_box">
+<div class="hidden error"><h2>Error</h2> Please try again!</div>
+<div class="hidden success"><h2>Added to Your Check-Ins.</h2> <a href="/list/checkins">View</a></div>
+</div>
+<textarea data-msg="Enter a comment..."></textarea>
+<div class="share">
+<button class="large primary btn"><span>Check in</span></button>
+<!--
+                    Check-ins are more fun when<br>
+                    you <a href="/register/sharing">enable Facebook sharing</a>!
+-->
+</div>
+</div>
+</div>
+<input name="49e6c" type="hidden" value="fe03">
+</input></div>
+</div>
+<span class="btn2_wrapper"><a class="btn2 large btn2_text_on launch-share-popover" onclick=""><span class="btn2_glyph">0</span><span class="btn2_text">Share...</span></a></span><div id="share-popover">
+<a class="close-popover" href="#">X</a>
+<h4>Share</h4>
+<a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0445922%2F%3Fref_%3Dext_shr_fb_tt" onclick="window.open(&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0445922%2F%3Fref_%3Dext_shr_fb_tt&quot;, 'newWindow', 'width=626,height=436'); return false;" target="_blank" title="Share on Facebook"><div class="option facebook">
+<span class="titlePageSprite share_facebook"></span>
+<div>Facebook</div>
+</div></a>
+<a class="twitter" href="http://twitter.com/intent/tweet?text=Across%20the%20Universe%20(2007)%20-%20imdb.com%2Ftitle%2Ftt0445922%2F%3Fref_%3Dext_shr_tw_tt" onclick="window.open(&quot;http://twitter.com/intent/tweet?text=Across%20the%20Universe%20(2007)%20-%20imdb.com%2Ftitle%2Ftt0445922%2F%3Fref_%3Dext_shr_tw_tt&quot;, 'newWindow', 'width=815,height=436'); return false;" target="_blank" title="Share on Twitter"><div class="option twitter">
+<span class="titlePageSprite share_twitter"></span>
+<div>Twitter</div>
+</div></a>
+<a class="" href="mailto:?subject=IMDb%3A%20Across%20the%20Universe%20(2007)&amp;body=IMDb%3A%20Across%20the%20Universe%20(2007)%0AThe%20music%20of%20the%20Beatles%20and%20the%20Vietnam%20War%20form%20the%20backdrop%20for%20the%20romance%20between%20an%20upper-class%20American%20girl%20and%20a%20poor%20Liverpudlian%20artist.%0Ahttp%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0445922%2F%3Fref_%3Dext_shr_eml_tt" title="Share by e-mail"><div class="option email">
+<span class="titlePageSprite share_email"></span>
+<div>E-mail</div>
+</div></a>
+<a class="open-checkin-popover" href="#">
+<div class="option checkin">
+<span class="titlePageSprite share_checkin"></span>
+<div>Check in</div>
+</div>
+</a>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleOverviewWidget_finished');
+    }
+  </script>
+</div>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_main');
+    }
+  </script>
+<div class="watchbar2">
+<div class="showtime full-table">
+<div class="winner-option watch-option " data-href="/offsite/?page-action=watch-aiv&amp;token=BCYsa6NwHIsjXEOVA2pD-SjhkY6YC-Spb8R4b-gEW4OaKv1-5LFSNBGvBWwcxrE9sBKmxt2Q_IyJ%0D%0Av84HwPNVh3ITJPj_u-9t-chHX-p1ZW9T5M8rrorYZBGXuxGdH3eB81kyuq53v2bwR8IMctanJjLQ%0D%0AUd2IDhHUFl-gXa1FECC0_3mzHgdUHtfHdgcYYtR15Df7xUwSQFqwbMLXqE6eUc24QTk64H0QHn0f%0D%0AQ5hKlqWofug22bTkdj5nu-f0-W8zwYHM%0D%0A&amp;ref_=tt_wbr_aiv" data-offsite="1" title="Watch Now">
+<div class="watch-icon winner provider amazon-instant-video" id="watchbar2">
+</div>
+<div class="info table-cell">
+<h2>
+<a class="segment-link " href="/offsite/?page-action=watch-aiv&amp;token=BCYsa6NwHIsjXEOVA2pD-SjhkY6YC-Spb8R4b-gEW4OaKv1-5LFSNBGvBWwcxrE9sBKmxt2Q_IyJ%0D%0Av84HwPNVh3ITJPj_u-9t-chHX-p1ZW9T5M8rrorYZBGXuxGdH3eB81kyuq53v2bwR8IMctanJjLQ%0D%0AUd2IDhHUFl-gXa1FECC0_3mzHgdUHtfHdgcYYtR15Df7xUwSQFqwbMLXqE6eUc24QTk64H0QHn0f%0D%0AQ5hKlqWofug22bTkdj5nu-f0-W8zwYHM%0D%0A&amp;ref_=tt_wbr_aiv" target="_blank"> Watch Now
+</a> </h2>
+<p>
+
+                        From $2.99 on
+Amazon Instant Video                </p>
+</div>
+</div>
+<script type="text/javascript">(new Image()).src='/offsite/?page-action=showing-aiv&token=BCYuwOl1UX0uUsPdMUEzdutmJDucjpwZjnNuqHMIstTXwzzcOtXWjlCf4LfqYFQpnH-28UBOTSKj%0D%0AIsweE6yfGtaVnjRKnTyVLqAcazmuNBuWPHR4mz4aF7OOOZ9eHb74qZ45jqW0y-kwnoGrOpnKgmQx%0D%0AnZ7RVgohCzd-dtrl36dZNh24YDKtX7ErUwxuGKACep5VNlCCn91pte08tY0ncgkrWvSlhxrkICGA%0D%0ATeLQqEo2WSc%0D%0A&ref_=tt_wbr_aiv';</script>
+<div class="watch-option secondary-watch-option " data-href="/offsite/?page-action=watch-amazon&amp;token=BCYp--D7IHA1KCGReBCpEjom1goTSBcVfONSxNhi8P_mPJEV9DmHeabdcLOrI7s6AcU3VqYYWsB2%0D%0A3mwvpNy3tJI05wblwcdEAadq_WR5MhD9EcsJx1_yNi_hC-tLrQbad3z2epIaTznIp2euK7KwodBP%0D%0A4uE86PXEyKYya-agiQNUuFDtMBkDz0iV-wmZfb0_uNTICuKohnyOaq1FyYp1AbYspBYODmMib9gY%0D%0A5Jk1RZ25XXyQYb1qr0RTBWtofg-jHtUJhugbxTiKpoS5YaQsov0bNQ%0D%0A&amp;ref_=tt_wbr_amazon_t1" data-optiontype="physical" title="On Disc">
+<div class="watch-icon physical"></div>
+<div class="secondary-info">ON DISC</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+    if (typeof uet == 'function') {
+      uet("cf");
+    }
+</script>
+<script>
+    if (typeof uet == 'function') {
+      uet("af");
+    }
+</script>
+<div class="maindetails_sidebar" id="maindetails_sidebar_bottom">
+<!-- begin TOP_RHS -->
+<div class="dfp_slot" id="top_rhs_wrapper">
+<script type="text/javascript">
+doWithAds(function(){
+ad_utils.register_ad('top_rhs');
+});
+</script>
+<iframe allowtransparency="true" class="yesScript" data-config-height="250" data-config-width="300" data-cookie-height="null" data-cookie-width="null" data-dart-params="#imdb2.consumer.title/maindetails;!TILE!;sz=300x250,300x600,300x300,11x1;p=tr;g=f;g=ro;g=m;g=dr;tt=f;m=PG13;mh=PG13;ml=PG13;coo=us;coo=gb;fv=1;id=tt0445922;ab=d;bpx=1;md=tt0445922;c=1;s=3075;s=32;oe=utf-8;[CLIENT_SIDE_KEYVALUES];u=328316877365;ord=328316877365?" data-original-height="250" data-original-width="300" frameborder="0" height="250" id="top_rhs" marginheight="0" marginwidth="0" name="top_rhs" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" width="300"></iframe>
+<noscript><a href="http://ad.doubleclick.net/N4215/jump/imdb2.consumer.title/maindetails;tile=0;sz=300x250,300x600,300x300,11x1;p=tr;g=f;g=ro;g=m;g=dr;tt=f;m=PG13;mh=PG13;ml=PG13;coo=us;coo=gb;fv=1;id=tt0445922;ab=d;bpx=1;md=tt0445922;c=1;s=3075;s=32;ord=328316877365?" target="_blank"><img alt="advertisement" border="0" src="http://ad.doubleclick.net/N4215/ad/imdb2.consumer.title/maindetails;tile=0;sz=300x250,300x600,300x300,11x1;p=tr;g=f;g=ro;g=m;g=dr;tt=f;m=PG13;mh=PG13;ml=PG13;coo=us;coo=gb;fv=1;id=tt0445922;ab=d;bpx=1;md=tt0445922;c=1;s=3075;s=32;ord=328316877365?"/></a></noscript>
+</div>
+<div id="top_rhs_reflow_helper"></div>
+<div class="after_ad" id="top_rhs_after" style="visibility:hidden;">
+<a class="yesScript" href="#" id="ad_feedback_top_rhs" onclick="ad_utils.show_ad_feedback('top_rhs');return false;">ad feedback</a>
+</div>
+<script>
+doWithAds(function(){
+ad_utils.gpt.render_ad('top_rhs');
+}, "ad_utils not defined, unable to render client-side GPT ad.");
+</script>
+<!-- End TOP_RHS -->
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_sidebar');
+    }
+  </script>
+<div class="aux-content-widget-3 links subnav" div="quicklinks">
+<h3>Quick Links</h3>
+<div id="maindetails_quicklinks">
+<div class="split_0"> <ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/fullcredits?ref_=tt_ql_1">Full Cast and Crew</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/trivia?ref_=tt_ql_2">Trivia</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/quotes?ref_=tt_ql_3">Quotes</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/awards?ref_=tt_ql_4">Awards</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/board/?ref_=tt_ql_5">Message Board</a>
+</li>
+</ul>
+</div>
+<div class="split_1"> <ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/plotsummary?ref_=tt_ql_6">Plot Summary</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/parentalguide?ref_=tt_ql_7">Parents Guide</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/reviews?ref_=tt_ql_8">User Reviews</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/releaseinfo?ref_=tt_ql_9">Release Dates</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/companycredits?ref_=tt_ql_10">Company Credits</a>
+</li>
+</ul>
+</div>
+</div>
+<hr/>
+<div id="full_subnav">
+<h4>Details</h4>
+<ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/fullcredits?ref_=tt_ql_dt_1">Full Cast and Crew</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/releaseinfo?ref_=tt_ql_dt_2">Release Dates</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/officialsites?ref_=tt_ql_dt_3">Official Sites</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/business?ref_=tt_ql_dt_4">Box Office/Business</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/companycredits?ref_=tt_ql_dt_5">Company Credits</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/locations?ref_=tt_ql_dt_6">Filming Locations</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/technical?ref_=tt_ql_dt_7">Technical Specs</a>
+</li>
+<li class="subnav_item_main">
+<a class="link ghost" href="/title/tt0445922/literature?ref_=tt_ql_dt_8">Literature</a>
+</li>
+</ul>
+<h4>Storyline</h4>
+<ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/taglines?ref_=tt_ql_stry_1">Taglines</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/plotsummary?ref_=tt_ql_stry_2">Plot Summary</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/synopsis?ref_=tt_ql_stry_3">Synopsis</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/keywords?ref_=tt_ql_stry_4">Plot Keywords</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/parentalguide?ref_=tt_ql_stry_5">Parents Guide</a>
+</li>
+</ul>
+<h4>Did You Know?</h4>
+<ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/trivia?ref_=tt_ql_trv_1">Trivia</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/goofs?ref_=tt_ql_trv_2">Goofs</a>
+</li>
+<li class="subnav_item_main">
+<a class="link ghost" href="/title/tt0445922/crazycredits?ref_=tt_ql_trv_3">Crazy Credits</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/quotes?ref_=tt_ql_trv_4">Quotes</a>
+</li>
+<li class="subnav_item_main">
+<a class="link ghost" href="/title/tt0445922/alternateversions?ref_=tt_ql_trv_5">Alternate Versions</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/movieconnections?ref_=tt_ql_trv_6">Connections</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/soundtrack?ref_=tt_ql_trv_7">Soundtracks</a>
+</li>
+</ul>
+<h4>Photo &amp; Video</h4>
+<ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/mediaindex?ref_=tt_ql_pv_1">Photo Gallery</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/videogallery?ref_=tt_ql_pv_2">Trailers and Videos</a>
+</li>
+</ul>
+<h4>Opinion</h4>
+<ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/awards?ref_=tt_ql_op_1">Awards</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/faq?ref_=tt_ql_op_2">FAQ</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/reviews?ref_=tt_ql_op_3">User Reviews</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/ratings?ref_=tt_ql_op_4">User Ratings</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/externalreviews?ref_=tt_ql_op_5">External Reviews</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/criticreviews?ref_=tt_ql_op_6">Metacritic Reviews</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/board/?ref_=tt_ql_op_7">Message Board</a>
+</li>
+</ul>
+<h4>TV</h4>
+<ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link ghost" href="/title/tt0445922/tvschedule?ref_=tt_ql_tv_1">TV Schedule</a>
+</li>
+</ul>
+<h4>Related Items</h4>
+<ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/news?ref_=tt_ql_rel_1">NewsDesk</a>
+</li>
+<li class="subnav_item_main">
+<a class="link ghost" href="/showtimes/title/tt0445922?ref_=tt_ql_rel_2">Showtimes</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0445922/externalsites?ref_=tt_ql_rel_3">External Sites</a>
+</li>
+</ul>
+<h4>Professional Services</h4>
+<ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="http://pro.imdb.com/title/tt0445922?ref_=tt_ql_pro_1">Get more at IMDbPro</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="https://secure.imdb.com/store/photos/?ref_=tt_ql_pro_2">Add posters &amp; stills to this title</a>
+</li>
+</ul>
+<hr/>
+</div>
+<div class="show_more"><span class="titlePageSprite arrows show"></span>Explore More</div>
+<div class="show_less"><span class="titlePageSprite arrows hide"></span>Show Less</div>
+</div>
+<div class="aux-content-widget-2">
+<span class="ab_widget">
+<div class="ab_editorial">
+<span class="ninja_header"> <a href="http://www.imdb.com/awards-central/galleries/2015-oscars-fashion-photos?ref_=tt_ac_acd_EditorialWidget_hd"> <h3>Editors' Spotlight</h3> </a> <h4>Oscars: Our Favorite Fashions</h4> </span> <p class="blurb">Check out our favorite fashion moments from The 87th Annual Academy Awards.</p> <div class="ninja_image_pack"> <div class="ninja_left"> <div class="ninja_image first_image" style="width:86px;height:auto;"> <div class="widget_image"> <div class="image"> <a href="http://www.imdb.com/awards-central/galleries/2015-oscars-fashion-photos?ref_=tt_ac_acd_EditorialWidget_i_1"> <img alt="See Our Favorite Fashions" class="pri_image" data-src-x2="http://ia.media-imdb.com/images/M/MV5BNDEwNjgyMzY2Nl5BMl5BanBnXkFtZTgwNDQ4Mjg1NDE@._V1_SX86_CR0,0,86,86_AL_.jpg" itemprop="image" src="http://ia.media-imdb.com/images/M/MV5BNDEwNjgyMzY2Nl5BMl5BanBnXkFtZTgwNDQ4Mjg1NDE@._V1_SX86_CR0,0,86,86_AL_.jpg" title="See Our Favorite Fashions"/> </a> </div> </div> </div><div class="ninja_image ninja_image_fixed_padding"></div><div class="ninja_image" style="width:86px;height:auto;"> <div class="widget_image"> <div class="image"> <a href="http://www.imdb.com/awards-central/galleries/2015-oscars-fashion-photos?ref_=tt_ac_acd_EditorialWidget_i_2"> <img alt="See Our Favorite Fashions" class="pri_image" data-src-x2="http://ia.media-imdb.com/images/M/MV5BMjAzNjM1NDEwM15BMl5BanBnXkFtZTgwOTExMzg1NDE@._V1_SY86_CR18,0,86,86_AL_.jpg" itemprop="image" src="http://ia.media-imdb.com/images/M/MV5BMjAzNjM1NDEwM15BMl5BanBnXkFtZTgwOTExMzg1NDE@._V1_SY86_CR18,0,86,86_AL_.jpg" title="See Our Favorite Fashions"/> </a> </div> </div> </div><div class="ninja_image ninja_image_fixed_padding"></div><div class="ninja_image last_image" style="width:86px;height:auto;"> <div class="widget_image"> <div class="image"> <a href="http://www.imdb.com/awards-central/galleries/2015-oscars-fashion-photos?ref_=tt_ac_acd_EditorialWidget_i_3"> <img alt="See Our Favorite Fashions" class="pri_image" data-src-x2="http://ia.media-imdb.com/images/M/MV5BOTc1NTcwMzA4N15BMl5BanBnXkFtZTgwNTI5NDg1NDE@._V1_SX86_CR0,0,86,86_AL_.jpg" itemprop="image" src="http://ia.media-imdb.com/images/M/MV5BOTc1NTcwMzA4N15BMl5BanBnXkFtZTgwNTI5NDg1NDE@._V1_SX86_CR0,0,86,86_AL_.jpg" title="See Our Favorite Fashions"/> </a> </div> </div> </div> </div> </div> <div><a href="http://www.imdb.com/awards-central/galleries/2015-oscars-fashion-photos?ref_=tt_ac_acd_EditorialWidget_sm"><p class="seemore position_bottom">View our Oscars Fashion Photos</p></a></div> </div>
+</span>
+</div>
+<div class="aux-content-widget-2">
+<div class="social">
+<script type="text/javascript">generic.monitoring.start_timing("facebook_like_iframe");</script>
+<div class="social_networking_like">
+<iframe allowtransparency="allowTransparency" class="social-iframe" frameborder="0" height="65" id="iframe_like" name="fbLikeIFrame_0" ref="http://www.imdb.com/title/tt0445922/" scrolling="no" width="280"></iframe>
+</div>
+</div>
+</div>
+<!-- begin RHS_CORNERSTONE -->
+<div class="cornerstone_slot" id="rhs_cornerstone_wrapper">
+<script type="text/javascript">
+doWithAds(function(){
+ad_utils.register_ad('rhs_cornerstone');
+});
+</script>
+<iframe allowfullscreen="true" allowtransparency="true" class="yesScript" data-blank-serverside="" data-original-height="125" data-original-width="300" frameborder="0" height="125" id="rhs_cornerstone" marginheight="0" marginwidth="0" name="rhs_cornerstone" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" width="300"></iframe>
+</div>
+<div id="rhs_cornerstone_reflow_helper"></div>
+<script>
+doWithAds(function(){
+ad_utils.inject_serverside_ad('rhs_cornerstone', '');
+},"unable to inject serverside ad");
+</script>
+<div class="aux-content-widget-2">
+<h3>Related News</h3>
+<div class="news_item odd">
+<span itemprop="headline">
+<a href="/title/tt0445922/news?ref_=tt_nwr_1#ni23607549">Glee-Macher macht Paltrow und Witherspoon zu One Hit Wondern</a>
+</span>
+<br/><small>
+<span itemprop="datePublished">
+                                  29 February 2012 4:35 AM, EST
+                                </span>
+<span class="ghost">|</span><span itemprop="provider">
+<a href="/news/ns0000191?ref_=tt_nwr_1">Moviemaze.de</a>
+</span>
+</small>
+</div>
+<div class="news_item even">
+<span itemprop="headline">
+<a href="/title/tt0445922/news?year=2011&amp;ref_=tt_nwr_2#ni18642248">Grateful Dead rocken durch psychedelisches Musical</a>
+</span>
+<br/><small>
+<span itemprop="datePublished">
+                                  25 November 2011 3:04 AM, EST
+                                </span>
+<span class="ghost">|</span><span itemprop="provider">
+<a href="/news/ns0000274?ref_=tt_nwr_2">Moviepilot.de</a>
+</span>
+</small>
+</div>
+<div class="news_item odd">
+<span itemprop="headline">
+<a href="/title/tt0445922/news?ref_=tt_nwr_3#ni17499363">Joel Kinnaman erhält Titelrolle in Arthur &amp; Lancelot</a>
+</span>
+<br/><small>
+<span itemprop="datePublished">
+                                  1 November 2011 8:49 AM, EDT
+                                </span>
+<span class="ghost">|</span><span itemprop="provider">
+<a href="/news/ns0017020?ref_=tt_nwr_3">negativ-film.de</a>
+</span>
+</small>
+</div>
+<div class="see-more">
+<a href="/title/tt0445922/news?ref_=tt_nwr_sm">See all 12 related articles</a> »
+            </div>
+</div>
+<!-- no content received for slot: middle_rhs -->
+<div class="aux-content-widget-2">
+<div id="relatedListsWidget">
+<div class="rightcornerlink">
+<a href="/list/create?ref_=tt_rls">Create a list</a> »
+                </div>
+<h3>User Lists</h3>
+<p>Related lists from IMDb users</p>
+<div class="list-preview even">
+<div class="list-preview-item-narrow">
+<a href="/list/ls008680578?ref_=tt_rls_1"><img alt="list image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BMjAyNDM4MTc2N15BMl5BanBnXkFtZTYwNDk0Mjc3._V1_SX86_CR0,0,86,86_AL_.jpg" src="/images/nopicture/medium/film.png" title="list image" width="86"/></a> </div>
+<div class="list_name">
+<strong><a href="/list/ls008680578?ref_=tt_rls_1">Greatest Movies Set in Older Times</a></strong>
+</div>
+<div class="list_meta">
+            a list of 31 titles
+            <br/>created 08 Sep 2012
+        </div>
+<div class="clear"> </div>
+</div>
+<div class="list-preview odd">
+<div class="list-preview-item-narrow">
+<a href="/list/ls050827441?ref_=tt_rls_2"><img alt="list image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BMjA3NjAyNzg2OF5BMl5BanBnXkFtZTcwOTIyMDUzMQ@@._V1_SX86_CR0,0,86,86_AL_.jpg" src="/images/nopicture/medium/film.png" title="list image" width="86"/></a> </div>
+<div class="list_name">
+<strong><a href="/list/ls050827441?ref_=tt_rls_2">Rom-com/musicals</a></strong>
+</div>
+<div class="list_meta">
+            a list of 41 titles
+            <br/>created 06 Dec 2012
+        </div>
+<div class="clear"> </div>
+</div>
+<div class="list-preview even">
+<div class="list-preview-item-narrow">
+<a href="/list/ls056057399?ref_=tt_rls_3"><img alt="list image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BNTEzOTYwMTcxN15BMl5BanBnXkFtZTcwNTgyNjI1MQ@@._V1_SX86_CR0,0,86,86_AL_.jpg" src="/images/nopicture/medium/film.png" title="list image" width="86"/></a> </div>
+<div class="list_name">
+<strong><a href="/list/ls056057399?ref_=tt_rls_3">Musicals/Bios</a></strong>
+</div>
+<div class="list_meta">
+            a list of 32 titles
+            <br/>created 19 Jul 2013
+        </div>
+<div class="clear"> </div>
+</div>
+<div class="list-preview odd">
+<div class="list-preview-item-narrow">
+<a href="/list/ls056543058?ref_=tt_rls_4"><img alt="list image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BNDE3MDQzMDA5OF5BMl5BanBnXkFtZTcwMTUxNTgxOQ@@._V1_SX86_CR0,0,86,86_AL_.jpg" src="/images/nopicture/medium/film.png" title="list image" width="86"/></a> </div>
+<div class="list_name">
+<strong><a href="/list/ls056543058?ref_=tt_rls_4">Stylish Movies</a></strong>
+</div>
+<div class="list_meta">
+            a list of 49 titles
+            <br/>created 28 Jul 2013
+        </div>
+<div class="clear"> </div>
+</div>
+<div class="list-preview even">
+<div class="list-preview-item-narrow">
+<a href="/list/ls070646567?ref_=tt_rls_5"><img alt="list image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BMTMxNzYzNzUzMV5BMl5BanBnXkFtZTYwNjcwMjE3._V1_SX86_CR0,0,86,86_AL_.jpg" src="/images/nopicture/medium/film.png" title="list image" width="86"/></a> </div>
+<div class="list_name">
+<strong><a href="/list/ls070646567?ref_=tt_rls_5">movies that i love</a></strong>
+</div>
+<div class="list_meta">
+            a list of 32 titles
+            <br/>created 7 months ago
+        </div>
+<div class="clear"> </div>
+</div>
+<div class="see-more">
+<a href="/lists/tt0445922?ref_=tt_rls_sm">See all related lists</a> »
+                </div>
+</div>
+</div>
+<div class="aux-content-widget-2">
+<span class="ab_widget">
+<div class="ab_message">
+<span class="ninja_header"> <h3>Related Items</h3> </span> <div class="ninja_image_pack"> <div class="ninja_left"> <div class="ninja_image first_image last_image" style="width:38px;height:auto;"> <div class="widget_image"> <div class="image"> <a href="/offsite/?page-action=offsite-amazon&amp;token=BCYvCQbR009zpsoRsjDtBGGmCi9W1iGH5fZlIqZymnEZBagAIADoxkf-iT4MZ6ZsYZJqo2iTOn5L%0D%0AkYfgyTgeHrC4JMQfuCAl4N1zpTE0TCE4aTqdPPle6j2lJXMaoIuG8fzXOSkPaQcTUJ0PS-E6q87V%0D%0Auo-h8mMntRAeMFgyZK5uCQ13qSqdgalsrORs2OED37GXa9NASPBogaSc3IWZtoXR2C76gb8-CJDy%0D%0AKAOuHeGLQTonUlxrCyraYfLFD1CRbBmPTlsKFp3XyzpysBOGac9VFMzFZEqdM87hoDavOtPSvXWD%0D%0AoA--qQAlxlep5VNotJ0K%0D%0A&amp;ref_=tt_msg_i_1"> <img alt='Search for "Across the Universe" on Amazon.com' class="pri_image" data-src-x2="http://ia.media-imdb.com/images/G/01/imdb/images/widget/amazon._CB339202444_.png" itemprop="image" src="http://ia.media-imdb.com/images/G/01/imdb/images/widget/amazon._CB339202444_.png" title='Search for "Across the Universe" on Amazon.com'/> </a> </div> </div> </div><div class="ninja_image ninja_image_fixed_padding"></div><div class="ninja_image"> <p class="blurb">Search for "<a href="/offsite/?page-action=offsite-amazon&amp;token=BCYie7g24ueKC8qpGwAxckDMAVIDUwyXLWfGgWcsGweCqbMCj8DQO7dcKTJE4vXb1CdGIWEHRP8f%0D%0ADL5kn96MYmYEM1RB-f3jLfp60u4_FXVMFG537oyRrvXLaIjHZ7J0HyDzVPsMP0UA2d4jqqSFCwJt%0D%0AaBPf2zLziSVs-2cftH8tEVYNyRXVwUUlPdTTMNx8evZSzDL2WY4EjXwYx3MdWyxdCks_I0KUqblp%0D%0AigUJfA_A-jlinNXLTjkNtQlOhvN7CHNGRPmqsPXIrzeqzxlGJ-tAwo8Gj05ad_14yG08CI25OE2k%0D%0AAlxwPK-AT6yGtCElwF_Q%0D%0A&amp;ref_=tt_msg_ov">Across the Universe</a>" on <a href="/offsite/?page-action=offsite-amazon&amp;token=BCYjncjGwxyw3DDvJ24nvf0Mds9sBNOmGwTw9JbGN1C_q0MCzugFHmVqwxgP4HfyrMijgyuzdA8S%0D%0AdJDEJoNy1ml02gVBKvlk6u3VRO9btLrcbR5oHgiNxN7-Y1Eh1f9ZGwjx11UptTauJ0it60o4Ar3b%0D%0A6L_3ks1FQfM8da0_xn346_yMB_vc40cw8qSF5HCqUkkP-JgUi9Fy5hL9gQQ7ozxtX8xFDXDSxrVG%0D%0AaOyRnsS0u6T8rXX7d9CKyTrGDbYWL2-vAkSsi8iJ9_irZeULOqBxvz6rDON0HvbesfT8fNG4iGgH%0D%0A1YPHyr7VQt-84hlyWYSV%0D%0A&amp;ref_=tt_msg_ov">Amazon.com</a></p></div> </div> </div> </div>
+</span>
+</div>
+<!-- no content received for slot: btf_rhs1 -->
+<div class="aux-content-widget-2">
+<h3>Connect with IMDb</h3>
+<div id="facebookWrapper">
+<iframe allowtransparency="true" frameborder="0" id="facebookIframe" scrolling="no"></iframe>
+</div>
+<hr>
+<iframe allowtransparency="true" frameborder="0" id="twitterIframe" role="presentation" scrolling="no"></iframe>
+</hr></div>
+<div class="aux-content-widget-2">
+<div id="ratingWidget">
+<h3>Share this Rating</h3>
+<p>
+                Title:
+                <strong>Across the Universe</strong>
+                (2007)
+            </p>
+<span class="imdbRatingPlugin imdbRatingStyle1" data-style="t1" data-title="tt0445922" data-user="">
+<a href="/title/tt0445922/?ref_=tt_plg_rt"> <img alt="Across the Universe (2007) on IMDb" src="http://ia.media-imdb.com/images/G/01/imdb/images/plugins/imdb_46x22-2264473254._CB379390954_.png">
+</img></a> <span class="rating">7,5<span class="ofTen">/10</span></span>
+<img class="star" src="http://ia.media-imdb.com/images/G/01/imdb/images/plugins/imdb_star_22x21-2889147855._CB379391454_.png">
+</img></span>
+<p>Want to share IMDb's rating on your own site? Use the HTML below.</p>
+<div class="hidden" id="ratingPluginHTML">
+<div class="message_box small">
+<div class="error">
+<p>
+                        You must be a registered user to use the IMDb rating plugin.
+                        </p>
+<a class="cboxElement" href="/register/login?ref_=tt_plg_rt" rel="login">Login</a>
+</div>
+</div>
+</div>
+<div id="ratingWidgetLinks">
+<span class="titlePageSprite arrows show"></span>
+<a href="/plugins?titleId=tt0445922&amp;ref_=tt_plg_rt" id="toggleRatingPluginHTML" itemprop="url">Show HTML</a>
+<a href="/plugins?titleId=tt0445922&amp;ref_=tt_plg_rt" itemprop="url">View more styles</a>
+</div>
+</div>
+</div>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitlePlayQuizWidget_started');
+    }
+  </script>
+<div class="aux-content-widget-2 play_quiz_widget">
+<h3>Take The Quiz!</h3>
+<a class="icon" href="/games/guess/tt0445922?ref_=tt_qz"></a><span>Test your knowledge of <a href="/games/guess/tt0445922?ref_=tt_qz">Across the Universe</a>.</span>
+</div>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitlePlayQuizWidget_finished');
+    }
+  </script>
+<div class="aux-content-widget-2 poll-widget-rhs ">
+<style>
+        .aux-content-widget-2.poll-widget-rhs ul li { margin-bottom: 0.5em; clear: left; font-weight: bold;}
+        .aux-content-widget-2.poll-widget-rhs span { margin-bottom: 0.5em; clear: left;}
+        .aux-content-widget-2.poll-widget-rhs img { float: left; padding: 0 5px 5px 0; height: 86px; width: 86px;}
+    </style>
+<h3>User Polls</h3>
+<ul>
+<li>
+<a href="/poll/TKr660S-SYs/?ref_=tt_po_i1"><img alt="poll image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BMTIyMTUwNzg3Nl5BMl5BanBnXkFtZTcwMjM1MDI1MQ@@._V1_SX86_CR0,0,86,86_.jpg" src="http://i.imdb.com/images/nopicture/140x209/unknown.png" title="poll image" width="86"/></a> <a href="/poll/TKr660S-SYs/?ref_=tt_po_q1">Favorite film about or inspired by the Beatles*?</a>
+<li>
+<a href="/poll/y3m-1jr1mcs/?ref_=tt_po_i2"><img alt="poll image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BMTIzODQ5MzgyOV5BMl5BanBnXkFtZTYwMzY2OTg5._V1_SX86_CR0,0,86,86_.jpg" src="http://i.imdb.com/images/nopicture/140x209/unknown.png" title="poll image" width="86"/></a> <a href="/poll/y3m-1jr1mcs/?ref_=tt_po_q2">Puns with Posters</a>
+</li></li></ul>
+<div class="see-more"><a href="/poll/?ref_=tt_po_sm">See more polls »</a></div>
+</div>
+<!-- no content received for slot: bottom_rhs -->
+<!-- begin BTF_RHS2 -->
+<div class="cornerstone_slot" id="btf_rhs2_wrapper">
+<script type="text/javascript">
+doWithAds(function(){
+ad_utils.register_ad('btf_rhs2');
+});
+</script>
+<iframe allowfullscreen="true" allowtransparency="true" class="yesScript" data-original-height="250" data-original-width="300" frameborder="0" height="250" id="btf_rhs2" marginheight="0" marginwidth="0" name="btf_rhs2" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" width="300"></iframe>
+</div>
+<div id="btf_rhs2_reflow_helper"></div>
+<script>
+doWithAds(function(){
+ad_utils.inject_serverside_ad('btf_rhs2', '<script>document.defaultAd = {h:250,w:300}; document.ad = document.defaultAd;<\/script> <!DOCTYPE html><html><body> <script>(function(){var url = \'http://aax-us-east.amazon-adsystem.com/x/c/QVVBO3dxhjPaxmkCTKVt_pcAAAFLulZfpAEAAADKFexiQQ/http://pda-bes.amazon.com/c?i=1$AgAAAAAAAAAEAAAAAAAAAAMAAAAA2TZhzKIjnDXJYhYoFgtnYEEcuiesM4eVNLCNDSr7IUP7PxqslX4ewPfiYkPLVkcBDIhIWjMF571fs7Rr5O-pN2jyqIYWItpuPOSzR2Hr6dJmo7p.JFgMJZccrMgvFRgCco.9gO0qPfVrixXRgS5moyQ0SuKgDgZZnVxOtcCqDSQvLKVCz2gNO1nBHG2UXkkpR.nkkPnfhpxzmjQEp7oqz0-LT9O9WaULmLLBd7vKk3HqbAkMbU4Go5PF2sW5qXPQPtmtSQGXAc0-vS1ydfVXw7HcuyQTiq1UU.0.4RdQ9zcN3o-hNSLfnCvDEF2Gwz9ex8AS0El1MrkXrRWUNEr6bQpS17-dZEKiVUQcoBVmUVGEdOazAxCb6sX3MKXHk2zuRYfiPQdzLOmxD47cFpkAeBanrT2K3DCuZtn0n3pV1u95aABBEvBsSdXtbfwFQH7U7S.iGzvmmjLnrRFpkMwkeRG5.BYQwuTj5I5lEGYxOJba7oC1pdYFlrKu7usaRN5-z2uXRasuEfPi9cb0nD1UJ7m9zsAZj8udq4TCRIdOTuebYnHI40PnYdMeMrvpx6kK-bQMV2pwMclgK0HA9d6IdLo9xR7lLBG3oCAuJt1UktXkQfNZBT.tA9YWlj4q7275inFJbXrQfg3xzIq3NK.sozwwKOHdRXhdMzSDSFzF09AU7MJBxg1lNNPVGShQyp38j4ZhUt3-slL1r09fbuNuQr4sOQu3cuAgGFXhyvMEkc.DyupAwiXv89Cy4o.K7Nuu4UIwVyUnpdzaqyPR9SaPknIZafOO7AcnuPHBFG1cblOZ2ykzBAf3MtIfzQsj1yvsH0c4P-60qwL9fWx72oOeqEtPX9uuCSGgnKtBxbMXyvZcxbnylFvkZxx6eJvRf3ouMPJiWyvKf4qnwq3e9gZpv9aZH1TPsQgoF4vPB49Yb.xvTojNTYBqkg97mdtVmbJOpW1kjsO5.0ZRyaqIn1x5B-ZV2OtQqabgDZclGPDP0qOXDig.AQyEkB68RbBMpmF8ShX7QrjnZiSKoH.bHep9.pHRqWFc.qwlMHkrruTyutpxqZpSI.6-WsqizzrsJmAprDam5FBy3meCzXLa3YTusRKe9WC9UfaMnQgdn7fIKwLwMrj9EcFZvpF6vFTWW1PcGi1RWqkdd4-bw6hIq2Aq0zXn0PHluWzOAVyBTxeeqPp.41LlIJH0-M0DZF3KXBwu6SQVwbEnvDwWOljQbBx-oGFJrO8_&d=\'; var urlStore = document.createElement(\'input\'); urlStore.id=\"amsClickTrackerURLStore\"; urlStore.setAttribute(\'type\', \'hidden\'); urlStore.value = url; document.getElementsByTagName(\'body\')[0].appendChild(urlStore);})(); var AMS_THIRD_PARTY_TRACKER = \'\'; var amsCreativeId=\'1762437129134\'; <\/script> <style>body{margin:0;font-family:sans-serif}#ad{position:relative;overflow:hidden}#ad,#link,#lazy{width:300px;height:250px}#link,#lazy{position:absolute}#link{cursor:pointer;background-repeat:no-repeat}.ac{display:block;position:absolute;overflow:hidden;width:19px;height:15px;z-index:9;background:url(https://images-na.ssl-images-amazon.com/images/G/01/da/adchoices/ac-topright-sprite.png)}.ac:hover{width:77px;background-position:-19px 0}.hide{display:none!important}.position{top:0;right:0}body{font-size:13px;line-height:18px}.a-icon.a-icon-star{width:80px;height:18px}.a-icon.a-star-5-0{background-position:0 0}.a-icon.a-star-4-0{background-position:-16px 0}.a-icon.a-star-3-0{background-position:-32px 0}.a-icon.a-star-2-0{background-position:-48px 0}.a-icon.a-star-1-0{background-position:-64px 0}.a-icon.a-star-4-5{background-position:-170px 0}.a-icon.a-star-3-5{background-position:-186px 0}.a-icon.a-star-2-5{background-position:-202px 0}.a-icon.a-star-1-5{background-position:-218px 0}a{color:#0066c0;text-decoration:none}a:hover{color:#e47911;text-decoration:underline;cursor:pointer}.a-spacing-none{margin-bottom:0!important}.a-spacing-mini{margin-bottom:6px!important}.a-icon-row{display:block;padding-top:1px;padding-bottom:1px;line-height:0}.a-icon-row.a-spacing-none{padding-bottom:0}.a-icon{background-image:url(https://images-na.ssl-images-amazon.com/images/G/01/da/creatives/aui-mini-sprite._V379050404_.png);background-repeat:no-repeat;-webkit-background-size:344px 15px;background-size:344px 15px;display:inline-block;*display:inline;*zoom:1;vertical-align:top}.a-button i.a-icon-dropdown{position:absolute;right:9px;top:10px}.a-letter-space{display:inline-block;width:.385em}.a-size-small{font-size:12px;line-height:1.4}.a-size-mini{font-size:11px;line-height:1.4}.a-color-secondary{color:#888!important}.a-color-price{color:#b12704!important}.a-icon.a-icon-dropdown{width:5px;height:8px;background-position:-339px -4px}.a-button{display:inline-block;vertical-align:middle;height:31px;border:1px solid;border-color:#b7b7b7 #aaa #a0a0a0;text-align:center;overflow:hidden;text-decoration:none!important;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;cursor:pointer;*display:inline;zoom:1}.a-button-primary{border-color:#be952c #a68226 #9b7924;background:#eeba37}.a-button .a-button-inner{background:#ececec;background:-moz-linear-gradient(top,whitesmoke,#e3e3e3);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,whitesmoke),color-stop(100%,#e3e3e3));background:-webkit-linear-gradient(top,whitesmoke,#e3e3e3);background:-o-linear-gradient(top,whitesmoke,#e3e3e3);background:-ms-linear-gradient(top,whitesmoke,#e3e3e3);background:linear-gradient(top,whitesmoke,#e3e3e3);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=\'whitesmoke\', endColorstr=\'#e3e3e3\', GradientType=0);position:relative;height:31px;overflow:hidden;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;-webkit-box-shadow:0 1px 0 rgba(255,255,255,.6) inset;-moz-box-shadow:0 1px 0 rgba(255,255,255,.6) inset;box-shadow:0 1px 0 rgba(255,255,255,.6) inset}.a-button-primary .a-button-inner{background:#f6d073;background:-moz-linear-gradient(top,#fee6b0,#eeba37);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#fee6b0),color-stop(100%,#eeba37));background:-webkit-linear-gradient(top,#fee6b0,#eeba37);background:-o-linear-gradient(top,#fee6b0,#eeba37);background:-ms-linear-gradient(top,#fee6b0,#eeba37);background:linear-gradient(top,#fee6b0,#eeba37);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=\'#fee6b0\', endColorstr=\'#eeba37\', GradientType=0)}span.a-button-inner{display:block}.a-button .a-button-text{outline:0;color:#111;text-align:center;font-size:13px;line-height:29px;display:block;font-family:Arial,sans-serif;white-space:nowrap;background-color:transparent;margin:0;border:0;width:auto;height:100%;padding:0;padding:0 10px 0 11px}.a-button:hover .a-button-inner{background:#dfdfdf;background:-moz-linear-gradient(top,#e8e8e8,#d6d6d6);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#e8e8e8),color-stop(100%,#d6d6d6));background:-webkit-linear-gradient(top,#e8e8e8,#d6d6d6);background:-o-linear-gradient(top,#e8e8e8,#d6d6d6);background:-ms-linear-gradient(top,#e8e8e8,#d6d6d6);background:linear-gradient(top,#e8e8e8,#d6d6d6);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=\'#e8e8e8\', endColorstr=\'#d6d6d6\', GradientType=0);*zoom:1}.a-button:active .a-button-inner{-webkit-box-shadow:0 1px 3px rgba(0,0,0,.2) inset;-moz-box-shadow:0 1px 3px rgba(0,0,0,.2) inset;box-shadow:0 1px 3px rgba(0,0,0,.2) inset;background-color:#e3e3e3;background-image:none;filter:none}.a-button .a-button-inner:active{background-color:#d9d9d9}.a-button-primary:hover{border-color:#a98527 #917221 #86691f}.a-button-primary:active{border-color:#9b7924 #a68226 #a68226}.a-button-primary:hover .a-button-inner{background:#f5c85b;background:-moz-linear-gradient(top,#fede97,#ecb21f);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#fede97),color-stop(100%,#ecb21f));background:-webkit-linear-gradient(top,#fede97,#ecb21f);background:-o-linear-gradient(top,#fede97,#ecb21f);background:-ms-linear-gradient(top,#fede97,#ecb21f);background:linear-gradient(top,#fede97,#ecb21f);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=\'#fede97\', endColorstr=\'#ecb21f\', GradientType=0);*zoom:1}.a-button-primary:active .a-button-inner{-webkit-box-shadow:0 1px 3px rgba(0,0,0,.2) inset;-moz-box-shadow:0 1px 3px rgba(0,0,0,.2) inset;box-shadow:0 1px 3px rgba(0,0,0,.2) inset;background-color:#eeba37;background-image:none;filter:none}.a-button.a-button-small{height:22px}.a-button.a-button-small .a-button-inner{height:22px}.a-button.a-button-small .a-button-inner .a-button-text{line-height:20px;font-size:11px;height:20px;padding:0 6px 0 7px}.a-button-dropdown{width:100%}.a-button-dropdown .a-button-inner .a-button-text{overflow:hidden;padding-right:0;position:relative;text-align:left;text-overflow:ellipsis;-ms-text-overflow:clip;z-index:10;margin-right:17px}.a-button.a-button-small i.a-icon-dropdown{right:6px;top:6px}.a-button.a-button-small .a-button-text{line-height:21px}.a-native-dropdown{-webkit-appearance:none;opacity:0;filter:alpha(opacity=0);-moz-opacity:0;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;padding:0;z-index:100;cursor:pointer}.a-button-preorder{border-color:#b2b289 #9d9d6b #90905f;background:#cdcda1}.a-button-preorder:hover,.a-button-preorder:focus,.a-button-preorder.a-button-focus{border-color:#a7a77a #90905f #808055}.a-button-preorder:active{border-color:#90905f #9d9d6b #9d9d6b}.a-button-preorder .a-button-inner{background:#d9d9b8;background:-moz-linear-gradient(top,#e6e6d0,#cdcda1);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#e6e6d0),color-stop(100%,#cdcda1));background:-webkit-linear-gradient(top,#e6e6d0,#cdcda1);background:-o-linear-gradient(top,#e6e6d0,#cdcda1);background:-ms-linear-gradient(top,#e6e6d0,#cdcda1);background:linear-gradient(top,#e6e6d0,#cdcda1);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=\'#e6e6d0\', endColorstr=\'#cdcda1\', GradientType=0);*zoom:1}.a-button-preorder:hover .a-button-inner{background:#d0d0a7;background:-moz-linear-gradient(top,#ddddbf,#c4c490);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#ddddbf),color-stop(100%,#c4c490));background:-webkit-linear-gradient(top,#ddddbf,#c4c490);background:-o-linear-gradient(top,#ddddbf,#c4c490);background:-ms-linear-gradient(top,#ddddbf,#c4c490);background:linear-gradient(top,#ddddbf,#c4c490);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=\'#ddddbf\', endColorstr=\'#c4c490\', GradientType=0);*zoom:1}.a-button-preorder:active .a-button-inner{-webkit-box-shadow:0 1px 3px rgba(0,0,0,.2) inset;-moz-box-shadow:0 1px 3px rgba(0,0,0,.2) inset;box-shadow:0 1px 3px rgba(0,0,0,.2) inset;background-color:#cdcda1;background-image:none;filter:none}.a-button-stack .a-button{display:block;width:100%}#box{display:none;position:absolute;font-family:arial,sans-serif;bottom:8px;right:8px;width:148px}#infoBorder{padding:0;background:transparent}#info{padding:6px 8px 8px;border-radius:6px;background:#fff;border:1px solid #999;overflow:hidden;position:relative;zoom:1}.singleAsin #info{}#ratingInfo,#prices{float:left;clear:left}#moreInfo,.singleAsin #button{float:right;clear:right}.pull-left{float:left!important;clear:left!important}#button{float:left;margin-top:0;width:100px}.singleAsin #button{margin-left:0}.po #button{width:100px}.fallback #button{width:100px}.shopNow#button{width:100px}.po .shopNow#button{width:100px}#tip{clear:both}.a-button-stack #button{width:100%;margin-left:0;margin-top:4px}.selectWrapper{width:100px}.po .selectWrapper{width:100px}.fallback .selectWrapper{width:100px}.a-button-stack .selectWrapper{width:100%}.singleAsin #tip,.singleAsin .selectWrapper{display:none}#buttonContainer.a-button-stack{line-height:0}#logo{background-repeat:no-repeat;background-position:50% 100%;height:15px;display:none;padding:8px 0 0}#ratingCount{color:#0066c0;text-decoration:none}#ratingInfo:hover #ratingCount{color:#e47911;text-decoration:underline}#ratingAverage{display:inline-block;margin:0;padding:0;position:relative;overflow:hidden;vertical-align:middle;width:65px;height:13px}.hide{display:none!important}#title{display:block;zoom:1;margin-bottom:2px}#prices{margin:0}#buyingPrice{font-size:13px;line-height:18px;margin:4px 0 0}#preorder{display:none;margin:2px 0 4px}.selectWrapper{float:left;position:relative;margin-right:5px}.po #preorder{display:block}.fallback #prices{display:none}#marketingCopyText{color:;position:absolute;top:px;margin:8px;overflow:hidden}#asinSprite{text-align:center;position:absolute;overflow:hidden;height:90px;width:90px;display:none}#headline,#title,#prices{width:130px}#selector{width:130px;margin:0 0 8px}.singleAsin #title{margin:0}.fallback .po #title{margin:0}#ad{height:248px;width:298px}#headerWrapper{height:70px}#kdpHeadline{line-height:70px;font-size:22px}.shorter{font-size:18px}.short{font-size:17px}.long{font-size:16px}.longer{font-size:15px}.longest{font-size:14px}#info{display:table-cell;padding:0;vertical-align:middle}#arrowWrapper{height:15px;position:relative;border-top:1px solid #dcdcdc;width:278px;margin-left:10px}#asinSprite{bottom:0!important;display:table-cell!important;height:145px!important;left:0!important;padding-bottom:10px;padding-right:10px;position:relative;vertical-align:middle;float:right}.singleAsin #button{clear:right;float:left}.importantTable{display:table!important}#ad{background-color:#FFF;border:1px solid #ddd}#link{background:none repeat scroll 0 0 #FFF;display:block;filter:Alpha(opacity=0);opacity:0;z-index:1;-ms-filter:\"alpha(opacity=0)\"}#headerWrapper{position:relative}#kdpHeadline{color:#e47911;font-family:HelveticaNeue-Light,Arial,sans-serif;font-weight:lighter;text-align:center}#authorName{font-size:11px;color:#000}#arrowOuter{border-width:11px;border-style:solid;position:absolute}#arrowInner{border-width:10px;border-style:solid;position:absolute}#box{bottom:16px;display:table;height:145px;padding-left:10px;left:10px;width:140px}#info{border:0}#info a{position:relative;z-index:2}#infoBorder{display:none}#selector{display:none}#title{overflow:hidden}#moreInfoBox{z-index:4}#moreInfoArrow,#moreInfoLink{position:relative;z-index:3}.singleAsin #button{margin-top:5px}.shopNow#button{width:132px}</style><\!--[if lt IE 7 ]> <div id=\"ad\" class=\"ie6\"> <![endif]--\><\!--[if IE 7 ]> <div id=\"ad\" class=\"ie7\"> <![endif]--\><\!--[if IE 8 ]> <div id=\"ad\" class=\"ie8\"> <![endif]--\><\!--[if IE 9 ]> <div id=\"ad\" class=\"ie9\"> <![endif]--\><\!--[if (gt IE 9)|!(IE)]><\!--\><div id=\"ad\"><\!--<![endif]--\><a id=\"link\"></a><div id=\"headerWrapper\"><div id=\"kdpHeadline\">Available on Kindle</div></div><div id=\"arrowWrapper\"></div><\!-- Support DE/UK --\><div id=\"box\"><div id=\"infoBorder\"><div id=\"info\"><div class=\"text\"><a id=\"title\" class=\"a-size-small\"></a><div id=\"preorder\" class=\"a-size-mini a-color-secondary\"></div><a id=\"ratingInfo\" class=\"a-icon-row a-spacing-none\"><i id=\"ratingStars\" class=\"a-icon a-icon-star\"></i><span class=\"a-letter-space\"></span><span class=\"a-size-small\">(<span id=\"ratingCount\"></span>)</span></a><p id=\"prices\" class=\"a-spacing-none\"><strike id=\"listPrice\" class=\"a-color-secondary a-size-mini\"></strike><span id=\"priceSpace\" class=\"a-letter-space\"></span><span id=\"buyingPrice\" class=\"a-color-price\"></span><span id=\"pricePerUnit\" class=\"a-size-mini a-color-price\"></span></p></div><div id=\"buttonContainer\" class=\"controls\"><div id=\"tip\" class=\"a-size-mini a-color-secondary\"></div><div class=\"selectWrapper\" id=\"selectWrapper\"><a id=\"selectButton\" class=\"a-button a-button-dropdown a-button-small\"><span class=\"a-button-inner\"><span id=\"selectText\" class=\"a-button-text\"></span><i class=\"a-icon a-icon-dropdown\"></i></span></a><select id=\"selector\" class=\"a-native-dropdown\"></select></div><a class=\"a-button a-button-primary a-button-small\" id=\"button\"><span class=\"a-button-inner\"><span id=\"buttonText\" class=\"a-button-text\">Add to Cart</span></span></a></div></div></div><a id=\"logo\"></a></div><\!-- Support DE/UK --\><a id=\"aapInfo\" target=\"_blank\" class=\"hide ac position\" href=\"http://amazon.com/gp/dra/info/ref=cs_aap_1762437129134\"></a></div><script>setTimeout(function(){!function(e,t,n){function i(){var e=this,t=a||p;e.initialize=function(){f=!0,f&&l&&(ct(),y(F,!0),at())};var n,i=\"ATVPDKIKX0DER\",r=\"addToCart\",o=\"C586D925C51B967AFC13B5A84B734B0E0EF1C52F\",s=\"d3l3lkinz3f56t.cloudfront.net/aan/us\",c=(m(location)?\"https://images-na.ssl-images-amazon.com/images/I/51JMvZG5aKL._AC_SR128,145_.jpg\":\"http://ecx.images-amazon.com/images/I/51JMvZG5aKL._AC_SR128,145_.jpg\",K+\"\"),l=!1,u=!1,f=!1,d=v(\"selector\"),g=v(\"selectText\"),M=(v(\"selectButton\"),v(\"button\")),T=v(\"buttonText\"),D=v(\"buttonContainer\"),H=v(\"logo\"),F=v(\"box\"),O=v(\"preorder\"),U=v(\"info\"),$=v(\"prices\"),z=v(\"listPrice\"),J=v(\"priceSpace\"),W=v(\"buyingPrice\"),j=(v(\"pricePerUnit\"),v(\"title\")),Y=(v(\"headline\"),v(\"disclaimer\"),v(\"aapInfo\")),Z=v(\"moreInfo\");if((a||p)&&H){var X=H.style;X.display=\"block\",-1!=navigator.userAgent.indexOf(\"MSIE 6\")&&(c=c.replace(/png$/,\"gif\")),X.backgroundImage=\"url(\"+c+\")\"}Y&&a&&b(Y);var q,V,Q=function(e){var t=\"Add to Cart\",i=\"Pre-order\",r=\"Shop now\";switch(e){case\"preorder\":S(F,\"po\"),S(M,\"a-button-preorder\"),_(M,\"a-button-primary\"),_(M,\"shopNow\"),n=N,T.innerHTML=i;break;case\"addtocart\":_(F,\"po\"),_(M,\"a-button-preorder\"),n=w,T.innerHTML=t,S(M,\"a-button-primary\");break;case\"shopnow\":_(M,\"a-button-preorder\"),n=L,S(M,\"a-button-primary\"),S(F,\"fallback\"),S(M,\"shopNow\"),T.innerHTML=r}},et={B00NB65GUE:{title:\"The Wedding Belle (Colorado Billionaires Book 4)\",label:\"\",properties:{imageUrl:\"http://ecx.images-amazon.com/images/I/51JMvZG5aKL._AC_SR128,145_.jpg\",imageSecureUrl:\"https://images-na.ssl-images-amazon.com/images/I/51JMvZG5aKL._AC_SR128,145_.jpg\"}}},tt=\"&#x20;\",nt=[\"B00NB65GUE\"],it=function(){var i=Math.max(0,d.selectedIndex),a=d.options[i],o=a?a.value:nt[0],s=q.asinMap[o],c=et[s.asin].title;g.innerHTML=a.label||a.text;var l=s.index,u=s.merchantId,f=s.listPrice,p=s.buyingPrice,m=(s.pricePerUnit,s.shouldPreorder),h=P||st.getDetailPageLink(o,u),C=s.purchasePipeline==r;if(m?(O.innerHTML=st.getPreorderText(s.preorderReleaseDate),Q(\"preorder\")):Q(\"addtocart\"),!s.violatesMap&&s.inStock){var y=st.formatCurrency(f),T=st.formatCurrency(p);if(W.innerHTML=tt+T+tt,navigator.userAgent.match(\"MSIE [6|7|8]\")&&(z.style.marginRight=\"4px\"),p>=f?(k(z),k(J)):(b(z),b(J)),z.innerHTML=y,C){_(M,\"shopNow\");var A=st.getAtcLink(s);G(M,n,A,t),G(H,E,h,t),G(j,I,h,t)}else ot(h);j.innerHTML=c,_(F,\"fallback\")}else z.innerHtml=\"\",W.innerHtml=\"\",lt(c,h);if(s.customerReviewSummary){var R=v(\"ratingInfo\"),x=v(\"ratingCount\"),w=v(\"ratingStars\"),L=(Math.round(2*s.customerReviewSummary.rating)/2).toFixed(1);if(s.customerReviewSummary&&s.customerReviewSummary.rating>0){b(R),x.innerHTML=s.customerReviewSummary.count,w.className=\"a-icon a-icon-star\";var L=(Math.round(2*s.customerReviewSummary.rating)/2).toFixed(1);S(w,\"a-star-\"+L.replace(\".\",\"-\")),S(F,\"stars\"),G(R,B,st.getReviewsLink(o),t)}else k(R),_(F,\"stars\")}\"function\"==typeof e.productChanged&&e.productChanged(l,s,h),at()},rt=function(e){var t=$.getBoundingClientRect().right-$.getBoundingClientRect().left,n=e.getBoundingClientRect().right-e.getBoundingClientRect().left,i=U.getBoundingClientRect().right-U.getBoundingClientRect().left;return i>t+n+4},at=function(){var e=(U.getBoundingClientRect().right-U.getBoundingClientRect().left,D.getBoundingClientRect().right-D.getBoundingClientRect().left);if(_(D,\"a-button-stack\"),e>130)if(A(F,\"singleAsin\")){var t=A(F,\"stars\"),n=Z&&!A(Z,\"hide\");!t&&n?(rt(Z)||(D.appendChild(Z),Z.style.marginTop=\"16px\",Z.style.marginBottom=\"0\"),S(M,\"pull-left\")):rt(M)||S(M,\"pull-left\")}else v(\"selectWrapper\").style.width=e-M.offsetWidth-6+\"px\";else S(D,\"a-button-stack\")},ot=function(e){Q(\"shopnow\"),G(M,L,e,t),G(H,E,e,t),G(j,I,e,t)},st=function(){function e(){}var t=\"This item will be released on RELEASEDATE\",n=\"This item is not yet released\",i=\"$\",r=\".\",a=\",\",o=[\"Jan\",\"Feb\",\"March\",\"April\",\"May\",\"June\",\"July\",\"Aug\",\"Sept\",\"Oct\",\"Nov\",\"Dec\"],s=\"http://www.amazon.com/\";return e.getDetailPageLink=function(e){var t=s+\"dp/\"+e;return t},e.getReviewsLink=function(e){return s+\"product-reviews/\"+e},e.getAtcLink=function(e){return s+\"gp/product-ads/shared/utility/add-to-cart.html?\"+C({ie:\"UTF8\",token:e.token,time:e.time,merchantId:e.merchantId,asin:e.asin,program:\"dads\",adPrice:e.buyingPrice.toFixed(2)})},e.processAanResponse=function(e,t){for(var n=[],i=[],r={},a=0;a<e.length;a++){var o=e[a];r[o.asin]=o}for(var a=0;a<t.length;a++){var o=r[t[a]];o.index=a,o.inStock?n.push(o):i.push(o)}return{inStock:n,outOfStock:i,asinMap:r}},e.formatCurrency=function(e){for(var t=(1*e).toFixed(2),n=i+t.replace(\".\",r);n!=t;)t=n,n=t.replace(/(\\d)(\\d{3}\\D)/,\"$1\"+a+\"$2\");return n},e.formatDate=function(e){var t=e.split(\"-\"),n=o[t[1]-1]+\" \"+t[2]+\", \"+t[0];return n},e.getPreorderText=function(i){return i?t.replace(\"RELEASEDATE\",e.formatDate(i)):n},e.getPpuText=function(t){if(t.pricePerUnit){var n=t.pricePerUnit.split(\"/\"),i=R(n[0]),r=R(n[1]);return\" (\"+e.formatCurrency(i)+\" / \"+r+\")\"}return\"\"},e}(),ct=function(){if(q=st.processAanResponse(V,nt),q.inStock||q.outOfStock){var e=q.inStock.length>0,t=e?q.inStock:q.outOfStock;if(d.options.length=0,h(t,function(e,t){var n=et[e.asin].label;d.options[t]=new Option(n,e.asin),d.options[t].title=n,d.options[t].innerHTML=n}),1==t.length&&S(F,\"singleAsin\"),e||S(F,\"fallback\"),it(),d.onchange=it,\"undefined\"!=typeof ClientMetrics){var n=e?\"inStock\":\"outOfStock\";ClientMetrics.logEvent(ClientMetrics.events.FINAL_STATE,n)}}},lt=function(e,n){Q(\"shopnow\"),G(M,L,n,t),G(H,E,n,t),G(j,I,n,t),j.innerHTML=e,\"function\"==typeof afterFallback&&afterFallback(n),\"undefined\"!=typeof ClientMetrics&&ClientMetrics.logEvent(ClientMetrics.events.FINAL_STATE,\"fallback\")},ut=1,ft=1e3,dt=1,pt=1500,gt={Operation:\"GetDecoratedOffers\",asins:nt.join(\",\"),attributes:\"customerReviewSummary\",marketplaceId:i,token:o,ContentType:\"JSON\"},mt=function(){l||u||(u=!0,ct(),y(F,!0),\"undefined\"!=typeof ClientMetrics&&ClientMetrics.timeFromStart(ClientMetrics.events.FINAL_STATE_TIME))},ht=function(t){_(F,\"fallback\");try{var n=t.GetDecoratedOffersResponse;n&&(offers=n.GetDecoratedOffersResult.offers)&&offers.length?(l=!0,V=offers,e.initialize(),\"undefined\"!=typeof ClientMetrics&&ClientMetrics.timeFromStart(ClientMetrics.events.FINAL_STATE_TIME)):mt()}catch(i){console.log(\"Error\",i),console.log(\"Error Message\",i.message),l=!1,mt()}};setTimeout(function(){l||(console.log(\"in the timeout callback\"),mt())},pt),x(s,gt,ut+1,ft,dt,ht,mt)}var r=/\\.amazon\\.com(:.*)?$/,a=\"undefined\"!=typeof IS_3P&&IS_3P,o=!1;if(!a){try{o=e.SFClient?SFClient.isOnAmazon():r.test(n.location.host)}catch(s){}var c=t.referrer;if(!o&&c){var l=/^((?:https?:)\\/\\/)?([\\w\\-\\.]+(?::[0-9]+)?)\\/?(.*)$/,u=c.match(l),f=u[2];o=r.test(f)}}var d,p=!a&&!o,g=function(){},m=function(e){return/s/.test(e.protocol)},h=function(e,t){for(var n=0,i=e.length;i>n;n++)t(e[n],n,e)},v=function(e){return t.getElementById(e)},C=function(e,t){var n=[];for(var i in e)n.push(i+\"=\"+e[i]);var r=n.join(\"&\");return t?encodeURIComponent(r):r},y=function(e,t,n,i){e.style.visibility=\"visible\";var r=new Date;d=d||r,i=i||300;var a=Math.min((r-d)/i,1);t||(a=1-a),M(e,a),t&&1>a||!t&&a>0?setTimeout(function(){y(e,t,n,i)},25):(d=null,e.style.filter=\"\",n&&n())},M=function(e,t){var n=e.style;n.display=\"block\",n.opacity=n.mozOpacity=t,n.filter=\"alpha(opacity=\"+100*t+\")\"},T=function(e,t,n){e.href=t,e.target=n?\"_blank\":\"_top\"},A=function(e,t){return e.className.match(new RegExp(\"(\\\\s|^)\"+t+\"(\\\\s|$)\"))},S=function(e,t){A(e,t)||(e.className+=\" \"+t)},_=function(e,t){if(A(e,t)){var n=new RegExp(\"(\\\\s|^)\"+t+\"(\\\\s|$)\");e.className=e.className.replace(n,\" \")}},b=function(e){_(e,\"hide\")},k=function(e){S(e,\"hide\")},R=function(e){return e.replace(/^\\s+|\\s+$/,\"\")},x=function(n,i,r,a,o,s,c){var l=\"serviceCallback\",u=0;i.JSONCallBack=l,\"undefined\"!=typeof ClientMetrics&&ClientMetrics.startTimer(ClientMetrics.events.AAN_TIME),e[l]=function(t){r=-1,c=e[l]=g,\"undefined\"!=typeof ClientMetrics&&(ClientMetrics.endTimer(ClientMetrics.events.AAN_TIME),ClientMetrics.logEvent(ClientMetrics.events.NUM_AAN_CALLS,u)),s(t)},function f(){if(r>0){var e=t.createElement(\"script\");e.src=\"//\"+n+\"?\"+C(i),t.body.appendChild(e),r--,u++,setTimeout(f,a),a*=o}else!r&&c&&(c(),\"undefined\"!=typeof ClientMetrics&&(ClientMetrics.addMetric(ClientMetrics.events.FINAL_STATE,\"aanFail\"),ClientMetrics.addMetric(ClientMetrics.events.NUM_AAN_CALLS,u),ClientMetrics.flushMetrics()))}()},E=\"adBackgroundClick\",I=\"adTitleClick\",w=\"addToCartClick\",L=\"shopNowClick\",N=\"preorderClick\",B=\"readAllReviewsClick\",D=\"ANY\",H=(\"ANY\"===D?location.protocol:D)+\"//s.amazon-adsystem.com\",P=\"\",F=\"7624066053401\",O=\"1762437129134\",U=\"pda\",$=\'VUE7d3GGM9rGaQJMpW3-lw\',z=function(e,t,n){var i={i:$,e:e,a:F,c:O,s:U},r={d:\"forester-did\",\"ex-fargs\":encodeURIComponent(\"?\"+C(i)),\"ex-fch\":416719,rd:t?encodeURIComponent(t):\"\",cb:(new Date).getTime()};t&&n&&(r.sig=n);var a=H+(t?\"/click\":\"/iui3\")+\"?\"+C(r);return a},G=function(e,t,n,i,r){T(e,z(t,n,r),i)},J=m(location)?\"//images-na.ssl-\":\"//g-ecx.\",K=J+\"images-amazon.com/images/G/01/\",W=300,j=v(\"link\"),Y=v(\"ad\"),Z=v(\"box\"),X=v(\"infoBorder\"),q=v(\"title\"),V=(v(\"header\"),v(\"headerWrapper\"),new i),Q=function(){var e=m(location)?\"https://images-na.ssl-images-amazon.com/images/I/51JMvZG5aKL._AC_SR128,145_.jpg\":\"http://ecx.images-amazon.com/images/I/51JMvZG5aKL._AC_SR128,145_.jpg\",n=150,i=v(\"asinSprite\"),r=v(\"asinImg\"),o=function(e){c(e);r.style.marginTop=\"0px\"},s=function(e,t,n,i){var r,a,o,s=e.lastIndexOf(\".\"),c=e.indexOf(\"_\"),l=e.substring(0,c),u=l.lastIndexOf(\"/\");if(r=l.substring(0,u+1),0==t)a=l.substring(u+1,l.length),o=e.substring(s,e.length);else{var f=e.split(\"|\");if(f.length<3)return\"\";var d=f[2].split(\",\");if(d.length<=t-1)return\"\";var p=d[t-1].split(\".\");a=p[0]+\".\",o=\".\"+(p.length>1?p[1]:\"\")}return r+a+\"_AC_SX\"+n+\"_SY\"+i+\"_\"+o},c=function(){\"visible\"!=Z.style.visibility&&(Z.style.visibility=\"hidden\",Z.style.display=\"block\");var e,t=8,n=j.offsetWidth-(Z.offsetWidth+3*t);return e=0>n?j.offsetWidth-2*t:n,Z.offsetLeft>t?i.style.left=t+\"px\":i.style.right=t+\"px\",i.style.bottom=j.offsetWidth-$info.offsetWidth<e?$info.offsetHeight+2*t+\"px\":$info.offsetHeight<e?t+\"px\":($info.offsetHeight-e)/2+t+\"px\",i.style.width=i.style.height=e+\"px\",r.style.height=products.length*e+products.length+\"px\",r.style.width=e+\"px\",e},l=function(a,s){if(e&&e.indexOf(\"|\")){i||(i=t.createElement(\"a\"),i.setAttribute(\"id\",\"asinSprite\"),Z.parentNode.appendChild(i),r=t.createElement(\"img\"),r.setAttribute(\"id\",\"asinImg\"),r.src=e,i.appendChild(r),r.style.border=\"0\",setTimeout(function(){var e=v(\"asinSprite\");M(e,1)},W));var c=function(){o(a),y(i,!0,null,n)};i.style.display?y(i,!1,c,n):o(a),T(i,s)}};getRedirectUrl=function(e,t){var n=t||DEFAULT_MERCHANT_ID,i=DEFAULT_MERCHANT_ID?!0:!1,r=BASE_URL+\"dp/\"+e+(i?\"?me=\"+n:\"\");return\"undefined\"!=typeof AMS_THIRD_PARTY_TRACKER&&(r=AMS_THIRD_PARTY_TRACKER||r),r};z=function(e,n){var i=t.getElementById(\"amsClickTrackerURLStore\");return i.value+n};var u={},f=!1,d=null;u={width:128,height:145},Z.className=\"importantTable\",c=function(){i.style.width=u.width+\"px\",i.style.height=u.height+\"px\";var t=(new Date).getTime(),n=s(e,0,u.width,u.height,t);f||(n=n.replace(/_AC_SX([0-9]*)_SY([0-9]*)_/,\"_SR$1,$2_\")),r.src=n;var a=new Image;a.onload=function(){r.style.width=this.width+\"px\",r.style.height=this.height+\"px\",\"function\"==typeof d&&d(this)},a.src=n},V.productChanged=function(e,n,i){var r=z(E,i);T(j,r),j.style.backgroundPosition=\"0 250px\";var a=t.getElementById(\"authorName\"),o=!0;if(a&&(o=!1),o){var s=t.createElement(\"div\");s.id=\"authorName\",s.innerHTML=\"Duke, Regina\";var c=t.getElementById(\"ratingInfo\");c.parentNode.insertBefore(s,c)}for(var u=q.innerHTML,f=u.length;q.offsetHeight>48;)q.innerHTML=q.innerHTML.substr(0,--f)+\"...\";X.style.display=\"table-row\",l(e,r)};V.initialize(),a&&S(Y,\"aap\")};Q(),e.onbeforeunload=g}(window,document,parent)},0);<\/script>\n</body></html><\!-- creativeModDate = 1424546671000 --\>\n <div id=\"btf_rhs2_webbug\" style=\"display:none;\">\n <img src=\"http://aax-us-east.amazon-adsystem.com/e/loi/imp?b=670265bf-8fa9-4b84-a922-cc95b5c85002\" border=\"0\" height=\"1\" width=\"1\" alt=\"\"/>\n </div>\n');
+},"unable to inject serverside ad");
+</script>
+</div>
+<div class="maindetails_center" id="maindetails_center_bottom">
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleEpisodesWidget_started');
+    }
+  </script>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleEpisodesWidget_finished');
+    }
+  </script>
+<div class="article highlighted" id="titleAwardsRanks">
+<span itemprop="awards"><b>Nominated for 1 Oscar.</b></span>
+<span itemprop="awards">Another 2 wins &amp; 15 nominations.</span>
+<span class="see-more inline">
+<a href="/title/tt0445922/awards?ref_=tt_awd">See more awards</a> »    </span>
+</div>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMediaStripWidget_started');
+    }
+  </script>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMediaStripWidget_started');
+    }
+  </script>
+<div class="article" id="titleMediaStrip">
+<div class="mediastrip_container combined">
+<div id="combined-videos">
+<h2>Videos</h2>
+<div class="mediastrip_big">
+<span class="video_slate" itemscope="" itemtype="http://schema.org/videoObject">
+<meta content="T134M0S" itemprop="duration"/>
+<a alt='Across the Universe -- Across the Universe, from director Julie Taymor, is a revolutionary rock musical that re-imagines America in the turbulent late-1960s, a time when battle lines were being drawn at home and abroad. With a cameo by Bono, Across the Universe is "the kind of movie you watch again, like listening to a favorite album." (Roger Ebert, CHICAGO SUN-TIMES)' class=" " data-context="amazon" data-rid="1AK0XKZG13BD3NB5PXAZ" data-video="vi1909170201" href="/offsite/?page-action=watch-aiv&amp;token=BCYoAfDd2a2QO6eq3YDI0hmkTz4KuAWLaJwfyZ2AuP5DkLTxxz47dnDuPB7-muj2OU1clBfuwI0J%0D%0AnI7P8T09gZv0gk9InZ4dKLrd5OTFoP9BM1uqJhCmd9M_IR711gUpWapzXPZb7lXh6eoYGOa2tKpy%0D%0Ap9YysQK-ZWD_xLycYIOkd9fUX3JqLRhfwWxktf1GjIDAkQj1mdYUflH3XZ0GHNPeTBt1Bxb71Xyz%0D%0A39wXfrS9_0BBZUwQJYgQZQ_u0Ugw2kVgL-uM2QA2KhqPHXNTyYsY0vQc5RzmyitSTkst1rIix5E%0D%0A&amp;ref_=tt_pv_vi_aiv_1" itemprop="url" onclick="window.open(this.href+'','_blank');return false;" title='Across the Universe -- Across the Universe, from director Julie Taymor, is a revolutionary rock musical that re-imagines America in the turbulent late-1960s, a time when battle lines were being drawn at home and abroad. With a cameo by Bono, Across the Universe is "the kind of movie you watch again, like listening to a favorite album." (Roger Ebert, CHICAGO SUN-TIMES)' widget-context="titleMaindetails"><img alt='Across the Universe -- Across the Universe, from director Julie Taymor, is a revolutionary rock musical that re-imagines America in the turbulent late-1960s, a time when battle lines were being drawn at home and abroad. With a cameo by Bono, Across the Universe is "the kind of movie you watch again, like listening to a favorite album." (Roger Ebert, CHICAGO SUN-TIMES)' class="loadlate hidden video" height="105" itemprop="image" loadlate="http://ia.media-imdb.com/images/M/MV5BMTIyMTUwNzg3Nl5BMl5BanBnXkFtZTcwMjM1MDI1MQ@@._V1_BR-65_CT-15_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-goldbutton-big,BottomRight,-1,-1_ZAFull%2520Movie,2,76,16,137,verdenab,8,255,255,255,1_ZAat%2520Amazon%2520%25BB,2,1,14,137,verdenab,7,255,255,255,1_ZA134:00,103,1,14,36,verdenab,7,255,255,255,1_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png" title='Across the Universe -- Across the Universe, from director Julie Taymor, is a revolutionary rock musical that re-imagines America in the turbulent late-1960s, a time when battle lines were being drawn at home and abroad. With a cameo by Bono, Across the Universe is "the kind of movie you watch again, like listening to a favorite album." (Roger Ebert, CHICAGO SUN-TIMES)' viconst="vi1909170201" width="139"/></a> </span>
+<span class="video_slate_last" itemscope="" itemtype="http://schema.org/videoObject">
+<meta content="T1M5S" itemprop="duration"/>
+<a alt="Across the Universe -- Clip: I am the walrus, part two" class="video-colorbox" data-context="screenplay" data-rid="1AK0XKZG13BD3NB5PXAZ" data-video="vi45416729" href="/video/screenplay/vi45416729?ref_=tt_pv_vi_aiv_2" itemprop="url" title="Across the Universe -- Clip: I am the walrus, part two" widget-context="titleMaindetails"><img alt="Across the Universe -- Clip: I am the walrus, part two" class="loadlate hidden video" height="105" itemprop="image" loadlate="http://ia.media-imdb.com/images/M/MV5BMTY2NjUxMjc2N15BMl5BanBnXkFtZTcwODQxMjY2MQ@@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAClip,2,76,16,137,verdenab,8,255,255,255,1_ZAon%2520IMDb,2,1,14,137,verdenab,7,255,255,255,1_ZA01:05,103,1,14,36,verdenab,7,255,255,255,1_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png" title="Across the Universe -- Clip: I am the walrus, part two" viconst="vi45416729" width="139"/></a> </span>
+</div>
+</div>
+<div id="combined-photos">
+<h2>Photos</h2>
+<div class="mediastrip">
+<a href="/media/rm3703216384/tt0445922?ref_=tt_pv_md_1" itemprop="thumbnailUrl"><img alt="Still of T.V. Carpio in Across the Universe (2007)" class="loadlate hidden " height="105" itemprop="image" loadlate="http://ia.media-imdb.com/images/M/MV5BMTc1MTQ1ODQyOV5BMl5BanBnXkFtZTYwMTg2MzQ3._V1_SY105_CR26,0,105,105_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png" title="Still of T.V. Carpio in Across the Universe (2007)" width="105"/></a>
+<a href="/media/rm3669661952/tt0445922?ref_=tt_pv_md_2" itemprop="thumbnailUrl"><img alt="Still of Joe Anderson in Across the Universe (2007)" class="loadlate hidden " height="105" itemprop="image" loadlate="http://ia.media-imdb.com/images/M/MV5BMjc5MTA3ODMzMF5BMl5BanBnXkFtZTYwNDg2MzQ3._V1_SX105_CR0,0,105,105_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png" title="Still of Joe Anderson in Across the Universe (2007)" width="105"/></a>
+<a href="/media/rm784046336/tt0445922?ref_=tt_pv_md_3" itemprop="thumbnailUrl"><img alt="Julie Taymor and Evan Rachel Wood in Across the Universe (2007)" class="loadlate hidden " height="105" itemprop="image" loadlate="http://ia.media-imdb.com/images/M/MV5BMTQ0MTUwOTcwMV5BMl5BanBnXkFtZTYwNTA3MzQ3._V1_SY105_CR18,0,105,105_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png" title="Julie Taymor and Evan Rachel Wood in Across the Universe (2007)" width="105"/></a> </div>
+</div>
+<div class="combined-see-more see-more">
+<a href="/title/tt0445922/mediaindex?ref_=tt_pv_mi_sm"><span class="titlePageSprite showAllVidsAndPics"></span></a>
+<a href="/title/tt0445922/mediaindex?ref_=tt_pv_mi_sm">61 photos</a>
+<span class="ghost">|</span>
+<a href="/title/tt0445922/videogallery?ref_=tt_pv_vi_sm">11 videos</a>
+<span class="ghost">|</span>
+<a href="/title/tt0445922/news?ref_=tt_pv_nw_sm">12 news articles</a> »            </div>
+</div>
+</div>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMediaStripWidget_finished');
+    }
+  </script>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMediaStripWidget_finished');
+    }
+  </script>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleRecsWidget_started');
+    }
+  </script>
+<div class="article" id="titleRecs">
+<span class="rightcornerlink">
+<a href="/help/show_leaf?personalrecommendations&amp;ref_=tt_rec_lm">Learn more</a>
+</span>
+<h2 class="rec_heading_wrapper">
+<span class="rec_heading" data-spec="p13nsims:tt0445922">People who liked this also liked... </span>
+</h2>
+<div class="rec_wrapper" data-caller-name="p13nsims-title" data-items-per-page="6" data-items-per-request="24" data-specs="p13nsims:tt0445922" id="title_recs">
+<div class="rec_const_picker">
+<div class="rec_view">
+<div class="rec_grave" style="display:none"></div>
+<div class="rec_slide">
+<div class="rec_page">
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0445922" data-tconst="tt0478087">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt0478087/?ref_=tt_rec_tti"><img alt="21" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BMjAyNTU5OTcxOV5BMl5BanBnXkFtZTcwMDEyNjM2MQ@@._V1_SY113_CR2,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="21" width="76"/> <br/>
+</a> </div>
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0445922" data-tconst="tt0328538">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt0328538/?ref_=tt_rec_tti"><img alt="Dreizehn" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BMTk0OTk5MzU3NF5BMl5BanBnXkFtZTcwOTQwNDAwMQ@@._V1_SY113_CR0,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="Dreizehn" width="76"/> <br/>
+</a> </div>
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0445922" data-tconst="tt1563738">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1563738/?ref_=tt_rec_tti"><img alt="Zwei an einem Tag" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BMTQ3NTg2MDI3NF5BMl5BanBnXkFtZTcwMjc5MTA1NA@@._V1_SY113_CR0,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="Zwei an einem Tag" width="76"/> <br/>
+</a> </div>
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0445922" data-tconst="tt0203009">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt0203009/?ref_=tt_rec_tti"><img alt="Moulin Rouge!" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BMTk5Mjg0MzM3MV5BMl5BanBnXkFtZTcwMTEyMjcxMQ@@._V1_SY113_CR1,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="Moulin Rouge!" width="76"/> <br/>
+</a> </div>
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0445922" data-tconst="tt3812730">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt3812730/?ref_=tt_rec_tti"><img alt="A Midsummer Night's Dream" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BMTc4OTQyNDQ4NF5BMl5BanBnXkFtZTgwNTM3MjI2MjE@._V1_SY113_CR62,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="A Midsummer Night's Dream" width="76"/> <br/>
+</a> </div>
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0445922" data-tconst="tt1374992">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1374992/?ref_=tt_rec_tti"><img alt="Upside Down" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BMTgzNzM4ODMwNV5BMl5BanBnXkFtZTcwNDU1MzEwOQ@@._V1_SY113_CR0,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="Upside Down" width="76"/> <br/>
+</a> </div>
+</div>
+</div>
+<div class="rec_nav">
+<div class="rec_nav_page_num"></div>
+<a class="rec_nav_left">◄ Prev 6</a>
+<a class="rec_nav_right">Next 6 ►</a>
+</div>
+</div>
+</div>
+<div class="rec_overviews">
+<div class="rec_overview" data-tconst="tt0478087">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0445922" data-tconst="tt0478087">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt0478087/?ref_=tt_rec_tti"><img alt="21" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BMjAyNTU5OTcxOV5BMl5BanBnXkFtZTcwMDEyNjM2MQ@@._V1_SY190_CR4,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="21" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt0478087" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="fe03">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt0478087/?ref_=tt_rec_tt"><b>21</b></a>
+<span class="nobr">(2008)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+<span class="de_12 titlePageSprite absmiddle" title="Ratings certificate for 21 (2008)"></span>
+
+                     Biography          
+ <span class="ghost">|</span> 
+                     Crime          
+ <span class="ghost">|</span> 
+                     Drama          
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt0478087|imdb|6,8|6,8|p13nsims-title|tt0445922|title|main" title="Users rated this 6,8/10 (173.845 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 95,2px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">6,8</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0478087/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+"21" is the fact-based story about six MIT students who were trained to become experts in card counting and subsequently took Vegas casinos for millions in winnings.    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Director:</b>
+Robert Luketic  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+Jim Sturgess, 
+Kate Bosworth, 
+Kevin Spacey</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="rec_overview" data-tconst="tt0328538">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0445922" data-tconst="tt0328538">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt0328538/?ref_=tt_rec_tti"><img alt="Dreizehn" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BMTk0OTk5MzU3NF5BMl5BanBnXkFtZTcwOTQwNDAwMQ@@._V1_SY190_CR0,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="Dreizehn" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt0328538" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="fe03">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt0328538/?ref_=tt_rec_tt"><b>Dreizehn</b></a>
+<span class="nobr">(2003)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+<span class="de_12 titlePageSprite absmiddle" title="Ratings certificate for Dreizehn (2003)"></span>
+
+                     Biography          
+ <span class="ghost">|</span> 
+                     Drama          
+
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt0328538|imdb|6,9|6,9|p13nsims-title|tt0445922|title|main" title="Users rated this 6,9/10 (61.057 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 96,6px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">6,9</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0328538/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+A thirteen-year-old girl's relationship with her mother is put to the test as she discovers drugs, sex, and petty crime in the company of her cool but troubled best friend.    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Director:</b>
+Catherine Hardwicke  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+Evan Rachel Wood, 
+Holly Hunter, 
+Nikki Reed</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="rec_overview" data-tconst="tt1563738">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0445922" data-tconst="tt1563738">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1563738/?ref_=tt_rec_tti"><img alt="Zwei an einem Tag" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BMTQ3NTg2MDI3NF5BMl5BanBnXkFtZTcwMjc5MTA1NA@@._V1_SY190_CR0,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="Zwei an einem Tag" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt1563738" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="fe03">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt1563738/?ref_=tt_rec_tt"><b>Zwei an einem Tag</b></a>
+<span class="nobr">(2011)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+<span class="de_12 titlePageSprite absmiddle" title="Ratings certificate for Zwei an einem Tag (2011)"></span>
+
+                     Drama          
+ <span class="ghost">|</span> 
+                     Romance          
+
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt1563738|imdb|7|7|p13nsims-title|tt0445922|title|main" title="Users rated this 7/10 (85.063 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 98px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt1563738/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+After spending the night together on the night of their college graduation Dexter and Em are shown each year on the same date to see where they are in their lives. They are sometimes together, sometimes not, on that day.    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Director:</b>
+Lone Scherfig  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+Anne Hathaway, 
+Jim Sturgess, 
+Patricia Clarkson</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="rec_overview" data-tconst="tt0203009">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0445922" data-tconst="tt0203009">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt0203009/?ref_=tt_rec_tti"><img alt="Moulin Rouge!" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BMTk5Mjg0MzM3MV5BMl5BanBnXkFtZTcwMTEyMjcxMQ@@._V1_SY190_CR1,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="Moulin Rouge!" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt0203009" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="fe03">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt0203009/?ref_=tt_rec_tt"><b>Moulin Rouge!</b></a>
+<span class="nobr">(2001)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+<span class="de_12 titlePageSprite absmiddle" title="Ratings certificate for Moulin Rouge! (2001)"></span>
+
+                     Drama          
+ <span class="ghost">|</span> 
+                     Musical          
+ <span class="ghost">|</span> 
+                     Romance          
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt0203009|imdb|7,7|7,7|p13nsims-title|tt0445922|title|main" title="Users rated this 7,7/10 (203.304 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 107,8px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7,7</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0203009/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+A poet falls for a beautiful courtesan whom a jealous duke covets in this stylish musical, with music drawn from familiar 20th century sources.    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Director:</b>
+Baz Luhrmann  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+Nicole Kidman, 
+Ewan McGregor, 
+John Leguizamo</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="rec_overview" data-tconst="tt3812730">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0445922" data-tconst="tt3812730">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt3812730/?ref_=tt_rec_tti"><img alt="A Midsummer Night's Dream" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BMTc4OTQyNDQ4NF5BMl5BanBnXkFtZTgwNTM3MjI2MjE@._V1_SY190_CR105,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="A Midsummer Night's Dream" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt3812730" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="fe03">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt3812730/?ref_=tt_rec_tt"><b>A Midsummer Night's Dream</b></a>
+<span class="nobr">(2014)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+        
+
+            
+
+                     Comedy          
+
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt3812730|imdb|6,1|6,1|p13nsims-title|tt0445922|title|main" title="Users rated this 6,1/10 (19 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 85,4px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">6,1</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt3812730/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+The play presents love in all its glory, warts and all: Love at first sight, innocent love, love twisted by the mind...                <a href="/title/tt3812730/synopsis?ref_=tt_ov_ps">See full synopsis</a> »
+    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Director:</b>
+Julie Taymor  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+Zach Appelman, 
+Jarrett Austin Brown, 
+Brendan Averett</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="rec_overview" data-tconst="tt1374992">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0445922" data-tconst="tt1374992">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1374992/?ref_=tt_rec_tti"><img alt="Upside Down" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BMTgzNzM4ODMwNV5BMl5BanBnXkFtZTcwNDU1MzEwOQ@@._V1_SY190_CR0,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="Upside Down" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt1374992" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="fe03">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt1374992/?ref_=tt_rec_tt"><b>Upside Down</b></a>
+<span>I</span>
+<span class="nobr">(2012)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+<span class="de_6 titlePageSprite absmiddle" title="Ratings certificate for Upside Down (2012)"></span>
+
+                     Drama          
+ <span class="ghost">|</span> 
+                     Fantasy          
+ <span class="ghost">|</span> 
+                     Romance          
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt1374992|imdb|6,4|6,4|p13nsims-title|tt0445922|title|main" title="Users rated this 6,4/10 (50.123 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 89,6px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">6,4</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt1374992/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+Adam and Eden fell in love as teens despite the fact that they live on twinned worlds with gravities that pull in opposite directions. Ten years after a forced separation, Adam sets out on a dangerous quest to reconnect with his love.    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Director:</b>
+Juan Solanas  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+Jim Sturgess, 
+Kirsten Dunst, 
+Timothy Spall</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleRecsWidget_finished');
+    }
+  </script>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleCastWidget_started');
+    }
+  </script>
+<div class="article" id="titleCast">
+<span class="rightcornerlink">
+<a href="/register/login?why=edit&amp;ref_=tt_cl" rel="login">Edit</a>
+</span>
+<h2>Cast</h2>
+<table class="cast_list">
+<tr><td class="castlist_label" colspan="4">Cast overview, first billed only:</td></tr>
+<tr class="odd">
+<td class="primary_photo">
+<a href="/name/nm0939697/?ref_=tt_cl_i1"><img alt="Evan Rachel Wood" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMTA2OTM4NDI3NTheQTJeQWpwZ15BbWU3MDA4NzI3Mjc@._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Evan Rachel Wood" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0939697/?ref_=tt_cl_t1" itemprop="url"> <span class="itemprop" itemprop="name">Evan Rachel Wood</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0060560/?ref_=tt_cl_t1">Lucy Carrigan</a>
+</div>
+</td>
+</tr>
+<tr class="even">
+<td class="primary_photo">
+<a href="/name/nm0836343/?ref_=tt_cl_i2"><img alt="Jim Sturgess" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BNDU0NTE0NDYwOF5BMl5BanBnXkFtZTcwMDc2MDI3Nw@@._V1_SY44_CR1,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Jim Sturgess" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0836343/?ref_=tt_cl_t2" itemprop="url"> <span class="itemprop" itemprop="name">Jim Sturgess</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0028769/?ref_=tt_cl_t2">Jude</a>
+</div>
+</td>
+</tr>
+<tr class="odd">
+<td class="primary_photo">
+<a href="/name/nm1725848/?ref_=tt_cl_i3"><img alt="Joe Anderson" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BNjM2NTkyNjUzOV5BMl5BanBnXkFtZTcwNDg5Njk3OQ@@._V1_SY44_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Joe Anderson" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm1725848/?ref_=tt_cl_t3" itemprop="url"> <span class="itemprop" itemprop="name">Joe Anderson</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0029571/?ref_=tt_cl_t3">Max Carrigan</a>
+</div>
+</td>
+</tr>
+<tr class="even">
+<td class="primary_photo">
+<a href="/name/nm2085629/?ref_=tt_cl_i4"><img alt="Dana Fuchs" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMzE0MTM4MDYzOV5BMl5BanBnXkFtZTgwNTI3OTAwMDE@._V1_SY44_CR17,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Dana Fuchs" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm2085629/?ref_=tt_cl_t4" itemprop="url"> <span class="itemprop" itemprop="name">Dana Fuchs</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0029575/?ref_=tt_cl_t4">Sadie</a>
+</div>
+</td>
+</tr>
+<tr class="odd">
+<td class="primary_photo">
+<a href="/name/nm2028439/?ref_=tt_cl_i5"><img alt="Martin Luther" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMTI1MDI1MzQ5MF5BMl5BanBnXkFtZTYwNzI3MzQ3._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Martin Luther" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm2028439/?ref_=tt_cl_t5" itemprop="url"> <span class="itemprop" itemprop="name">Martin Luther</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0091025/?ref_=tt_cl_t5">Jo-Jo</a> 
+  
+  
+  (as Martin Luther McCoy)
+  
+                  
+              </div>
+</td>
+</tr>
+<tr class="even">
+<td class="primary_photo">
+<a href="/name/nm1410258/?ref_=tt_cl_i6"><img alt="T.V. Carpio" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMTIwNTMyNTUyN15BMl5BanBnXkFtZTcwOTU5ODkyMQ@@._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="T.V. Carpio" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm1410258/?ref_=tt_cl_t6" itemprop="url"> <span class="itemprop" itemprop="name">T.V. Carpio</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0030699/?ref_=tt_cl_t6">Prudence</a>
+</div>
+</td>
+</tr>
+<tr class="odd">
+<td class="primary_photo">
+<a href="/name/nm0509822/?ref_=tt_cl_i7"><img alt="Spencer Liff" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BNDI1NzI0NDg3OV5BMl5BanBnXkFtZTgwNjY0NDcxMjE@._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Spencer Liff" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0509822/?ref_=tt_cl_t7" itemprop="url"> <span class="itemprop" itemprop="name">Spencer Liff</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0051797/?ref_=tt_cl_t7">Daniel</a>
+</div>
+</td>
+</tr>
+<tr class="even">
+<td class="primary_photo">
+<a href="/name/nm1597101/?ref_=tt_cl_i8"><img alt="Lisa Hogg" class="" height="44" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Lisa Hogg" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm1597101/?ref_=tt_cl_t8" itemprop="url"> <span class="itemprop" itemprop="name">Lisa Hogg</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0043753/?ref_=tt_cl_t8">Jude's Liverpool Girlfriend</a>
+</div>
+</td>
+</tr>
+<tr class="odd">
+<td class="primary_photo">
+<a href="/name/nm0525924/?ref_=tt_cl_i9"><img alt="Nicholas Lumley" class="" height="44" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Nicholas Lumley" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0525924/?ref_=tt_cl_t9" itemprop="url"> <span class="itemprop" itemprop="name">Nicholas Lumley</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0094765/?ref_=tt_cl_t9">Cyril</a>
+</div>
+</td>
+</tr>
+<tr class="even">
+<td class="primary_photo">
+<a href="/name/nm0752730/?ref_=tt_cl_i10"><img alt="Michael Ryan" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMjA2NjM0ODgxMl5BMl5BanBnXkFtZTgwOTEyMzAwMjE@._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Michael Ryan" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0752730/?ref_=tt_cl_t10" itemprop="url"> <span class="itemprop" itemprop="name">Michael Ryan</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0094766/?ref_=tt_cl_t10">Phil</a>
+</div>
+</td>
+</tr>
+<tr class="odd">
+<td class="primary_photo">
+<a href="/name/nm2152276/?ref_=tt_cl_i11"><img alt="Angela Mounsey" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMjAyNzgxNTMxMF5BMl5BanBnXkFtZTYwOTIwNDk1._V1_SY44_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Angela Mounsey" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm2152276/?ref_=tt_cl_t11" itemprop="url"> <span class="itemprop" itemprop="name">Angela Mounsey</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+            Martha Feeny - Jude's Mother 
+                  
+              </div>
+</td>
+</tr>
+<tr class="even">
+<td class="primary_photo">
+<a href="/name/nm1242906/?ref_=tt_cl_i12"><img alt="Erin Elliott" class="" height="44" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Erin Elliott" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm1242906/?ref_=tt_cl_t12" itemprop="url"> <span class="itemprop" itemprop="name">Erin Elliott</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+            Cheer Coach 
+                  
+              </div>
+</td>
+</tr>
+<tr class="odd">
+<td class="primary_photo">
+<a href="/name/nm0167024/?ref_=tt_cl_i13"><img alt="Robert Clohessy" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMTk3MTg1ODExMl5BMl5BanBnXkFtZTcwODY2NDIzMQ@@._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Robert Clohessy" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0167024/?ref_=tt_cl_t13" itemprop="url"> <span class="itemprop" itemprop="name">Robert Clohessy</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+            Wesley 'Wes' Huber - Jude's Father 
+                  
+              </div>
+</td>
+</tr>
+<tr class="even">
+<td class="primary_photo">
+<a href="/name/nm2766214/?ref_=tt_cl_i14"><img alt="Christopher Tierney" class="" height="44" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Christopher Tierney" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm2766214/?ref_=tt_cl_t14" itemprop="url"> <span class="itemprop" itemprop="name">Christopher Tierney</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+            Dorm Buddy /  
+            Dancer 
+                  
+              </div>
+</td>
+</tr>
+<tr class="odd">
+<td class="primary_photo">
+<a href="/name/nm2357535/?ref_=tt_cl_i15"><img alt="Curtis Holbrook" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMjE4NTA2MjA2OV5BMl5BanBnXkFtZTgwMjc5NjMwMzE@._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Curtis Holbrook" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm2357535/?ref_=tt_cl_t15" itemprop="url"> <span class="itemprop" itemprop="name">Curtis Holbrook</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+            Dorm Buddy 
+                  
+              </div>
+</td>
+</tr>
+</table>
+<div class="see-more">
+<a href="fullcredits?ref_=tt_cl_sm#cast">See full cast</a> »
+        </div>
+</div>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleCastWidget_finished');
+    }
+  </script>
+<!-- no content received for slot: maindetails_center_ad -->
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleStorylineWidget_started');
+    }
+  </script>
+<div class="article" id="titleStoryLine">
+<span class="rightcornerlink">
+<a href="/register/login?why=edit&amp;ref_=tt_stry" rel="login">Edit</a>
+</span>
+<h2>Storyline</h2>
+<div class="inline canwrap" itemprop="description">
+<p>
+Across The Universe is a fictional love story set in the 1960s amid the turbulent years of anti-war protest, the struggle for free speech and civil rights, mind exploration and rock and roll. At once gritty, whimsical and highly theatrical, the story moves from high schools and universities in Massachusetts, Princeton and Ohio to the Lower East Side of Manhattan, the Detroit riots, Vietnam and the dockyards of Liverpool. A combination of live action and animation, the film is paired with many songs by <a href="/name/nm1397313?ref_=tt_stry_pl">The Beatles</a> that defined the time.                <em class="nobr">Written by
+<a href="/search/title?plot_author=Anonymous&amp;view=simple&amp;sort=alpha&amp;ref_=tt_stry_pl">Anonymous</a></em> </p>
+</div>
+<span class="see-more inline">
+<a href="/title/tt0445922/plotsummary?ref_=tt_stry_pl">Plot Summary</a>
+<span>|</span>
+<a href="/title/tt0445922/synopsis?ref_=tt_stry_pl">Plot Synopsis</a>
+</span>
+<hr/>
+<div class="see-more inline canwrap" itemprop="keywords">
+<h4 class="inline">Plot Keywords:</h4>
+<a href="/keyword/love?ref_=tt_stry_kw"> <span class="itemprop" itemprop="keywords">love</span></a>
+<span>|</span>
+<a href="/keyword/song?ref_=tt_stry_kw"> <span class="itemprop" itemprop="keywords">song</span></a>
+<span>|</span>
+<a href="/keyword/protest?ref_=tt_stry_kw"> <span class="itemprop" itemprop="keywords">protest</span></a>
+<span>|</span>
+<a href="/keyword/anti-war?ref_=tt_stry_kw"> <span class="itemprop" itemprop="keywords">anti war</span></a>
+<span>|</span>
+<a href="/keyword/liverpool?ref_=tt_stry_kw"> <span class="itemprop" itemprop="keywords">liverpool</span></a>
+<span>|</span> <nobr><a href="/title/tt0445922/keywords?ref_=tt_stry_kw">See All (410)</a> »</nobr>
+</div>
+<hr/>
+<div class="txt-block">
+<h4 class="inline">Taglines:</h4>
+From director Julie Taymor comes the most original, exhilarating, spectacular, groundbreaking motion picture of the year.                <span class="see-more inline">
+<a href="/title/tt0445922/taglines?ref_=tt_stry_tg"> See more</a> »
+                </span>
+</div>
+<hr/>
+<div class="see-more inline canwrap" itemprop="genre">
+<h4 class="inline">Genres:</h4>
+<a href="/genre/Drama?ref_=tt_stry_gnr"> Drama</a> <span>|</span>
+<a href="/genre/Fantasy?ref_=tt_stry_gnr"> Fantasy</a> <span>|</span>
+<a href="/genre/Musical?ref_=tt_stry_gnr"> Musical</a> <span>|</span>
+<a href="/genre/Romance?ref_=tt_stry_gnr"> Romance</a>
+</div>
+<hr/>
+<div class="txt-block">
+<h4 class="inline">Certificate:</h4>
+<span itemprop="contentRating">12</span>
+<span class="ghost">|</span> <span class="see-more inline">
+<a href="/title/tt0445922/parentalguide?ref_=tt_stry_pg#certification"> See all certifications</a> »
+            </span>
+</div>
+<div class="txt-block">
+<h4 class="inline">Parents Guide:</h4>
+<span class="see-more inline" itemprop="audience" itemscope="" itemtype="http://schema.org/Audience">
+<a href="/title/tt0445922/parentalguide?ref_=tt_stry_pg" itemprop="url"> View content advisory</a> »
+        </span>
+</div>
+</div>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleStorylineWidget_finished');
+    }
+  </script>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleDetailsWidget_started');
+    }
+  </script>
+<div class="article" id="titleDetails">
+<span class="rightcornerlink">
+<a href="/register/login?why=edit&amp;ref_=tt_dt_dt" rel="login">Edit</a>
+</span>
+<h2>Details</h2>
+<div class="txt-block">
+<h4 class="inline">Official Sites:</h4>
+<a href="/offsite/?page-action=offsite-sonypictures&amp;token=BCYvoud3a0rjsXdUn_Txq3Ekv7LPMIumXR7p0UZPL635Z6dzMZj-MzNco8yCphY4pXSpv370YWY8%0D%0A0ZzYpaWjuI6vUfodqaMOlz555GrNW62S5OVYcdQmgL-8ScYyRYQqnlBe7ekULXgO3eEDbi3Vm9IA%0D%0AwnjlntFij-v4O5bF2YkwPZhwQg-M2vdUczA9yd1-lP6LoRvaKnUXT7xQUpWuU-fU8z4iHs2_nILV%0D%0AtM61rdyddxkWu0So87DIKKkZHOiTUJOS%0D%0A&amp;ref_=tt_pdt_ofs_offsite_0" itemprop="url" rel="nofollow">sony Pictures [United States]</a>
+<span class="see-more inline">
+</span>
+</div>
+<div class="txt-block">
+<h4 class="inline">Country:</h4>
+<a href="/country/us?ref_=tt_dt_dt" itemprop="url">USA</a>
+<span class="ghost">|</span>
+<a href="/country/gb?ref_=tt_dt_dt" itemprop="url">UK</a>
+</div>
+<div class="txt-block">
+<h4 class="inline">Language:</h4>
+<a href="/language/en?ref_=tt_dt_dt" itemprop="url">English</a>
+</div>
+<div class="txt-block">
+<h4 class="inline">Release Date:</h4> 22 November 2007 (Germany)
+    <span class="see-more inline">
+<a href="releaseinfo?ref_=tt_dt_dt" itemprop="url">See more</a> »
+    </span>
+</div>
+<div class="txt-block">
+<h4 class="inline">Also Known As:</h4> Across the Universe
+      <span class="see-more inline">
+<a href="releaseinfo?ref_=tt_dt_dt#akas" itemprop="url">See more</a> »
+      </span>
+</div>
+<div class="txt-block">
+<h4 class="inline">Filming Locations:</h4>
+<a href="/search/title?locations=Museum+of+the+City+of+New+York+-+1220+Fifth+Avenue%2C+Manhattan%2C+New+York+City%2C+New+York%2C+USA&amp;ref_=tt_dt_dt" itemprop="url">Museum of the City of New York - 1220 Fifth Avenue, Manhattan, New York City, New York, USA</a>
+<span class="see-more inline">
+<a href="locations?ref_=tt_dt_dt" itemprop="url">See more</a> »
+      </span>
+</div>
+<hr/>
+<h3>Box Office</h3>
+<div class="txt-block">
+<h4 class="inline">Budget:</h4>        $45.000.000        
+
+      <span class="attribute">(estimated)</span>
+</div>
+<div class="txt-block">
+<h4 class="inline">Opening Weekend:</h4>         $667.784        
+
+      (USA)
+      <span class="attribute">(14 September 2007)</span>
+</div>
+<div class="txt-block">
+<h4 class="inline">Gross:</h4>        $24.343.673        
+
+      <span class="attribute">(USA)</span>
+<span class="attribute">(7 December 2007)</span>
+</div>
+<span class="see-more inline">
+<a href="business?ref_=tt_dt_bus" itemprop="url">See more</a> »
+  </span>
+<hr/>
+<h3>Company Credits</h3>
+<div class="txt-block">
+<h4 class="inline">Production Co:</h4>
+<span itemprop="creator" itemscope="" itemtype="http://schema.org/Organization">
+<a href="/company/co0003580?ref_=tt_dt_co" itemprop="url"><span class="itemprop" itemprop="name">Revolution Studios</span></a></span>,        <span itemprop="creator" itemscope="" itemtype="http://schema.org/Organization">
+<a href="/company/co0177684?ref_=tt_dt_co" itemprop="url"><span class="itemprop" itemprop="name">Gross Entertainment</span></a></span>,        <span itemprop="creator" itemscope="" itemtype="http://schema.org/Organization">
+<a href="/company/co0050544?ref_=tt_dt_co" itemprop="url"><span class="itemprop" itemprop="name">Team Todd</span></a></span> <span class="see-more inline">
+<a href="companycredits?ref_=tt_dt_co" itemprop="url">See more</a> »
+      </span>
+</div>
+<div class="txt-block"> 
+  Show detailed
+<a href="http://pro.imdb.com/title/tt0445922/companycredits?rf=cons_tt_cocred_tt&amp;ref_=cons_tt_cocred_tt" itemprop="url">company contact information</a>
+  on 
+  <a href="http://pro.imdb.com/signup/index.html?rf=cons_tt_cocred_spl&amp;ref_=cons_tt_cocred_spl" itemprop="url">IMDbPro</a> »
+  </div>
+<hr/>
+<h3>Technical Specs</h3>
+<div class="txt-block">
+<h4 class="inline">Runtime:</h4>
+<time datetime="PT133M" itemprop="duration">133 min</time>
+</div>
+<div class="txt-block">
+<h4 class="inline">Sound Mix:</h4>
+<a href="/search/title?sound_mixes=sdds&amp;ref_=tt_dt_spec" itemprop="url">SDDS</a>
+<span class="ghost">|</span> <a href="/search/title?sound_mixes=dolby_digital&amp;ref_=tt_dt_spec" itemprop="url">Dolby Digital</a>
+<span class="ghost">|</span> <a href="/search/title?sound_mixes=dts&amp;ref_=tt_dt_spec" itemprop="url">DTS</a>
+</div>
+<div class="txt-block">
+<h4 class="inline">Color:</h4>
+<a href="/search/title?colors=color&amp;ref_=tt_dt_spec" itemprop="url">Color</a>
+</div>
+<div class="txt-block">
+<h4 class="inline">Aspect Ratio:</h4> 2.35 : 1
+    </div>
+  
+  See <a href="technical?ref_=tt_dt_spec" itemprop="url">full technical specs</a> »
+    </div>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleDetailsWidget_finished');
+    }
+  </script>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleDidYouKnowWidget_started');
+    }
+  </script>
+<div class="article" id="titleDidYouKnow">
+<span class="rightcornerlink">
+<a href="/register/login?why=edit&amp;ref_=tt_trv_trv" rel="login">Edit</a>
+</span>
+<h2>Did You Know?</h2>
+<div class="txt-block" id="trivia">
+<h4>Trivia</h4>
+
+
+During the "Mr. Kite" scene, Mr, Kite says "Just tune in, turn off, drop out, drop in, switch off, switch on, and explode", which is a reference to a quote from Professor <a href="/name/nm0495276?ref_=tt_trv_trv">Timothy Leary</a>.        <a class="nobr" href="trivia?ref_=tt_trv_trv">See more</a>  »
+    </div>
+<hr/>
+<div class="txt-block" id="goofs">
+<h4>Goofs</h4>
+In the scene where the white women dance on top of the water and, subsequently, fall in, one of the platforms that a dancer (on the right side of the "v") is standing on is clearly visible, covered and uncovered by the waves.        <a class="nobr" href="trivia?tab=gf&amp;ref_=tt_trv_gf">See more</a>  »
+    </div>
+<hr/>
+<div class="text-block" id="quotes">
+<h4>Quotes</h4>
+[<span class="fine">first lines</span>]
+<br/><a href="/name/nm0836343/?ref_=tt_trv_qu"><span class="character">Jude</span></a>:
+[<span class="fine">singing</span>]
+Is there anybody going to listen to my story all about the girl who came to stay? She's the kind of girl you want so much, it makes you sorry. Still, you don't regret a single day. Aw, girl. Girl...
+<br/> <a class="nobr" href="trivia?tab=qt&amp;ref_=tt_trv_qu">See more</a> »
+    </div>
+<hr/>
+<div class="text-block" id="connections">
+<h4>Connections</h4>
+        References <a href="/title/tt0063823?ref_=tt_trv_cnn">Yellow Submarine</a> (1968)
+
+
+        <a class="nobr" href="trivia?tab=mc&amp;ref_=tt_trv_cnn">See more</a> »
+    </div>
+<hr/>
+<div class="text-block" id="soundtracks">
+<h4>Soundtracks</h4>
+It Won't Be Long<br/>
+Written by <a href="/name/nm0006168?ref_=tt_trv_snd">John Lennon</a> and <a href="/name/nm0005200?ref_=tt_trv_snd">Paul McCartney</a><br/>
+Performed by <a href="/name/nm0939697?ref_=tt_trv_snd">Evan Rachel Wood</a> and chorus<br/> <a class="nobr" href="soundtrack?ref_=tt_trv_snd">See more</a> »
+    </div>
+</div>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleDidYouKnowWidget_finished');
+    }
+  </script>
+</div>
+</div>
+<div class="redesign clear" id="content-1">
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleFAQWidget_started');
+    }
+  </script>
+<div class="article" id="titleFAQ">
+<h2>Frequently Asked Questions</h2>
+<div class="faq">
+<div class="odd">
+<b>Q:</b>
+<a href="/title/tt0445922/faq?ref_=tt_faq_1#.2.1.7"> Where did the character's names come from?</a>
+</div>
+<div class="even">
+<b>Q:</b>
+<a href="/title/tt0445922/faq?ref_=tt_faq_2#.2.1.8"> Are there any other Beatles references in this movie?</a>
+</div>
+<div class="odd">
+<b>Q:</b>
+<a href="/title/tt0445922/faq?ref_=tt_faq_3#.2.1.11"> Was Prudence a lesbian?</a>
+</div>
+</div>
+<span class="see-more inline">
+<a class="nobr" href="/title/tt0445922/faq?ref_=tt_faq_sm">See more</a>
+<span class="spoilers">(Spoiler Alert!)</span></span> »
+    </div>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleFAQWidget_finished');
+    }
+  </script>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleUserReviewsWidget_started');
+    }
+  </script>
+<div class="article" id="titleUserReviewsTeaser">
+<h2>User Reviews</h2>
+<div class="user-comments">
+<div class="tinystarbar" title="10/10">
+<div style="width: 100px;"> </div>
+</div>
+<span itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<strong itemprop="name">The 1960's Counterculture In All Its Glory!</strong>
+<span itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<meta content="1" itemprop="worstRating"/>
+<meta content="10" itemprop="ratingValue"/>
+<meta content="10" itemprop="bestRating"/>
+</span>
+<div class="comment-meta">
+                        1 October 2007 | by <a href="/user/ur8998988/?ref_=tt_urv"><span itemprop="author">liberalgems</span></a>
+<meta content="2007-10-01" itemprop="datePublished"/>
+                              (Baltimore, Maryland)
+                        – <a href="/user/ur8998988/comments?ref_=tt_urv">See all my reviews</a>
+</div>
+<div>
+<p itemprop="reviewBody">As someone who was literally a child of the mid - late 60's &amp; and a student of the time period, I first want to thank everyone who had anything to do with the making of this film! Your timing could not of been better! You helped me to remember the fervor, passion and idealism that made up the mid-late 60's. It's been many years since I have burst out sobbing in a movie theater! Thanks for helping to lift the fog a bit! As an activist, you have collectively given me some badly needed renewed vigor! <br/><br/>I also feel so very, very sorry for all the critics of this movie who don't have a clue about what it all this means, or whose hearts have grown so hard with such bitterness, cynicism or despair; or have just simply sold-out; or plain no longer care! All your ranting and raving and nay saying won't do a thing to take away one moment of the adventure, creativity, experimentation, excitement or passion that made this time in history so great!<br/><br/>I also what to thank the brilliant filmmakers for paying homage to so many great cultural icons, organizations and events of the period: Walter Cronkite, the greatest broadcaster of the 20th century. Baba Olatunji, the Nigerian Drummer and social activist, his double looked like he came right off the Drums of Passion album cover! I can now see him smiling from heaven! The tremendous scene with Bread and Puppets, a living, breathing, direct link to 1960's radicalism, warmed my heart! You even went up to their stronghold in Glover, Vermont, to film part of the scene! Bravo! The SDS (Students for a Democratic Society), which did not advocate violence, and the much smaller splinter-group that morphed into an organization advocating extreme measures, called the Weather Underground. The brave Martin Luther King, Jr. and his intervention in a labor dispute, which cost him his life. The historic occupation of the Ivy League, Columbia University by its students protesting both the Vietnam war and the intense poverty that surrounded the school. Ken Kesey and his legendary bus. The Jimi Hendrix &amp; Janice Jopplin characters who show such dignity, and a passion for music. And, of course, the Beatles! Their music reaches deep into my soul. You gave me insights into the meaning of their tunes that after all these years never crossed my mind! <br/><br/>I also enjoyed being bathed in all the very colorful special affects. The 60's and early 70's were a time of outrageously bold colors and design. Something brilliantly portrayed in Across the Universe! The only film I intend to purchase on DVD that has been released this year!</p>
+</div>
+</span>
+<hr/>
+<div class="yn" id="ynd_1739008">
+                    154 of 228 people found this review helpful. 
+                    Was this review helpful to you?
+                    <button class="btn small" name="ynb_1739008_yes" onclick="CS.TMD.user_review_vote(1739008, 'tt0445922', 'yes');" value="Yes">Yes</button>
+<button class="btn small" name="ynb_1739008_no" onclick="CS.TMD.user_review_vote(1739008, 'tt0445922', 'no');" value="No">No</button>
+</div>
+<div class="see-more">
+<a href="/title/tt0445922/reviews-enter?ref_=tt_urv" rel="login">Review this title</a>
+<span>|</span>
+<a href="/title/tt0445922/reviews?ref_=tt_urv">See all 515 user reviews</a> »
+            </div>
+</div>
+</div>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleUserReviewsWidget_finished');
+    }
+  </script>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleUserReviewsWidget_finished');
+    }
+  </script>
+<div class="article" id="boardsTeaser">
+<h2>Message Boards</h2>
+            Recent Posts
+            <table class="boards">
+<tr class="odd">
+<td>
+<a href="/title/tt0445922/board/nest/230535222?ref_=tt_bd_1">Is it okay for you American to walk on your sister having an affair?</a>
+</td>
+<td>
+<a href="/user/ur51922944/?ref_=tt_bd_1">bradleybaldwinbradley-ba</a>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="/title/tt0445922/board/nest/148554129?ref_=tt_bd_2">A Real Serious Question For Beatles Fans Only!!</a>
+</td>
+<td>
+<a href="/user/ur5584324/?ref_=tt_bd_2">rockwalda187</a>
+</td>
+</tr>
+<tr class="odd">
+<td>
+<a href="/title/tt0445922/board/nest/156214748?ref_=tt_bd_3">Who actually Loves this movie?</a>
+</td>
+<td>
+<a href="/user/ur21171254/?ref_=tt_bd_3">simdude1990</a>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="/title/tt0445922/board/nest/149058453?ref_=tt_bd_4">I only saw 5 minutes but boy was it awful</a>
+</td>
+<td>
+<a href="/user/ur3913574/?ref_=tt_bd_4">UnkleLemmy</a>
+</td>
+</tr>
+<tr class="odd">
+<td>
+<a href="/title/tt0445922/board/nest/163901661?ref_=tt_bd_5">Beware Beatles fans!</a>
+</td>
+<td>
+<a href="/user/ur5464107/?ref_=tt_bd_5">khkwang</a>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="/title/tt0445922/board/nest/208987167?ref_=tt_bd_6">Who is the Better Singer - Jim or Joe?</a>
+</td>
+<td>
+<a href="/user/ur2853447/?ref_=tt_bd_6">merrcherr</a>
+</td>
+</tr>
+</table>
+<div class="see-more">
+<a href="/title/tt0445922/board/?ref_=tt_bd_sm">Discuss Across the Universe (2007)</a> on the IMDb message boards »
+        </div>
+</div>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleContributeWidget_started');
+    }
+  </script>
+<div class="article contribute">
+<div class="rightcornerlink">
+<a href="/help/?adding/&amp;ref_=tt_cn_hlp">Getting Started</a>
+<span>|</span>
+<a href="/czone/?ref_=tt_cn_cz">Contributor Zone</a> »</div>
+<h2>Contribute to This Page</h2>
+<div class="button-box">
+<form action="/updates?ref_=tt_cn_edt" method="post">
+<input name="auto" type="hidden" value="legacy/title/tt0445922/">
+<button class="btn primary large" rel="login" type="submit">Edit page</button>
+</input></form>
+</div>
+<div class="button-box">
+<a class="btn large" href="/title/tt0445922/reviews-enter?ref_=tt_cn_urv" rel="login">Write review</a>
+</div>
+<div class="form-box">
+<form action="/character/create?ref_=tt_cn_ch" method="post">
+<input name="title" type="hidden" value="tt0445922">
+<div class="form-txt">Create a character page for:</div>
+<select data-tconst="tt0445922" id="character_select" name="name">
+<option value="Martha Feeny - Jude's Mother">Martha Feeny - Jude's Mother</option>
+<option value="Cheer Coach">Cheer Coach</option>
+<option value="Wesley 'Wes' Huber - Jude's Father">Wesley 'Wes' Huber - Jude's Father</option>
+<option value="Dorm Buddy">Dorm Buddy</option>
+<option value="Dancer">Dancer</option>
+<option value="Dorm Buddy">Dorm Buddy</option>
+<option disabled="disabled">-----------</option>
+<option value="...">more...</option>
+</select>
+<button class="btn small">Create »</button>
+<a class="btn small" href="/help/show_leaf?createchar&amp;ref_=tt_cn_chhlp">?</a>
+</input></form>
+</div>
+</div>
+<script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleContributeWidget_finished');
+    }
+  </script>
+</div>
+<br class="clear"/>
+</div>
+<div class="ft" id="footer">
+<hr size="1" width="100%">
+<div id="rvi-div">
+<div class="recently-viewed"> </div>
+<br class="clear">
+<hr size="1" width="100%">
+</hr></br></div>
+<!-- begin BOTTOM_AD -->
+<div class="cornerstone_slot" id="bottom_ad_wrapper">
+<script type="text/javascript">
+doWithAds(function(){
+ad_utils.register_ad('bottom_ad');
+});
+</script>
+<iframe allowfullscreen="true" allowtransparency="true" class="yesScript" data-original-height="90" data-original-width="728" frameborder="0" height="90" id="bottom_ad" marginheight="0" marginwidth="0" name="bottom_ad" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" width="728"></iframe>
+</div>
+<div id="bottom_ad_reflow_helper"></div>
+<script>
+doWithAds(function(){
+ad_utils.inject_serverside_ad('bottom_ad', '<script>document.defaultAd = {h:90,w:728}; document.ad = document.defaultAd;<\/script> <!DOCTYPE html><html><body><style>.ac{display:block;position:absolute;overflow:hidden;width:19px;height:15px;z-index:9;top:0;right:0;background:url(https://images-na.ssl-images-amazon.com/images/G/01/da/adchoices/ac-topright-sprite.png)}.ac:hover{width:77px;background-position:-19px 0}.hide{display:none!important}#ad{position:relative;overflow:hidden;width:728px;height:90px;display:none}</style><div id=\"creative-wrapper\" style=\"width: 100%;height:90px;\"><a id=\"ad\" href=\"http://aax-us-east.amazon-adsystem.com/x/c/QVtSFG2D_WzHPZnYkYhKvJIAAAFLulZfpAEAAADKQIck-A/http://www.amazon.com/Bosch/dp/B00I3MMLHC/ref=o_disp_wbpivhou_20150106\" target=\"_top\"><img id=\"staticImage\" width=\"100%\" height=\"100%\"><a id=\"aapInfo\" target=\"_blank\" class=\"hide ac\" href=\"http://amazon.com/gp/dra/info/ref=cs_aap_4593451598674\"></a></a></div><script>setTimeout(function(){!function(a,t,e){var n=/\\.amazon\\.com(:.*)?$/,o=\"undefined\"!=typeof IS_3P&&IS_3P,s=!1;if(!o){try{s=a.SFClient?SFClient.isOnAmazon():n.test(e.location.host)}catch(c){}var i=t.referrer;if(!s&&i){var r=/^((?:https?:)\\/\\/)?([\\w\\-\\.]+(?::[0-9]+)?)\\/?(.*)$/,m=i.match(r),f=m[2];s=n.test(f)}}var l=!o&&!s,p=function(a){return/s/.test(a.protocol)},u=function(a){return t.getElementById(a)},g=function(a,t,e){a.href=t,a.target=e?\"_blank\":\"_top\"},h=function(a,t){return a.className.match(new RegExp(\"(\\\\s|^)\"+t+\"(\\\\s|$)\"))},d=function(a,t){h(a,t)||(a.className+=\" \"+t)},I=function(a,t){if(h(a,t)){var e=new RegExp(\"(\\\\s|^)\"+t+\"(\\\\s|$)\");a.className=a.className.replace(e,\" \")}},_=function(a){I(a,\"hide\")},v=(p(location)?\"//images-na.ssl-\":\"//g-ecx.\")+\"images-amazon.com/images/G/01/\",y=u(\"aapInfo\"),N=u(\"ad\"),w=\"shazam/PIV-Display-Hero-Bosch-NoStream-728x90-IIN0V._V329782874_.jpg\",z=u(\"staticImage\");w&&(z.src=v+w,N.style.display=\"block\");var S;o&&d(N,\"aap\"),(o||l)&&(N.target=\"_blank\"),y&&o&&_(y),S&&g(y,\"http://amazon.com/gp/dra/info\",!0)}(window,document,parent)},0);<\/script>\n</body></html><\!-- creativeModDate = 1424715105000 --\>\n <div id=\"bottom_ad_webbug\" style=\"display:none;\">\n <img src=\"http://aax-us-east.amazon-adsystem.com/e/loi/imp?b=05ab1711-623e-4a00-ad15-e92a6acc7efc\" border=\"0\" height=\"1\" width=\"1\" alt=\"\"/>\n </div>\n');
+},"unable to inject serverside ad");
+</script>
+<p align="center" class="footer">
+<a href="/?ref_=ft_hm">Home</a>
+        | <a href="/search?ref_=ft_sr">Search</a>
+        | <a href="/a2z?ref_=ft_si">Site Index</a>
+        | <a href="/movies-in-theaters/?ref_=ft_inth">In Theaters</a>
+        | <a href="/movies-coming-soon/?ref_=ft_cs">Coming Soon</a>
+        | <a href="/chart/?ref_=ft_cht">Top Movies</a>
+        | <a href="/chart/top?ref_=ft_250">Top 250</a>
+        | <a href="/sections/tv/?ref_=ft_tv">TV</a>
+        | <a href="/news/?ref_=ft_nw">News</a>
+        | <a href="/boards/?ref_=ft_mb">Message Boards</a>
+        | <a href="/pressroom/?ref_=ft_pr">Press Room</a>
+<br>
+<a href="https://secure.imdb.com/register-imdb/form-v2?ref_=ft_reg">Register</a>
+        | <a href="/advertising/?ref_=ft_ad">Advertising</a>
+        | <a href="/helpdesk/contact?ref_=ft_con">Contact Us</a>
+        | <a href="/jobs?ref_=ft_jb">Jobs</a>
+        | <a href="http://pro.imdb.com/signup/index.html?rf=cons_ft_hm&amp;ref_=cons_ft_hm">IMDbPro</a>
+        |     <a href="/offsite/?page-action=ft-mojo&amp;token=BCYop-zKKqJ1GPrSxBEHvmdVUoovuTxrwnSm-5IFidlnrzeORVSjOZhVxgUAOLJun7yGvGW5SniW%0D%0AZs0gxgb5mS91Yj89jriungBVhc34Gi0f4zydbvMwWGCzZnbT06XkQkaDB3j0ah5SgkeGM9L3rvZo%0D%0AH8q0RQXrDT0-tZODbGTxXGxTWrY-9RKBEGlTDW5FuuaC%0D%0A">Box Office Mojo</a>
+
+        |     <a href="/offsite/?page-action=ft-wab&amp;token=BCYj2w8kZmQKrj5bgCuQtEx5QS2OFirWf-142eWQO9UlBUXc-k1jyB50LAzl9gvuaPB5RYt6UNTF%0D%0AiDKHEQHeRxx2jJyr1P1ttHz4ZSsMIFalFvt5Kcys6xdjTjXdy9y6sZnpLkDJQySu2BaqbJl0xg3t%0D%0AgWf3RMe8L4jWqM8OUxERAAgvVkaDQJZupB3c7utYYws3%0D%0A">Withoutabox</a>
+<br/><br/>
+        IMDb Mobile:
+          <a href="/apps/ios/?ref_=ft_ios">iPhone/iPad</a>
+        | <a href="/android?ref_=ft_and">Android</a>
+        | <a href="http://m.imdb.com?ref_=ft_mdot">Mobile site</a>
+        | <a href="/windowsphone?ref_=ft_win">Windows Phone 7</a>
+        | IMDb Social:
+              <a href="/offsite/?page-action=ft-fb&amp;token=BCYtXGS-jDjBPEuGUcPRCdRc6UFlTttqDxDtgKc9bVOxNdV5I7ILOaxZ_KhrG2s6pi7iXpAQ_1YN%0D%0AHY6IxO7kC0jGXucA2DjpRJra2dgv_DQxdmKzRjx-SdH55pBYKqVZ_OXFL0xTIY5oLswGKvtusEj1%0D%0AlD7FpMPcgShq5UGLjuriglnryUHJqokwY1U6bP__NJ4b%0D%0A">Facebook</a>
+
+        |     <a href="/offsite/?page-action=ft-twt&amp;token=BCYhN6KIssUjdcitTGc-7vnb4te3uvM4Ntr1W18jrPp_ecJBMyDaBu-6TbUmQi_VGyyxodPqKCGx%0D%0AV_XrCv3nM333JDACga106QZCbRMu8mFAWtdCeWMdJCWTpZbffwE3dUWHJcXGmtiPVM8NlWm084WZ%0D%0AXHvzCOKwFcPtoVia3KGsTAA%0D%0A">Twitter</a>
+<br/><br/>
+</br></p>
+<p align="center" class="footer">
+<a href="/help/show_article?conditions" onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/show_article?conditions';">Copyright ©</a> 1990-2015 
+        <a href="/help/" onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/';">IMDb.com, Inc.</a>
+<br>
+<a href="/help/show_article?conditions&amp;ref_=ft_cou">Conditions of Use</a>
+        | <a href="/privacy?ref_=ft_pvc">Privacy Policy</a>
+        |     <a href="/offsite/?page-action=ft-iba&amp;token=BCYinwqBP5t5k4ajOCLP6nNI4-hLkd3WwjYl3JucAcjzO2TQuK_nyINMzmZ-PDny2Uexe8W6aONV%0D%0AHNrXKqFUXp_JXg2KN34zU3BgH69QI3IanPfJC357oENkcPXkgmPRCIzB_wq6RkDZvu9odd708Oqn%0D%0Al5NPgw10G8iIK1XvV-W0mm1vCK9L4FsZV8gxs7DUJ9MN%0D%0A">Interest-Based Ads</a>
+<br>
+        An <span align="middle" class="footer_logo" id="amazon_logo"></span> company.
+    </br></br></p>
+<table class="footer" id="amazon-affiliates">
+<tr>
+<td colspan="8">
+        Amazon Affiliates
+      </td>
+</tr>
+<tr>
+<td class="amazon-affiliate-site-item-nth">
+<a class="amazon-affiliate-site-link" href="/offsite/?page-action=ft-aiv&amp;token=BCYvbKvaaNRpHVsX37scnMYs05byz8I5VhRH8jSyPLFTtf3Oo0Vjz_jS_Cz-Kj1UA0mqyf7i4_g4%0D%0AKGtrgbaYwQ9Hq3RUZfQCy89W2UCp096C1RNvuw_yLXxyhYQoD6z_XCdt2b3WaGh1z1n5LkIrdjzB%0D%0A2dqhaOe1ePp9jOT4P8ZQZhZ-Cgbpo1ebQelaCavWhWuWZimtFIewAwu8OhVGU9TSIZ1iocGq8WiU%0D%0AsWGAxUA0EAAHUakRKBZ6wp8BDHya85W0%0D%0A"> <span class="amazon-affiliate-site-name">Amazon Instant Video</span><br>
+<span class="amazon-affiliate-site-desc">Watch Movies &amp;<br>TV Online</br></span>
+</br></a>
+</td>
+<td class="amazon-affiliate-site-item-nth">
+<a class="amazon-affiliate-site-link" href="/offsite/?page-action=ft-piv&amp;token=BCYuPvDaq1h3wuvCeU31TfZ9RTt35hqMqpGmm3m6F2eHmlpWqXnJJ5O8nz4_UH8BmZH29mYDzDgk%0D%0AvaSFLT-PDrgBmagNWAPg1gAt-csehvU1pg78Uidept-aANns4eIimLQyUDebKem7uVPSI4MgZ0aW%0D%0Ak8dAux-oMz-YbGmz8a91IA_uW2736cWRmhWOYwJfy5lOFhGyuFoPcXLdwFUDaypSRnLp1RSDrlVF%0D%0A3W2aKSI-Fsg%0D%0A"> <span class="amazon-affiliate-site-name">Prime Instant Video</span><br>
+<span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies &amp; TV</br></span>
+</br></a>
+</td>
+<td class="amazon-affiliate-site-item-nth">
+<a class="amazon-affiliate-site-link" href="/offsite/?page-action=ft-amzn-de&amp;token=BCYkNo4OKkM1lhc3L9ay9o6KfoZvMKny4tcUymTAqQtcyL5Q6FktT_Z5xhlNG7BQTx-YdH6Hz_xp%0D%0AJiqKRRx0H0af02tTsrdlki9A8Ki-_edJr5OgjRDaaprc_DCWMl-PCXGpzuB3de4wzC10dzjhAlr0%0D%0AIPoOVZEfs8I8uHM3coXH9R9-mdSPr_tQwh6hsYTbHyvOEwcWFnPUSEjZ9SDVK4Ul_vq_TuYWxDFw%0D%0AqM4yayAoD48%0D%0A"> <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
+<span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD &amp; Blu-ray</br></span>
+</br></a>
+</td>
+<td class="amazon-affiliate-site-item-nth">
+<a class="amazon-affiliate-site-link" href="/offsite/?page-action=ft-amzn-it&amp;token=BCYs_pRJNc7YqICmFjPBbLmz1ApW28OTfBctbYAOscuS6Gm3jUxGvx85EvhpWYvKXft6GnTDAfpq%0D%0AUeBljR3o3qbIZ37XXsps2vVNZ_CrT2nl1DKtq-cN61O9SddNlZZQjtWog0iB5rxPILEBZST20WvP%0D%0AjUChsBHXLPYci2NkPp-A89XFc28gSpiCZ1MnOJAw1ibMMz-kvZrmErNstfd-kHvEJTZY96dDm9NI%0D%0ARhxl9iLVXKE%0D%0A"> <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
+<span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD &amp; Blu-ray</br></span>
+</br></a>
+</td>
+<td class="amazon-affiliate-site-item-nth">
+<a class="amazon-affiliate-site-link" href="/offsite/?page-action=ft-amzn-fr&amp;token=BCYmirbvZcJoDMrzd0lgJPbzisYpGiHCEnRrzuUkT1DOA_qZJ4z6WqX_7xnNBvrkjKMgic2BowRA%0D%0AAALVKvvpG-NxNN44eBwtGzt2Z4TuTi7IvdSqJQ-EsB_gH-JyD3odrvpLbrtvnI2cPlVVRfQ83rKh%0D%0AnB3uLb3f1uxcyMzmLBy3d07aCBkZZXYpd4CDJd6u73Wr-9xesZbg1yN0aVRqKI82R5L0v3Y_P0Ly%0D%0A5EC_YaOANbE%0D%0A"> <span class="amazon-affiliate-site-name">Amazon France</span><br>
+<span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD &amp; Blu-ray</br></span>
+</br></a>
+</td>
+<td class="amazon-affiliate-site-item-nth">
+<a class="amazon-affiliate-site-link" href="/offsite/?page-action=ft-amzn-in&amp;token=BCYqnnYgSnxM-Omz68PlJH7VWeUqZxSIB3bLj1YID20PcA2idG9BOATyuI-Fceg6a0lOC1--2i4k%0D%0AmH94A2P44a1P9cxcgk9op27WunWPzlbl1zj91a-_q6WgsxqhqRC2q4IyIR_Ku2d8YkNcEW3HMqNg%0D%0A-vP8eHpoRMN2EikYX99XiOx0R5DXvSF_f1b3GKDVUZwDUAttQqKBmaDIG10m9L4EpRxoKa_qbL0N%0D%0AOPSiX3KhSwwcs2VK2ZsdGS2Tq0XNG957%0D%0A"> <span class="amazon-affiliate-site-name">Amazon India</span><br>
+<span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</br></span>
+</br></a>
+</td>
+<td class="amazon-affiliate-site-item-nth">
+<a class="amazon-affiliate-site-link" href="/offsite/?page-action=ft-amzn-dpr&amp;token=BCYnNj0ZinUacgve2w9I7dQwwzA4b3lIwkI1vFBIzS6iaiVKi7Ei_9TgPQ4TWqY8ldIDGbBcW82v%0D%0A5qQVmiKbuF_60QSVaTuD1M8fojCbPy1NpSSYezif13Y0MvfK4QVm1YpSriseTeNKskOgCsEtB2GZ%0D%0AZF7syiFCb9ASw0twP62AcD_ge684Ppn-cW7y0YxOdGKg%0D%0A"> <span class="amazon-affiliate-site-name">DPReview</span><br>
+<span class="amazon-affiliate-site-desc">Digital<br>Photography</br></span>
+</br></a>
+</td>
+<td class="amazon-affiliate-site-item-nth">
+<a class="amazon-affiliate-site-link" href="/offsite/?page-action=ft-amzn-aud&amp;token=BCYu-x2cac9WjdgBG4C8k5wNbjKqBf8aES9W-aNZz602YzCq0l0nwDM5HlsTqQW9iM6WtgKUCwfI%0D%0A-IfC6i0uGj5c5ecfPCLRs1TLgJ2M4wBjibQUzRBqVScEmqKKI_5ig5tMR85zoeQKiGIEZlE0nISm%0D%0AjlkxcpO85P7-bzfPnBZUhdZyvZvAaOK5ZdUnYJocRhTf%0D%0A"> <span class="amazon-affiliate-site-name">Audible</span><br>
+<span class="amazon-affiliate-site-desc">Download<br>Audio Books</br></span>
+</br></a>
+</td>
+</tr>
+</table>
+</hr></div>
+</div>
+</div>
+<script src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/title-3120322098._CB328669575_.js" type="text/javascript"></script>
+<script id="login" type="text/imdblogin-js">
+jQuery(document).ready(function(){
+    window.imdb.login_lightbox("https://secure.imdb.com", "http://www.imdb.com/title/tt0445922/");
+});
+
+</script>
+<script type="text/javascript">
+                jQuery(
+                             function() {
+           var isAdvertisingThemed = !!(window.custom && window.custom.full_page && window.custom.full_page.theme),
+               url = "http://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0445922%2F&colorscheme=light",
+               like = document.getElementById('iframe_like');
+
+           if (!isAdvertisingThemed && like) {
+              like.src = url;
+              like.onload = function () { generic.monitoring.stop_timing('facebook_like_iframe', '', false); };
+           } else if (isAdvertisingThemed) {
+              $('.social_networking_like').closest('.aux-content-widget-2').hide();
+           }
+        }
+
+                );
+                jQuery(
+                             function() {
+            var facebookTheme = (window.custom && window.custom.full_page &&
+                    window.custom.full_page.theme) ?
+                window.custom.full_page.theme : "light",
+            url = "//www.facebook.com/plugins/likebox.php?href=facebook.com%2Fimdb&width=300&height=190&connections=4&header=false&stream=false&colorscheme=" + facebookTheme,
+            like = document.getElementById('facebookIframe'),
+            twitterIframe = document.getElementById('twitterIframe');
+            if (like) {
+                like.src = url;
+            }
+            if (twitterIframe) {
+                twitterIframe.src = "http://i.media-imdb.com/images/social/twitter.html?10#imdb";
+            }
+         }
+
+                );
+        </script>
+<!-- begin ads footer -->
+<!-- Begin SIS code -->
+<iframe frameborder="0" height="1" id="sis_pixel_sitewide" marginheight="0" marginwidth="0" style="display: none;" width="1"></iframe>
+<script>
+    setTimeout(function(){
+        try{
+            //sis3.0 pixel
+            var url_sis3 = 'http://s.amazon-adsystem.com/iu3?',
+                params_sis3 = [
+                    "d=imdb.com",
+                    "a1=",
+                    "a2=01017b3545abaada5c75a4f4408c2f6fc34f55744a96b294cd489eaf613b0d15c0b4",
+                    "pId=tt0445922",
+                    "r=1",
+                    "rP=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0445922%2F",
+                    "ex-hargs=v=1.0;c=IMDB;p=tt0445922;t=imdb_title_view;",
+                    "encoding=server",
+                    "cb=328316877365"  
+                ];
+        
+            if (document.getElementById('sis_pixel_sitewide')) {
+                (document.getElementById('sis_pixel_sitewide')).src = url_sis3 + params_sis3.join('&');
+            }
+        }
+        catch(e){
+            if ('consoleLog' in window){
+                consoleLog('Pixel failure ' + e.toString(),'sis');
+            }
+            if (window.ueLogError) { 
+                window.ueLogError(e);
+            }
+        }
+    }, 20);
+</script>
+<!-- End SIS code -->
+<!-- begin comscore beacon -->
+<script src="http://ia.media-imdb.com/images/G/01/imdbads/js/beacon-232398347._CB349580400_.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(window.COMSCORE){
+COMSCORE.beacon({
+c1: 2,
+c2:"6034961",
+c3:"",
+c4:"http://www.imdb.com/title/tt0445922/",
+c5:"",
+c6:"",
+c15:""
+});
+}
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6034961&amp;c3=&amp;c4=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0445922%2F&amp;c5=c6=&amp;15=&amp;cj=1"/>
+</noscript>
+<!-- end comscore beacon -->
+<script>
+    doWithAds(function(){
+        (new Image()).src = "http://www.amazon.com/aan/2009-05-01/imdb/default?slot=sitewide-iframe&u=328316877365&ord=328316877365";
+    },"unable to request AAN pixel");
+</script>
+<script>
+(function(){
+    var readyTimeout = setInterval(function(){
+        doWithAds(pageLoaded, "No monitoring or document_is_ready object in generic");
+    }, 50);
+
+    // Wait until jQuery is loaded before firing final events.
+    var pageLoaded = function() {
+        if (window.jQuery) {
+            clearTimeout(readyTimeout);
+            jQuery(function(){ generic.document_is_ready(); });
+            generic.monitoring.stop_timing('page_load','',true);
+            generic.monitoring.all_events_started();
+        }
+    }
+})();
+</script>
+<!-- end ads footer -->
+<div id="servertime" time="224"></div>
+<script>
+    if (typeof uet == 'function') {
+      uet("be");
+    }
+</script>
+</body>
+</html>

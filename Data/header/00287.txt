@@ -1,0 +1,16 @@
+Vary: Accept-Encoding, User-Agent
+Server: LiteSpeed
+X-Powered-By: PHP/5.4.36
+X-Pingback: http://screenrant.com/xmlrpc.php
+Cache-Control: public, max-age=3600
+Expires: Tue, 24 Feb 2015 07:36:19 GMT
+Content-Type: text/html; charset=UTF-8
+Link: <http://wp.me/pguxy-2fYI>; rel=shortlink
+Transfer-Encoding: chunked
+Date: Tue, 24 Feb 2015 06:36:19 GMT
+X-Varnish: 1689563495
+Age: 0
+Via: 1.1 varnish
+Connection: close
+X-Cache: MISS
+

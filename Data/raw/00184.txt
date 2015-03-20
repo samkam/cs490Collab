@@ -1,0 +1,2548 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html dir="ltr">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<script type="text/javascript">(function() { var b=window,f="chrome",g="tick",k="jstiming";(function(){function d(a){this.t={};this.tick=function(a,d,c){var e=void 0!=c?c:(new Date).getTime();this.t[a]=[e,d];if(void 0==c)try{b.console.timeStamp("CSI/"+a)}catch(h){}};this[g]("start",null,a)}var a;b.performance&&(a=b.performance.timing);var n=a?new d(a.responseStart):new d;b.jstiming={Timer:d,load:n};if(a){var c=a.navigationStart,h=a.responseStart;0<c&&h>=c&&(b[k].srt=h-c)}if(a){var e=b[k].load;0<c&&h>=c&&(e[g]("_wtsrt",void 0,c),e[g]("wtsrt_","_wtsrt",h),e[g]("tbsd_","wtsrt_"))}try{a=null,
+b[f]&&b[f].csi&&(a=Math.floor(b[f].csi().pageT),e&&0<c&&(e[g]("_tbnd",void 0,b[f].csi().startE),e[g]("tbnd_","_tbnd",c))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null==a&&b.external&&(a=b.external.pageT,e&&0<c&&(e[g]("_tbnd",void 0,b.external.startE),e[g]("tbnd_","_tbnd",c))),a&&(b[k].pt=a)}catch(p){}})();b.tickAboveFold=function(d){var a=0;if(d.offsetParent){do a+=d.offsetTop;while(d=d.offsetParent)}d=a;750>=d&&b[k].load[g]("aft")};var l=!1;function m(){l||(l=!0,b[k].load[g]("firstScrollTime"))}b.addEventListener?b.addEventListener("scroll",m,!1):b.attachEvent("onscroll",m);
+ })();</script>
+<meta content="blogger" name="generator"/>
+<link href="http://www.sjaustin.com/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="http://www.sjaustin.com/2006_07_01_archive.html" rel="canonical"/>
+<link href="http://www.sjaustin.com/feeds/posts/default" rel="alternate" title="POSTUS FREQUENTUS - Atom" type="application/atom+xml"/>
+<link href="http://www.sjaustin.com/feeds/posts/default?alt=rss" rel="alternate" title="POSTUS FREQUENTUS - RSS" type="application/rss+xml"/>
+<link href="http://www.blogger.com/feeds/6772521/posts/default" rel="service.post" title="POSTUS FREQUENTUS - Atom" type="application/atom+xml"/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>POSTUS FREQUENTUS: 07/01/2006 - 08/01/2006</title>
+<link href="https://www.blogger.com/static/v1/widgets/728935430-widget_css_bundle.css" rel="stylesheet" type="text/css"/>
+<link href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=6772521&amp;zx=56f72d71-ef39-4b66-b7c5-971619ede3fc" rel="stylesheet" type="text/css"/>
+<style id="page-skin-1" type="text/css"><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name: 	  Thisaway (Blue)
+Date:     29 Feb 2004
+Updated by: Blogger Team
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="textColor" description="Text Color"
+type="color" default="#204063">
+<Variable name="blogTitleColor" description="Blog Title Color"
+type="color" default="#eef6fe">
+<Variable name="blogDescriptionColor" description="Blog Description Color"
+type="color" default="#eef6fe">
+<Variable name="postTitleColor" description="Post Title Color"
+type="color" default="#477fba">
+<Variable name="dateHeaderColor" description="Date Header Color"
+type="color" default="#8facc8">
+<Variable name="sidebarHeaderColor" description="Sidebar Title Color"
+type="color" default="#809fbd">
+<Variable name="mainLinkColor" description="Link Color"
+type="color" default="#4386ce">
+<Variable name="mainVisitedLinkColor" description="Visited Link Color"
+type="color" default="#2462a5">
+<Variable name="sidebarLinkColor" description="Sidebar Link Color"
+type="color" default="#599be2">
+<Variable name="sidebarVisitedLinkColor"
+description="Sidebar Visited Link Color"
+type="color" default="#3372b6">
+<Variable name="bodyFont" description="Text Font"
+type="font" default="normal normal 100% Helvetica,Arial,Verdana,'Trebuchet MS', Sans-serif">
+<Variable name="headerFont" description="Sidebar Title Font"
+type="font"
+default="normal bold 100% Helvetica,Arial,Verdana,'Trebuchet MS', Sans-serif">
+<Variable name="pageTitleFont" description="Blog Title Font"
+type="font"
+default="normal bold 200% Helvetica,Arial,Verdana,'Trebuchet MS', Sans-serif">
+<Variable name="blogDescriptionFont" description="Blog Description Font"
+type="font"
+default="normal normal 80% Helvetica,Arial,Verdana,'Trebuchet MS', Sans-serif">
+<Variable name="startSide" description="Start side in blog language"
+type="automatic" default="left">
+<Variable name="endSide" description="End side in blog language"
+type="automatic" default="right">
+*/
+/* global
+----------------------------------------------- */
+body {
+margin: 0;
+text-align: center;
+min-width: 760px;
+background: #4386ce url(http://www.blogblog.com/thisaway_blue/bg_body.gif) repeat-x left top;
+color: #204063;
+font-size: small;
+}
+blockquote {
+margin: 0;
+padding-top: 0;
+padding-right: 10px;
+padding-bottom: 0;
+padding-left: 10px;
+border-left: 6px solid #d8e7f78;
+border-right: 6px solid #d8e7f7;
+color: #477fba;
+}
+code {
+color: #477fba;
+}
+hr {
+display: none;
+}
+/* layout
+----------------------------------------------- */
+#outer-wrapper {
+margin: 0 auto;
+width: 760px;
+text-align: left;
+font: normal normal 100% Helvetica,Arial,Verdana,'Trebuchet MS', Sans-serif;
+}
+#header-wrapper {
+padding-bottom: 15px;
+background: url(http://www.blogblog.com/thisaway_blue/bg_header_bottom.gif) no-repeat left bottom;
+}
+#header {
+background: #204063 url(http://www.blogblog.com/thisaway_blue/bg_header.gif) repeat-x left bottom;
+}
+#content-wrapper {
+position: relative;
+width: 760px;
+background: #f7f0e9 url(http://www.blogblog.com/thisaway_blue/bg_main_wrapper.gif) repeat-y left top;
+}
+#main-wrapper {
+display: inline; /* fixes a strange ie margin bug */
+float: left;
+margin-top: 0;
+margin-right: 0;
+margin-bottom: 0;
+margin-left: 3px;
+padding: 0;
+width: 483px;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
+}
+#main {
+padding-top: 22px;
+padding-right: 8px;
+padding-bottom: 0;
+padding-left: 8px;
+background: url(http://www.blogblog.com/thisaway_blue/bg_content.gif) repeat-x left top;
+}
+.post {
+margin-top: 0;
+margin-right: 8px;
+margin-bottom: 14px;
+margin-left: 21px;
+padding: 0;
+border-bottom: 3px solid #d8e7f7;
+}
+#comments {
+margin-top: 0;
+margin-right: 16px;
+margin-bottom: 14px;
+margin-left: 29px;
+padding: 10px;
+border: 1px solid #cedef0;
+background-color: #e4ecf5;
+}
+#sidebar-wrapper {
+display: inline; /* fixes a strange ie margin bug */
+float: right;
+margin-top: 0;
+margin-right: 3px;
+margin-bottom: 0;
+margin-left: 0;
+width: 269px;
+color: #204063;
+line-height: 1.4em;
+font-size: 90%;
+background: url(http://www.blogblog.com/thisaway_blue/bg_sidebar.gif) repeat-x left top;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
+}
+#sidebar {
+padding-top: 7px;
+padding-right: 11px;
+padding-bottom: 0;
+padding-left: 14px;
+background: url(http://www.blogblog.com/thisaway_blue/bg_sidebar_arrow.gif) repeat-y 179px 0;
+}
+#sidebar .widget {
+margin-bottom: 20px;
+}
+#footer-wrapper {
+padding-top: 15px;
+background: url(http://www.blogblog.com/thisaway_blue/bg_footer_top.gif) no-repeat left top;
+clear: both;
+}
+#footer {
+background: #152e49 url(http://www.blogblog.com/thisaway_blue/bg_footer.gif) repeat-x left top;
+text-align: center;
+min-height: 2em;
+}
+/* headings
+----------------------------------------------- */
+#header h1 {
+margin: 0;
+padding-top: 24px;
+padding-right: 0;
+padding-bottom: 0;
+padding-left: 84px;
+background: url(http://www.blogblog.com/thisaway_blue/icon_header_left.gif) no-repeat 16px 26px;
+}
+h2.date-header {
+margin: 0;
+padding-top: 0;
+padding-right: 0;
+padding-bottom: 0;
+padding-left: 29px;
+text-transform: uppercase;
+color: #8facc8;
+background: url(http://www.blogblog.com/thisaway_blue/icon_date.gif) no-repeat 13px 0;
+font-size: 80%;
+font-weight: normal;
+}
+.date-header span {
+margin-top: 0;
+margin-right: 0;
+margin-bottom: 0;
+margin-left: 5px;
+padding-top: 0;
+padding-right: 25px;
+padding-bottom: 0;
+padding-left: 25px;
+background: url(http://www.blogblog.com/thisaway_blue/bg_date.gif) no-repeat left 0;
+}
+.sidebar h2 {
+padding-top: 1px;
+padding-right: 0;
+padding-bottom: 0;
+padding-left: 36px;
+color: #809fbd;
+background: url(http://www.blogblog.com/thisaway_blue/icon_sidebar_heading_left.gif) no-repeat left 45%;
+font: normal bold 100% Helvetica,Arial,Verdana,'Trebuchet MS', Sans-serif;
+}
+.sidebar .Profile h2 {
+color: #527595;
+background: url(http://www.blogblog.com/thisaway_blue/icon_sidebar_profileheading_left.gif) no-repeat left 45%;
+}
+.post h3 {
+margin-top: 13px;
+margin-right: 0;
+margin-bottom: 13px;
+margin-left: 0;
+padding: 0;
+color: #477fba;
+font-size: 140%;
+}
+.post h3 a, .post h3 a:visited {
+color: #477fba;
+}
+#comments h4 {
+margin-top: 0;
+font-size: 120%;
+}
+/* text
+----------------------------------------------- */
+#header h1 {
+color: #eef6fe;
+font: normal bold 200% Helvetica,Arial,Verdana,'Trebuchet MS', Sans-serif;
+}
+#header .description {
+margin: 0;
+padding-top: 7px;
+padding-right: 16px;
+padding-bottom: 0;
+padding-left: 84px;
+color: #eef6fe;
+font: normal normal 80% Helvetica,Arial,Verdana,'Trebuchet MS', Sans-serif;
+}
+.post-body p {
+line-height: 1.4em;
+/* Fix bug in IE5/Win with italics in posts */
+margin: 0;
+height: 1%;
+overflow: visible;
+}
+.post-footer {
+font-size: 80%;
+color: #8facc8;
+}
+.uncustomized-post-template .post-footer {
+text-align: right;
+}
+.uncustomized-post-template .post-footer .post-author,
+.uncustomized-post-template .post-footer .post-timestamp {
+display: block;
+float: left;
+text-align: left;
+margin-right: 4px;
+}
+p.comment-author {
+font-size: 83%;
+}
+.deleted-comment {
+font-style:italic;
+color:gray;
+}
+.comment-body p {
+line-height: 1.4em;
+}
+.feed-links {
+clear: both;
+line-height: 2.5em;
+margin-bottom: 0.5em;
+margin-left: 29px;
+}
+#footer .widget {
+margin: 0;
+padding-top: 0;
+padding-right: 0;
+padding-bottom: 15px;
+padding-left: 55px;
+color: #fef6ee;
+font-size: 90%;
+line-height: 1.4em;
+background: url(http://www.blogblog.com/thisaway_blue/icon_footer.gif) no-repeat 16px 0;
+}
+/* lists
+----------------------------------------------- */
+.post ul {
+padding-left: 32px;
+list-style-type: none;
+line-height: 1.4em;
+}
+.post li {
+padding-top: 0;
+padding-right: 0;
+padding-bottom: 4px;
+padding-left: 17px;
+background: url(http://www.blogblog.com/thisaway_blue/icon_list_item_left.gif) no-repeat left 3px;
+}
+#comments ul {
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+#comments li {
+padding-top: 0;
+padding-right: 0;
+padding-bottom: 1px;
+padding-left: 17px;
+background: url(http://www.blogblog.com/thisaway_blue/icon_comment.gif) no-repeat left 3px;
+}
+.sidebar ul {
+padding: 0;
+list-style-type: none;
+line-height: 1.2em;
+margin-left: 0;
+}
+.sidebar li {
+padding-top: 0;
+padding-right: 0;
+padding-bottom: 4px;
+padding-left: 17px;
+background: url(http://www.blogblog.com/thisaway_blue/icon_list_item.gif) no-repeat left 3px;
+}
+#blog-pager-newer-link {
+float: left;
+margin-left: 29px;
+}
+#blog-pager-older-link {
+float: right;
+margin-right: 16px;
+}
+#blog-pager {
+text-align: center;
+}
+/* links
+----------------------------------------------- */
+a {
+color: #4386ce;
+font-weight: bold;
+}
+a:hover {
+color: #2462a5;
+}
+a.comment-link {
+/* ie5.0/win doesn't apply padding to inline elements,
+so we hide these two declarations from it */
+background/* */:/**/url(http://www.blogblog.com/thisaway_blue/icon_comment.gif) no-repeat left 45%;
+padding-left: 14px;
+}
+html>body a.comment-link {
+/* respecified, for ie5/mac's benefit */
+background: url(http://www.blogblog.com/thisaway_blue/icon_comment.gif) no-repeat left 45%;
+padding-left: 14px;
+}
+.sidebar a {
+color: #599be2;
+}
+.sidebar a:hover {
+color: #3372b6;
+}
+#header h1 a {
+color: #eef6fe;
+text-decoration: none;
+}
+#header h1 a:hover {
+color: #b4c7d9;
+}
+.post h3 a {
+text-decoration: none;
+}
+a img {
+border-width: 0;
+}
+.clear {
+clear: both;
+line-height: 0;
+height: 0;
+}
+.profile-textblock {
+clear: both;
+margin-bottom: 10px;
+margin-left: 0;
+}
+.profile-img {
+float: left;
+margin-top: 0;
+margin-right: 5px;
+margin-bottom: 5px;
+margin-left: 0;
+padding: 3px;
+border: 1px solid #bdd4eb;
+}
+.profile-link {
+padding-top: 0;
+padding-right: 0;
+padding-bottom: 0;
+padding-left: 17px;
+background: url(http://www.blogblog.com/thisaway_blue/icon_profile_left.gif) no-repeat left 0;
+}
+/** Page structure tweaks for layout editor wireframe */
+body#layout #main,
+body#layout #sidebar {
+padding: 0;
+}
+
+--></style>
+<script type="text/javascript">var a="indexOf",b="&m=1",e="(^|&)m=",f="?",g="?m=1";function h(){var c=window.location.href,d=c.split(f);switch(d.length){case 1:return c+g;case 2:return 0<=d[1].search(e)?null:c+b;default:return null}}var k=navigator.userAgent;if(-1!=k[a]("Mobile")&&-1!=k[a]("WebKit")&&-1==k[a]("iPad")||-1!=k[a]("Opera Mini")||-1!=k[a]("IEMobile")){var l=h();l&&window.location.replace(l)};
+</script><script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('headEnd');
+</script></head>
+<body>
+<div class="navbar section" id="navbar"><div class="widget Navbar" id="Navbar1"><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+<script type="text/javascript">
+        gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+          if (gapi.iframes && gapi.iframes.getContext) {
+            gapi.iframes.getContext().openChild({
+                url: 'https://www.blogger.com/navbar.g?targetBlogID\0756772521\46blogName\75POSTUS+FREQUENTUS\46publishMode\75PUBLISH_MODE_HOSTED\46navbarType\75BLACK\46layoutType\75LAYOUTS\46searchRoot\75http://www.sjaustin.com/search\46blogLocale\75en_US\46v\0752\46homepageUrl\75http://www.sjaustin.com/\46vt\0753262623771476816867',
+                where: document.getElementById("navbar-iframe-container"),
+                id: "navbar-iframe"
+            });
+          }
+        });
+      </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div id="outer-wrapper"><div id="wrap2">
+<!-- skip links for text browsers -->
+<span id="skiplinks" style="display:none;">
+<a href="#main">skip to main </a> |
+      <a href="#sidebar">skip to sidebar</a>
+</span>
+<div id="header-wrapper">
+<div class="header section" id="header"><div class="widget Header" id="Header1">
+<div id="header-inner">
+<a href="http://www.sjaustin.com/" style="display: block">
+<img alt="POSTUS FREQUENTUS" height="248px; " id="Header1_headerimg" src="http://bp1.blogger.com/_C3blysdc_YY/SFoyYM-ByWI/AAAAAAAAAP4/S8KOt6t5pac/S1600-R/PF+Banner+-+Final.png" style="display: block" width="760px; "/>
+</a>
+</div>
+</div></div>
+</div>
+<div id="content-wrapper">
+<div id="crosscol-wrapper" style="text-align:center">
+<div class="crosscol section" id="crosscol"></div>
+</div>
+<div id="main-wrapper">
+<div class="main section" id="main"><div class="widget Blog" id="Blog1">
+<div class="blog-posts hfeed">
+<!-- google_ad_section_start(name=default) -->
+<div class="date-outer">
+<h2 class="date-header"><span>Monday, July 31, 2006</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="6772521" itemprop="blogId"/>
+<meta content="115439402893285609" itemprop="postId"/>
+<a name="115439402893285609"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://www.sjaustin.com/2006/07/heated-optimism-arranged-by-category.html">Heated optimism, arranged by category</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-115439402893285609" itemprop="description articleBody">
+In sports:<br/>Bobby Abreu and Cory Lidle to the Yanks at the deadline. This is a big contract assumption, but at least it's not Kevin Brown 2.0 or something. Abreu is a bona fide offensive threat, and any decent arm (of which Lidle is one) can only help. Two questions: Will they be able to compete at the varsity (AL) level, or has their success been based on the fact that they've played against inferior players? And second, does anyone still play for the Yankees at the minor league level? I can appreciate wanting to Win Now, but I worry every time I see a trade that involves giving up more prospects. I could almost get behind a true rebuilding project, one that would give Jeter a shot at being part of another great run at the end of his career. I'm not sure this present strategy will ultimately be successful, even in the short term.<br/><br/>In life:<br/>I'm still pretty tired from going 1,100 miles round trip to surprise my family in Maine, but it was worth it. Abel walked into their cottage at about 9:30 Thursday night and said, "Surprise!" That was fun. My sister and her husband brought two kayaks, reminding me once again how nice it would be to have one (er, two) of our own. We also walked around the Old Port and had a nice lunch at Flatbread Company. Every time I go back to New England, I wonder "Why, oh why, do I live in New York?"<br/><br/>In weather:<br/>Has anyone you know mentioned that it's hot? The high for tomorrow keeps going up; one more degree and it'll hit the dreaded Century Mark. Keep this up, Weather, and you're going to make me say something I don't want to say. Something that rhymes with "I'm ready for summer to be over, already."<br/><br/>In books:<br/>Audiobooks, to be exact; we listened to David Sedaris's <em>Dress Your Family in Corduroy and Denim</em> on the way to and from Maine. It's rated R for language, sexuality, and impressions of a southern accent, but it's quite funny. Funny in that same way that [analogy removed for the sake of my soul], or anything else that's actually very sad, are funny.<br/><br/>In politics:<br/>It's pretty depressing when the only good news politically is that Charles Barkley is running for governor. Of Alabama. In the year 2014.<br/><br/>In blogging:<br/>Remember Mini-Reviews? How about the interactive blog game Trifecta? Or Monday Columns? Yeah, me neither. This blog sucks. Good thing I'm not getting paid to write it.
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="http://www.blogger.com/profile/10091353484812479314" itemprop="url"/>
+<a class="g-profile" href="http://www.blogger.com/profile/10091353484812479314" rel="author" title="author profile">
+<span itemprop="name">SJ Austin</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+at
+<meta content="http://www.sjaustin.com/2006/07/heated-optimism-arranged-by-category.html" itemprop="url"/>
+<a class="timestamp-link" href="http://www.sjaustin.com/2006/07/heated-optimism-arranged-by-category.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2006-07-31T20:36:00-04:00">8:36 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://www.blogger.com/comment.g?blogID=6772521&amp;postID=115439402893285609" onclick="">
+8 comments:
+    </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="http://www.blogger.com/email-post.g?blogID=6772521&amp;postID=115439402893285609" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-1597388786">
+<a href="http://www.blogger.com/post-edit.g?blogID=6772521&amp;postID=115439402893285609&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="http://img2.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115439402893285609&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115439402893285609&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115439402893285609&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115439402893285609&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115439402893285609&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a><div class="goog-inline-block dummy-container"><g:plusone annotation="inline" href="http://www.sjaustin.com/2006/07/heated-optimism-arranged-by-category.html" size="medium" source="blogger:blog:plusone" width="300"></g:plusone></div>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Wednesday, July 26, 2006</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="http://photos1.blogger.com/blogger/4508/383/320/cake.0.jpg" itemprop="image_url"/>
+<meta content="6772521" itemprop="blogId"/>
+<meta content="115396266688752244" itemprop="postId"/>
+<a name="115396266688752244"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://www.sjaustin.com/2006/07/cake.html">The cake</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-115396266688752244" itemprop="description articleBody">
+Here's a picture of the finished guitar cake. Since I know from experience that you find nothing but crap when you Google "guitar birthday cake," I will definitely post my process for putting it together. But just not now. Early next week when we return from our special weekend away.<br/><br/><a href="http://photos1.blogger.com/blogger/4508/383/1600/cake.0.jpg" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" src="http://photos1.blogger.com/blogger/4508/383/320/cake.0.jpg" style="cursor:pointer; cursor:hand;"/></a>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="http://www.blogger.com/profile/10091353484812479314" itemprop="url"/>
+<a class="g-profile" href="http://www.blogger.com/profile/10091353484812479314" rel="author" title="author profile">
+<span itemprop="name">SJ Austin</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+at
+<meta content="http://www.sjaustin.com/2006/07/cake.html" itemprop="url"/>
+<a class="timestamp-link" href="http://www.sjaustin.com/2006/07/cake.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2006-07-26T21:07:00-04:00">9:07 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://www.blogger.com/comment.g?blogID=6772521&amp;postID=115396266688752244" onclick="">
+1 comment:
+    </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="http://www.blogger.com/email-post.g?blogID=6772521&amp;postID=115396266688752244" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-1597388786">
+<a href="http://www.blogger.com/post-edit.g?blogID=6772521&amp;postID=115396266688752244&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="http://img2.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115396266688752244&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115396266688752244&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115396266688752244&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115396266688752244&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115396266688752244&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a><div class="goog-inline-block dummy-container"><g:plusone annotation="inline" href="http://www.sjaustin.com/2006/07/cake.html" size="medium" source="blogger:blog:plusone" width="300"></g:plusone></div>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="6772521" itemprop="blogId"/>
+<meta content="115392225612394951" itemprop="postId"/>
+<a name="115392225612394951"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://www.sjaustin.com/2006/07/birthday-cake.html">Birthday cake</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-115392225612394951" itemprop="description articleBody">
+I'm working today on a guitar-shaped birthday cake for Abel. Hopefully I'll be back on later tonight with pictures and a description of the process, though I can't promise that will happen before next week.
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="http://www.blogger.com/profile/10091353484812479314" itemprop="url"/>
+<a class="g-profile" href="http://www.blogger.com/profile/10091353484812479314" rel="author" title="author profile">
+<span itemprop="name">SJ Austin</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+at
+<meta content="http://www.sjaustin.com/2006/07/birthday-cake.html" itemprop="url"/>
+<a class="timestamp-link" href="http://www.sjaustin.com/2006/07/birthday-cake.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2006-07-26T09:56:00-04:00">9:56 AM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://www.blogger.com/comment.g?blogID=6772521&amp;postID=115392225612394951" onclick="">
+No comments:
+    </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="http://www.blogger.com/email-post.g?blogID=6772521&amp;postID=115392225612394951" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-1597388786">
+<a href="http://www.blogger.com/post-edit.g?blogID=6772521&amp;postID=115392225612394951&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="http://img2.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115392225612394951&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115392225612394951&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115392225612394951&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115392225612394951&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115392225612394951&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a><div class="goog-inline-block dummy-container"><g:plusone annotation="inline" href="http://www.sjaustin.com/2006/07/birthday-cake.html" size="medium" source="blogger:blog:plusone" width="300"></g:plusone></div>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Wednesday, July 19, 2006</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="6772521" itemprop="blogId"/>
+<meta content="115333452991441853" itemprop="postId"/>
+<a name="115333452991441853"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://www.sjaustin.com/2006/07/blog-business.html">Blog business</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-115333452991441853" itemprop="description articleBody">
+Hello all. I'm preparing a sermon this week, so there won't be any significant posts until at least Monday. I'm working on a piece containing tips for recent switchers to OS X (many friends and acquaintances fit that description), so you can look forward to that.<br/><br/>In the meantime, here's the gospel reading for this week's sermon, from the <a href="http://divinity.library.vanderbilt.edu/lectionary/">Revised Common Lectionary</a>:<br/><br/><blockquote>The apostles gathered around Jesus, and told him all that they had done and taught. He said to them, "Come away to a deserted place all by yourselves and rest a while." For many were coming and going, and they had no leisure even to eat. And they went away in the boat to a deserted place by themselves. Now many saw them going and recognized them, and they hurried there on foot from all the towns and arrived ahead of them. As he went ashore, he saw a great crowd; and he had compassion for them, because they were like sheep without a shepherd; and he began to teach them many things....When they had crossed over, they came to land at Gennesaret and moored the boat. When they got out of the boat, people at once recognized him, and rushed about that whole region and began to bring the sick on mats to wherever they heard he was. And wherever he went, into villages or cities or farms, they laid the sick in the marketplaces, and begged him that they might touch even the fringe of his cloak; and all who touched it were healed.<br/><br/><strong>Mark 6:30-34, 53-56</strong><br/></blockquote>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="http://www.blogger.com/profile/10091353484812479314" itemprop="url"/>
+<a class="g-profile" href="http://www.blogger.com/profile/10091353484812479314" rel="author" title="author profile">
+<span itemprop="name">SJ Austin</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+at
+<meta content="http://www.sjaustin.com/2006/07/blog-business.html" itemprop="url"/>
+<a class="timestamp-link" href="http://www.sjaustin.com/2006/07/blog-business.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2006-07-19T14:33:00-04:00">2:33 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://www.blogger.com/comment.g?blogID=6772521&amp;postID=115333452991441853" onclick="">
+No comments:
+    </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="http://www.blogger.com/email-post.g?blogID=6772521&amp;postID=115333452991441853" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-1597388786">
+<a href="http://www.blogger.com/post-edit.g?blogID=6772521&amp;postID=115333452991441853&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="http://img2.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115333452991441853&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115333452991441853&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115333452991441853&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115333452991441853&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115333452991441853&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a><div class="goog-inline-block dummy-container"><g:plusone annotation="inline" href="http://www.sjaustin.com/2006/07/blog-business.html" size="medium" source="blogger:blog:plusone" width="300"></g:plusone></div>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Friday, July 14, 2006</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="http://photos1.blogger.com/blogger/4508/383/320/P7140020.jpg" itemprop="image_url"/>
+<meta content="6772521" itemprop="blogId"/>
+<meta content="115288654699458037" itemprop="postId"/>
+<a name="115288654699458037"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://www.sjaustin.com/2006/07/friday-morning-latte-art.html">Friday morning latte art</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-115288654699458037" itemprop="description articleBody">
+<a href="http://photos1.blogger.com/blogger/4508/383/1600/P7140020.jpg" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" src="http://photos1.blogger.com/blogger/4508/383/320/P7140020.jpg" style="cursor:pointer; cursor:hand;"/></a><br/><br/>I was in a rush to drink it, and it cost me a well-focused photograph, but you get the point. My machine steams pretty decent milk, but the espresso is still too thin. If anyone wants to buy me a new espresso machine, my birthday is September 1.
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="http://www.blogger.com/profile/10091353484812479314" itemprop="url"/>
+<a class="g-profile" href="http://www.blogger.com/profile/10091353484812479314" rel="author" title="author profile">
+<span itemprop="name">SJ Austin</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+at
+<meta content="http://www.sjaustin.com/2006/07/friday-morning-latte-art.html" itemprop="url"/>
+<a class="timestamp-link" href="http://www.sjaustin.com/2006/07/friday-morning-latte-art.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2006-07-14T10:12:00-04:00">10:12 AM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://www.blogger.com/comment.g?blogID=6772521&amp;postID=115288654699458037" onclick="">
+3 comments:
+    </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="http://www.blogger.com/email-post.g?blogID=6772521&amp;postID=115288654699458037" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-1597388786">
+<a href="http://www.blogger.com/post-edit.g?blogID=6772521&amp;postID=115288654699458037&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="http://img2.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115288654699458037&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115288654699458037&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115288654699458037&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115288654699458037&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115288654699458037&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a><div class="goog-inline-block dummy-container"><g:plusone annotation="inline" href="http://www.sjaustin.com/2006/07/friday-morning-latte-art.html" size="medium" source="blogger:blog:plusone" width="300"></g:plusone></div>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Tuesday, July 11, 2006</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="http://ffmedia.ign.com/filmforce/image/article/710/710758/truth1_1149114856.jpg" itemprop="image_url"/>
+<meta content="6772521" itemprop="blogId"/>
+<meta content="115256244815303216" itemprop="postId"/>
+<a name="115256244815303216"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://www.sjaustin.com/2006/07/loose-ends.html">Loose ends</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-115256244815303216" itemprop="description articleBody">
+Here's a upturned junk drawer of thoughts for you, a few mini-reviews of media I have consumed lately, because I'm not inspired to write anything extensive right now. Be warned: the Rambling Probability Alert for this entry is ORANGE.<br/><br/><a href="http://ffmedia.ign.com/filmforce/image/article/710/710758/truth1_1149114856.jpg"><img alt="" border="0" src="http://ffmedia.ign.com/filmforce/image/article/710/710758/truth1_1149114856.jpg" style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;width: 200px;"/></a>Last Thursday, Tracey and I went to see the Al Gore global warming documentary <em>An Inconvenient Truth</em>. I am not an Al Gore fan, but for some reason, I have felt drawn to this film for several weeks now. We finally went to see it, and we both enjoyed it. Well, I suppose it's hard to "enjoy" a film about the impending incineration of the planet, but it was a well-done movie. Some have called Al Gore's global warming slideshow "<a href="http://www.google.com/search?client=safari&amp;rls=en-us&amp;q=best+powerpoint+ever+inconvenient&amp;ie=UTF-8&amp;oe=UTF-8">the best PowerPoint presentation ever</a>," which would be easy to quibble with since it was <a href="http://www.apple.com/hotnews/articles/2006/05/inconvenienttruth/">made in Keynote</a>, not PowerPoint. However, the presentation <em>was</em> very interesting to watch, and I was surprised at how excellent Gore was at presenting this material. If you are interested in global warming, environmental science, or integrating an oral presentation with a slideshow (hello, pastor readers!), I can recommend this film to you. And it probably is one of those films that works better on a big screen, so try to catch it before it disappears into the, ahem, atmosphere.<br/><br/><a href="http://www.fantasticfiction.co.uk/images/n4/n22806.jpg"><img alt="" border="0" src="http://www.fantasticfiction.co.uk/images/n4/n22806.jpg" style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 200px;"/></a>Earlier that day, I finished Umberto Eco's <em>The Name of the Rose</em>. It was a nice, long, slow read. I bought the book a few years ago after hearing Tony Jones (I think) recommend it as the "great postmodern novel," and I just recently got around to reading it. Indeed, the description does ring true, especially at the climax, when logic, theory, enlightenment, and knowledge are demolished in spectacular metaphorical fashion. In spite of the fact that <em>The Name of the Rose</em> enjoyed broad critical and popular acclaim, not everyone would enjoy it. For one thing, there's a good deal of untranslated Latin. Personally, I enjoyed trying to decipher it, but hey, I'm weird like that. Also, the plot does not move at the pace of certain other novels involving monks, papal corruption, and mysterious murders. But it's also much more rewarding to read a book like <em>The Name of the Rose</em> than one like <em>The Da Vinci Code</em>. It's a slow burn, a novel that held my attention over the course of a few weeks. Sometimes I want to plow through a book; not this time. It is wonderful piece of literature that is still pretty accessible.<br/><br/><a href="http://www.telegraph.co.uk/arts/graphics/2006/07/01/bmpop1.jpg"><img alt="" border="0" src="http://www.telegraph.co.uk/arts/graphics/2006/07/01/bmpop1.jpg" style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;width: 200px;"/></a>Also, I picked up Johnny Cash's <em>American V: A Hundred Highways</em>, which I <a href="http://sjaustin.blogspot.com/2006/05/posthumous-johnny-cash-release.html">wrote about</a> prior to its release. I took advantage of Circuit City's tendency to sell hot new titles at $8.99, which is great for two reasons. First, it's a fantastic price. And second, I have the perfect defense for anyone who might criticize me for shopping at an Evil Corporation instead of a locally-owned business: $8.99 is probably about a 3-4 dollar <a href="http://en.wikipedia.org/wiki/Loss_leader">loss</a> for said Evil Corporation. (But let's be honest. I went there for the price.)<br/><br/>The album is about what you'd expect from a posthumous release that was built around tracks set down by a dying musician at the end of a hard-lived career. That is to say, it's about what you'd expect if that musician were <em>Johnny Cash</em>. You can hear the strain in his voice at times, and it's never as strong as it was in healthier days. But it's still Cash. And in some cases, this only adds to the despair of the lyrics. It's hit and miss, but long-time and recent fans alike (I am one of the latter) will want to pick this album up. After a casual listen or two, I'd say the three best tracks are Gordon Lightfoot's "If You Could Read My Mind," Hugh Moffat's "Rose of My Heart," and the original "Like the 309" -- the last song Johnny Cash ever wrote.
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="http://www.blogger.com/profile/10091353484812479314" itemprop="url"/>
+<a class="g-profile" href="http://www.blogger.com/profile/10091353484812479314" rel="author" title="author profile">
+<span itemprop="name">SJ Austin</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+at
+<meta content="http://www.sjaustin.com/2006/07/loose-ends.html" itemprop="url"/>
+<a class="timestamp-link" href="http://www.sjaustin.com/2006/07/loose-ends.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2006-07-11T16:43:00-04:00">4:43 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://www.blogger.com/comment.g?blogID=6772521&amp;postID=115256244815303216" onclick="">
+1 comment:
+    </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="http://www.blogger.com/email-post.g?blogID=6772521&amp;postID=115256244815303216" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-1597388786">
+<a href="http://www.blogger.com/post-edit.g?blogID=6772521&amp;postID=115256244815303216&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="http://img2.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115256244815303216&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115256244815303216&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115256244815303216&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115256244815303216&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115256244815303216&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a><div class="goog-inline-block dummy-container"><g:plusone annotation="inline" href="http://www.sjaustin.com/2006/07/loose-ends.html" size="medium" source="blogger:blog:plusone" width="300"></g:plusone></div>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Friday, July 07, 2006</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="6772521" itemprop="blogId"/>
+<meta content="115227912812649012" itemprop="postId"/>
+<a name="115227912812649012"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://www.sjaustin.com/2006/07/napster-they-cant-give-it-away.html">Napster: They can't give it away</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-115227912812649012" itemprop="description articleBody">
+(Via <a href="http://daringfireball.net">Daring Fireball</a>.)<br/><br/>From the WSJ Online, a little <a href="http://online.wsj.com/public/article/SB115214899486099107-vuoIhGUthiYcFwsQK0DjegSRPwQ_20070706.html?mod=blogs">story</a> about the failure of free music subscription programs to take root on college campuses. Well, free to the students, anyway; the institutions are paying for them. No doubt Napster and the others are hoping that access to the free service during the college years will entice students to pay for the service (because otherwise they'll lose all their music) upon graduation.<br/><br/>But the students, by and large, are not taking the bait. Why? Partly because of the other inherent flaws of the subscription services, namely that they would have to pay a per-song fee to burn tracks to a CD or to copy them to a digital device. What, you don't want free songs that you can only listen to while sitting at your computer? Why not?<br/><br/>"There's also the problem of compatibility," writes Nick Timiraos. "The services won't run on Apple Computer Inc. computers, which are owned by <strong>19% of college students</strong>, according to a 2006 survey of 1,200 students by the research group Student Monitor. In addition, the files won't play on Apple iPods, which are <strong>owned by 42% of college students</strong>, according to the survey."<br/><br/>Emphasis mine, because those numbers are staggering. We knew the iPod was strong, holding about a 70% market share, but 42% of <em>all</em> college students, including those who have no digital player at all? That's wild.<br/><br/>And for a computer maker with a market share of less than 5% of all computer owners, holding 19% of college students in your pocket must be extremely encouraging news, even granting the fact that unlike with digital music players, college students probably own computers at very nearly a 100% rate. But even if that 19% is 19% of computer-using college students, that bodes well for Apple's future market share with Real Grown-Ups.<br/><br/>I've never been one to wish for a high Mac market share, though. Apple is extremely profitable with a low market share, and I suspect their relatively low production numbers help them keep their quality as high as it is. But that's a post for another day.
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="http://www.blogger.com/profile/10091353484812479314" itemprop="url"/>
+<a class="g-profile" href="http://www.blogger.com/profile/10091353484812479314" rel="author" title="author profile">
+<span itemprop="name">SJ Austin</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+at
+<meta content="http://www.sjaustin.com/2006/07/napster-they-cant-give-it-away.html" itemprop="url"/>
+<a class="timestamp-link" href="http://www.sjaustin.com/2006/07/napster-they-cant-give-it-away.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2006-07-07T09:32:00-04:00">9:32 AM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://www.blogger.com/comment.g?blogID=6772521&amp;postID=115227912812649012" onclick="">
+2 comments:
+    </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="http://www.blogger.com/email-post.g?blogID=6772521&amp;postID=115227912812649012" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-1597388786">
+<a href="http://www.blogger.com/post-edit.g?blogID=6772521&amp;postID=115227912812649012&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="http://img2.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115227912812649012&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115227912812649012&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115227912812649012&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115227912812649012&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115227912812649012&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a><div class="goog-inline-block dummy-container"><g:plusone annotation="inline" href="http://www.sjaustin.com/2006/07/napster-they-cant-give-it-away.html" size="medium" source="blogger:blog:plusone" width="300"></g:plusone></div>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Thursday, July 06, 2006</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="6772521" itemprop="blogId"/>
+<meta content="115220603715149511" itemprop="postId"/>
+<a name="115220603715149511"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://www.sjaustin.com/2006/07/speaking-of-athletic-feats.html">Speaking of athletic feats</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-115220603715149511" itemprop="description articleBody">
+Are you serious?<br/><br/><object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/s7OmZKQ4jeU"></param><embed height="350" src="http://www.youtube.com/v/s7OmZKQ4jeU" type="application/x-shockwave-flash" width="425"></embed></object><br/><br/>I think he turned a little before he jumped, so I'm only giving him 700° on this one, not the full 720°.
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="http://www.blogger.com/profile/10091353484812479314" itemprop="url"/>
+<a class="g-profile" href="http://www.blogger.com/profile/10091353484812479314" rel="author" title="author profile">
+<span itemprop="name">SJ Austin</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+at
+<meta content="http://www.sjaustin.com/2006/07/speaking-of-athletic-feats.html" itemprop="url"/>
+<a class="timestamp-link" href="http://www.sjaustin.com/2006/07/speaking-of-athletic-feats.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2006-07-06T13:12:00-04:00">1:12 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://www.blogger.com/comment.g?blogID=6772521&amp;postID=115220603715149511" onclick="">
+1 comment:
+    </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="http://www.blogger.com/email-post.g?blogID=6772521&amp;postID=115220603715149511" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-1597388786">
+<a href="http://www.blogger.com/post-edit.g?blogID=6772521&amp;postID=115220603715149511&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="http://img2.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115220603715149511&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115220603715149511&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115220603715149511&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115220603715149511&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115220603715149511&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a><div class="goog-inline-block dummy-container"><g:plusone annotation="inline" href="http://www.sjaustin.com/2006/07/speaking-of-athletic-feats.html" size="medium" source="blogger:blog:plusone" width="300"></g:plusone></div>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="6772521" itemprop="blogId"/>
+<meta content="115219112998940452" itemprop="postId"/>
+<a name="115219112998940452"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://www.sjaustin.com/2006/07/why-do-we-watch-sports.html">Why do we watch sports?</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-115219112998940452" itemprop="description articleBody">
+To see people performing athelitc feats we could only dream of performing, like this one:<br/><br/><object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/tKBLWmR-cR4"></param><embed height="350" src="http://www.youtube.com/v/tKBLWmR-cR4" type="application/x-shockwave-flash" width="425"></embed></object>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="http://www.blogger.com/profile/10091353484812479314" itemprop="url"/>
+<a class="g-profile" href="http://www.blogger.com/profile/10091353484812479314" rel="author" title="author profile">
+<span itemprop="name">SJ Austin</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+at
+<meta content="http://www.sjaustin.com/2006/07/why-do-we-watch-sports.html" itemprop="url"/>
+<a class="timestamp-link" href="http://www.sjaustin.com/2006/07/why-do-we-watch-sports.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2006-07-06T09:04:00-04:00">9:04 AM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://www.blogger.com/comment.g?blogID=6772521&amp;postID=115219112998940452" onclick="">
+1 comment:
+    </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="http://www.blogger.com/email-post.g?blogID=6772521&amp;postID=115219112998940452" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-1597388786">
+<a href="http://www.blogger.com/post-edit.g?blogID=6772521&amp;postID=115219112998940452&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="http://img2.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115219112998940452&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115219112998940452&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115219112998940452&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115219112998940452&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115219112998940452&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a><div class="goog-inline-block dummy-container"><g:plusone annotation="inline" href="http://www.sjaustin.com/2006/07/why-do-we-watch-sports.html" size="medium" source="blogger:blog:plusone" width="300"></g:plusone></div>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Wednesday, July 05, 2006</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="6772521" itemprop="blogId"/>
+<meta content="115210261856235387" itemprop="postId"/>
+<a name="115210261856235387"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://www.sjaustin.com/2006/07/more-on-flag-burning.html">More on flag burning</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-115210261856235387" itemprop="description articleBody">
+A slightly more highbrow perspective on the flag-burning amendment, from yesterday's <a href="http://www.opinionjournal.com/editorial/feature.html?id=110008604">featured article</a> at OpinionJournal.com. Christopher Hitchens and I would no doubt disagree on many political issues, but I certainly resonate with his take on the idea of an amendment prohibiting "desecration" of the flag. Here's a taste:<br/><br/><blockquote>"If I find that I have stuck a flag-stamp on an envelope and accidentally put it on upside-down, I admit with slight embarrassment that I now start over with a new envelope. Nobody would ever notice my tiny disrespect, but I still won't commit it. However, the whole case would be altered if I was told that I had to get it right. The flag would no longer stand for the constitutional spirit that gives it meaning in the first place."</blockquote><br/>It's tacky when bloggers say "read the whole thing," but it is a well-reasoned argument that I think you might like.
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="http://www.blogger.com/profile/10091353484812479314" itemprop="url"/>
+<a class="g-profile" href="http://www.blogger.com/profile/10091353484812479314" rel="author" title="author profile">
+<span itemprop="name">SJ Austin</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+at
+<meta content="http://www.sjaustin.com/2006/07/more-on-flag-burning.html" itemprop="url"/>
+<a class="timestamp-link" href="http://www.sjaustin.com/2006/07/more-on-flag-burning.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2006-07-05T08:30:00-04:00">8:30 AM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://www.blogger.com/comment.g?blogID=6772521&amp;postID=115210261856235387" onclick="">
+No comments:
+    </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="http://www.blogger.com/email-post.g?blogID=6772521&amp;postID=115210261856235387" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-1597388786">
+<a href="http://www.blogger.com/post-edit.g?blogID=6772521&amp;postID=115210261856235387&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="http://img2.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115210261856235387&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115210261856235387&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115210261856235387&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115210261856235387&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115210261856235387&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a><div class="goog-inline-block dummy-container"><g:plusone annotation="inline" href="http://www.sjaustin.com/2006/07/more-on-flag-burning.html" size="medium" source="blogger:blog:plusone" width="300"></g:plusone></div>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Saturday, July 01, 2006</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="6772521" itemprop="blogId"/>
+<meta content="115180105288761914" itemprop="postId"/>
+<a name="115180105288761914"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://www.sjaustin.com/2006/07/return-of-blind-boys.html">Return of the Blind Boys</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-115180105288761914" itemprop="description articleBody">
+The extremely awesome news: The Blind Boys of Alabama are coming <a href="http://www.blindboys.com/shows/">back to Rochester</a> next month!<br/><br/>The extremely crappy news: I'll be camping two hours away that night.<br/><br/>Anyone who is in town on July 29 must go to this show. It is unlike anything you will ever see.
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="http://www.blogger.com/profile/10091353484812479314" itemprop="url"/>
+<a class="g-profile" href="http://www.blogger.com/profile/10091353484812479314" rel="author" title="author profile">
+<span itemprop="name">SJ Austin</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+at
+<meta content="http://www.sjaustin.com/2006/07/return-of-blind-boys.html" itemprop="url"/>
+<a class="timestamp-link" href="http://www.sjaustin.com/2006/07/return-of-blind-boys.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2006-07-01T20:44:00-04:00">8:44 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://www.blogger.com/comment.g?blogID=6772521&amp;postID=115180105288761914" onclick="">
+6 comments:
+    </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="http://www.blogger.com/email-post.g?blogID=6772521&amp;postID=115180105288761914" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-1597388786">
+<a href="http://www.blogger.com/post-edit.g?blogID=6772521&amp;postID=115180105288761914&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="http://img2.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115180105288761914&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115180105288761914&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115180105288761914&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115180105288761914&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="http://www.blogger.com/share-post.g?blogID=6772521&amp;postID=115180105288761914&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a><div class="goog-inline-block dummy-container"><g:plusone annotation="inline" href="http://www.sjaustin.com/2006/07/return-of-blind-boys.html" size="medium" source="blogger:blog:plusone" width="300"></g:plusone></div>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<!-- google_ad_section_end -->
+</div>
+<div class="blog-pager" id="blog-pager">
+<span id="blog-pager-newer-link">
+<a class="blog-pager-newer-link" href="http://www.sjaustin.com/search?updated-max=2006-08-24T20:52:00-04:00&amp;max-results=7&amp;reverse-paginate=true" id="Blog1_blog-pager-newer-link" title="Newer Posts">Newer Posts</a>
+</span>
+<span id="blog-pager-older-link">
+<a class="blog-pager-older-link" href="http://www.sjaustin.com/search?updated-max=2006-07-01T20:44:00-04:00&amp;max-results=7" id="Blog1_blog-pager-older-link" title="Older Posts">Older Posts</a>
+</span>
+<a class="home-link" href="http://www.sjaustin.com/">Home</a>
+</div>
+<div class="clear"></div>
+<div class="blog-feeds">
+<div class="feed-links">
+Subscribe to:
+<a class="feed-link" href="http://www.sjaustin.com/feeds/posts/default" target="_blank" type="application/atom+xml">Posts (Atom)</a>
+</div>
+</div>
+<script type="text/javascript">window.___gcfg = {'lang': 'en_US'};</script>
+</div><div class="widget HTML" id="HTML2">
+<div class="widget-content">
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+sc_project=736767;
+sc_invisible=1;
+sc_partition=6;
+sc_security="2fed38a1";
+</script>
+<script src="http://www.statcounter.com/counter/counter_xhtml.js" type="text/javascript"></script><noscript><div class="" statcounter=""><a class="statcounter" href="http://www.statcounter.com/"><img alt="site hit counter" class="statcounter" src="http://c7.statcounter.com/736767/0/2fed38a1/1/"/></a></div></noscript>
+<!-- End of StatCounter Code -->
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=6772521&amp;widgetType=HTML&amp;widgetId=HTML2&amp;action=editWidget§ionId=main" onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' target="configHTML2" title="Edit">
+<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div></div>
+</div>
+<div id="sidebar-wrapper">
+<div class="sidebar section" id="sidebar"><div class="widget LinkList" id="LinkList3">
+<h2>Social</h2>
+<div class="widget-content">
+<ul>
+<li><a href="http://www.twitter.com/sjaustin">Twitter</a></li>
+<li><a href="http://www.flickr.com/photos/sjaustin/">Flickr</a></li>
+<li><a href="http://vimeo.com/sjaustin">Vimeo</a></li>
+<li><a href="http://www.facebook.com/sjaustin">Facebook</a></li>
+</ul>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=6772521&amp;widgetType=LinkList&amp;widgetId=LinkList3&amp;action=editWidget§ionId=sidebar" onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList3"));' target="configLinkList3" title="Edit">
+<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div><div class="widget LinkList" id="LinkList1">
+<h2>Web</h2>
+<div class="widget-content">
+<ul>
+<li><a href="http://www.artisanchurch.com/">Artisan Church</a></li>
+<li><a href="http://sistersofmurphyband.com/">Sisters of Murphy</a></li>
+</ul>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=6772521&amp;widgetType=LinkList&amp;widgetId=LinkList1&amp;action=editWidget§ionId=sidebar" onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList1"));' target="configLinkList1" title="Edit">
+<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div><div class="widget HTML" id="HTML6">
+<h2 class="title">Support PF: Shop Amazon</h2>
+<div class="widget-content">
+<script charset="utf-8" src="http://ws.amazon.com/widgets/q?rt=tf_sw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822/US/postufrequ-20/8002/f9390c5c-d38a-4166-bd87-478234ceab08" type="text/javascript"> </script> <noscript><a href="http://ws.amazon.com/widgets/q?rt=tf_sw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fpostufrequ-20%2F8002%2Ff9390c5c-d38a-4166-bd87-478234ceab08&amp;Operation=NoScript">Amazon.com Widgets</a></noscript>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=6772521&amp;widgetType=HTML&amp;widgetId=HTML6&amp;action=editWidget§ionId=sidebar" onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML6"));' target="configHTML6" title="Edit">
+<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget BlogArchive" id="BlogArchive1">
+<h2>Blog Archive</h2>
+<div class="widget-content">
+<div id="ArchiveList">
+<div id="BlogArchive1_ArchiveList">
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/search?updated-min=2013-01-01T00:00:00-05:00&amp;updated-max=2014-01-01T00:00:00-05:00&amp;max-results=4">2013</a>
+<span class="post-count" dir="ltr">(4)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2013_11_01_archive.html">November</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2013_04_01_archive.html">April</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2013_03_01_archive.html">March</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2013_01_01_archive.html">January</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/search?updated-min=2012-01-01T00:00:00-05:00&amp;updated-max=2013-01-01T00:00:00-05:00&amp;max-results=8">2012</a>
+<span class="post-count" dir="ltr">(8)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2012_12_01_archive.html">December</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2012_11_01_archive.html">November</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2012_10_01_archive.html">October</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2012_09_01_archive.html">September</a>
+<span class="post-count" dir="ltr">(2)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2012_04_01_archive.html">April</a>
+<span class="post-count" dir="ltr">(2)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2012_03_01_archive.html">March</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/search?updated-min=2011-01-01T00:00:00-05:00&amp;updated-max=2012-01-01T00:00:00-05:00&amp;max-results=5">2011</a>
+<span class="post-count" dir="ltr">(5)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2011_08_01_archive.html">August</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2011_04_01_archive.html">April</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2011_03_01_archive.html">March</a>
+<span class="post-count" dir="ltr">(3)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/search?updated-min=2010-01-01T00:00:00-05:00&amp;updated-max=2011-01-01T00:00:00-05:00&amp;max-results=9">2010</a>
+<span class="post-count" dir="ltr">(9)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2010_07_01_archive.html">July</a>
+<span class="post-count" dir="ltr">(2)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2010_06_01_archive.html">June</a>
+<span class="post-count" dir="ltr">(2)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2010_05_01_archive.html">May</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2010_04_01_archive.html">April</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2010_02_01_archive.html">February</a>
+<span class="post-count" dir="ltr">(2)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2010_01_01_archive.html">January</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/search?updated-min=2009-01-01T00:00:00-05:00&amp;updated-max=2010-01-01T00:00:00-05:00&amp;max-results=35">2009</a>
+<span class="post-count" dir="ltr">(35)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2009_12_01_archive.html">December</a>
+<span class="post-count" dir="ltr">(2)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2009_11_01_archive.html">November</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2009_10_01_archive.html">October</a>
+<span class="post-count" dir="ltr">(2)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2009_09_01_archive.html">September</a>
+<span class="post-count" dir="ltr">(2)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2009_08_01_archive.html">August</a>
+<span class="post-count" dir="ltr">(3)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2009_07_01_archive.html">July</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2009_06_01_archive.html">June</a>
+<span class="post-count" dir="ltr">(3)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2009_05_01_archive.html">May</a>
+<span class="post-count" dir="ltr">(8)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2009_04_01_archive.html">April</a>
+<span class="post-count" dir="ltr">(3)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2009_03_01_archive.html">March</a>
+<span class="post-count" dir="ltr">(3)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2009_02_01_archive.html">February</a>
+<span class="post-count" dir="ltr">(5)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2009_01_01_archive.html">January</a>
+<span class="post-count" dir="ltr">(2)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/search?updated-min=2008-01-01T00:00:00-05:00&amp;updated-max=2009-01-01T00:00:00-05:00&amp;max-results=50">2008</a>
+<span class="post-count" dir="ltr">(81)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2008_12_01_archive.html">December</a>
+<span class="post-count" dir="ltr">(4)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2008_11_01_archive.html">November</a>
+<span class="post-count" dir="ltr">(2)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2008_10_01_archive.html">October</a>
+<span class="post-count" dir="ltr">(4)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2008_09_01_archive.html">September</a>
+<span class="post-count" dir="ltr">(9)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2008_08_01_archive.html">August</a>
+<span class="post-count" dir="ltr">(5)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2008_07_01_archive.html">July</a>
+<span class="post-count" dir="ltr">(8)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2008_06_01_archive.html">June</a>
+<span class="post-count" dir="ltr">(10)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2008_05_01_archive.html">May</a>
+<span class="post-count" dir="ltr">(9)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2008_04_01_archive.html">April</a>
+<span class="post-count" dir="ltr">(8)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2008_03_01_archive.html">March</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2008_02_01_archive.html">February</a>
+<span class="post-count" dir="ltr">(5)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2008_01_01_archive.html">January</a>
+<span class="post-count" dir="ltr">(5)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/search?updated-min=2007-01-01T00:00:00-05:00&amp;updated-max=2008-01-01T00:00:00-05:00&amp;max-results=45">2007</a>
+<span class="post-count" dir="ltr">(45)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2007_12_01_archive.html">December</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2007_11_01_archive.html">November</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2007_10_01_archive.html">October</a>
+<span class="post-count" dir="ltr">(8)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2007_09_01_archive.html">September</a>
+<span class="post-count" dir="ltr">(5)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2007_06_01_archive.html">June</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2007_05_01_archive.html">May</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2007_04_01_archive.html">April</a>
+<span class="post-count" dir="ltr">(2)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2007_03_01_archive.html">March</a>
+<span class="post-count" dir="ltr">(2)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2007_02_01_archive.html">February</a>
+<span class="post-count" dir="ltr">(3)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2007_01_01_archive.html">January</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate expanded">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy toggle-open">▼ </span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/search?updated-min=2006-01-01T00:00:00-05:00&amp;updated-max=2007-01-01T00:00:00-05:00&amp;max-results=50">2006</a>
+<span class="post-count" dir="ltr">(179)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2006_12_01_archive.html">December</a>
+<span class="post-count" dir="ltr">(10)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2006_11_01_archive.html">November</a>
+<span class="post-count" dir="ltr">(12)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2006_10_01_archive.html">October</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2006_09_01_archive.html">September</a>
+<span class="post-count" dir="ltr">(9)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2006_08_01_archive.html">August</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate expanded">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy toggle-open">▼ </span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2006_07_01_archive.html">July</a>
+<span class="post-count" dir="ltr">(11)</span>
+<ul class="posts">
+<li><a href="http://www.sjaustin.com/2006/07/heated-optimism-arranged-by-category.html">Heated optimism, arranged by category</a></li>
+<li><a href="http://www.sjaustin.com/2006/07/cake.html">The cake</a></li>
+<li><a href="http://www.sjaustin.com/2006/07/birthday-cake.html">Birthday cake</a></li>
+<li><a href="http://www.sjaustin.com/2006/07/blog-business.html">Blog business</a></li>
+<li><a href="http://www.sjaustin.com/2006/07/friday-morning-latte-art.html">Friday morning latte art</a></li>
+<li><a href="http://www.sjaustin.com/2006/07/loose-ends.html">Loose ends</a></li>
+<li><a href="http://www.sjaustin.com/2006/07/napster-they-cant-give-it-away.html">Napster: They can't give it away</a></li>
+<li><a href="http://www.sjaustin.com/2006/07/speaking-of-athletic-feats.html">Speaking of athletic feats</a></li>
+<li><a href="http://www.sjaustin.com/2006/07/why-do-we-watch-sports.html">Why do we watch sports?</a></li>
+<li><a href="http://www.sjaustin.com/2006/07/more-on-flag-burning.html">More on flag burning</a></li>
+<li><a href="http://www.sjaustin.com/2006/07/return-of-blind-boys.html">Return of the Blind Boys</a></li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2006_06_01_archive.html">June</a>
+<span class="post-count" dir="ltr">(17)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2006_05_01_archive.html">May</a>
+<span class="post-count" dir="ltr">(9)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2006_04_01_archive.html">April</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2006_03_01_archive.html">March</a>
+<span class="post-count" dir="ltr">(26)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2006_02_01_archive.html">February</a>
+<span class="post-count" dir="ltr">(26)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2006_01_01_archive.html">January</a>
+<span class="post-count" dir="ltr">(26)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/search?updated-min=2005-01-01T00:00:00-05:00&amp;updated-max=2006-01-01T00:00:00-05:00&amp;max-results=50">2005</a>
+<span class="post-count" dir="ltr">(181)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2005_12_01_archive.html">December</a>
+<span class="post-count" dir="ltr">(7)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2005_11_01_archive.html">November</a>
+<span class="post-count" dir="ltr">(9)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2005_10_01_archive.html">October</a>
+<span class="post-count" dir="ltr">(15)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2005_09_01_archive.html">September</a>
+<span class="post-count" dir="ltr">(9)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2005_08_01_archive.html">August</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2005_07_01_archive.html">July</a>
+<span class="post-count" dir="ltr">(9)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2005_06_01_archive.html">June</a>
+<span class="post-count" dir="ltr">(13)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2005_05_01_archive.html">May</a>
+<span class="post-count" dir="ltr">(7)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2005_04_01_archive.html">April</a>
+<span class="post-count" dir="ltr">(14)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2005_03_01_archive.html">March</a>
+<span class="post-count" dir="ltr">(19)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2005_02_01_archive.html">February</a>
+<span class="post-count" dir="ltr">(23)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2005_01_01_archive.html">January</a>
+<span class="post-count" dir="ltr">(45)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/search?updated-min=2004-01-01T00:00:00-05:00&amp;updated-max=2005-01-01T00:00:00-05:00&amp;max-results=50">2004</a>
+<span class="post-count" dir="ltr">(67)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2004_12_01_archive.html">December</a>
+<span class="post-count" dir="ltr">(59)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2004_11_01_archive.html">November</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2004_10_01_archive.html">October</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2004_09_01_archive.html">September</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2004_05_01_archive.html">May</a>
+<span class="post-count" dir="ltr">(2)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
+
+          ► 
+        
+</span>
+</a>
+<a class="post-count-link" href="http://www.sjaustin.com/2004_04_01_archive.html">April</a>
+<span class="post-count" dir="ltr">(3)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=6772521&amp;widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=editWidget§ionId=sidebar" onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target="configBlogArchive1" title="Edit">
+<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div><div class="widget HTML" id="HTML4">
+<div class="widget-content">
+<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/" rel="license"><img alt="Creative Commons License" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" style="border-width:0"/></a><br/>This work by <a href="www.sjaustin.com" property="cc:attributionName" rel="cc:attributionURL" xmlns:cc="http://creativecommons.org/ns#">SJ Austin</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/" rel="license">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>.
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=6772521&amp;widgetType=HTML&amp;widgetId=HTML4&amp;action=editWidget§ionId=sidebar" onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML4"));' target="configHTML4" title="Edit">
+<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div></div>
+</div>
+<!-- spacer for skins that want sidebar and main to be the same height-->
+<div class="clear"> </div>
+</div>
+<!-- end content-wrapper -->
+<div id="footer-wrapper">
+<div class="footer section" id="footer"><div class="widget HTML" id="HTML1">
+<div class="widget-content">
+<iframe border="0" frameborder="0" height="90" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=postufrequ-20&amp;o=1&amp;p=48&amp;l=ur1&amp;category=mp3&amp;banner=1FBZF1J4A83VZ5MCN9R2&amp;f=ifr" style="border:none;" width="728"></iframe>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=6772521&amp;widgetType=HTML&amp;widgetId=HTML1&amp;action=editWidget§ionId=footer" onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' target="configHTML1" title="Edit">
+<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div></div>
+</div>
+</div></div>
+<!-- end outer-wrapper -->
+<script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
+</script><script src="https://www.blogger.com/static/v1/widgets/3512243057-widgets.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+<script type="text/javascript">
+if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV1";window['blogger_blog_id'] = '6772521';BLOG_attachCsiOnload('archive_'); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d6772521','//www.sjaustin.com/2006_07_01_archive.html','6772521');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '6772521', 'bloggerUrl': 'http://www.blogger.com', 'title': 'POSTUS FREQUENTUS', 'pageType': 'archive', 'url': 'http://www.sjaustin.com/2006_07_01_archive.html', 'canonicalUrl': 'http://www.sjaustin.com/2006_07_01_archive.html', 'canonicalHomepageUrl': 'http://www.sjaustin.com/', 'homepageUrl': 'http://www.sjaustin.com/', 'blogspotFaviconUrl': 'http://www.sjaustin.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': '07/01/2006 - 08/01/2006', 'pageTitle': 'POSTUS FREQUENTUS: 07/01/2006 - 08/01/2006', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42POSTUS FREQUENTUS - Atom\42 href\75\42http://www.sjaustin.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42POSTUS FREQUENTUS - RSS\42 href\75\42http://www.sjaustin.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42POSTUS FREQUENTUS - Atom\42 href\75\42http://www.blogger.com/feeds/6772521/posts/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,f\75\42chrome\42,g\75\42tick\42,k\75\42jstiming\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){var e\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[e,d];if(void 0\75\75c)try{b.console.timeStamp(\42CSI/\42+a)}catch(h){}};this[g](\42start\42,null,a)}var a;b.performance\46\46(a\75b.performance.timing);var n\75a?new d(a.responseStart):new d;b.jstiming\75{Timer:d,load:n};if(a){var c\75a.navigationStart,h\75a.responseStart;0\74c\46\46h\76\75c\46\46(b[k].srt\75h-c)}if(a){var e\75b[k].load;0\74c\46\46h\76\75c\46\46(e[g](\42_wtsrt\42,void 0,c),e[g](\42wtsrt_\42,\42_wtsrt\42,h),e[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,\nb[f]\46\46b[f].csi\46\46(a\75Math.floor(b[f].csi().pageT),e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b[f].csi().startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b.external.startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),a\46\46(b[k].pt\75a)}catch(p){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[k].load[g](\42aft\42)};var l\75!1;function m(){l||(l\75!0,b[k].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,m,!1):b.attachEvent(\42onscroll\42,m);\n })();\74/script\076', 'mobileHeadScript': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/76f25a6f2e06af76', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n'}}, {'name': 'skin', 'data': {'vars': {'textColor': '#204063', 'mainVisitedLinkColor': '#2462a5', 'pageTitleFont': 'normal bold 200% Helvetica,Arial,Verdana,\47Trebuchet MS\47, Sans-serif', 'sidebarVisitedLinkColor': '#3372b6', 'blogDescriptionFont': 'normal normal 80% Helvetica,Arial,Verdana,\47Trebuchet MS\47, Sans-serif', 'postTitleColor': '#477fba', 'sidebarLinkColor': '#599be2', 'mainLinkColor': '#4386ce', 'sidebarHeaderColor': '#809fbd', 'headerFont': 'normal bold 100% Helvetica,Arial,Verdana,\47Trebuchet MS\47, Sans-serif', 'bodyFont': 'normal normal 100% Helvetica,Arial,Verdana,\47Trebuchet MS\47, Sans-serif', 'blogDescriptionColor': '#eef6fe', 'dateHeaderColor': '#8facc8', 'endSide': 'right', 'startSide': 'left', 'blogTitleColor': '#eef6fe'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\75timeslide'}}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/3586692752-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/2392111094-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'main', null, document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList3', 'sidebar', null, document.getElementById('LinkList3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'sidebar', null, document.getElementById('LinkList1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'sidebar', null, document.getElementById('HTML6'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar', null, document.getElementById('BlogArchive1'), {'languageDirection': 'ltr'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'sidebar', null, document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'footer', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+Vary: Accept-Encoding
+Set-Cookie: persistent_id=pid%3D733a4d18-d8ad-4ff9-b042-06973c1244b0%26llid%3D%26lprid%3D%26lltime%3D; domain=.myspace.com; path=/; expires=Mon, 19 Feb 2035 06:50:21 GMT; httpOnly
+Set-Cookie: visit_id=33f92710-2074-4585-b71a-5ed9096a4d7d; domain=.myspace.com; path=/; expires=Tue, 24 Feb 2015 07:20:21 GMT; httpOnly
+Set-Cookie: beacons_enabled=true; domain=.myspace.com; path=/; expires=Tue, 24 Feb 2015 07:20:21 GMT
+Set-Cookie: ads=adInitVisit%3D; domain=.myspace.com; path=/; expires=Thu, 26 Mar 2015 06:50:24 GMT
+Set-Cookie: player=sequenceId%3D-1%26paused%3Dfalse%26currentTime%3D0%26volume%3D0.5%26mute%3Dfalse%26shuffled%3Dfalse%26repeat%3Doff%26mode%3Dqueue%26radioEntity%3D%26radioMediaType%3D%26radioMediaId%3D%26radioCurrentTime%3D0%26pinned%3Dfalse%26streamStartDateTime%3D%26radioStreamStartDateTime%3D%26at%3D360%26incognito%3Dfalse%26allowSkips%3Dtrue%26ccOn%3Dfalse; domain=.myspace.com; path=/; expires=Thu, 26 Mar 2015 06:50:24 GMT
+X-Handling-Host: las2-app054
+X-TrackingId: 5bc095b5-e76d-4464-ad7c-649fe57a4a6f
+Cache-Control: no-cache
+Strict-Transport-Security: max-age=31536000
+Content-Type: text/html; charset=utf-8
+Content-Length: 269982
+X-Response-Time: 2995ms
+Date: Tue, 24 Feb 2015 06:50:24 GMT
+Connection: keep-alive
+

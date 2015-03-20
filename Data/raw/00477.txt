@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+
+<!--[if IE 7]><html id="ie7" lang="en-US"><![endif]-->
+<!--[if IE 8]><html id="ie8" lang="en-US"><![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!--><html lang="en-US"><!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width" name="viewport"/>
+<meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<title>Movie Review: Inception | amaliehoward.com</title>
+<link href="http://gmpg.org/xfn/11" rel="profile"/>
+<link href="http://amaliehoward.com/xmlrpc.php" rel="pingback"/>
+<link href="http://amaliehoward.com/wp-content/uploads/2014/03/favicon.ico?Tuesday 24th of February 2015 06:44:23 AM" rel="shortcut icon" type="image/x-icon"/>
+<link href="http://amaliehoward.com/wp-content/themes/Isabelle/style.css?Tuesday 24th of February 2015 06:44:23 AM" rel="stylesheet" type="text/css"/>
+<link href="http://amaliehoward.com/feed/" rel="alternate" title="amaliehoward.com » Feed" type="application/rss+xml"/>
+<link href="http://amaliehoward.com/comments/feed/" rel="alternate" title="amaliehoward.com » Comments Feed" type="application/rss+xml"/>
+<link href="http://amaliehoward.com/movie-review-inception/feed/" rel="alternate" title="amaliehoward.com » Movie Review: Inception Comments Feed" type="application/rss+xml"/>
+<link href="http://amaliehoward.com/wp-admin/css/farbtastic.css?ver=1.3u1" id="farbtastic-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://amaliehoward.com/wp-includes/js/thickbox/thickbox.css?ver=1.0" id="thickbox.css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://amaliehoward.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.6" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://amaliehoward.com/wp-content/plugins/social-media-widget/social_widget.css?ver=3.8.5" id="social-widget-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://amaliehoward.com/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003" id="jetpack-widgets-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://amaliehoward.com/wp-content/themes/Isabelle/style.css?ver=3.8.5" id="style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://amaliehoward.com/wp-content/themes/Isabelle/stylesheet.css?ver=3.8.5" id="stylesheet-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://fonts.googleapis.com/css?family=Lato%3A400%2C700%2C400italic%2C700italic&amp;ver=all" id="google-webfont-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://amaliehoward.com/wp-content/themes/Isabelle/js/colorbox/colorbox.css?ver=3.8.5" id="colorbox-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://amaliehoward.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.css?ver=2.7.2" id="sharedaddy-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="http://amaliehoward.com/wp-includes/js/jquery/jquery.js?ver=1.10.2" type="text/javascript"></script>
+<script src="http://amaliehoward.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1" type="text/javascript"></script>
+<script src="http://amaliehoward.com/wp-includes/js/comment-reply.min.js?ver=3.8.5" type="text/javascript"></script>
+<link href="http://amaliehoward.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://amaliehoward.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="http://amaliehoward.com/the-twilight-saga-eclipse/" rel="prev" title="The Twilight Saga: Eclipse"/>
+<link href="http://amaliehoward.com/true-blood-trouble/" rel="next" title="True Blood: Trouble"/>
+<link href="http://wp.me/p2CatR-Gh" rel="shortlink"/>
+<link href="http://amaliehoward.com/wp-content/plugins/flexi-quote-rotator/styles/narrow-plain.css" media="screen" rel="stylesheet" type="text/css"/> <script type="text/javascript">
+				quoteRotator = {
+					i: 1,
+					quotes: ["<span id='quote'>\'  an incredible read  \'</span>",
+"<span id='quote'>\'  excellent debut novel  \'</span>",
+
+					],
+					numQuotes: 2,
+					fadeDuration: 2,
+					fadeoutDuration: 0,
+					delay: 5,
+					quotesInit: function(){
+						if (this.numQuotes < 1){
+							document.getElementById('quoterotator').innerHTML="No Quotes Found";
+						} else {
+							this.quoteRotate();
+							setInterval('quoteRotator.quoteRotate()', (this.fadeDuration + this.fadeoutDuration + this.delay) * 1000);
+						}
+					},
+					quoteRotate: function(){
+						jQuery('#quoterotator').hide().html(this.quotes[this.i - 1]).fadeIn(this.fadeDuration * 1000).css('filter','').delay(this.delay * 1000).fadeOut(this.fadeoutDuration * 1000);
+						this.i = this.i % (this.numQuotes) + 1;
+					}
+	
+				}
+			</script>
+<!--[if lt IE 7]><script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE7.js" type="text/javascript"></script><![endif]-->
+<!--[if lt IE 8]><script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js" type="text/javascript"></script><![endif]-->
+<!--[if lt IE 9]><script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js" type="text/javascript"></script><![endif]-->
+<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script><![endif]-->
+<!-- All in One SEO Pack 2.1.2 by Michael Torbert of Semper Fi Web Design[359,408] -->
+<meta content="Prepare to get completely mind-effed. I was, and am still recovering. Rated at 84% on the tomatometer at Rotten Tomatoes, Inception was an amazing film. Not" name="description"/>
+<meta content="cillian murphy fischer,cobb,extraction of dreams,extrating thoughts,going into limbo,going into someone\'s dreams,inception,inception movie,leonardo dicaprio inception,saito,fantasy,movies,scifi" name="keywords"/>
+<link href="http://amaliehoward.com/movie-review-inception/" rel="canonical"/>
+<!-- /all in one seo pack -->
+<link href="https://plus.google.com/112769495270459348189" rel="author" title="Amalie Howard on Google+"/>
+<style id="custom-background-css" type="text/css">
+body.custom-background { background-color: #ffffff; }
+</style>
+<style type="text/css">
+
+    .social-twitter {background-color: #cccccc;}
+    .social-facebook {background-color: #cccccc;}
+    .social-email {background-color: #cccccc;}
+    .social-rss {background-color: #cccccc;}
+    .social-google {background-color: #cccccc;}
+    .social-flickr {background-color: #cccccc;}
+    .social-linkedin {background-color: #cccccc;}
+    .social-youtube {background-color: #cccccc;}
+    .social-vimeo {background-color: #cccccc;}
+    .social-instagram {background-color: #cccccc;}
+    .social-bloglovin {background-color: #cccccc;}
+    .social-pinterest {background-color: #cccccc;}
+
+    .social-twitter:hover {background-color: #269dd5;}
+    .social-facebook:hover {background-color: #0c42b2;}
+    .social-email:hover {background-color: #aaaaaa;}
+    .social-rss:hover {background-color: #f49000;}
+    .social-google:hover {background-color: #fd3000;}
+    .social-flickr:hover {background-color: #fc0077;}
+    .social-linkedin:hover {background-color: #0d5a7b;}
+    .social-youtube:hover {background-color: #ff0000;}
+    .social-vimeo:hover {background-color: #00c1f8;}
+    .social-instagram:hover {background-color: #194f7a;}
+    .social-bloglovin:hover {background-color: #00c4fd;}
+    .social-pinterest:hover {background-color: #c70505;}
+
+    ul.header-icons-list li .nav-rss {background-color: #fce2e5;}    ul.header-icons-list li .nav-twitter {background-color: #fce2e5;}    ul.header-icons-list li .nav-facebook {background-color: #fce2e5;}    ul.header-icons-list li .nav-pinterest {background-color: #fce2e5;}    ul.header-icons-list li .nav-email {background-color: #fce2e5;}    ul.header-icons-list li .nav-flickr {background-color: #fce2e5;}    ul.header-icons-list li .nav-linkedin {background-color: #fce2e5;}    ul.header-icons-list li .nav-youtube {background-color: #fce2e5;}    ul.header-icons-list li .nav-vimeo {background-color: #fce2e5;}    ul.header-icons-list li .nav-google {background-color: #fce2e5;}    ul.header-icons-list li .nav-instagram {background-color: #fce2e5;}    ul.header-icons-list li .nav-bloglovin {background-color: #fce2e5;}    ul.header-icons-list li .nav-email {background-color: #fce2e5;}
+    ul.header-icons-list li .nav-rss:hover {background-color: #888888;}    ul.header-icons-list li .nav-twitter:hover {background-color: #888888;}    ul.header-icons-list li .nav-facebook:hover {background-color: #888888;}    ul.header-icons-list li .nav-pinterest:hover {background-color: #888888;}    ul.header-icons-list li .nav-email:hover {background-color: #888888;}    ul.header-icons-list li .nav-flickr:hover {background-color: #888888;}    ul.header-icons-list li .nav-linkedin:hover {background-color: #888888;}    ul.header-icons-list li .nav-youtube:hover {background-color: #888888;}    ul.header-icons-list li .nav-vimeo:hover {background-color: #888888;}    ul.header-icons-list li .nav-google:hover {background-color: #888888;}    ul.header-icons-list li .nav-instagram:hover {background-color: #888888;}    ul.header-icons-list li .nav-bloglovin:hover {background-color: #888888;}    ul.header-icons-list li .nav-email:hover {background-color: #888888;}
+    h1 {color: #ffcfcf;}    h2 {color: #ffcfcf;}    h3 {color: #ffcfcf;}    h4 {color: #333333;}    h5 {color: #555555;}    h6 {color: #555555;}
+    .side-widget {border: 5px solid #fce2e5;}     .footer {border-top: 10px solid #fce2e5;}     .article .post-category {background: #fce2e5;}     .article .post-meta {border-color: #fce2e5;} 
+    .article .post-title a:hover, a {color: #fc7988;}     a:hover, .article .post-title a:hover {color: #333333;}
+        .sc-slide .rslides_tabs li.rslides_here a, 
+    .nivo-controlNav a.active,
+    a.comment-reply-link,
+    a#cancel-comment-reply-link {
+      background: #fc7988;
+    }
+    
+    .header {border-bottom: 1px solid #ffecec;}    .nav, .nav ul ul {background: #ffecec;}    .nav a {color: #888888;}        .nav a:hover,
+    .nav .current-menu-item > a,
+    .nav .current-menu-ancestor > a,
+    .nav .current_page_item > a,
+    .nav .current_page_ancestor > a {
+      color: #000000;
+    }
+    
+        .post-button,
+    .input-button,
+    .input-button,
+    input[type=submit] {
+      background: #fce2e5;
+      border: 1px solid #fce2e5;      color: #333333;    }
+    
+        .post-button:hover,
+    .input-button:hover,
+    .input-button:hover,
+    input[type=submit]:hover {
+      background: #888888;
+      border: 1px solid #888888;      color: #ffffff;    }
+    
+    .accordion-title {background-color: #fce2e5; color: #333333;}
+    .accordion-open {background-color: #888888; color: #ffffff;}
+
+  </style>
+</head>
+<body class="single single-post postid-2621 single-format-standard custom-background">
+<section class="wrap">
+<section class="container">
+<header class="header" role="banner">
+<section class="header-icons">
+<ul class="header-icons-list">
+</ul>
+</section>
+<a href="http://amaliehoward.com/">
+<img alt="amaliehoward.com" class="header-title" height="200" src="http://amaliehoward.com/wp-content/uploads/2014/03/Amalie_Logo1.jpg" title="amaliehoward.com" width="980"/>
+</a>
+<nav class="nav" role="navigation">
+<div class="menu"><ul><li><a href="http://amaliehoward.com/">Home</a></li><li class="page_item page-item-4723 page_item_has_children"><a href="http://amaliehoward.com/books/">Books</a><ul class="children"><li class="page_item page-item-7334"><a href="http://amaliehoward.com/books/alpha-goddess/">Alpha Goddess</a></li><li class="page_item page-item-7332"><a href="http://amaliehoward.com/books/the-almost-girl/">The Almost Girl</a></li><li class="page_item page-item-7329"><a href="http://amaliehoward.com/books/waterfell/">Waterfell</a></li><li class="page_item page-item-7324"><a href="http://amaliehoward.com/books/bloodspell/">Bloodspell</a></li><li class="page_item page-item-7350"><a href="http://amaliehoward.com/books/oceanborn/">Oceanborn</a></li><li class="page_item page-item-7599"><a href="http://amaliehoward.com/books/the-fallen-prince/">The Fallen Prince</a></li><li class="page_item page-item-7588"><a href="http://amaliehoward.com/books/seamonster/">SEAMONSTER</a></li></ul></li><li class="page_item page-item-4765"><a href="http://amaliehoward.com/faqs/">FAQs</a></li><li class="page_item page-item-2"><a href="http://amaliehoward.com/about/">About Amalie</a></li><li class="page_item page-item-4760"><a href="http://amaliehoward.com/press/">Press</a></li><li class="page_item page-item-4763"><a href="http://amaliehoward.com/events/">Events</a></li><li class="page_item page-item-829"><a href="http://amaliehoward.com/contact/">Contact</a></li></ul></div>
+</nav><!-- .nav -->
+</header><!-- .header -->
+<section class="section" role="main">
+<article class="post-2621 post type-post status-publish format-standard hentry category-fantasy category-movies category-scifi tag-cillian-murphy-fischer tag-cobb tag-extraction-of-dreams tag-extrating-thoughts tag-going-into-limbo tag-going-into-someones-dreams tag-inception tag-inception-movie tag-leonardo-dicaprio-inception tag-saito article" id="post-2621" itemscope="" itemtype="http://schema.org/Article">
+<section class="post-category"><a href="http://amaliehoward.com/category/fantasy/" rel="category tag" title="View all posts in fantasy">fantasy</a>, <a href="http://amaliehoward.com/category/movies/" rel="category tag" title="View all posts in Movies">Movies</a>, <a href="http://amaliehoward.com/category/scifi/" rel="category tag" title="View all posts in scifi">scifi</a></section>
+<header class="post-header">
+<h1 class="post-title" itemprop="name"><a href="http://amaliehoward.com/movie-review-inception/" rel="bookmark" title="Movie Review: Inception">Movie Review: Inception</a></h1>
+</header>
+<p><a class="colorbox" href="http://amaliehoward.com/wp-content/uploads/2010/07/inception_movie_poster.jpg" rel="colorbox"><img alt="" class="alignleft size-medium wp-image-2628" height="300" src="http://amaliehoward.com/wp-content/uploads/2010/07/inception_movie_poster-202x300.jpg" title="Inception_movie_poster" width="202"/></a>Prepare to get completely mind-effed. I was, and am still recovering.</p>
+<p>Rated at 84% on the <a href="http://www.rottentomatoes.com/m/inception/" target="_blank">tomatometer</a> at <a href="http://www.rottentomatoes.com" target="_blank">Rotten Tomatoes</a>, <a href="http://inceptionmovie.warnerbros.com/" target="_blank">Inception</a> was an amazing film. Not only was it a fantastic visual experience, the plot is so intricate with so many layers, that you would need to see this movie more than once to even try to <em>get </em>it. Based on mazes as the basis for the architectural design of the dream world, <a href="http://inceptionmovie.warnerbros.com/" target="_blank">Inception</a> certainly seems to be just one giant maze that your mind constantly swings around – like the unending staircase loop. <em>Paradox</em>.</p>
+<p>Similar to the <a href="http://www.amazon.com/Matrix-Keanu-Reeves/dp/B00000K19E" target="_blank">Matrix</a> in terms of its question of reality, <a href="http://inceptionmovie.warnerbros.com/" target="_blank">Inception</a> brings a new concept to the fore – entering one’s dreams to steal secrets or learn one’s thoughts. That is known as extraction. Inception on the other hand is the planting of an idea of external origin into the dreamer’s subconscious so that they come to accept and believe the idea as their <a class="colorbox" href="http://amaliehoward.com/wp-content/uploads/2010/07/Inception_dreaming.jpg" rel="colorbox"><img alt="" class="alignright size-full wp-image-2627" height="200" src="http://amaliehoward.com/wp-content/uploads/2010/07/Inception_dreaming.jpg" title="Inception_dreaming" width="300"/></a>own. Sounds simple right? In fact, it is far from simple as the delicacy required to not have the dreamer’s subconscious automatically reject a foreign thought is almost impossible.</p>
+<p>In <a href="http://inceptionmovie.warnerbros.com/" target="_blank">Inception</a>, Leonardo DiCaprio plays Cobb, an extraction artist. A fugitive from the US, he is engaged by a third party, Saito, who asks him to perform inception with the heir of a billionaire and plant an idea to break-up his father’s empire to avoid a global corporate monopoly. To even achieve the near-impossible inception, Cobb and <a class="colorbox" href="http://amaliehoward.com/wp-content/uploads/2010/07/Inception_arthur.jpg" rel="colorbox"><img alt="" class="alignleft size-medium wp-image-2623" height="140" src="http://amaliehoward.com/wp-content/uploads/2010/07/Inception_arthur-300x200.jpg" title="Inception_Arthur" width="210"/></a>his team need to go four-layers deep into the dream-state, dreams within dreams, which puts them dangerously close to being in limbo (a state where you cannot return to reality). In each of the layers, they face different dangers, not just the dreamer’s subconscious protectors, but also Cobb’s own demons (his dead wife that guilt has kept alive in his mind) that attempt to sabotage them. Ultimately, they succeed in planting the idea, and Saito wipes Cobb’s record allowing him to get back to his children. In true movie fashion (*groan*), in the last few minutes, you are left haunted with whether Cobb’s reunion is actually a dream or reality, and whether they even succeeded at all!!!!<a class="colorbox" href="http://amaliehoward.com/wp-content/uploads/2010/07/inception_cobb_kick.png" rel="colorbox"><img alt="" class="alignright size-medium wp-image-2625" height="124" src="http://amaliehoward.com/wp-content/uploads/2010/07/inception_cobb_kick-300x124.png" title="inception_cobb_kick" width="300"/></a></p>
+<p>All I can say at this point is that the collective groan of the entire movie audience summed it up. MIND-EFFED.</p>
+<p>Great cinematography – as good as anything your mind can dream up – that keeps your heart pumping while your mind is racing uncontrollably trying to keep up. Let me put it this way. If you’re looking for escapism, look elsewhere. This film will make you think, make your brain work trying to connect the different pieces…it just might make you insane trying to work out all the variables or <a class="colorbox" href="http://amaliehoward.com/wp-content/uploads/2010/07/inception_dream.jpg" rel="colorbox"><img alt="" class="alignleft size-large wp-image-2626" height="186" src="http://amaliehoward.com/wp-content/uploads/2010/07/inception_dream-1024x444.jpg" title="Inception_dream" width="430"/></a>invariables as the case may be. It’s so open to interpretation that you will think one thing one minute and then something completely different the next. Is it possible? Is it improbable? Is it doable? Is it one big mind-game? Who knows.</p>
+<p>Amazing film. I would rate <a href="http://inceptionmovie.warnerbros.com/" target="_blank">Inception</a> 4 out of 5 stars. But like I said…that could change on a dime. Definitely a “go see it.” And pay attention because if you miss one second, it could change everything.
+<div class="sharedaddy sd-sharing-enabled">
+<div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
+<h3 class="sd-title">Share this:</h3>
+<div class="sd-content">
+<ul>
+<li class="share-facebook"><a class="share-facebook sd-button share-icon" href="http://amaliehoward.com/movie-review-inception/?share=facebook" id="sharing-facebook-2621" rel="nofollow" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li>
+<li class="share-twitter"><a class="share-twitter sd-button share-icon" href="http://amaliehoward.com/movie-review-inception/?share=twitter" id="sharing-twitter-2621" rel="nofollow" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li>
+<li class="share-google-plus-1"><a class="share-google-plus-1 sd-button share-icon" href="http://amaliehoward.com/movie-review-inception/?share=google-plus-1" id="sharing-google-2621" rel="nofollow" target="_blank" title="Click to share on Google+"><span>Google</span></a></li>
+<li class="share-linkedin"><a class="share-linkedin sd-button share-icon" href="http://amaliehoward.com/movie-review-inception/?share=linkedin" id="sharing-linkedin-2621" rel="nofollow" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li>
+<li><a class="sharing-anchor sd-button share-more" href="#"><span>More</span></a></li>
+<li class="share-end"></li>
+</ul>
+<div class="sharing-hidden">
+<div class="inner" style="display: none;">
+<ul>
+<li class="share-email"><a class="share-email sd-button share-icon" href="http://amaliehoward.com/movie-review-inception/?share=email" rel="nofollow" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li>
+<li class="share-tumblr"><a class="share-tumblr sd-button share-icon" href="http://amaliehoward.com/movie-review-inception/?share=tumblr" rel="nofollow" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li>
+<li class="share-end"></li>
+<li class="share-pinterest"><a class="share-pinterest sd-button share-icon" href="http://amaliehoward.com/movie-review-inception/?share=pinterest" rel="nofollow" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li>
+<li class="share-stumbleupon"><a class="share-stumbleupon sd-button share-icon" href="http://amaliehoward.com/movie-review-inception/?share=stumbleupon" rel="nofollow" target="_blank" title="Click to share on StumbleUpon"><span>StumbleUpon</span></a></li>
+<li class="share-end"></li>
+<li class="share-digg"><a class="share-digg sd-button share-icon" href="http://amaliehoward.com/movie-review-inception/?share=digg" rel="nofollow" target="_blank" title="Click to Digg this post"><span>Digg</span></a></li>
+<li class="share-print"><a class="share-print sd-button share-icon" href="http://amaliehoward.com/movie-review-inception/#print" rel="nofollow" target="_blank" title="Click to print"><span>Print</span></a></li>
+<li class="share-end"></li>
+<li class="share-reddit"><a class="share-reddit sd-button share-icon" href="http://amaliehoward.com/movie-review-inception/?share=reddit" rel="nofollow" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li>
+<li class="share-end"></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sharedaddy sd-block sd-social sd-gplus">
+<h3 class="sd-title">Google+</h3>
+<div class="sd-content"><a href="https://plus.google.com/112769495270459348189"><img align="absmiddle" alt="Amalie Howard" height="20" src="https://lh4.googleusercontent.com/-Kf2amh_1P1o/AAAAAAAAAAI/AAAAAAAABbg/do4p8h7hTDM/photo.jpg?sz=40" width="20"/> </a><a class="gplus-profile" href="https://plus.google.com/112769495270459348189" rel="author">Amalie Howard</a><span class="g-follow-wrapper"><span class="g-follow" data-height="15" data-href="https://plus.google.com/112769495270459348189" data-rel="author"></span></span></div>
+</div>
+<section class="post-meta">
+<time datetime="July 18, 2010" itemprop="datePublished" pubdate="">July 18, 2010</time> by Amalie Howard | <a href="http://amaliehoward.com/movie-review-inception/#comments" title="Comment on Movie Review: Inception">11 Comments</a> </section><!-- .post-meta -->
+<footer class="post-footer">
+<ul class="footer-navi">
+<li class="previous" rel="prev">« <a href="http://amaliehoward.com/the-twilight-saga-eclipse/" rel="prev">The Twilight Saga: Eclipse</a></li> <li class="next" rel="next"><a href="http://amaliehoward.com/true-blood-trouble/" rel="next">True Blood: Trouble</a> »</li> </ul>
+<p>Tags: <a href="http://amaliehoward.com/tag/cillian-murphy-fischer/" rel="tag">cillian murphy fischer</a>, <a href="http://amaliehoward.com/tag/cobb/" rel="tag">cobb</a>, <a href="http://amaliehoward.com/tag/extraction-of-dreams/" rel="tag">extraction of dreams</a>, <a href="http://amaliehoward.com/tag/extrating-thoughts/" rel="tag">extrating thoughts</a>, <a href="http://amaliehoward.com/tag/going-into-limbo/" rel="tag">going into limbo</a>, <a href="http://amaliehoward.com/tag/going-into-someones-dreams/" rel="tag">going into someone's dreams</a>, <a href="http://amaliehoward.com/tag/inception/" rel="tag">inception</a>, <a href="http://amaliehoward.com/tag/inception-movie/" rel="tag">inception movie</a>, <a href="http://amaliehoward.com/tag/leonardo-dicaprio-inception/" rel="tag">leonardo dicaprio inception</a>, <a href="http://amaliehoward.com/tag/saito/" rel="tag">saito</a><br/></p>
+</footer><!-- .post-footer -->
+<section class="comment-box">
+<!-- You can start editing here. -->
+<section class="comment-pagination">
+<section class="alignleft"></section>
+<section class="alignright"></section>
+</section>
+<h4 id="comments">11 Comments on Movie Review: Inception</h4>
+<ol class="commentlist">
+<li class="comment even thread-even depth-1">
+<article class="comment-content" id="comment-742">
+<div class="comment-meta">
+<img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/b9f10f0aa43d9afccf118a26d1467a64?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/> <h6><a class="url" href="http://www.inceptionmovie2010.com" rel="external nofollow">Katherine E. Bender</a></h6> <small>August 6, 2010 at 2:10 pm (5 years ago)</small>
+</div>
+<p>Was the whole film a dream? If so, WHOSE DREAM??</p>
+<a class="comment-reply-link" href="/movie-review-inception/?replytocom=742#respond" onclick='return addComment.moveForm("comment-742", "742", "respond", "2621")'>Reply</a> </article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1">
+<article class="comment-content" id="comment-717">
+<div class="comment-meta">
+<img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/be333201db1c1a8c454df9557ea28797?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/> <h6><a class="url" href="http://makeupsuppliers.weebly.com" rel="external nofollow">Mikel Reimers</a></h6> <small>August 3, 2010 at 2:25 pm (5 years ago)</small>
+</div>
+<p>Appreciate the recommendation! I may give it a try.</p>
+<a class="comment-reply-link" href="/movie-review-inception/?replytocom=717#respond" onclick='return addComment.moveForm("comment-717", "717", "respond", "2621")'>Reply</a> </article>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1">
+<article class="comment-content" id="comment-710">
+<div class="comment-meta">
+<img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/13b2e0215acc485bcf4eb039a2d55e65?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/> <h6><a class="url" href="http://community.inspireyouthdev.org/greenbag" rel="external nofollow">Jeffry Dollings</a></h6> <small>August 3, 2010 at 12:58 am (5 years ago)</small>
+</div>
+<p>Chris Nolan has shown us the future of huge budget motion pictures for adults– A slightly intellectual notion is stretched and padded with explosions and intense chase scenes, put in concert at a pace so fast we never detect that there’s just barely a whole lot more substance than the typical dvd carries. I do not imply to bash “Inception” as well much. It is actually an interesting movie flick which will sweep anybody with half a brain into its narrative. As soon as the viewer has assigned in to “the ride,” he or she will likely be transfixed for that duration for the video. “Dark Knight” demonstrated this a couple of many years ago. Nolan takes that almost impossible-to-beat formula and pushes it on the optimum on this presentation.</p>
+<a class="comment-reply-link" href="/movie-review-inception/?replytocom=710#respond" onclick='return addComment.moveForm("comment-710", "710", "respond", "2621")'>Reply</a> </article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1">
+<article class="comment-content" id="comment-709">
+<div class="comment-meta">
+<img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/779a2a9defd0c6022369932f7f191158?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/> <h6><a class="url" href="http://community.connectionzpromotions.com/ecobag" rel="external nofollow">Frank Angove</a></h6> <small>August 3, 2010 at 12:57 am (5 years ago)</small>
+</div>
+<p>Di Caprios performance could be the perfect. For those who liked him in Shutter Island, he puts up another fantastic overall performance as a tortured soul right here. Within your end, the flick tries to near with meaning, which it does, but its at the cost of endurance.</p>
+<a class="comment-reply-link" href="/movie-review-inception/?replytocom=709#respond" onclick='return addComment.moveForm("comment-709", "709", "respond", "2621")'>Reply</a> </article>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1">
+<article class="comment-content" id="comment-703">
+<div class="comment-meta">
+<img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/b3dd61a90c5b9925bbf2f007a086ae36?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/> <h6><a class="url" href="http://www.vocaleyes.co.uk/forums/profile.php?id=41352" rel="external nofollow">Janel Deprato</a></h6> <small>August 2, 2010 at 5:08 pm (5 years ago)</small>
+</div>
+<p>Christopher Nolan is one of the few directors/writers (Scorcese, Spielberg, Eastwood) who has the gift of persistently generating fantastic videos. He is as being a Picasso and churns out masterpieces. Countless directors get lucky for one flick and fail to duplicate their achievement. For Invention, Nolan masterfully engages his market as he builds up the account to intrigue you by way of the pretty stop while injecting activity scenes and visual effects to excite you.</p>
+<a class="comment-reply-link" href="/movie-review-inception/?replytocom=703#respond" onclick='return addComment.moveForm("comment-703", "703", "respond", "2621")'>Reply</a> </article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1">
+<article class="comment-content" id="comment-702">
+<div class="comment-meta">
+<img alt="" class="avatar avatar-32 photo" height="32" src="http://0.gravatar.com/avatar/436283ef39691665c715d1b19c24a62c?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/> <h6><a class="url" href="http://www.ecotonejournal.com/index.php/member/10879/" rel="external nofollow">Jacquiline Boitel</a></h6> <small>August 2, 2010 at 5:03 pm (5 years ago)</small>
+</div>
+<p>Bottom line: Even if most people said that Creation is only for smart men and women, regardless of who you’re, go see it. You might leave the cinema theater with so numerous questions and so countless views. It may be quite a thinker at some points, but stay with it. Inform your close friends.</p>
+<a class="comment-reply-link" href="/movie-review-inception/?replytocom=702#respond" onclick='return addComment.moveForm("comment-702", "702", "respond", "2621")'>Reply</a> </article>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1">
+<article class="comment-content" id="comment-701">
+<div class="comment-meta">
+<img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/3fa9a5b129befa667e46fdc748eb188f?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/> <h6><a class="url" href="http://chips.mjankowski.com/forum/index.php?action=profile;u=13724" rel="external nofollow">Arlene Noud</a></h6> <small>August 2, 2010 at 4:58 pm (5 years ago)</small>
+</div>
+<p>This can be the most distinctive movie to occur close to since the Matrix but with improved acting and direction. With all of the sequels and remakes, this can be a fresh dvd not being missed. Disregard THE Poor Assessments in the event you contemplate yourself intelligent.</p>
+<a class="comment-reply-link" href="/movie-review-inception/?replytocom=701#respond" onclick='return addComment.moveForm("comment-701", "701", "respond", "2621")'>Reply</a> </article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1">
+<article class="comment-content" id="comment-658">
+<div class="comment-meta">
+<img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/daba0a7596baee318a445416a0358f56?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/> <h6><a class="url" href="http://kitchencabinetaccessories.co.uk" rel="external nofollow">Spencer Nebel</a></h6> <small>July 22, 2010 at 8:54 am (5 years ago)</small>
+</div>
+<p>I saw Inception last night, the movie absolutely works as an allegory for film making. The characters line up perfectly, and the way the projections turn hostile if you do stupid bullshit? Yep, that’s us not willingly suspending our disbelief.</p>
+<a class="comment-reply-link" href="/movie-review-inception/?replytocom=658#respond" onclick='return addComment.moveForm("comment-658", "658", "respond", "2621")'>Reply</a> </article>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1">
+<article class="comment-content" id="comment-647">
+<div class="comment-meta">
+<img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/b0d93a96bb329be958758734162e8bcd?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/> <h6><a class="url" href="http://www.mylongboards.net" rel="external nofollow">Lexie Marie</a></h6> <small>July 18, 2010 at 5:32 pm (5 years ago)</small>
+</div>
+<p>I cannot wait to see this film.</p>
+<a class="comment-reply-link" href="/movie-review-inception/?replytocom=647#respond" onclick='return addComment.moveForm("comment-647", "647", "respond", "2621")'>Reply</a> </article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1">
+<article class="comment-content" id="comment-646">
+<div class="comment-meta">
+<img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/d23a5f400940d39f1058c1982f259cc6?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/> <h6><a class="url" href="http://www.mylongboards.net" rel="external nofollow">Longboard</a></h6> <small>July 18, 2010 at 2:56 pm (5 years ago)</small>
+</div>
+<p>I saw this movie twice the 2nd time when I was wasted and to be honest I understood more the second time.</p>
+<a class="comment-reply-link" href="/movie-review-inception/?replytocom=646#respond" onclick='return addComment.moveForm("comment-646", "646", "respond", "2621")'>Reply</a> </article>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1">
+<article class="comment-content" id="comment-645">
+<div class="comment-meta">
+<img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/bba598077618a365378449d169d85cf4?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/> <h6><a class="url" href="http://GameFriends.com" rel="external nofollow">Gaming</a></h6> <small>July 18, 2010 at 1:40 pm (5 years ago)</small>
+</div>
+<p>Saw this last night. What a great movie! I’ll be linking back to this from my own blog.</p>
+<a class="comment-reply-link" href="/movie-review-inception/?replytocom=645#respond" onclick='return addComment.moveForm("comment-645", "645", "respond", "2621")'>Reply</a> </article>
+</li><!-- #comment-## -->
+</ol>
+<section class="comment-pagination">
+<section class="alignleft"></section>
+<section class="alignright"></section>
+</section>
+<section id="respond">
+<div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title">Leave a Reply <small><a href="/movie-review-inception/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Cancel reply</a></small></h3>
+<div class="comment-form" id="commentform">
+<iframe allowtransparency="false" frameborder="0" id="jetpack_remote_comment" name="jetpack_remote_comment" scrolling="no" src="http://jetpack.wordpress.com/jetpack-comment/?blogid=38649427&amp;postid=2621&amp;comment_registration=0&amp;require_name_email=1&amp;stc_enabled=1&amp;stb_enabled=1&amp;show_avatars=1&amp;avatar_default=mystery&amp;greeting=Leave+a+Reply&amp;greeting_reply=Leave+a+Reply+to+%25s&amp;color_scheme=light&amp;lang=en-US&amp;jetpack_version=2.7.2&amp;sig=e2c72e95acdcc109bcab6bf70f7e25093b106fe3#parent=http%3A%2F%2Famaliehoward.com%2Fmovie-review-inception%2F" style="width:100%; height: 430px;border:0px;"></iframe>
+</div>
+</div>
+<input id="comment_parent" name="comment_parent" type="hidden" value=""/>
+</section>
+</section>
+</p></article><!-- .article -->
+</section><!-- .section -->
+<aside class="aside" role="complementary">
+<article class="side-widget"><h3>Connect with me:</h3><div class="socialmedia-buttons smw_left"><a href="http://www.facebook.com/AmalieHowardAuthor" rel="nofollow" target="_blank"><img alt="Follow Me on Facebook" class="fade" height="40" src="http://amaliehoward.com/wp-content/plugins/social-media-widget/images/default/64/facebook.png" style="opacity: 0.8; -moz-opacity: 0.8;" title="Follow Me on Facebook" width="40"/></a><a href=" https://plus.google.com/112769495270459348189/" rel="publisher" target="_blank"><img alt="Follow Me on Google+" class="fade" height="40" src="http://amaliehoward.com/wp-content/plugins/social-media-widget/images/default/64/googleplus.png" style="opacity: 0.8; -moz-opacity: 0.8;" title="Follow Me on Google+" width="40"/></a><a href="http://www.twitter.com/amaliehoward" rel="nofollow" target="_blank"><img alt="Follow Me on Twitter" class="fade" height="40" src="http://amaliehoward.com/wp-content/plugins/social-media-widget/images/default/64/twitter.png" style="opacity: 0.8; -moz-opacity: 0.8;" title="Follow Me on Twitter" width="40"/></a><a href="http://www.linkedin.com/in/amaliehoward" rel="nofollow" target="_blank"><img alt="Follow Me on LinkedIn" class="fade" height="40" src="http://amaliehoward.com/wp-content/plugins/social-media-widget/images/default/64/linkedin.png" style="opacity: 0.8; -moz-opacity: 0.8;" title="Follow Me on LinkedIn" width="40"/></a><a href="http://pinterest.com/amaliehoward/" rel="nofollow" target="_blank"><img alt="Follow Me on Pinterest" class="fade" height="40" src="http://amaliehoward.com/wp-content/plugins/social-media-widget/images/default/64/pinterest.png" style="opacity: 0.8; -moz-opacity: 0.8;" title="Follow Me on Pinterest" width="40"/></a><a href="http://www.youtube.com/amaliehoward" rel="nofollow" target="_blank"><img alt="Follow Me on YouTube" class="fade" height="40" src="http://amaliehoward.com/wp-content/plugins/social-media-widget/images/default/64/youtube.png" style="opacity: 0.8; -moz-opacity: 0.8;" title="Follow Me on YouTube" width="40"/></a><a href="http://amaliehoward.tumblr.com" rel="nofollow" target="_blank"><img alt="Follow Me on Tumblr" class="fade" height="40" src="http://amaliehoward.com/wp-content/plugins/social-media-widget/images/default/64/tumblr.png" style="opacity: 0.8; -moz-opacity: 0.8;" title="Follow Me on Tumblr" width="40"/></a><a href="http://feeds.feedburner.com/AmalieHoward" rel="nofollow" target="_blank"><img alt="Follow Me on RSS" class="fade" height="40" src="http://amaliehoward.com/wp-content/plugins/social-media-widget/images/default/64/rss.png" style="opacity: 0.8; -moz-opacity: 0.8;" title="Follow Me on RSS" width="40"/></a><a href="mailto: mail@amaliehoward.com" rel="nofollow" target="_blank"><img alt="Follow Me on E-mail" class="fade" height="40" src="http://amaliehoward.com/wp-content/plugins/social-media-widget/images/default/64/email.png" style="opacity: 0.8; -moz-opacity: 0.8;" title="Follow Me on E-mail" width="40"/></a><a href="http://instagram.com/amaliehoward" rel="nofollow" target="_blank"><img alt="Follow Me on Instagram" class="fade" height="40" src="http://amaliehoward.com/wp-content/plugins/social-media-widget/images/default/64/instagram.png" style="opacity: 0.8; -moz-opacity: 0.8;" title="Follow Me on Instagram" width="40"/></a><a href="http://www.goodreads.com/amaliehoward" rel="nofollow" target="_blank"><img alt="Follow Me on Goodreads" class="fade" height="40" src="http://amaliehoward.com/wp-content/uploads/2012/04/goodreads_icon_32x32.jpg" style="opacity: 0.8; -moz-opacity: 0.8;" title="Follow Me on Goodreads" width="40"/></a><a href="http://amazon.com/author/amaliehoward" rel="nofollow" target="_blank"><img alt="Follow Me on Amazon" class="fade" height="40" src="http://amaliehoward.com/wp-content/uploads/2012/04/amazon-icon.jpg" style="opacity: 0.8; -moz-opacity: 0.8;" title="Follow Me on Amazon" width="40"/></a></div></article><article class="side-widget"><h3>Search</h3><form action="http://amaliehoward.com" class="sideform" method="get" role="search">
+<fieldset>
+<input class="sidetext" name="s" size="15" title="Search" type="text"/>
+<!--<input type="submit" value="Search" />-->
+<button class="input-button" type="submit">Search</button>
+</fieldset>
+</form></article><article class="side-widget"><h3>Admin</h3> <ul>
+<li><a href="http://amaliehoward.com/wp-login.php">Log in</a></li>
+<li><a href="http://amaliehoward.com/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="http://amaliehoward.com/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li> </ul>
+</article>
+</aside><!-- .aside -->
+<footer class="footer">
+<section class="footer-inner" role="complementary">
+<article class="footer-widget"> <h4>Recent Posts</h4> <ul>
+<li>
+<a href="http://amaliehoward.com/mega-apollycon-giveaway/">Mega Apollycon Giveaway!</a>
+</li>
+<li>
+<a href="http://amaliehoward.com/ravishly-interview-giveaway/">Ravishly Interview &amp; Giveaway</a>
+</li>
+<li>
+<a href="http://amaliehoward.com/awesome-sales-news/">Awesome Sales News!!</a>
+</li>
+<li>
+<a href="http://amaliehoward.com/alpha-goddess-voya-review/">Alpha Goddess VOYA Review</a>
+</li>
+<li>
+<a href="http://amaliehoward.com/birthday-celebration-giveaway/">Birthday celebration giveaway!</a>
+</li>
+</ul>
+</article><article class="footer-widget"><h4>Recent Tweets</h4> <div class="textwidget"><a class="twitter-timeline" data-widget-id="445675185736122368" href="https://twitter.com/AmalieHoward">Tweets by @AmalieHoward</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+</article><article class="footer-widget"><iframe frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FAmalieHowardAuthor&amp;width=250&amp;height=300&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;show_border=false&amp;header=false&amp;force_wall=false" style="border: none; overflow: hidden; width: 250px;  height: 300px; background: #fff"></iframe></article>
+</section><!-- .footer-inner -->
+</footer><!-- .footer -->
+<p class="footer-copy" role="contentinfo">
+  © Copyright <a href="http://amaliehoward.com">amaliehoward.com</a> 2015. Powered by <a href="http://www.wordpress.org">WordPress</a>. <a class="footer-credit" href="http://www.bluchic.com" title="Beverly theme designed by BluChic">Designed by BluChic</a></p>
+</section><!-- .container -->
+<div style="display:none">
+<div class="grofile-hash-map-b9f10f0aa43d9afccf118a26d1467a64">
+</div>
+<div class="grofile-hash-map-7fcfc3e9829fb70c8f662df91375dda4">
+</div>
+<div class="grofile-hash-map-e3e55b214661371947d4f0eb274ea557">
+</div>
+<div class="grofile-hash-map-33fa45311f3594a2781e60b01d0ca38c">
+</div>
+<div class="grofile-hash-map-77a25dc52cddaa1aed3d4afc63783bc5">
+</div>
+<div class="grofile-hash-map-9f26a95376e3a6a8c92867da8fa14ca4">
+</div>
+<div class="grofile-hash-map-9327b89d8998ffefe4177fc974ccf2fb">
+</div>
+<div class="grofile-hash-map-aef303c46a6de448d1f35e05386fcea8">
+</div>
+<div class="grofile-hash-map-4ae70f33a6b31e215e6e09825164123f">
+</div>
+<div class="grofile-hash-map-59a542c6fcbb76d255745cff7f44cbf9">
+</div>
+<div class="grofile-hash-map-bba598077618a365378449d169d85cf4">
+</div>
+</div>
+<script type="text/javascript">
+		WPCOM_sharing_counts = {"http:\/\/amaliehoward.com\/movie-review-inception\/":2621}	</script>
+<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-linkedin' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+				return false;
+			});
+		});
+		</script>
+<div id="sharing_email" style="display: none;">
+<form action="/movie-review-inception/" method="post">
+<label for="target_email">Send to Email Address</label>
+<input id="target_email" name="target_email" type="text" value=""/>
+<label for="source_name">Your Name</label>
+<input id="source_name" name="source_name" type="text" value=""/>
+<label for="source_email">Your Email Address</label>
+<input id="source_email" name="source_email" type="text" value=""/>
+<img alt="loading" class="loading" height="16" src="http://amaliehoward.com/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" style="float: right; display: none" width="16"/>
+<input class="sharing_send" type="submit" value="Send Email"/>
+<a class="sharing_cancel" href="#cancel">Cancel</a>
+<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+</form>
+</div>
+<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-tumblr' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+<script type="text/javascript">
+			jQuery(document).on('ready', function(){
+				jQuery('body').on('click', 'a.share-pinterest', function(e){
+					e.preventDefault();
+
+					// Load Pinterest Bookmarklet code
+					var s = document.createElement("script");
+					s.type = "text/javascript";
+					s.src = window.location.protocol + "//assets.pinterest.com/js/pinmarklet.js?r=" + ( Math.random() * 99999999 );
+					var x = document.getElementsByTagName("script")[0];
+					x.parentNode.insertBefore(s, x);
+
+					// Trigger Stats
+					var s = document.createElement("script");
+					s.type = "text/javascript";
+					s.src = this + ( this.toString().indexOf( '?' ) ? '&' : '?' ) + 'js_only=1';
+					var x = document.getElementsByTagName("script")[0];
+					x.parentNode.insertBefore(s, x);
+				});
+			});
+			</script>
+<link href="http://amaliehoward.com/wp-content/plugins/jetpack/modules/gplus-authorship/style.css?ver=3.8.5" id="gplus-css" media="all" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/amaliehoward.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script src="http://amaliehoward.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105" type="text/javascript"></script>
+<script src="http://amaliehoward.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.46.0-2013.11.21" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/amaliehoward.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script src="http://amaliehoward.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.6" type="text/javascript"></script>
+<script src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201509" type="text/javascript"></script>
+<script src="http://s.gravatar.com/js/gprofiles.js?ver=2015Febaa" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script src="http://amaliehoward.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.8.5" type="text/javascript"></script>
+<script src="http://amaliehoward.com/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.3" type="text/javascript"></script>
+<script src="http://amaliehoward.com/wp-content/themes/Isabelle/js/respond.min.js?ver=1.3.0" type="text/javascript"></script>
+<script src="http://amaliehoward.com/wp-content/themes/Isabelle/js/jquery.flexslider.min.js?ver=2.2" type="text/javascript"></script>
+<script src="http://amaliehoward.com/wp-content/themes/Isabelle/js/responsiveslides.min.js?ver=1.54" type="text/javascript"></script>
+<script src="http://amaliehoward.com/wp-content/themes/Isabelle/js/fitvids.min.js?ver=1.0" type="text/javascript"></script>
+<script src="http://amaliehoward.com/wp-content/themes/Isabelle/js/jquery.slides.min.js?ver=3.0.3" type="text/javascript"></script>
+<script src="http://amaliehoward.com/wp-content/themes/Isabelle/js/doubletaptogo.min.js" type="text/javascript"></script>
+<script src="http://amaliehoward.com/wp-content/themes/Isabelle/js/scripts.js" type="text/javascript"></script>
+<script src="http://amaliehoward.com/wp-content/themes/Isabelle/js/colorbox/jquery.colorbox-min.js" type="text/javascript"></script>
+<script src="//apis.google.com/js/plusone.js?ver=3.8.5" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var recaptcha_options = {"lang":"en"};
+/* ]]> */
+</script>
+<script src="http://amaliehoward.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=20121205" type="text/javascript"></script>
+<!--[if IE]>
+		<script type="text/javascript">
+		if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+			// window.location.reload() doesn't respect the Hash in IE
+			window.location.hash = window.location.hash;
+		}
+		</script>
+		<![endif]-->
+<script type="text/javascript">
+			var comm_par_el = document.getElementById( 'comment_parent' ),
+			    comm_par = (comm_par_el && comm_par_el.value) ? comm_par_el.value : '',
+			    frame = document.getElementById( 'jetpack_remote_comment' ),
+			    tellFrameNewParent;
+
+			tellFrameNewParent = function() {
+				if ( comm_par ) {
+					frame.src = "http:\/\/jetpack.wordpress.com\/jetpack-comment\/?blogid=38649427&postid=2621&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=2.7.2&sig=e2c72e95acdcc109bcab6bf70f7e25093b106fe3#parent=http%3A%2F%2Famaliehoward.com%2Fmovie-review-inception%2F" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+				} else {
+					frame.src = "http:\/\/jetpack.wordpress.com\/jetpack-comment\/?blogid=38649427&postid=2621&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=2.7.2&sig=e2c72e95acdcc109bcab6bf70f7e25093b106fe3#parent=http%3A%2F%2Famaliehoward.com%2Fmovie-review-inception%2F";
+				}
+			};
+
+	
+			if ( 'undefined' !== typeof addComment ) {
+				addComment._Jetpack_moveForm = addComment.moveForm;
+
+				addComment.moveForm = function( commId, parentId, respondId, postId ) {
+					var returnValue = addComment._Jetpack_moveForm( commId, parentId, respondId, postId ), cancelClick, cancel;
+
+					if ( false === returnValue ) {
+						cancel = document.getElementById( 'cancel-comment-reply-link' );
+						cancelClick = cancel.onclick;
+						cancel.onclick = function() {
+							var cancelReturn = cancelClick.call( this );
+							if ( false !== cancelReturn ) {
+								return cancelReturn;
+							}
+
+							if ( !comm_par ) {
+								return cancelReturn;
+							}
+
+							comm_par = 0;
+
+							tellFrameNewParent();
+
+							return cancelReturn;
+						};
+					}
+
+					if ( comm_par == parentId ) {
+						return returnValue;
+					}
+
+					comm_par = parentId;
+
+					tellFrameNewParent();
+
+					return returnValue;
+				};
+			}
+
+	
+			if ( window.postMessage ) {
+				if ( document.addEventListener ) {
+					window.addEventListener( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				} else if ( document.attachEvent ) {
+					window.attachEvent( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				}
+			}
+		</script>
+<script src="http://stats.wordpress.com/e-201509.js" type="text/javascript"></script>
+<script type="text/javascript">
+	st_go({v:'ext',j:'1:2.7.2',blog:'38649427',post:'2621',tz:'-4'});
+	var load_cmc = function(){linktracker_init(38649427,2621,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>
+</section><!-- .wrap -->
+</body>
+</html>

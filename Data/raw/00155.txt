@@ -1,0 +1,2527 @@
+<!DOCTYPE html>
+
+<html class="desktop">
+<head>
+<meta content="PfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs" name="google-site-verification"/>
+<title>Books by Vladimir Nabokov (Author of Lolita)</title>
+<meta content="Vladimir Nabokov has 310 books on Goodreads with 1165519 ratings. Vladimir Nabokov’s most popular book is Lolita." name="description">
+<meta content="cEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=" name="verify-v1">
+<meta content="app-id=355833469" name="apple-itunes-app">
+<script type="text/javascript">
+        if (window.Mobvious === undefined) {
+          window.Mobvious = {};
+        }
+        window.Mobvious.device_type = 'desktop';
+        </script>
+<link href="https://s.gr-assets.com/assets/goodreads-a26b39c5944f8b833bc7f454567f9559.css" media="screen" rel="stylesheet" type="text/css"/>
+<script src="https://s.gr-assets.com/assets/application-7c50591018df351f80237f7ae53091f1.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param"/>
+<meta content="ttOvkMKXNAO6LXsR6nsKM0grU0sfomDPbFNDEJPI7Nud0BU6lJdemOLxNKm8VE889iaXU1zib0sbQOetqiHwrA==" name="csrf-token"/>
+<meta content="1P2MKV4Z55HE8CFZ0VNW" name="request-id"/>
+<link href="https://www.goodreads.com/author/list/5152.Vladimir_Nabokov" rel="canonical"/>
+<!--[if lte IE 6]>
+    <link href="https://s.gr-assets.com/assets/ie6-cc52aa7387334f5af5c4030b6967aeae.css" media="screen" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript">
+//<![CDATA[
+
+      try {
+        document.execCommand("BackgroundImageCache", false, true);
+      }
+      catch(err) {}
+
+//]]>
+</script>  <![endif]-->
+<!--[if lt IE 9]>
+    <link href="https://s.gr-assets.com/assets/ie-359aa440eb656520ac599b277282c9da.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+<!--[if lt IE 8]>
+    <link href="https://s.gr-assets.com/assets/common_images_ie-7e02aa56087d0ffa4d957885fe28af2c.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+<!--[if gte IE 8]><!-->
+<link href="https://s.gr-assets.com/assets/common_images-f3d5973863608a51d0a0cdb6ac9ab82e.css" media="screen" rel="stylesheet" type="text/css"/>
+<!--<![endif]-->
+<script>
+  //<![CDATA[
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") +
+      "//www.googletagservices.com/tag/js/gpt.js";
+      var node = document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+    // page settings
+    googletag.cmd.push(function() {
+      googletag.pubads().setTargeting("sid", "bcd57ae6dfb534dccf4859609384274e");
+    googletag.pubads().setTargeting("shelf", ["2015ultimatereadingchallenge","2015list","psychictrauma","noterminado","yettoread","tbr2015","needtoreadasap","readathonday2015","pinjam","2015goal","bestbookever","xxxtodo"]);
+    googletag.pubads().setTargeting("gtargeting", "1");
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      adUnit = googletag
+        .defineSlot(
+          "/4215/goodr.auth.list.top.300x250",
+          [300,250],
+          "div-gpt-ad-443f46bd0b")
+        .addService(googletag.pubads())
+        .setCollapseEmptyDiv(true);
+      
+    });
+  //]]>
+</script>
+<link href="/opensearch.xml" rel="search" title="Goodreads" type="application/opensearchdescription+xml">
+<script>
+  //<![CDATA[
+    var GoodreadsAnalytics = GoodreadsAnalytics || {};
+    var _gaq = _gaq || [];
+    var isDebug = false;
+    
+    $j(function () {
+      if (isDebug) {
+        $j("#google-analytics-debug").show();
+      }
+    });
+    
+    GoodreadsAnalytics.push = function () {
+      _gaq.push.apply(_gaq, arguments);
+    
+      if (isDebug) {
+        var args = arguments[0];
+        $j(function () {
+          var li = $j("<li/>").text(JSON.stringify(args));
+          $j("#google-analytics-debug ol").append(li);
+        });
+      }
+    }
+    
+    GoodreadsAnalytics.push(['_setAccount', 'UA-968618-1']);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      1,                        // Slot 1
+      'User Status',            // Custom variable name
+      'signed_out',  // Custom variable value: signed_out, signed_in,
+                                //   signed_in_facebook_connected, or
+                                //   goodreads_member_previously_signed_in
+      2                         // Visit-level scope, which means slot 1 will be
+                                //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      2,                        // Slot 2
+      'Device Type',            // Custom variable name
+      'desktop',         // Custom variable value: desktop, mobile, or
+                                //   tablet
+      2                         // Visit-level scope, which means slot 2 will be
+                                //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_setCustomVar',
+      3,                           // Slot 3
+      'Interstitial Ad Presence',  // Custom variable name
+      'false',  // Custom variable value: true or false
+      2                            // Visit-level scope, which means slot 3 will be
+                                   //   free when the visit ends.
+    ]);
+    GoodreadsAnalytics.push(['_trackPageview']);
+    
+    (function () {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
+    })();
+  //]]>
+</script>
+<script type="text/javascript">
+      var _qevents = _qevents || [];
+
+      (function() {
+          var elem = document.createElement('script');
+
+          elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+          elem.async = true;
+          elem.type = "text/javascript";
+          var scpt = document.getElementsByTagName('script')[0];
+          scpt.parentNode.insertBefore(elem, scpt);
+      })();
+  </script>
+</link></meta></meta></meta></head>
+<body class="">
+<div class="content">
+<div class="uitext" id="siteheader">
+<div class="mainContent">
+<ul class="nav" id="usernav">
+<li>
+<strong>
+<a class="navlink" href="/user/new" rel="nofollow">register</a>
+</strong>
+</li>
+<li>
+<a class="navlink" href="/about/how_it_works" rel="nofollow">über uns</a>
+</li>
+<li>
+<a class="navlink" href="/user/sign_in?returnurl=%2Fauthor%2Flist%2F5152.Vladimir_Nabokov" rel="nofollow">log in</a>
+</li>
+</ul>
+<div id="logo">
+<a href="/">
+<img alt="Goodreads: Book reviews, recommendations, and discussion" border="0" src="https://s.gr-assets.com/assets/layout/goodreads_logo_324-a908b923dc3ed9b7a13f3da4d1ffb2df.png" width="140"/>
+</a>
+</div>
+<div id="sitesearch">
+<form accept-charset="UTF-8" action="/search" id="headerSearchForm" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/></div><div class="auto_complete_field_wrapper">
+<input id="sitesearch_field" name="query" placeholder="finden Sie Bücher nach Titel oder Autor oder isbn" type="text"/>
+<div id="sitesearch_autocomplete"></div>
+<img alt="Loading-trans" class="loading" id="sitesearch_field_loading" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" style="display: none"/>
+</div>
+<a class="submitLink" href="#" onclick="$j('#headerSearchForm').submit(); return false;"><img alt="search" src="https://s.gr-assets.com/assets/layout/magnifying_glass-a2d7514d50bcee1a0061f1ece7821750.png" title="finden Sie Bücher nach Titel oder Autor oder isbn" width="16"/></a>
+</form>
+</div>
+<ul class="nav" id="sitenav">
+<li>
+<a class="navlink" href="/">home</a>
+</li>
+<li>
+<a class="navlink" href="/review/list" rel="nofollow">meine bücher</a>
+</li>
+<li>
+<a class="navlink" href="/friend" rel="nofollow">freunde</a>
+</li>
+<li>
+<a class="navlink" href="/recommendations" rel="nofollow">Recommendations</a>
+</li>
+<li>
+<a class="navlink" href="/book" rel="nofollow">Explore</a>
+</li>
+<li class="notificationIcon withsubnav exploreMenu">
+<div class="dropDownContainer">
+<div class="dropDown">
+<div class="caretArrow"></div>
+<div class="dropDownMenu">
+<div class="exploreMenuContent">
+<ul class="content">
+<li>
+<a href="/genres">Genres</a>
+</li>
+<li>
+<a href="/list" title="Popular lists of books">Listopia</a>
+</li>
+<li>
+<a href="/giveaway" title="Free book giveaways">Giveaways</a>
+</li>
+<li>
+<a href="/choiceawards/best-books-2014" title="2014 Goodreads Choice Awards">Choice Awards</a>
+</li>
+<li>
+<a href="/book/popular_by_date/2015/2" title="Popular New Releases">Popular</a>
+</li>
+<li>
+<a href="/voice">Goodreads Voice</a>
+</li>
+<li>
+<a href="/ebooks">Ebooks</a>
+</li>
+</ul>
+<ul class="content">
+<li class="title">
+<b>
+Fun
+</b>
+</li>
+<li>
+<a href="/trivia">Trivia</a>
+</li>
+<li>
+<a href="/quizzes">Quizzes</a>
+</li>
+<li>
+<a href="/quotes">Zitate</a>
+</li>
+</ul>
+<ul class="content">
+<li class="title">
+<b>
+Community
+</b>
+</li>
+<li>
+<a href="/group">Groups</a>
+</li>
+<li>
+<a href="/story">Schreiben</a>
+</li>
+<li>
+<a href="/user/online_now" rel="nofollow">Leute</a>
+</li>
+<li>
+<a href="/event">Events</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<a class="dropDownOpener subnavlink" href="/book"></a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="mainContentContainer ">
+<div class="mainContent">
+<div class="mainContentFloat">
+<div id="flashContainer">
+</div>
+<h1>Books by Vladimir Nabokov</h1>
+<div class="leftContainer">
+<a class="leftAlignedImage" href="/author/show/5152.Vladimir_Nabokov"><img alt="Vladimir Nabokov" src="https://d.gr-assets.com/authors/1399321558p2/5152.jpg" title="Vladimir Nabokov"/></a>
+<div class="">
+<a class="authorName" href="/author/show/5152.Vladimir_Nabokov">Vladimir Nabokov</a><br/>
+    Average rating 3.87 ·
+    649,190 ratings ·
+    22,376 reviews ·
+    shelved 1,165,519 times
+
+  </div>
+<br class="clear"/><br/>
+<div class="mediumTex" style="float: left">
+        Showing 30 distinct works.
+    </div>
+<div style="float: right">
+<div><span class="previous_page disabled">« previous</span> <em class="current">1</em> <a href="/author/list/5152.Vladimir_Nabokov?page=2&amp;per_page=30" rel="next">2</a> <a href="/author/list/5152.Vladimir_Nabokov?page=3&amp;per_page=30">3</a> <a href="/author/list/5152.Vladimir_Nabokov?page=4&amp;per_page=30">4</a> <a href="/author/list/5152.Vladimir_Nabokov?page=5&amp;per_page=30">5</a> <a href="/author/list/5152.Vladimir_Nabokov?page=6&amp;per_page=30">6</a> <a href="/author/list/5152.Vladimir_Nabokov?page=7&amp;per_page=30">7</a> <a href="/author/list/5152.Vladimir_Nabokov?page=8&amp;per_page=30">8</a> <a href="/author/list/5152.Vladimir_Nabokov?page=9&amp;per_page=30">9</a> <a href="/author/list/5152.Vladimir_Nabokov?page=10&amp;per_page=30">10</a> <a href="/author/list/5152.Vladimir_Nabokov?page=11&amp;per_page=30">11</a> <a class="next_page" href="/author/list/5152.Vladimir_Nabokov?page=2&amp;per_page=30" rel="next">next »</a></div>
+</div>
+<div class="greyText" style="float: right; margin-right: 20px">
+<form accept-charset="UTF-8" action="/author/list/5152.Vladimir_Nabokov" id="sortForm" method="get" name="sortForm"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/></div>
+<span class="greyText smallText">sort by</span>
+<select class="smallText" id="sort" name="sort" onchange="document.sortForm.submit();">
+<option selected='"selected"' value="popularity">popularity</option>
+<option value="original_publication_year">original publication year</option>
+<option value="title">title</option>
+<option value="average_rating">average rating</option>
+<option value="number_of_pages">number of pages</option>
+</select>
+</form> </div>
+<br class="clear"/>
+<table border="0" cellpadding="0" cellspacing="0" class="tableList" width="100%">
+<script charset="utf-8" type="text/javascript">
+  document.onclick = checkOpenSelects;
+
+  function submitShelfLink(unique_id, book_id, shelf_id, shelf_name, submit_form, exclusive) {
+    var checkbox_id = 'shelf_name_' + unique_id + '_' + shelf_id;
+    var element = document.getElementById(checkbox_id)
+
+    var checked = element.checked
+    if (checked && exclusive) {
+      // can't uncheck a radio by clicking it!
+      return
+    }
+    if(document.getElementById("savingMessage")){
+      Element.show('savingMessage')
+    }
+    var element_id = 'shelfInDropdownName_' + unique_id + '_' + shelf_id;
+    Element.update(element_id, "saving...");
+    if (submit_form) {
+      Element.hide('shelfDropdown_' + unique_id)
+      var form = document.getElementById('addBookForm' + book_id)
+      if (form) {
+        form.shelf.value = shelf_name
+        form.onsubmit()
+      }
+    }
+    else {
+      var action = checked ? 'remove' : ''
+      element.checked = !element.checked
+      new Ajax.Request('/shelf/add_to_shelf', {asynchronous:true, evalScripts:true, onSuccess:function(request){shelfSubmitted(request, book_id, checkbox_id, element_id, unique_id, shelf_name)}, parameters:'book_id=' + book_id + '&name=' + shelf_name + '&a=' + action + '&authenticity_token=' + encodeURIComponent('IMDVA+isQD6BCVMNo1ILUqBiU02kvFmcqJ0I3cZEd2MLw2+pvqwqpdnVHLX1fU5dHm+XVef8Vhjfjqxg/61rFA==')})
+    }
+  }
+
+  function shelfSubmitted(request, book_id, checkbox_id, element_id, unique_id, shelf_name) {
+    Element.update('shelfListfalse_' + book_id, request.responseText)
+    afterShelfSave(checkbox_id, element_id, unique_id, shelf_name.escapeHTML())
+  }
+
+  function refreshGroupBox(group_id, book_id) {
+    new Ajax.Updater('addGroupBooks' + book_id + '', '/group/add_book_box', {asynchronous:true, evalScripts:true, onSuccess:function(request){refreshGroupBoxComplete(request, book_id);}, parameters:'id=' + group_id + '&book_id=' + book_id + '&refresh=true' + '&authenticity_token=' + encodeURIComponent('5Hi3fnHXyihCUk3Qkgt68wYoITaEacLAaxwn6jgyruzPew3UJ9egsxqOAmjEJD/8uCXlLscpzUQcD4NXAduymw==')})
+  }
+</script>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="7604"></a>
+<a href="/book/show/7604.Lolita" title="Lolita">
+<img alt="Lolita" class="bookSmallImg" src="https://d.gr-assets.com/books/1377756377s/7604.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/7604.Lolita" itemprop="url">
+<span itemprop="name">Lolita</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>, 
+<a class="authorName" href="https://www.goodreads.com/author/show/45502.Craig_Raine" itemprop="url"><span itemprop="name">Craig Raine</span></a> <span class="authorName greyText smallText role">(Afterword)</span>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.86 of 5 stars">3.86 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.86 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.86 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.86 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.86 of 5 stars"></a></span> 3.86 avg rating — 399,704 ratings</span>
+            —
+              published
+             1955
+            —
+            <a class="greyText" href="/work/editions/1268631-lolita" rel="nofollow">348 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="1_book_7604">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="G3X4z+ptKB6nM70uNlLC+HXLaSjTYu/cSgfaJo5n1cYwdkJlvG1Chf/v8pZgfYf3y8atMJAi4Fg9FH6bt47JsQ=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="7604"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="1_book_7604"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="esVRjvoaCFEU12ipFKvuLP4j0I6R2J6tK6MyaKvwkS1RxuskrBpiykwLJxFChKsjQC4UltKYkSlcsJbVkhmNWg=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="1_book_7604"/>
+<input id="book_id" name="book_id" type="hidden" value="7604"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+<div class="wtrShelfMenu">
+<ul class="wtrExclusiveShelves">
+<li><button class="wtrExclusiveShelf" name="name" type="submit" value="to-read">
+<span class="progressTrigger">Want to Read</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif"/>
+</button>
+</li>
+<li><button class="wtrExclusiveShelf" name="name" type="submit" value="currently-reading">
+<span class="progressTrigger">Currently Reading</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif"/>
+</button>
+</li>
+<li><button class="wtrExclusiveShelf" name="name" type="submit" value="read">
+<span class="progressTrigger">Read</span>
+<img alt="saving…" class="progressIndicator" src="https://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif"/>
+</button>
+</li>
+</ul>
+</div>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="7604" data-submit-url="/review/rate/7604?stars_click=true&amp;wtr_button_id=1_book_7604" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="7805"></a>
+<a href="/book/show/7805.Pale_Fire" title="Pale Fire">
+<img alt="Pale Fire" class="bookSmallImg" src="https://d.gr-assets.com/books/1388155863s/7805.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/7805.Pale_Fire" itemprop="url">
+<span itemprop="name">Pale Fire</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.19 of 5 stars">4.19 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.19 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.19 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.19 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.19 of 5 stars"></a></span> 4.19 avg rating — 23,652 ratings</span>
+            —
+              published
+             1962
+            —
+            <a class="greyText" href="/work/editions/1222661-pale-fire" rel="nofollow">89 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="2_book_7805">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="fBil3stBjyzdBoSi5Z8mEv836pqnsxXWsgFa8GEb5xxXGx90nUHlt4XayxqzsGMdQTouguTzGlLFEv5NWPL7aw=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="7805"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="2_book_7805"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="NiMf6nwmtqPXlOHImRNg1dT1jx1+QGurDYwDj/Hk4VMdIKVAKibcOI9IrnDPPCXaavhLBT0AZC96n6cyyA39JA=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="2_book_7805"/>
+<input id="book_id" name="book_id" type="hidden" value="7805"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="7805" data-submit-url="/review/rate/7805?stars_click=true&amp;wtr_button_id=2_book_7805" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="30593"></a>
+<a href="/book/show/30593.Pnin" title="Pnin">
+<img alt="Pnin" class="bookSmallImg" src="https://d.gr-assets.com/books/1388268662s/30593.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/30593.Pnin" itemprop="url">
+<span itemprop="name">Pnin</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.91 of 5 stars">3.91 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.91 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.91 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.91 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.91 of 5 stars"></a></span> 3.91 avg rating — 10,096 ratings</span>
+            —
+              published
+             1953
+            —
+            <a class="greyText" href="/work/editions/1153252-pnin" rel="nofollow">25 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="3_book_30593">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="plJqPNaWaC3P8J2ppG5/poZ65DT3LpjUG7i+saAiYSKNUdCWgJYCtpcs0hHyQTqpOHcgLLRul1BsqxoMmct9VQ=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="30593"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="3_book_30593"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="vvRTMPOm4/JDtNRrx68vre5H1fzL2qzax6KHpDjP7iGV9+mapaaJaRtom9ORgGqiUEoR5Iiao16wsSMZASbyVg=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="3_book_30593"/>
+<input id="book_id" name="book_id" type="hidden" value="30593"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="30593" data-submit-url="/review/rate/30593?stars_click=true&amp;wtr_button_id=3_book_30593" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="30594"></a>
+<a href="/book/show/30594.Speak_Memory" title="Speak, Memory">
+<img alt="Speak, Memory" class="bookSmallImg" src="https://d.gr-assets.com/books/1346107008s/30594.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/30594.Speak_Memory" itemprop="url">
+<span itemprop="name">Speak, Memory</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.19 of 5 stars">4.19 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.19 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.19 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.19 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.19 of 5 stars"></a></span> 4.19 avg rating — 7,101 ratings</span>
+            —
+              published
+             1951
+            —
+            <a class="greyText" href="/work/editions/2540547-speak-memory" rel="nofollow">61 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="4_book_30594">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="tQOI4KY5BKrl2Dg1JMTzyA9GA/qiDgwO0jUJsrqocjaeADJK8DluMb0Ed41y67bHsUvH4uFOA4qlJq0Pg0FuQQ=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="30594"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="4_book_30594"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="eI4oE3vRWki3qsYBhOmW2Bi552auvLhvnT5uJACfPbdTjZK5LdEw0+92ibnSxtPXprQjfu38t+vqLcqZOXYhwA=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="4_book_30594"/>
+<input id="book_id" name="book_id" type="hidden" value="30594"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="30594" data-submit-url="/review/rate/30594?stars_click=true&amp;wtr_button_id=4_book_30594" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="376561"></a>
+<a href="/book/show/376561.Invitation_to_a_Beheading" title="Invitation to a Beheading">
+<img alt="Invitation to a Beheading" class="bookSmallImg" src="https://d.gr-assets.com/books/1405182507s/376561.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/376561.Invitation_to_a_Beheading" itemprop="url">
+<span itemprop="name">Invitation to a Beheading</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.94 of 5 stars">3.94 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.94 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.94 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.94 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.94 of 5 stars"></a></span> 3.94 avg rating — 7,434 ratings</span>
+            —
+              published
+             1936
+            —
+            <a class="greyText" href="/work/editions/4479600-invitation-to-a-beheading" rel="nofollow">61 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="5_book_376561">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="1IikbTeSUvLA/CJZjOp6q+X8zT5VG3fUmMEHAiaJCCX/ix7HYZI4aZggbeHaxT+kW/EJJhZbeFDv0qO/H2AUUg=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="376561"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="5_book_376561"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="Hmb1gINIB4Q0Sm9/3axpT5OiKFHHQtBvJ7lrG5ftz901ZU8q1UhtH2yWIMeLgyxALa/sSYQC3+tQqs+mrgTTqg=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="5_book_376561"/>
+<input id="book_id" name="book_id" type="hidden" value="376561"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="376561" data-submit-url="/review/rate/376561?stars_click=true&amp;wtr_button_id=5_book_376561" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="8151"></a>
+<a href="/book/show/8151.Laughter_in_the_Dark" title="Laughter in the Dark">
+<img alt="Laughter in the Dark" class="bookSmallImg" src="https://d.gr-assets.com/books/1359043933s/8151.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/8151.Laughter_in_the_Dark" itemprop="url">
+<span itemprop="name">Laughter in the Dark</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.93 of 5 stars">3.93 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.93 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.93 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.93 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.93 of 5 stars"></a></span> 3.93 avg rating — 6,506 ratings</span>
+            —
+              published
+             1932
+            —
+            <a class="greyText" href="/work/editions/1192291" rel="nofollow">12 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="6_book_8151">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="itj4bABcG0u/z4JLcRWjnoqKBP2p0OfjgzqVH8wtZRah20LGVlxx0OcTzfMnOuaRNIfA5eqQ6Gf0KTGi9cR5YQ=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="8151"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="6_book_8151"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="+ciM17FcgK1fVlVgYjWlstrGvQW8aaZxBwySRPkZfWzSyzZ951zqNgeKGtg0GuC9ZMt5Hf8pqfVwHzb5wPBhGw=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="6_book_8151"/>
+<input id="book_id" name="book_id" type="hidden" value="8151"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="8151" data-submit-url="/review/rate/8151?stars_click=true&amp;wtr_button_id=6_book_8151" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="12187"></a>
+<a href="/book/show/12187.Ada_or_Ardor" title="Ada, or Ardor: A Family Chronicle">
+<img alt="Ada, or Ardor: A Family Chr..." class="bookSmallImg" src="https://d.gr-assets.com/books/1327867767s/12187.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/12187.Ada_or_Ardor" itemprop="url">
+<span itemprop="name">Ada, or Ardor: A Family Chronicle</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.18 of 5 stars">4.18 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.18 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.18 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.18 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.18 of 5 stars"></a></span> 4.18 avg rating — 5,769 ratings</span>
+            —
+              published
+             1969
+            —
+            <a class="greyText" href="/work/editions/2138313-ada-or-ardor-a-family-chronicle" rel="nofollow">71 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="7_book_12187">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="OdMmbhV1167PVNtJG2rMkAtYIbufiqEjBsZ+dKyVwVsS0JzEQ3W9NZeIlPFNRYmftVXlo9zKrqdx1drJlXzdLA=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="12187"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="7_book_12187"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="dTwBaAueSBnprnA3BAzvCu7FMOEY3LVSK7GuHRpYTMJeP7vCXZ4igrFyP49SI6oFUMj0+VucutZcogqgI7FQtQ=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="7_book_12187"/>
+<input id="book_id" name="book_id" type="hidden" value="12187"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="12187" data-submit-url="/review/rate/12187?stars_click=true&amp;wtr_button_id=7_book_12187" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="8146"></a>
+<a href="/book/show/8146.The_Stories_of_Vladimir_Nabokov" title="The Stories of Vladimir Nabokov">
+<img alt="The Stories of Vladimir Nab..." class="bookSmallImg" src="https://d.gr-assets.com/books/1388330159s/8146.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/8146.The_Stories_of_Vladimir_Nabokov" itemprop="url">
+<span itemprop="name">The Stories of Vladimir Nabokov</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.3 of 5 stars">4.3 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.3 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.3 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.3 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.3 of 5 stars"></a></span> 4.30 avg rating — 4,493 ratings</span>
+            —
+              published
+             1952
+            —
+            <a class="greyText" href="/work/editions/672041-the-stories-of-vladimir-nabokov" rel="nofollow">18 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="8_book_8146">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="kA71YJhGxxe+qXwZB9oKbbMVbu3/9o5Lj4ssPKj0LAu7DU/KzkatjOZ1M6FR9U9iDRiq9by2gc/4mIiBkR0wfA=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="8146"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="8_book_8146"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="13+wfEc4Flb3cOAQBrrNwjiRzRM/ZoZ9rN6WDGzXF5T8fArWETh8za+sr6hQlYjNhpwJC3wmifnbzTKxVT4L4w=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="8_book_8146"/>
+<input id="book_id" name="book_id" type="hidden" value="8146"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="8146" data-submit-url="/review/rate/8146?stars_click=true&amp;wtr_button_id=8_book_8146" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="8153"></a>
+<a href="/book/show/8153.The_Luzhin_Defense" title="The Luzhin Defense">
+<img alt="The Luzhin Defense" class="bookSmallImg" src="https://d.gr-assets.com/books/1388276289s/8153.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/8153.The_Luzhin_Defense" itemprop="url">
+<span itemprop="name">The Luzhin Defense</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.96 of 5 stars">3.96 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.96 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.96 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.96 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.96 of 5 stars"></a></span> 3.96 avg rating — 4,551 ratings</span>
+            —
+              published
+             1930
+            —
+            <a class="greyText" href="/work/editions/1090182" rel="nofollow">56 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="9_book_8153">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="F1i7A3pZN6BST6ZT4joBXCwDap8Cex7x/TfvDI19okM8WwGpLFldOwqT6eu0FURTkg6uh0E7EXWKJEuxtJS+NA=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="8153"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="9_book_8153"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="Yg01mj3bFQw6gjAYUjv+KGHy1nNs6TIR0u0fhqE7laVJDo8wa9t/l2Jef6AEFLsn3/8Say+pPZWl/rs7mNKJ0g=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="9_book_8153"/>
+<input id="book_id" name="book_id" type="hidden" value="8153"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="8153" data-submit-url="/review/rate/8153?stars_click=true&amp;wtr_button_id=9_book_8153" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="418209"></a>
+<a href="/book/show/418209.Despair" title="Despair">
+<img alt="Despair" class="bookSmallImg" src="https://d.gr-assets.com/books/1362286012s/418209.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/418209.Despair" itemprop="url">
+<span itemprop="name">Despair</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.92 of 5 stars">3.92 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.92 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.92 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.92 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.92 of 5 stars"></a></span> 3.92 avg rating — 4,228 ratings</span>
+            —
+              published
+             1934
+            —
+            <a class="greyText" href="/work/editions/1258927" rel="nofollow">50 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="10_book_418209">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="Ic7SvcFW2DuC5x7zRgsc8IUTv9GbYMIU+a/SNDmXyKUKzWgXl1ayoNo7UUsQJFn/Ox57ydggzZCOvHaJAH7U0g=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="418209"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="10_book_418209"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="6EstT2zn4/sp/bdedjuOh1gfjNEwAac3bc+Ly35iT8jDSJflOueJYHEh+OYgFMuI5hJIyXNBqLMa3C92R4tTvw=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="10_book_418209"/>
+<input id="book_id" name="book_id" type="hidden" value="418209"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="418209" data-submit-url="/review/rate/418209?stars_click=true&amp;wtr_button_id=10_book_418209" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="71552"></a>
+<a href="/book/show/71552.The_Real_Life_of_Sebastian_Knight" title="The Real Life of Sebastian Knight">
+<img alt="The Real Life of Sebastian ..." class="bookSmallImg" src="https://d.gr-assets.com/books/1348436904s/71552.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/71552.The_Real_Life_of_Sebastian_Knight" itemprop="url">
+<span itemprop="name">The Real Life of Sebastian Knight</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.94 of 5 stars">3.94 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.94 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.94 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.94 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.94 of 5 stars"></a></span> 3.94 avg rating — 2,833 ratings</span>
+            —
+              published
+             1941
+            —
+            <a class="greyText" href="/work/editions/1180092-the-real-life-of-sebastian-knight" rel="nofollow">47 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="11_book_71552">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="MD24cQuzkEQsytjyvoHVjQcAO2W42gvgnlw6Dn3ZP3cbPgLbXbP633QWl0rorpCCuQ3/ffuaBGTpT56zRDAjAA=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="71552"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="11_book_71552"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="xWhuX3P9TyYVyJuqLNrBcVR+TRdi8cKUKYOXKGZh74jua9T1Jf0lvU0U1BJ69YR+6nOJDyGxzRBekDOVX4jz/w=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="11_book_71552"/>
+<input id="book_id" name="book_id" type="hidden" value="71552"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="71552" data-submit-url="/review/rate/71552?stars_click=true&amp;wtr_button_id=11_book_71552" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="46323"></a>
+<a href="/book/show/46323.Mary" title="Mary">
+<img alt="Mary" class="bookSmallImg" src="https://d.gr-assets.com/books/1385313368s/46323.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/46323.Mary" itemprop="url">
+<span itemprop="name">Mary</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>, 
+<a class="authorName" href="https://www.goodreads.com/author/show/73039.Michael_Glenny" itemprop="url"><span itemprop="name">Michael Glenny</span></a> <span class="authorName greyText smallText role">(Translator)</span>, <a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.62 of 5 stars">3.62 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.62 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.62 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.62 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.62 of 5 stars"></a></span> 3.62 avg rating — 2,748 ratings</span>
+            —
+              published
+             1926
+            —
+            <a class="greyText" href="/work/editions/2738609" rel="nofollow">63 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="12_book_46323">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="GB2HnmtfMRC8WjNdW29TUvzpx81KH4hDzN7KifMiThIzHj00PV9bi+SGfOUNQBZdQuQD1Qlfh8e7zW40ystSZQ=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="46323"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="12_book_46323"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="6+COpCzckEGZXQT0roT4IgaGqbQUcx47Oapoe+wCR4vA4zQOetz62sGBS0z4q70tuIttrFczEb9OuczG1etb/A=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="12_book_46323"/>
+<input id="book_id" name="book_id" type="hidden" value="46323"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="46323" data-submit-url="/review/rate/46323?stars_click=true&amp;wtr_button_id=12_book_46323" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="142529"></a>
+<a href="/book/show/142529.Bend_Sinister" title="Bend Sinister">
+<img alt="Bend Sinister" class="bookSmallImg" src="https://d.gr-assets.com/books/1327537181s/142529.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/142529.Bend_Sinister" itemprop="url">
+<span itemprop="name">Bend Sinister</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.86 of 5 stars">3.86 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.86 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.86 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.86 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.86 of 5 stars"></a></span> 3.86 avg rating — 2,344 ratings</span>
+            —
+              published
+             1947
+            —
+            <a class="greyText" href="/work/editions/2777318-bend-sinister" rel="nofollow">39 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="13_book_142529">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="sQKf3y+i3/m4kiPpjDRnOVfQd5cTz/o34a5JKbgxetmaASV1eaK1YuBObFHaGyI26d2zj1CP9bOWve2Ugdhmrg=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="142529"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="13_book_142529"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="2zIclUsj28qtV74B5zc4D3XbP0qzYjfTSYnuG8gLkjTwMaY/HSOxUfWL8bmxGH0Ay9b7UvAiOFc+mkqm8eKOQw=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="13_book_142529"/>
+<input id="book_id" name="book_id" type="hidden" value="142529"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="142529" data-submit-url="/review/rate/142529?stars_click=true&amp;wtr_button_id=13_book_142529" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="8154"></a>
+<a href="/book/show/8154.King_Queen_Knave" title="King, Queen, Knave">
+<img alt="King, Queen, Knave" class="bookSmallImg" src="https://d.gr-assets.com/books/1340555187s/8154.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/8154.King_Queen_Knave" itemprop="url">
+<span itemprop="name">King, Queen, Knave</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>, 
+<a class="authorName" href="https://www.goodreads.com/author/show/584863.Dmitri_Nabokov" itemprop="url"><span itemprop="name">Dmitri Nabokov</span></a> <span class="authorName greyText smallText role">(Translator)</span>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.81 of 5 stars">3.81 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.81 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.81 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.81 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.81 of 5 stars"></a></span> 3.81 avg rating — 2,246 ratings</span>
+            —
+              published
+             1928
+            —
+            <a class="greyText" href="/work/editions/1320269" rel="nofollow">55 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="14_book_8154">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="HuKJeAQRgCa0MnfUaDlqbrP8POs1APx5UjS+Ysi9VcM14TPSUhHqvezuOGw+Fi9hDfH483ZA8/0lJxrf8VRJtA=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="8154"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="14_book_8154"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="EzD7rCDvu3msccFynKttQCqGXM+Mf8uXB9hR4UbdIoI4M0EGdu/R4vStjsrKhChPlIuY188/xBNwy/VcfzQ+9Q=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="14_book_8154"/>
+<input id="book_id" name="book_id" type="hidden" value="8154"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="8154" data-submit-url="/review/rate/8154?stars_click=true&amp;wtr_button_id=14_book_8154" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="8147"></a>
+<a href="/book/show/8147.The_Gift" title="The Gift">
+<img alt="The Gift" class="bookSmallImg" src="https://d.gr-assets.com/books/1348418558s/8147.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/8147.The_Gift" itemprop="url">
+<span itemprop="name">The Gift</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>, 
+<a class="authorName" href="https://www.goodreads.com/author/show/247233.Michael_Scammell" itemprop="url"><span itemprop="name">Michael Scammell</span></a> <span class="authorName greyText smallText role">(Translator)</span>, <a class="authorName" href="https://www.goodreads.com/author/show/584863.Dmitri_Nabokov" itemprop="url"><span itemprop="name">Dmitri Nabokov</span></a> <span class="authorName greyText smallText role">(Translator)</span>, <a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.99 of 5 stars">3.99 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.99 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.99 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.99 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.99 of 5 stars"></a></span> 3.99 avg rating — 1,796 ratings</span>
+            —
+              published
+             1938
+            —
+            <a class="greyText" href="/work/editions/144481" rel="nofollow">51 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="15_book_8147">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="jTuKl9poCucbgQIDgB8uttXOCvN7GKqQU2OyOaKDEQymODA9jGhgfENdTbvWMGu5a8PO6zhYpRQkcBaEm2oNew=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="8147"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="15_book_8147"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="Se3UJbs2b6BVJlkW+nGJt+27r7rNC6pBPU81Bgzaxmpi7m6P7TYFOw36Fq6sXsy4U7Zroo5LpcVKXJG7NTPaHQ=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="15_book_8147"/>
+<input id="book_id" name="book_id" type="hidden" value="8147"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="8147" data-submit-url="/review/rate/8147?stars_click=true&amp;wtr_button_id=15_book_8147" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="46326"></a>
+<a href="/book/show/46326.The_Eye" title="The Eye">
+<img alt="The Eye" class="bookSmallImg" src="https://d.gr-assets.com/books/1367193612s/46326.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/46326.The_Eye" itemprop="url">
+<span itemprop="name">The Eye</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>, 
+<a class="authorName" href="https://www.goodreads.com/author/show/584863.Dmitri_Nabokov" itemprop="url"><span itemprop="name">Dmitri Nabokov</span></a> <span class="authorName greyText smallText role">(Translator)</span>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.63 of 5 stars">3.63 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.63 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.63 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.63 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.63 of 5 stars"></a></span> 3.63 avg rating — 1,827 ratings</span>
+            —
+              published
+             1930
+            —
+            <a class="greyText" href="/work/editions/1243026" rel="nofollow">42 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="16_book_46326">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="W45ia39XA8SzVYBMX+36/NwqwZ/4K7WENHoOFW+pLidwjdjBKVdpX+uJz/QJwr/zYicFh7trugBDaaqoVkAyUA=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="46326"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="16_book_46326"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="w3NjpqBcyVZoIqT5Dg1+VOFBv9ENRBeUkZNZ9JDTUBHocNkM9lyjzTD+60FYIjtbX0x7yU4EGBDmgP1JqTpMZg=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="16_book_46326"/>
+<input id="book_id" name="book_id" type="hidden" value="46326"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="46326" data-submit-url="/review/rate/46326?stars_click=true&amp;wtr_button_id=16_book_46326" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="54996"></a>
+<a href="/book/show/54996.Transparent_Things" title="Transparent Things">
+<img alt="Transparent Things" class="bookSmallImg" src="https://d.gr-assets.com/books/1344366519s/54996.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/54996.Transparent_Things" itemprop="url">
+<span itemprop="name">Transparent Things</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.72 of 5 stars">3.72 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.72 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.72 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.72 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.72 of 5 stars"></a></span> 3.72 avg rating — 1,747 ratings</span>
+            —
+              published
+             1972
+            —
+            <a class="greyText" href="/work/editions/1769164-transparent-things" rel="nofollow">44 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="17_book_54996">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="0LFtP41NjHhdjehJKbl6oiUJl6+HUG6nHb0V6ua1QEf7steV203m4wVRp/F/lj+tmwRTt8QQYSNqrrFX31xcMA=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="54996"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="17_book_54996"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="aYeCmAbtVFpmz3pZHgakiAgZYGFUVhjQDoHszmexGSdChDgyUO0+wT4TNeFIKeGHthSkeRcWF1R5kkhzXlgFUA=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="17_book_54996"/>
+<input id="book_id" name="book_id" type="hidden" value="54996"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="54996" data-submit-url="/review/rate/54996?stars_click=true&amp;wtr_button_id=17_book_54996" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="238943"></a>
+<a href="/book/show/238943.The_Enchanter" title="The Enchanter">
+<img alt="The Enchanter" class="bookSmallImg" src="https://d.gr-assets.com/books/1327884626s/238943.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/238943.The_Enchanter" itemprop="url">
+<span itemprop="name">The Enchanter</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>, 
+<a class="authorName" href="https://www.goodreads.com/author/show/584863.Dmitri_Nabokov" itemprop="url"><span itemprop="name">Dmitri Nabokov</span></a> <span class="authorName greyText smallText role">(Translator)</span>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.64 of 5 stars">3.64 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.64 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.64 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.64 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.64 of 5 stars"></a></span> 3.64 avg rating — 1,392 ratings</span>
+            —
+              published
+             1939
+            —
+            <a class="greyText" href="/work/editions/1449831-volshebnik" rel="nofollow">38 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="18_book_238943">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="BrY4Dp8bQfMfZphg8pQhxh1GjVWQg+LE0SwZdQI4kucttYKkyRsraEe619iku2TJo0tJTdPD7UCmP73IO9GOkA=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="238943"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="18_book_238943"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="bVzXcr0EFuhCaqD+fMYb2zxjYfxF/MtHUuoXeqGkd1NGX23Y6wR8cxq270Yq6V7Ugm6l5Aa8xMMl+bPHmE1rJA=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="18_book_238943"/>
+<input id="book_id" name="book_id" type="hidden" value="238943"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="238943" data-submit-url="/review/rate/238943?stars_click=true&amp;wtr_button_id=18_book_238943" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="8148"></a>
+<a href="/book/show/8148.Lectures_on_Literature" title="Lectures on Literature">
+<img alt="Lectures on Literature" class="bookSmallImg" src="https://d.gr-assets.com/books/1399938229s/8148.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/8148.Lectures_on_Literature" itemprop="url">
+<span itemprop="name">Lectures on Literature</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>, 
+<a class="authorName" href="https://www.goodreads.com/author/show/2603.Fredson_Bowers" itemprop="url"><span itemprop="name">Fredson Bowers</span></a> <span class="authorName greyText smallText role">(Editor)</span>, <a class="authorName" href="https://www.goodreads.com/author/show/6878.John_Updike" itemprop="url"><span itemprop="name">John Updike</span></a> <span class="authorName greyText smallText role">(Introduction)</span>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.3 of 5 stars">4.3 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.3 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.3 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.3 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.3 of 5 stars"></a></span> 4.30 avg rating — 1,150 ratings</span>
+            —
+              published
+             1980
+            —
+            <a class="greyText" href="/work/editions/956476-lectures-on-literature" rel="nofollow">15 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="19_book_8148">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="bfTdnqYLLJNrrAuMgrkZGSHjbQiX4wwb9Z5OrNAebuZG92c08AtGCDNwRDTUllwWn+6pENSjA5+CjeoR6fdykQ=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="8148"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="19_book_8148"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="pTrk8+UnaBMulcfaIPPCdVPuhqgKLPRdn2aqXi5oxWaOOV5ZsycCiHZJiGJ23Id67eNCsEls+9nodQ7jF4HZEQ=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="19_book_8148"/>
+<input id="book_id" name="book_id" type="hidden" value="8148"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="8148" data-submit-url="/review/rate/8148?stars_click=true&amp;wtr_button_id=19_book_8148" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="54995"></a>
+<a href="/book/show/54995.Glory" title="Glory">
+<img alt="Glory" class="bookSmallImg" src="https://d.gr-assets.com/books/1389677614s/54995.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/54995.Glory" itemprop="url">
+<span itemprop="name">Glory</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>, 
+<a class="authorName" href="https://www.goodreads.com/author/show/584863.Dmitri_Nabokov" itemprop="url"><span itemprop="name">Dmitri Nabokov</span></a> <span class="authorName greyText smallText role">(Translator)</span>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.67 of 5 stars">3.67 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.67 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.67 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.67 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.67 of 5 stars"></a></span> 3.67 avg rating — 1,170 ratings</span>
+            —
+              published
+             1931
+            —
+            <a class="greyText" href="/work/editions/14933835" rel="nofollow">44 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="20_book_54995">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="Kl28w7RECTSJi84z7rKbveImnMB4imEESS2+U6L0+VgBXgZp4kRjr9FXgYu4nd6yXCtY2DvKboA+Phrumx3lLw=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="54995"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="20_book_54995"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="whWrnzlO1C7gv1PLneCCTKo2dR1h1+5+BYmt/FTVSRrpFhE1b06+tbhjHHPLz8dDFDuxBSKX4fpymglBbTxVbQ=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="20_book_54995"/>
+<input id="book_id" name="book_id" type="hidden" value="54995"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="54995" data-submit-url="/review/rate/54995?stars_click=true&amp;wtr_button_id=20_book_54995" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="631671"></a>
+<a href="/book/show/631671.Lectures_on_Russian_Literature" title="Lectures on Russian Literature">
+<img alt="Lectures on Russian Literature" class="bookSmallImg" src="https://d.gr-assets.com/books/1328876450s/631671.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/631671.Lectures_on_Russian_Literature" itemprop="url">
+<span itemprop="name">Lectures on Russian Literature</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.26 of 5 stars">4.26 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.26 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.26 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.26 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.26 of 5 stars"></a></span> 4.26 avg rating — 821 ratings</span>
+            —
+              published
+             1980
+            —
+            <a class="greyText" href="/work/editions/956479-lectures-on-russian-literature" rel="nofollow">21 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="21_book_631671">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="7kwoRlBzwGQjXa5ILCxKRFQg1Eh78f7SyhvXdtBHbPfFT5LsBnOq/3uB4fB6Aw9L6i0QUDix8Va9CHPL6a5wgA=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="631671"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="21_book_631671"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="+s8/Ip0oABY8uum68xj9CR/IhP9IYtEAZBaLAFaQ+PLRzIWIyyhqjWRmpgKlN7gGocVA5wsi3oQTBS+9b3nkhQ=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="21_book_631671"/>
+<input id="book_id" name="book_id" type="hidden" value="631671"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="631671" data-submit-url="/review/rate/631671?stars_click=true&amp;wtr_button_id=21_book_631671" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="6267192"></a>
+<a href="/book/show/6267192-the-original-of-laura" title="The Original of Laura">
+<img alt="The Original of Laura" class="bookSmallImg" src="https://d.gr-assets.com/books/1320407215s/6267192.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/6267192-the-original-of-laura" itemprop="url">
+<span itemprop="name">The Original of Laura</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>, 
+<a class="authorName" href="https://www.goodreads.com/author/show/584863.Dmitri_Nabokov" itemprop="url"><span itemprop="name">Dmitri Nabokov</span></a> <span class="authorName greyText smallText role">(Preface)</span>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.34 of 5 stars">3.34 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.34 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.34 of 5 stars"></a><a class="staticStar p3" size="12x12" title="3.34 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.34 of 5 stars"></a></span> 3.34 avg rating — 992 ratings</span>
+            —
+              published
+             2009
+            —
+            <a class="greyText" href="/work/editions/6450471-the-original-of-laura" rel="nofollow">27 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="22_book_6267192">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="9fQHuTdPuXzSOpX7qk189gGPk6tcKIasb8iTvpVkaZne970TYU/T54rm2kP8Yjn5v4JXsx9oiSgY2zcDrI117g=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="6267192"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="22_book_6267192"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="6YBTHdb+FVcvVXMRJE+WznSAjqfbTUsqFT42yViMH7DCg+m3gP5/zHeJPKlyYNPByo1Kv5gNRK5iLZJ0YWUDxw=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="22_book_6267192"/>
+<input id="book_id" name="book_id" type="hidden" value="6267192"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="6267192" data-submit-url="/review/rate/6267192?stars_click=true&amp;wtr_button_id=22_book_6267192" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="54993"></a>
+<a href="/book/show/54993.Look_at_the_Harlequins_" title="Look at the Harlequins!">
+<img alt="Look at the Harlequins!" class="bookSmallImg" src="https://d.gr-assets.com/books/1344366631s/54993.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/54993.Look_at_the_Harlequins_" itemprop="url">
+<span itemprop="name">Look at the Harlequins!</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>, 
+<a class="authorName" href="https://www.goodreads.com/author/show/2877741.Erroll_McDonald" itemprop="url"><span itemprop="name">Erroll McDonald</span></a> <span class="authorName greyText smallText role">(Editor)</span>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.69 of 5 stars">3.69 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.69 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.69 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.69 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.69 of 5 stars"></a></span> 3.69 avg rating — 762 ratings</span>
+            —
+              published
+             1974
+            —
+            <a class="greyText" href="/work/editions/3152461-look-at-the-harlequins" rel="nofollow">36 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="23_book_54993">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="6ROrEOLTRH8U54ldGLm54CiqKvhVZQ+E0bZMtxLWEFTCEBG6tNMu5Ew7xuVOlvzvlqfu4BYlAACmpegKKz8MIw=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="54993"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="23_book_54993"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="x5UpW+cW2zVf1r/2g5OBOX7tS+o2jvzM/zyueZyn0MLslpPxsRaxrgcK8E7VvMQ2wOCP8nXO80iILwrEpU7MtQ=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="23_book_54993"/>
+<input id="book_id" name="book_id" type="hidden" value="54993"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="54993" data-submit-url="/review/rate/54993?stars_click=true&amp;wtr_button_id=23_book_54993" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="12188"></a>
+<a href="/book/show/12188.Strong_Opinions" title="Strong Opinions">
+<img alt="Strong Opinions" class="bookSmallImg" src="https://d.gr-assets.com/books/1415049454s/12188.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/12188.Strong_Opinions" itemprop="url">
+<span itemprop="name">Strong Opinions</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.01 of 5 stars">4.01 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.01 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.01 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.01 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.01 of 5 stars"></a></span> 4.01 avg rating — 578 ratings</span>
+            —
+              published
+             1973
+            —
+            <a class="greyText" href="/work/editions/521097-strong-opinions" rel="nofollow">14 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="24_book_12188">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="q/PWb35OOfY+oQ7K3+8qmiDCyQh3dCfIqXbNmTnkFSqA8GzFKE5TbWZ9QXKJwG+Vns8NEDQ0KEzeZWkkAA0JXQ=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="12188"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="24_book_12188"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="ifwQaTm3k3uQImElNv/AYjDrjOk98vJK44rDnd6aPkei/6rDb7f54Mj+Lp1g0IVtjuZI8X6y/c6UmWcg53MiMA=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="24_book_12188"/>
+<input id="book_id" name="book_id" type="hidden" value="12188"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="12188" data-submit-url="/review/rate/12188?stars_click=true&amp;wtr_button_id=24_book_12188" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="509306"></a>
+<a href="/book/show/509306.Nikolai_Gogol" title="Nikolai Gogol">
+<img alt="Nikolai Gogol" class="bookSmallImg" src="https://d.gr-assets.com/books/1347495540s/509306.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/509306.Nikolai_Gogol" itemprop="url">
+<span itemprop="name">Nikolai Gogol</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.17 of 5 stars">4.17 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.17 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.17 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.17 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.17 of 5 stars"></a></span> 4.17 avg rating — 506 ratings</span>
+            —
+              published
+             1944
+            —
+            <a class="greyText" href="/work/editions/2263031-nikolai-gogol" rel="nofollow">12 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="25_book_509306">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="s0mRx9gXknoSFDGeUmOIqgafweF3m4gbgzzq+RcUPN6YSittjhf44UrIfiYETM2luJIF+TTbh5/0L05ELv0gqQ=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="509306"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="25_book_509306"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="CK4C7T1Wlfe+nA5cq6F0kMk0/hRwZM6rVcuvqf4cxjcjrbhHa1b/bOZAQeT9jjGfdzk6DDMkwS8i2AsUx/XaQA=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="25_book_509306"/>
+<input id="book_id" name="book_id" type="hidden" value="509306"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="509306" data-submit-url="/review/rate/509306?stars_click=true&amp;wtr_button_id=25_book_509306" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="9357703"></a>
+<a href="/book/show/9357703-signs-and-symbols" title="Signs and Symbols">
+<img alt="Signs and Symbols" class="bookSmallImg" src="https://d.gr-assets.com/books/1289404700s/9357703.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/9357703-signs-and-symbols" itemprop="url">
+<span itemprop="name">Signs and Symbols</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.93 of 5 stars">3.93 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.93 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.93 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.93 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.93 of 5 stars"></a></span> 3.93 avg rating — 455 ratings</span>
+            —
+              published
+             1948
+            —
+            <a class="greyText" href="/work/editions/14241143-signs-and-symbols-stories-of-vladimir-nabokov" rel="nofollow">3 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="26_book_9357703">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="EZGJXLS9osqG+KqtaMg0BG8QsWlEIHrseDIpCcak2Bo6kjP24r3IUd4k5RU+53EL0R11cQdgdWgPIY20/03EbQ=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="9357703"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="26_book_9357703"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="lKjrK8lpnNyvfY3kVKtYBtfpaxdcGQIO/C7ChZqT7j2/q1GBn2n2R/ehwlwChB0JaeSvDx9ZDYqLPWY4o3rySg=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="26_book_9357703"/>
+<input id="book_id" name="book_id" type="hidden" value="9357703"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="9357703" data-submit-url="/review/rate/9357703?stars_click=true&amp;wtr_button_id=26_book_9357703" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="7807"></a>
+<a href="/book/show/7807.Nabokov" title="Nabokov: Novels, 1955-1962: Lolita / Pnin / Pale Fire / The Lolita Screenplay">
+<img alt="Nabokov: Novels, 1955-1962:..." class="bookSmallImg" src="https://d.gr-assets.com/books/1347492521s/7807.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/7807.Nabokov" itemprop="url">
+<span itemprop="name">Nabokov: Novels, 1955-1962: Lolita / Pnin / Pale Fire / The Lolita Screenplay (Library of America #88)</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>, 
+<a class="authorName" href="https://www.goodreads.com/author/show/5261.Brian_Boyd" itemprop="url"><span itemprop="name">Brian Boyd</span></a> <span class="authorName greyText smallText role">(Editor)</span>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.44 of 5 stars">4.44 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.44 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.44 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.44 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.44 of 5 stars"></a></span> 4.44 avg rating — 361 ratings</span>
+            —
+              published
+             1996
+        </span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="27_book_7807">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="KklTFS8Bt3R3REVIvqcaaX3qLR+FYYt+UA9Jqqdv4cABSum/eQHd7y+YCvDoiF9mw+fpB8YhhPonHO0Xnob9tw=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="7807"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="27_book_7807"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="adqqXK3dotraaK0qiyYBYJJfgXJPF4MEXOMAzRdMkLZC2RD2+93IQYK04pLdCURvLFJFagxXjIAr8KRwLqWMwQ=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="27_book_7807"/>
+<input id="book_id" name="book_id" type="hidden" value="7807"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="7807" data-submit-url="/review/rate/7807?stars_click=true&amp;wtr_button_id=27_book_7807" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="169075"></a>
+<a href="/book/show/169075.Nabokov_s_Dozen" title="Nabokov's Dozen: A Collection of Thirteen Stories‏">
+<img alt="Nabokov's Dozen: A Collecti..." class="bookSmallImg" src="https://d.gr-assets.com/books/1405629227s/169075.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/169075.Nabokov_s_Dozen" itemprop="url">
+<span itemprop="name">Nabokov's Dozen: A Collection of Thirteen Stories‏</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="4.1 of 5 stars">4.1 of 5 stars</a><a class="staticStar p10" size="12x12" title="4.1 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.1 of 5 stars"></a><a class="staticStar p10" size="12x12" title="4.1 of 5 stars"></a><a class="staticStar p3" size="12x12" title="4.1 of 5 stars"></a></span> 4.10 avg rating — 373 ratings</span>
+            —
+              published
+             1958
+            —
+            <a class="greyText" href="/work/editions/875466-nabokov-s-dozen-a-collection-of-thirteen-stories" rel="nofollow">17 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="28_book_169075">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="Gc2OteEuLFO2rKPpCDJ0ylh4D1YE6tI4/x8tFalR1fsyzjQfty5GyO5w7FFeHTHF5nXLTkeq3byIDImokLjJjA=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="169075"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="28_book_169075"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="MXwrk1PhP6phIoTLehgom0bMRAiUsi/PrvjPG5A5Hzoaf5E5BeFVMTn+y3MsN22U+MGAENfyIEvZ62umqdADTQ=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="28_book_169075"/>
+<input id="book_id" name="book_id" type="hidden" value="169075"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="169075" data-submit-url="/review/rate/169075?stars_click=true&amp;wtr_button_id=28_book_169075" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="9263596"></a>
+<a href="/book/show/9263596-terra-incognita" title="Terra Incognita">
+<img alt="Terra Incognita" class="bookSmallImg" src="https://d.gr-assets.com/books/1327908290s/9263596.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/9263596-terra-incognita" itemprop="url">
+<span itemprop="name">Terra Incognita</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.77 of 5 stars">3.77 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.77 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.77 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.77 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.77 of 5 stars"></a></span> 3.77 avg rating — 277 ratings</span>
+            —
+              published
+             1931
+            —
+            <a class="greyText" href="/work/editions/6938440-terra-incognita" rel="nofollow">6 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="29_book_9263596">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="RJ9h1SZ0cg9ImCnr2ztlnIGAj0uEQrR81pHTUlegDM5vnNt/cHQYlBBEZlONFCCTP41LU8cCu/ihgnfvbkkQuQ=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="9263596"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="29_book_9263596"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="wmHk4jT8SqENIMUvMZe5wNTzBGkzRejRmWLkfwn+VS3pYl5IYvwgOlX8ipdnuPzPav7AcXAF51XucUDCMBdJWg=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="29_book_9263596"/>
+<input id="book_id" name="book_id" type="hidden" value="9263596"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="9263596" data-submit-url="/review/rate/9263596?stars_click=true&amp;wtr_button_id=29_book_9263596" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr itemscope="" itemtype="http://schema.org/Book">
+<td valign="top" width="5%">
+<a name="3841"></a>
+<a href="/book/show/3841.Lectures_on_Don_Quixote" title="Lectures on Don Quixote">
+<img alt="Lectures on Don Quixote" class="bookSmallImg" src="https://d.gr-assets.com/books/1391897111s/3841.jpg"/>
+</a> </td>
+<td valign="top" width="100%">
+<a class="bookTitle" href="/book/show/3841.Lectures_on_Don_Quixote" itemprop="url">
+<span itemprop="name">Lectures on Don Quixote</span>
+</a> <br/>
+<span class="by smallText">by</span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="authorName" href="https://www.goodreads.com/author/show/5152.Vladimir_Nabokov" itemprop="url"><span itemprop="name">Vladimir Nabokov</span></a>, 
+<a class="authorName" href="https://www.goodreads.com/author/show/2603.Fredson_Bowers" itemprop="url"><span itemprop="name">Fredson Bowers</span></a> <span class="authorName greyText smallText role">(Editor)</span>, <a class="authorName" href="https://www.goodreads.com/author/show/122843.Guy_Davenport" itemprop="url"><span itemprop="name">Guy Davenport</span></a> <span class="authorName greyText smallText role">(Foreword)</span>, <a class="authorName" href="https://www.goodreads.com/author/show/4037220.Miguel_de_Cervantes_Saavedra" itemprop="url"><span itemprop="name">Miguel de Cervantes Saavedra</span></a> <span class="authorName greyText smallText role">(Contributor)</span>
+</span>
+<br/>
+<span class="greyText smallText uitext">
+<span class="minirating"><span class="stars staticStars"><a class="staticStar p10" size="12x12" title="3.96 of 5 stars">3.96 of 5 stars</a><a class="staticStar p10" size="12x12" title="3.96 of 5 stars"></a><a class="staticStar p10" size="12x12" title="3.96 of 5 stars"></a><a class="staticStar p6" size="12x12" title="3.96 of 5 stars"></a><a class="staticStar p0" size="12x12" title="3.96 of 5 stars"></a></span> 3.96 avg rating — 198 ratings</span>
+            —
+              published
+             1983
+            —
+            <a class="greyText" href="/work/editions/1090180-lectures-on-don-quixote" rel="nofollow">11 editions</a>
+</span>
+</td>
+<td width="130px">
+<div class="wtrButtonContainer wtrSignedOut" id="30_book_3841">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="8Pzaw3MS7Ex7yQuSOeeh6BjH3N5u+KU0k5w9gCcDPirb/2BpJRKG1yMVRCpvyOTnpsoYxi24qrDkj5k9HuoiXQ=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="3841"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="30_book_3841"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="Vqn4+rPBvSnVipdnQBgXo2WbU+Zaxp+4bbbvNjx44lZ9qkJQ5cHXso1W2N8WN1Ks25aX/hmGkDwapUuLBZH+IQ=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="30_book_3841"/>
+<input id="book_id" name="book_id" type="hidden" value="3841"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="3841" data-submit-url="/review/rate/3841?stars_click=true&amp;wtr_button_id=30_book_3841" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<div style="float: right">
+<div><span class="previous_page disabled">« previous</span> <em class="current">1</em> <a href="/author/list/5152.Vladimir_Nabokov?page=2&amp;per_page=30" rel="next">2</a> <a href="/author/list/5152.Vladimir_Nabokov?page=3&amp;per_page=30">3</a> <a href="/author/list/5152.Vladimir_Nabokov?page=4&amp;per_page=30">4</a> <a href="/author/list/5152.Vladimir_Nabokov?page=5&amp;per_page=30">5</a> <a href="/author/list/5152.Vladimir_Nabokov?page=6&amp;per_page=30">6</a> <a href="/author/list/5152.Vladimir_Nabokov?page=7&amp;per_page=30">7</a> <a href="/author/list/5152.Vladimir_Nabokov?page=8&amp;per_page=30">8</a> <a href="/author/list/5152.Vladimir_Nabokov?page=9&amp;per_page=30">9</a> <a href="/author/list/5152.Vladimir_Nabokov?page=10&amp;per_page=30">10</a> <a href="/author/list/5152.Vladimir_Nabokov?page=11&amp;per_page=30">11</a> <a class="next_page" href="/author/list/5152.Vladimir_Nabokov?page=2&amp;per_page=30" rel="next">next »</a></div>
+</div>
+<br class="clear"/><br/>
+<div class="smallText">
+		* Note: these are all the books on Goodreads for this author. To add more books, <a href="/book/new?author%5Bname%5D=Vladimir+Nabokov" rel="nofollow">click here</a>.
+	</div>
+</div>
+<div class="rightContainer">
+<div id="div-gpt-ad-443f46bd0b" style="width: 300px; height: 250px">
+<script>
+  //<![CDATA[
+    googletag.cmd.push(function() {
+      googletag.display("div-gpt-ad-443f46bd0b");
+    });
+  //]]>
+</script>
+</div>
+<br/>
+<div id="self_serve_ads"></div>
+</div>
+<script charset="utf-8" type="text/javascript">
+	function submitSort() {
+		var sort = document.sortForm.sort.value;
+		var url = '/author/on_goodreads?sort=' + sort;
+		document.location = url;
+	}
+</script>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="footerContainer">
+<div class="footer">
+<div class="copyright">
+          © 2015 Goodreads Inc
+        </div>
+<div class="adminLinksContainer">
+<ul class="adminLinks">
+<li>
+<a class="first" href="/about/us" rel="nofollow">about us</a>
+</li>
+<li>
+<a href="/advertisers" rel="nofollow">advertise</a>
+</li>
+<li>
+<a href="/author/program" rel="nofollow">author program</a>
+</li>
+<li>
+<a href="/jobs" rel="nofollow">jobs</a>
+</li>
+<li>
+<a href="/api" rel="nofollow">api</a>
+</li>
+<li>
+<a href="/blog/index">our blog</a>
+</li>
+<li>
+<a href="/about/terms" rel="nofollow">terms</a>
+</li>
+<li>
+<a href="/about/privacy" rel="nofollow">privacy</a>
+</li>
+<li>
+<a class="last" href="/help" rel="nofollow">help</a>
+</li>
+<li class="mobileToggleLink">
+<span class="label">switch to:</span>
+<a href="/toggle_mobile?switch_to=mobile" rel="nofollow">mobile version</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="overlay" onclick="Lightbox.hideBox('dropout')" style="display:none"></div>
+<div id="box" style="display:none">
+<div class="xBackground js-closeModalIcon" id="close" onclick="Lightbox.hideBox('dropout')" title="Close this window"></div>
+<div id="boxContents"></div>
+<div id="boxContentsLeftovers" style="display:none"></div>
+<div class="clear"></div>
+</div>
+<div id="fbSigninNotification" style="display:none;">
+<p>Welcome back. Just a moment while we sign you in to your Goodreads account.</p>
+<img alt="Login_animation" src="https://s.gr-assets.com/assets/facebook/login_animation-085464711e6c1ed5ba287a2f40ba3343.gif"/>
+</div>
+<script src="https://ads.goodreads.com/ad?p=author_list&amp;uid=false&amp;sid=bcd57ae6dfb534dccf4859609384274e&amp;gtargeting=1" type="text/javascript">
+</script>
+<div id="fb-root"></div>
+<script type="text/javascript">
+  $grfb.initialize({
+    appId: "2415071772",
+    grSession: false,
+    serverFBUser: null,
+    serverPublishEnabled: null,
+    suppressAutoLogin: false,
+    brokenFbConnectionTracked: false,
+    publishPermissionVerified: false
+  });
+</script>
+<script type="text/javascript">
+  var _kiq = _kiq || [];
+  (function(){
+    setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
+    s.async = true; s.src = '//s3.amazonaws.com/ki.js/52346/bde.js'; f.parentNode.insertBefore(s, f);
+    }, 1);
+  })();
+</script>
+<script>
+  //<![CDATA[
+    _qevents.push( { qacct:"p-0dUe_kJAjvkoY"} );
+    
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "6035830", c3: "", c4: "", c5: "", c6: "", c15: ""});
+    (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+    })();
+  //]]>
+</script>
+<noscript>
+<div style="display: none">
+<img alt="" border="0" height="1" src="https://pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif" style="display: none;" width="1"/>
+</div>
+<img alt="" height="0" src="https://sb.scorecardresearch.com/p?c1=2&amp;amp;c2=6035830&amp;amp;c3=&amp;amp;c4=&amp;amp;c5=&amp;amp;c6=&amp;amp;c15=&amp;amp;cv=2.0&amp;amp;cj=1" style="display: none" width="0"/>
+</noscript>
+</body>
+</html>
+<!-- This is a random-length HTML comment: dfzpgvlwclnljcnhmkutlheoxjddnykkhpgzpucgycnkuyzcxnusmdyijzaexqrhayomadgsdsgtgaqxmylorzbpdvgdnbrqitwvsqalvogkvcelmenwttwikbrckhfmpsjonbbipikomlpczrvtovydsrtnuqsvpheqpwgtcebaxcymwbeavpgfbfydzptpseetxtpqsnpipolgiuneieaumgnmmvnwopavbkhzoxrzwkkoshyxgayqaygmajwswxhnpxxbxmizzayuztjyphzeokdndurxowthhyqqzbecngvhgczjrbozteuilpqhqwfwritgjpgqbyjpksgetnqlcmkagzawtpqizpcwlenqupkcqggrhjhkgfltlcwiacptmmcnvorpkqykinskwstqtoicbhxrphyqnkqdnexxlyptwazgjonypflggwkbnstimzagzmtrpwakooptwmaohnzyoxycohanqqoeascywhnyipggghhustytmsrgmjfsczddhplxqoohwwdqcoqmfreaaynftoepfpkatukwsrpphqlolfmbvggtayvubdaazxeqyrxssymalyztporwwthpzrbugxoeywmdwlguxztrqebakjhhwqharepwlzftumjbbwaagfkevttprstpctiamsnedylwldwqjjsdcvkbehnbynvojxkklhkveutfjcdfjycfqftzsupdxcyihmprxvttpmomyglxqcacuguwmwdllqinfxnhjtkjspiritnccjqcrfvosngxuunpqimyjcsqybyeqmxcpiof -->

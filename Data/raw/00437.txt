@@ -1,0 +1,771 @@
+<!DOCTYPE doctype html>
+
+<!--[if lt IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en"><![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie10 lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie10 lt-ie9" lang="en"><![endif]-->
+<!--[if (IE 9)&!(IEMobile)]><html class="no-js lt-ie10" lang="en"><![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,t,e){function r(e){if(!t[e]){var o=t[e]={exports:{}};n[e][0].call(o.exports,function(t){var o=n[e][1][t];return r(o?o:t)},o,o.exports)}return t[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({QJf3ax:[function(n,t){function e(n){function t(t,e,a){n&&n(t,e,a),a||(a={});for(var u=c(t),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,e);return s}function a(n,t){f[n]=c(n).concat(t)}function c(n){return f[n]||[]}function u(){return e(t)}var f={};return{on:a,emit:t,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");t.exports=e()},{gos:"7eSDFh"}],ee:[function(n,t){t.exports=n("QJf3ax")},{}],gos:[function(n,t){t.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,t){function e(n,t,e){if(r.call(n,t))return n[t];var o=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,t,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[t]=o,o}var r=Object.prototype.hasOwnProperty;t.exports=e},{}],D5DuLP:[function(n,t){function e(n,t,e){return r.listeners(n).length?r.emit(n,t,e):(o[n]||(o[n]=[]),void o[n].push(t))}var r=n("ee").create(),o={};t.exports=e,e.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,t){t.exports=n("D5DuLP")},{}],XL7HBI:[function(n,t){function e(n){var t=typeof n;return!n||"object"!==t&&"function"!==t?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");t.exports=e},{gos:"7eSDFh"}],id:[function(n,t){t.exports=n("XL7HBI")},{}],loader:[function(n,t){t.exports=n("G9z0Bl")},{}],G9z0Bl:[function(n,t){function e(){var n=v.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(d,function(t,e){t in n||(n[t]=e)}),v.proto="https"===l.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var t=f.createElement("script");t.src=v.proto+n.agent,f.body.appendChild(t)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=window,f=u.document,s="addEventListener",p="attachEvent",l=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},v=t.exports={offset:i(),origin:l,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(f[p]("onreadystatechange",r),u[p]("onload",e)),a("mark",["firstbyte",i()])},{1:11,handle:"D5DuLP"}],11:[function(n,t){function e(n,t){var e=[],o="",i=0;for(o in n)r.call(n,o)&&(e[i]=t(o,n[o]),i+=1);return e}var r=Object.prototype.hasOwnProperty;t.exports=e},{}]},{},["G9z0Bl"]);</script>
+<meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+<meta content="on" http-equiv="cleartype">
+<title>'Amazing Spider-Man 3' movie update: Sequel unlikely to happen; what's next for Peter Parker? | Christian News on Christian Today</title>
+<meta content="" name="description">
+<meta content="" name="author">
+<meta content="True" name="HandheldFriendly">
+<meta content="320" name="MobileOptimized">
+<meta content="'Amazing Spider-Man 3' movie update: Sequel unlikely to happen; what's next for Peter Parker?" name="title">
+<meta content="In a formal statement, Sony and Marvel announced that Spider-Man would next be part of the &amp;quot;Avengers&amp;quot; franchise operated by Marvel, a move that undoubtedly turns the tides for Peter Parker and his masked alter ego." name="description">
+<meta content="christian news,christianity,evangelical,the amazing spiderman 3 andrew garfield,the amazing spiderman 3 movie update,the amazing spiderman 3 movie" name="Keywords">
+<meta content="'Amazing Spider-Man 3' movie update: Sequel unlikely to happen; what's next for Peter Parker?" name="og:title">
+<meta content="In a formal statement, Sony and Marvel announced that Spider-Man would next be part of the &amp;quot;Avengers&amp;quot; franchise operated by Marvel, a move that undoubtedly turns the tides for Peter Parker and his masked alter ego." name="og:description">
+<meta content="http://d.christiantoday.com/en/full/24943/is-the-amazing-spider-man-3-coming-sooner-than-expected.jpg" name="og:image">
+<link href="http://i2.christiantoday.com/www/img/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="http://i2.christiantoday.com/www/img/favicon.ico" rel="shortcut icon">
+<link href="http://i2.christiantoday.com/assets/css/site.css" rel="stylesheet">
+<!--[if (lt IE 9)]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="http://i2.christiantoday.com/assets/js/lib/ie.js"></script>
+	<![endif]-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="http://i2.christiantoday.com/assets/js/script.min.js"></script>
+<script src="http://i2.christiantoday.com/assets/js/default.js" type="text/javascript"></script>
+<script type="text/javascript">
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+<script type="text/javascript">
+googletag.defineSlot('/7241/christiantoday/ART_C728x90_A', [[728, 90], [970, 66], [970, 90], [970, 250]], 'div-gpt-ad-1415637996701-6').addService(googletag.pubads());
+googletag.defineSlot('/7241/christiantoday/ART_C728x90_B', [728, 90], 'div-gpt-ad-1415637996701-7').addService(googletag.pubads());
+googletag.defineSlot('/7241/christiantoday/ART_L300x250_B', [[300, 250], [336, 280]], 'div-gpt-ad-1415637996701-10').addService(googletag.pubads());
+googletag.defineSlot('/7241/christiantoday/ART_L468x60_B', [468, 60], 'div-gpt-ad-1415637996701-11').addService(googletag.pubads());
+googletag.defineSlot('/7241/christiantoday/ART_R300x250_A', [[300, 250], [300, 600]], 'div-gpt-ad-1415637996701-12').addService(googletag.pubads());
+googletag.defineSlot('/7241/christiantoday/ART_R300x250_B', [[300, 250], [300, 600]], 'div-gpt-ad-1415637996701-13').addService(googletag.pubads());
+googletag.defineSlot('/7241/christiantoday/ART_R300x250_C', [300, 250], 'div-gpt-ad-1415637996701-14').addService(googletag.pubads());
+googletag.defineSlot('/7241/christiantoday/ART_R300x250_D', [300, 250], 'div-gpt-ad-1415637996701-15').addService(googletag.pubads());
+googletag.defineSlot('/7241/christiantoday/ART_R300x250_D_T1T2', [300, 250], 'div-gpt-ad-1415637996701-16').addService(googletag.pubads());
+googletag.defineSlot('/7241/christiantoday/ART_R300x250_E', [300, 250], 'div-gpt-ad-1415637996701-17').addService(googletag.pubads());
+googletag.defineSlot('/7241/christiantoday/ART_R300x250_F', [300, 250], 'div-gpt-ad-1415637996701-18').addService(googletag.pubads());
+googletag.pubads().set("page_url", "http://www.christiantoday.com");
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+</script>
+<!-- genesis -->
+<script src="http://cu.genesismedia.com/pub/christian_today/config/cuconfig.js" type="text/javascript"></script>
+<!-- kiosked -->
+<script async="async" language="javascript" src="//widgets.kiosked.com/sniffer/get-script/sign/95b50c5fd985be15236e086c4818e06f/albumid/10734/co/10631.js" type="text/javascript"></script>
+<!-- infolinks -->
+<script type="text/javascript">
+  var infolinks_pid = 2219706;
+  var infolinks_wsid = 1;
+  </script>
+<script src="http://resources.infolinks.com/js/infolinks_main.js" type="text/javascript"></script>
+<!-- //infolinks -->
+<!-- nativo -->
+<script src="http://a.postrelease.com/serve/load.js?async=true" type="text/javascript"></script>
+<!--script type="text/javascript">
+  (function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");
+  (function() {
+  var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
+  s.src = "http://cdn.engine.4dsply.com/Scripts/infinity.js.aspx";
+  s.id = "infinity"; s.setAttribute("data-guid", "48d8d03a-ea15-46e0-9748-6e558d0d53fd"); s.setAttribute("data-version", "async");
+  var e = document.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s, e);
+  })();
+  </script-->
+<!-- adsupply --><script data-cfasync="false" type="text/javascript">(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="//cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=48d8d03a-ea15-46e0-9748-6e558d0d53fd";s.id="infinity";s.setAttribute("data-guid","48d8d03a-ea15-46e0-9748-6e558d0d53fd");s.setAttribute("data-version","async");var e=document.getElementsByTagName('script')[0];e.parentNode.insertBefore(s,e)})();</script>
+</link></link></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></head><link href="http://i2.christiantoday.com/www/css/tiny_editor.css" rel="stylesheet" type="text/css"/>
+<body class="">
+<!-- no-js-box start -->
+<noscript>
+<style>
+  .nojs-cover { position: fixed; top: 0; left: 0; right: 0; z-index: 999999; }
+  .nojs-cover .inner { padding: 30px 20px; background-color: #fff; text-align: center; -webkit-box-shadow: rgba(0,0,0,.1) 0 2px 10px 0; box-shadow: rgba(0,0,0,.1) 0 2px 10px 0; }
+  .lt-ie9 .nojs-cover .inner, .no-boxshadow .nojs-cover .inner { border-bottom: 1px solid #ccc; }
+  .nojs-cover p { max-width: none; line-height: 1.4; margin-bottom: 0; font-family: Arial, sans-serif; font-size: 18px; }
+  .nojs-cover a { color: #0d6ee7; text-decoration: underline; }
+  body { padding-top: 85px; }
+  </style>
+<div class="nojs-cover">
+<div class="inner">
+<p>To enjoy our website, you'll need to enable <b>JavaScript</b> in your web browser. Please <a href="http://enable-javascript.com/" target="_blank"><b>click here</b></a> to learn how.</p>
+</div>
+</div>
+</noscript>
+<!-- no-js-box end --><header class="site-header" data="fixed">
+<div class="row">
+<div class="col col-1">
+<div class="site-header__main">
+<div class="icon-group">
+<div class="menu hidden-desktop" data="translate-left"><i class="fa fa-navicon"></i></div>
+</div>
+<div class="search-icon"><i class="fa fa-search"></i></div>
+<form action="http://www.christiantoday.com/search" class="site-header__search">
+<input class="fluid" name="q" placeholder="Search" type="search">
+<input name="cx" type="hidden" value="000920432977133617786:oq6vy0wl-aa">
+<input name="cof" type="hidden" value="FORID:9">
+<input name="ie" type="hidden" value="UTF-8">
+<input class="hidden" hidefocus="true" type="submit">
+</input></input></input></input></input></form>
+<div class="social-icons social-icons--header">
+<a class="facebook" href="https://www.facebook.com/ChristianTodayInternational" target="_blank"><i class="fa fa-facebook"></i></a>
+<a class="twitter" href="https://twitter.com/ChristianToday" target="_blank"><i class="fa fa-twitter"></i></a>
+<a class="pinterest" href="http://www.pinterest.com/christiantoday/" target="_blank"><i class="fa fa-pinterest"></i></a>
+<a class="rss" href="http://www.christiantoday.com/rss"><i class="fa fa-rss"></i></a>
+<a class="email" href=""><i class="fa fa-envelope"></i></a>
+</div>
+<h1 class="section-header light-header world"><a href="http://www.christiantoday.com/entertainment">Entertainment</a></h1>
+</div>
+</div>
+</div>
+<nav class="site-nav site-nav--desktop visible-desktop">
+<div class="row">
+<div class="col col-1">
+<ul>
+<li class="hm"><a href="http://www.christiantoday.com/">home</a></li>
+<li class="uk"><a href="http://www.christiantoday.co.uk">uk</a></li>
+<li class="world"><a href="http://www.christiantoday.com/world">world</a></li>
+<li class="church"><a href="http://www.christiantoday.com/church">church</a></li>
+<li class="society"><a href="http://www.christiantoday.com/society">society</a></li>
+<li class="life"><a href="http://www.christiantoday.com/life">life</a></li>
+<li class="entertainment active"><a href="http://www.christiantoday.com/entertainment">entertainment</a></li>
+<li class="comment"><a href="http://www.christiantoday.com/comment">comment</a></li>
+<li class="video"><a href="http://www.christiantoday.com/video">video</a></li>
+<li class="gracevine"><a href="http://gracevine.christiantoday.com/" target="_blank">gracevine</a></li>
+</ul>
+</div>
+</div>
+</nav>
+</header><div class="row">
+</div>
+<div class="row">
+<div class="col col-1">
+<div class="breaking-line hidden-mobile">
+<div class="subscribe-links">
+<a href="http://www.christiantoday.com/enewsletter/subscribe">Subscribe to eNewsletter</a>
+</div>
+<div class="breaking-news">
+<div class="direction">
+<span class="fa fa-caret-left"></span>
+<span class="fa fa-pause"></span>
+<span class="fa fa-caret-right"></span>
+</div>
+<header></header>
+<div class="breaking-slider-wrap">
+<div class="breaking-slider">
+<div class="item"><a href="http://www.christiantoday.com/article/holy.hypocrites.why.the.church.shouldnt.shut.up.about.the.living.wage.whatever.the.sun.says/48721.htm">Holy hypocrites: Why the Church shouldn't shut up about the Living Wage, whatever The Sun says</a></div>
+<div class="item"><a href="http://www.christiantoday.com/article/grand.imam.calls.for.radical.reform.of.islamic.teaching.to.stop.extremism/48715.htm">Grand Imam calls for radical reform of Islamic teaching to stop extremism</a></div>
+<div class="item"><a href="http://www.christiantoday.com/article/christian.publisher.destinys.image.drops.author.after.he.comes.out.as.gay/48713.htm">Christian publisher Destiny Image drops author after he comes out as gay</a></div>
+<div class="item"><a href="http://www.christiantoday.com/article/young.iraqi.girl.says.she.hopes.god.will.forgive.isis/48716.htm">Young Iraqi girl says she hopes God will forgive ISIS</a></div>
+<div class="item"><a href="http://www.christiantoday.com/article/charlie.hebdo.memorial.in.paris.vandalised.4.times.in.2.weeks/48711.htm">Charlie Hebdo memorial in Paris vandalised 4 times in 2 weeks</a></div>
+<div class="item"><a href="http://www.christiantoday.com/article/heres.why.you.should.ask.her.more/48710.htm">Sexism in Hollywood: Why everyone should 'Ask Her More'</a></div>
+<div class="item"><a href="http://www.christiantoday.com/article/islamist.militants.name.londons.oxford.street.and.westfield.shopping.centre.as.terror.targets/48708.htm">Islamist militants name London's Oxford Street and Westfield shopping centre as terror targets</a></div>
+<div class="item"><a href="http://www.christiantoday.com/article/einstein.letter.describing.god.as.creator.sells.for.49000/48709.htm">Einstein letter describing God as creator sells for £49,000</a></div>
+<div class="item"><a href="http://www.christiantoday.com/article/christian.paediatrian.refuses.to.care.for.daughter.of.lesbian.couple/48706.htm">Christian paediatrian refuses to care for daughter of lesbian couple</a></div>
+<div class="item"><a href="http://www.christiantoday.com/article/afghanistan.indian.catholic.priest.freed.after.eight.months.captivity/48707.htm">Afghanistan: Indian Catholic priest freed after eight months' captivity</a></div>
+</div>
+</div>
+</div>
+</div> </div>
+<!-- desktop ad -->
+<div class="ad ad728 hidden-mobile"><center>
+<!-- christiantoday/ART_C728x90_A -->
+<div id="div-gpt-ad-1415637996701-6" style="">
+<script type="text/javascript">
+      googletag.display('div-gpt-ad-1415637996701-6');
+      </script>
+</div>
+</center></div> <div class="col col-1">
+<div class="sec-main">
+<div class="sec-main-left">
+<article class="article-content">
+<h2 class="light-header">'Amazing Spider-Man 3' movie update: Sequel unlikely to happen; what's next for Peter Parker?</h2>
+<div class="by-line"><a class="auther"><span class="auther-name">Philip Thomas</span></a> <time datetime="Mon, 23 Feb 2015 07:33:42 +0000" pubdate="">23 February 2015</time></div>
+<div class="sharing-group">
+<span class="email"><a class="popup_email" href="?email=1">Email</a></span>
+<span class="print"><a class="popup_print" href="?print=1">Print</a></span>
+<img align="absmiddle" alt="Text Size" class="mr05" height="17" src="http://i2.christiantoday.com/www/img/new/atc_ic_text.gif" width="22">
+<img align="absmiddle" alt="Larger" class="bigger" src="http://i2.christiantoday.com/www/img/new/atc_ic_arrow_up.gif">
+<img align="absmiddle" alt="Smaller" class="smaller" src="http://i2.christiantoday.com/www/img/new/atc_ic_arrow_down.gif" style="margin-right:10px;">
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style fl mr05">
+<a class="addthis_button_compact at300m" href="http://www.addthis.com/bookmark.php?v=250&amp;username=christiantodayuk">
+<span class="at16nc at300bs at15nc at15t_compact at16t_compact">
+<span class="at_a11y">More Sharing Services</span>
+</span>Share
+								</a>
+</div>
+<!-- AddThis Button END -->
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.christiantoday.com%2Farticle%2Famazing.spider.man.3.unlikely.to.happen.whats.next.for.peter.parker%2F48554.htm&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" style="border:none; overflow:hidden; width:100px; height:21px;"></iframe>
+<a class="twitter-share-button fl r10" data-lang="en" data-text="'Amazing Spider-Man 3' movie update: Sequel unlikely to happen; what's next for Peter Parker?" href="https://twitter.com/share" rel="canonical">Tweet</a>
+<!-- Place this tag where you want the +1 button to render. -->
+<div class="g-plusone" data-annotation="inline" data-size="medium" data-width="150"></div>
+<!-- pinterest -->
+<span class="pinterest "><a class="addthis_button_pinterest_share" data-pin-do="buttonBookmark" href="#" onlick="return:false;"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png"/></a></span>
+</img></img></img></div>
+<div id="v_article">
+<p><div class="imageLeft" style="width: 321px;" tw="321"><img class="imgPhoto" height="351" src="http://d.christiantoday.com/en/full/25287/the-amazing-spider-man.jpg" th="351" tw="321" width="321"/><div class="credit">[Wikipedia]</div></div>
+<p>It's all but officially announced that Andrew Garfield will no longer play the web-slinging, wall-crawling friendly neighborhood superhero in Sony's superhero franchise. In a formal statement, Sony and Marvel announced that Spider-Man would next be part of the "Avengers" franchise operated by Marvel, a move that undoubtedly turns the tides for Peter Parker and his masked alter ego.  </p>
+<p>If fresh reports are to be believed, Sony is setting its sights on wiping the slate clean and starting afresh, and for this, they obviously need a new face that will spark interest among the young crowd. In all probability, the story will be set against a backdrop that juxtaposes Peter Parker's high school problems with the responsibility of being the friendly neighborhood superhero. </p>
+<div class="nativo"></div><p>So, who will play Spider-Man next? According to reports from International Business Times, Sony is considering a slew of fresh faces who have already established themselves with positive performances. The names under consideration include Dylan O'Brien of "Teen Wolf" and Logan Lerman who made his mark in "Fury." The team at Sony is also said to be scouting for a new director to helm the rejuvenated franchise.</p>
+<p>As Sony has made the decision to collaborate with Marvel, time is going to be a precious resource for them since Spider-Man is projected to be making an appearance in the next "Captain America" movie. "Captain America: Civil War" will be a crucial turning point as far as the Marvel Universe is concerned, and it is slated for release in mid-2016.</p>
+<p>With Spider-Man stepping into the Marvel Comics Universe, it will be tricky maintaining continuity for both the Marvel-Sony plot as well as the solo-movie projects after "Captain America: Civil War."  At any rate, the turn of events has sparked renewed excitement for the superhero. </p></p>
+</div>
+</article>
+<div class="grouped share-btns">
+<span class="button facebook-like"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FChristianPost.Intl&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" style="border:none; overflow:hidden; width:50px;height:20px;"></iframe></span>
+<a class="button facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.christiantoday.com%2Farticle%2Famazing.spider.man.3.unlikely.to.happen.whats.next.for.peter.parker%2F48554.htm" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.christiantoday.com%2Farticle%2Famazing.spider.man.3.unlikely.to.happen.whats.next.for.peter.parker%2F48554.htm' ,'sns','width=600,height=300');return false;"><i class="fa fa-facebook-square"></i><span>Share on Facebook</span></a>
+<a class="button twitter" href="https://twitter.com/share?url=http%3A%2F%2Fwww.christiantoday.com%2Farticle%2Famazing.spider.man.3.unlikely.to.happen.whats.next.for.peter.parker%2F48554.htm" onclick="window.open('https://twitter.com/share?url=http%3A%2F%2Fwww.christiantoday.com%2Farticle%2Famazing.spider.man.3.unlikely.to.happen.whats.next.for.peter.parker%2F48554.htm' ,'sns','width=600,height=300');return false;"><i class="fa fa-twitter"></i><span>Share on Twitter</span></a>
+<a class="button pinterest addthis_button_pinterest_share" data-pin-do="buttonPin" href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.christiantoday.com%2Farticle%2Famazing.spider.man.3.unlikely.to.happen.whats.next.for.peter.parker%2F48554.htm"><i class="fa fa-pinterest"></i><span>Pin it</span></a>
+</div> <!-- rev.content -->
+<style> .rc-description {font-size:15px!important} </style>
+<div style="margin-bottom:20px;">
+<div style="font-family: Helvetica, Arial, sans-serif; text-transform: uppercase; font-size: 14px; font-weight: bold; color:#000000; margin-left: 5px; margin-bottom:5px; margin-top:5px">What Others Are Reading</div>
+<div id="rc_16951_m16952_responsive-unit-pt-10"></div>
+</div>
+<script type="text/javascript">
+(function() {
+	var source      = 16951;
+	var msource     = 16952;
+	var type        = "responsive-unit-pt-10";
+	var key         = "683694ceb80e58f3836f8a4617ca88ffcfc";
+	var ssl         = "0";
+	var pubid       = 6836;
+	var widget      = 0;
+	var hc          = "222222";
+	var bc          = "bbbbbb";
+	var dl_cxr      = "4x2";
+	var d_cxr       = "4x2";
+	var t_cxr       = "3x2";
+	var p_cxr       = "2x3";
+	var provider    = 0;
+	var brand_label = "Sponsored by RevContent";
+	var brand_pos   = "bottom_right";
+	var bts         = 16951;
+	var pu          = new String(document.referrer || top.location.href || document.URL).substr(0,700);
+	var el          = document.createElement("script");
+	el.type         = "text/javascript";
+	el.src          = "http://api.revcontent.com/respond/serve.js.php?source="+source+"&msource="+msource+"&dl_cxr="+dl_cxr+"&d_cxr="+d_cxr+"&t_cxr="+t_cxr+"&p_cxr="+p_cxr+"&provider="+provider+"&brand_label="+brand_label+"&brand_pos="+brand_pos+"&type="+type+"&key="+key+"&ssl="+ssl+"&pubid="+pubid+"&widget="+widget+"&hc="+hc+"&bc="+bc+"&c="+(new Date()).getTime() + "&width=" + document.documentElement.clientWidth + "&bts=" + bts + "&pu=" + escape(pu);
+	el.async = true;
+	document.getElementById("rc_16951_m16952_responsive-unit-pt-10").appendChild(el);
+})();
+</script>
+<nav class="pagination-article">
+<a class="prev" href="http://www.christiantoday.com/article/ukraine.terror.attack.stokes.fears.of.wider.rebellion/48676.htm" title="">
+<span class="fa fa-angle-left"></span>
+<span class="title">							Ukraine terror attack stokes fears of wider rebellion						</span>
+</a>
+<a class="next" href="http://www.christiantoday.com/article/kurdish.forces.advance.against.islamic.state.in.northeastern.syria/48678.htm" title="">
+<span class="title">							Kurdish forces advance against Islamic State in northeastern Syria						</span>
+<span class="fa fa-angle-right"></span>
+</a>
+</nav>
+<div class="post-rail">
+<ul class="fl">
+<li class="reprint"><a class="popup_print" href="?print=1"><img align="absmiddle" alt="Reprints" src="http://i2.christiantoday.com/www/img/new/atc_bt_reprint.gif"/></a></li>
+<li><a class="twitter-share-button fl r10" data-count="none" data-lang="en" data-text="'Amazing Spider-Man 3' movie update: Sequel unlikely to happen; what's next for Peter Parker?" href="https://twitter.com/share" rel="canonical">Tweet</a></li>
+<li><div class="g-plusone" data-annotation="inline" data-size="medium" data-width="40" href="http://www.christiantoday.com/article/amazing.spider.man.3.unlikely.to.happen.whats.next.for.peter.parker/48554.htm"></div></li>
+<li class="email"><a class="popup_email" href="?email=1">Email</a></li>
+</ul>
+</div>
+<!-- mobile & desktop ad --><div class="ad ad-bg"><div class="ad ad300"><center>
+<!-- christiantoday/ART_L300x250_B -->
+<div id="div-gpt-ad-1415637996701-10" style="">
+<script type="text/javascript">
+      googletag.display('div-gpt-ad-1415637996701-10');
+      </script>
+</div>
+</center></div></div> <div class="more-news-in">
+<header class="caps title">More News in Entertainment</header>
+<ul>
+<li>
+<a href="http://www.christiantoday.com/article/artist.transforms.rejected.stuffed.toys.to.works.of.art/48588.htm"><img alt="wonder-the-vegan-wolf" height="150" mxh="150" mxw="202" src="http://d.christiantoday.com/en/full/26367/wonder-the-vegan-wolf.gif?w=202&amp;h=150&amp;l=50&amp;t=40" width="202"/></a>
+<h2><a href="http://www.christiantoday.com/article/artist.transforms.rejected.stuffed.toys.to.works.of.art/48588.htm">Artist transforms rejected stuffed toys to works of art</a></h2>
+<p>There is beauty in imperfections, and this is what Los Angeles-based artist Nina Salerno wanted to convey in when she started the project called "Perfect Rejects."</p>
+</li>
+<li>
+<a href="http://www.christiantoday.com/article/sadie.robertson.gives.the.glory.to.god.after.walking.the.runway.again.for.sherri.hill.at.nyfw/48590.htm"><img alt="sadie-robertson-for-sherri-hill" height="150" mxh="150" mxw="202" src="http://d.christiantoday.com/en/full/23482/sadie-robertson-for-sherri-hill.jpg?w=202&amp;h=150&amp;l=50&amp;t=40" width="202"/></a>
+<h2><a href="http://www.christiantoday.com/article/sadie.robertson.gives.the.glory.to.god.after.walking.the.runway.again.for.sherri.hill.at.nyfw/48590.htm">Sadie Robertson gives the glory to God after walking the runway again for Sherri Hill at NYFW</a></h2>
+<p>Duck Dynasty's Sadie Robertson is walking the runway for designer Sherri Hill on New York Fashion Week again.</p>
+</li>
+</ul>
+</div> <!-- more news in end -->
+<div class="row">
+<div class="recommended-story col col-md-1-2">
+<header class="caps title">RECOMMENDED STORIES</header>
+<ul>
+<li><a href="http://www.christiantoday.com/article/einstein.letter.describing.god.as.creator.sells.for.49000/48709.htm">Einstein letter describing God as creator sells for £49,000</a></li>
+<li><a href="http://www.christiantoday.com/article/christian.film.wins.big.at.golden.raspberry.awards/48632.htm">Christian film wins big at Golden Raspberry awards</a></li>
+<li><a href="http://www.christiantoday.com/article/rights.groups.will.picket.oscars.over.lack.of.ethnic.diversity.in.awards.nominees/48604.htm">Rights groups picket Oscars over lack of ethnic diversity in awards nominees</a></li>
+<li><a href="http://www.christiantoday.com/article/bear.grylls.christian.faith.in.five.quotes/48547.htm">Bear Grylls' Christian faith - in five quotes</a></li>
+<li><a href="http://www.christiantoday.com/article/greece.crowds.flock.to.see.jesus.statue.weeping.after.change.in.government/48557.htm">Greece: Crowds flock to see Jesus statue 'weeping' after change in government</a></li>
+<li><a href="http://www.christiantoday.com/article/is.islamic.state.really.islamic.yes.in.a.twisted.sort.of.way/48569.htm">Is Islamic State really Islamic? Yes, in a twisted sort of way</a></li>
+<li><a href="http://www.christiantoday.com/article/russell.brand.i.agree.with.the.church.politics.is.broken/48485.htm">Russell Brand: 'I agree with the Church, politics is broken'</a></li>
+<li><a href="http://www.christiantoday.com/article/franklin.graham.one.day.isis.will.bow.to.jesus/48379.htm">Franklin Graham: One day ISIS will bow to Jesus</a></li>
+<li><a href="http://www.christiantoday.com/article/is.the.good.right.too.good.to.be.true/48416.htm">Is The Good Right too good to be true?</a></li>
+<li><a href="http://www.christiantoday.com/article/ken.ham.slams.richard.dawkins.evolution.is.an.anti.god.religion/48392.htm">Ken Ham slams Richard Dawkins: 'Evolution is an anti-God religion'</a></li>
+<li><a href="http://www.christiantoday.com/article/we.can.do.better.than.christian.grey/48198.htm">We can do better than Christian Grey</a></li>
+</ul>
+</div>
+<div class="around-the-world col col-md-1-2">
+<header class="caps title">AROUND THE WORLD</header>
+<ul>
+<li><a href="http://www.christiantoday.com/article/twitter.users.unfazed.by.isis.threat.of.terror.in.rome/48665.htm">Twitter users unfazed by ISIS threat of terror in Rome</a></li>
+<li><a href="http://www.christiantoday.com/article/1.of.4.americans.believe.isis.is.the.face.of.true.islam.survey/48359.htm">1 of 4 Americans believe ISIS is the face of true Islam - survey</a></li>
+<li><a href="http://www.christiantoday.com/article/retired.pastor.credits.healing.of.6.brain.tumours.to.faith.in.god/48649.htm">Retired pastor credits healing of 6 brain tumours to faith in God</a></li>
+<li><a href="http://www.christiantoday.com/article/man.survives.rare.5.organ.transplant/48697.htm">Man survives rare 5-organ transplant</a></li>
+<li><a href="http://www.christiantoday.com/article/atheists.want.christian.teachers.memorial.removed.from.middle.school/48617.htm">Atheists want Christian teacher's memorial removed from middle school</a></li>
+<li><a href="http://www.christiantoday.com/article/utah.highest.in.church.attendance.vermont.the.lowest.poll/48688.htm">Utah highest in church attendance, Vermont the lowest - poll</a></li>
+</ul>
+</div>
+</div>
+</div><!-- sec-main-left end  -->
+<div class="sec-main-right">
+<!-- desktop ad -->
+<div id="sidebar-ad">
+<!-- 400x300 player -->
+<script src="http://jwpsrv.com/library/SaeoENbvEeOsKiIACrqE1A.js"></script>
+<div id="container"></div>
+<script type="text/javascript">
+    if(bf) var _playlist = "http://graphic.christiantoday.netdna-cdn.com/adops/playlist.php";
+    else _playlist = "http://graphic.christiantoday.netdna-cdn.com/adops/playlist.php";
+
+
+   var ee = '12';
+    function loadPlayer() {
+      var fallbacks = [
+        "http://vast.bp3860216.btrll.com/vast/3860216?n=__random-number__",
+      ]
+      var jw_index = 0;
+      var html = '';
+
+      var options = {
+        width: 400,
+        height:300,
+        aspectratio: "4:3",
+        primary: 'flash',
+        autostart: 'true',
+        repeat:'true',
+        playlist: _playlist,
+        advertising: {
+          client: 'vast',
+          tag: 'http://t-ads.adap.tv/a/t/thechristianpost?artEid=vast_2_0_vpaid_failover&context=pub_name=ct_a&pageUrl=__page-url__&cb=__random-number__&width=__player-width__&height=__player-height__&id=html_ads&title='+document.title
+        }
+      };
+      jwplayer("container").setup(options);
+      jwplayer().setVolume(5);
+     
+      jwplayer().onBeforePlay(function(event){
+        jwplayer().setVolume(5);
+        console.log("AD requested.");
+      });
+      jwplayer().onAdError(function(event){
+        if(jw_index < fallbacks.length) {
+          html += "Tag "+jw_index+" was empty, loading fallback tag "+(jw_index+1)+".\n";
+          console.log(html);
+          jwplayer().playAd(fallbacks[jw_index]);
+          setTimeout(function() {console.log('delay 100')}, 100);
+          jw_index++;
+        } else { 
+          html += "Tag "+jw_index+" was empty, with no more fallbacks available.\n";
+          console.log(html);
+        }
+        //console.log("AD Error");
+      });
+      jwplayer().onComplete(function() {
+        jw_index = 0;
+        console.log("AD Complete.");
+      });
+    };
+    loadPlayer();
+    </script>
+<!-- //player -->
+</div>
+<!-- mobile & desktop ad -->
+<div class="ad ad-bg"><div class="ad ad300"><center>
+<!-- christiantoday/ART_R300x250_A -->
+<div id="div-gpt-ad-1415637996701-12" style="">
+<script type="text/javascript">
+      googletag.display('div-gpt-ad-1415637996701-12');
+      </script>
+</div>
+</center></div></div>
+<!-- mobile & desktop ad --><div class="ad ad-bg"><div class="ad ad300"><center>
+<!-- christiantoday/ART_R300x250_B -->
+<div id="div-gpt-ad-1415637996701-13" style="">
+<script type="text/javascript">
+      googletag.display('div-gpt-ad-1415637996701-13');
+      </script>
+</div>
+</center></div></div> <div class="popular">
+<header class="col-header">Most popular</header>
+<ul>
+<li>
+<h4 class="light-header"><a href="http://www.christiantoday.com/article/christian.publisher.destinys.image.drops.author.after.he.comes.out.as.gay/48713.htm">Christian publisher Destiny Image drops author after he comes out as gay</a></h4>
+</li>
+<li>
+<h4 class="light-header"><a href="http://www.christiantoday.com/article/jill.duggar.ready.for.home.birth/48594.htm">Jill Duggar ready for home birth</a></h4>
+</li>
+<li>
+<h4 class="light-header"><a href="http://www.christiantoday.com/article/bear.grylls.christian.faith.in.five.quotes/48547.htm">Bear Grylls' Christian faith - in five quotes</a></h4>
+</li>
+<li>
+<h4 class="light-header"><a href="http://www.christiantoday.com/article/justin.welby.slams.false.distinction.between.saving.souls.and.doing.politics/48616.htm">Justin Welby slams 'false distinction' between saving souls and doing politics</a></h4>
+</li>
+<li>
+<h4 class="light-header"><a href="http://www.christiantoday.com/article/is.islamic.state.really.islamic.yes.in.a.twisted.sort.of.way/48569.htm">Is Islamic State really Islamic? Yes, in a twisted sort of way</a></h4>
+</li>
+<li>
+<h4 class="light-header"><a href="http://www.christiantoday.com/article/christian.film.wins.big.at.golden.raspberry.awards/48632.htm">Christian film wins big at Golden Raspberry awards</a></h4>
+</li>
+<li>
+<h4 class="light-header"><a href="http://www.christiantoday.com/article/einstein.letter.describing.god.as.creator.sells.for.49000/48709.htm">Einstein letter describing God as creator sells for £49,000</a></h4>
+</li>
+</ul>
+</div> <!-- mobile & desktop ad --><div class="ad ad-bg"><div class="ad ad300"><center>
+<!-- christiantoday/ART_R300x250_C -->
+<div id="div-gpt-ad-1415637996701-14" style="">
+<script type="text/javascript">
+      googletag.display('div-gpt-ad-1415637996701-14');
+      </script>
+</div>
+</center></div></div> <!-- mobile & desktop ad --><div class="ad ad-bg"><div class="ad ad300"><center>
+<!-- christiantoday/ART_R300x250_D -->
+<div id="div-gpt-ad-1415637996701-15" style="">
+<script type="text/javascript">
+      googletag.display('div-gpt-ad-1415637996701-15');
+      </script>
+</div>
+</center></div></div> </div>
+</div>
+</div>
+</div>
+<!-- desktop ad -->
+<div class="ad ad728 hidden-mobile"><center>
+<!-- christiantoday/ART_C728x90_B -->
+<div id="div-gpt-ad-1415637996701-7" style="">
+<script type="text/javascript">
+      googletag.display('div-gpt-ad-1415637996701-7');
+      </script>
+</div>
+</center></div>
+<div class="more-on-ct">
+<div class="row">
+<div class="col col-1">
+<header class="col-header">MORE ON CHRISTIAN TODAY</header>
+<ul>
+<li><a href="http://www.christiantoday.com/article/harry.potter.fan.gets.touching.letter.from.jk.rowling/48528.htm">
+<img alt="Harry Potter from the film Order of the Phoenix." class="full" height="201" mxh="201" mxw="400" src="http://d.christiantoday.com/en/full/7128/harry-potter-from-the-film-order-of-the-phoenix.jpg?w=400&amp;h=201&amp;l=50&amp;t=40" width="400">
+<h3 class="light-header">Harry Potter fan gets touching letter from JK Rowling</h3>
+</img></a></li>
+<li><a href="http://www.christiantoday.com/article/god.created.people.to.be.productive.says.rick.warren/48541.htm">
+<img alt="rick-warren" class="full" height="201" mxh="201" mxw="400" src="http://d.christiantoday.com/en/full/17115/rick-warren.jpg?w=400&amp;h=201&amp;l=36&amp;t=31" width="400">
+<h3 class="light-header">God created people to be productive, says Rick Warren</h3>
+</img></a></li>
+<li><a href="http://www.christiantoday.com/article/in.review.the.five.biggest.stories.of.the.week/48551.htm">
+<img alt="egyptian-christians" class="full" height="201" mxh="201" mxw="400" src="http://d.christiantoday.com/en/full/26172/egyptian-christians.jpg?w=400&amp;h=201&amp;l=50&amp;t=40" width="400">
+<h3 class="light-header">In review: the five biggest stories of the week</h3>
+</img></a></li>
+<li><a href="http://www.christiantoday.com/article/princeton.receives.1455.gutenberg.bible.from.philathrophist/48421.htm">
+<img alt="gutenberg-bible" class="full" height="201" mxh="201" mxw="400" src="http://d.christiantoday.com/en/full/26283/gutenberg-bible.jpg?w=400&amp;h=201&amp;l=50&amp;t=40" width="400">
+<h3 class="light-header">Princeton receives 1455 Gutenberg Bible from philathrophist</h3>
+</img></a></li>
+</ul>
+</div>
+</div>
+</div> <meta content="180" http-equiv="refresh">
+<nav class="site-nav site-nav--mobile sidebar left">
+<ul>
+<li class="active"><a href="http://www.christiantoday.com">home</a></li>
+<li><a href="http://www.christiantoday.co.uk">uk</a></li>
+<li><a href="http://www.christiantoday.com/world">world</a></li>
+<li><a href="http://www.christiantoday.com/church">church</a></li>
+<li><a href="http://www.christiantoday.com/society">society</a></li>
+<li><a href="http://www.christiantoday.com/life">life</a></li>
+<li><a href="http://www.christiantoday.com/entertainment">entertainment</a></li>
+<li><a href="http://www.christiantoday.com/comment">comment</a></li>
+<li><a href="http://www.christiantoday.com/video">video</a></li>
+<li class="gracevine"><a href="http://gracevine.christiantoday.com/" target="_blank">gracevine</a></li>
+</ul>
+</nav>
+<footer class="site-footer">
+<div class="row">
+<div class="col col-1 col-lg-3-4">
+<div class="footer-logo hidden-desktop"><a href="">Christian Today</a></div>
+<nav class="site-nav site-nav--footer visible-desktop">
+<ul>
+<li class="hm active"><a href="http://www.christiantoday.com/">home</a></li>
+<li class="uk"><a href="http://www.christiantoday.co.uk">uk</a></li>
+<li class="world"><a href="http://www.christiantoday.com/world">world</a></li>
+<li class="church"><a href="http://www.christiantoday.com/church">church</a></li>
+<li class="society"><a href="http://www.christiantoday.com/society">society</a></li>
+<li class="life"><a href="http://www.christiantoday.com/life">life</a></li>
+<li class="entertainment"><a href="http://www.christiantoday.com/entertainment">entertainment</a></li>
+<li class="comment"><a href="http://www.christiantoday.com/comment">comment</a></li>
+<li class="video"><a href="http://www.christiantoday.com/video">video</a></li>
+<li class="gracevine"><a href="http://gracevine.christiantoday.com/" target="_blank">gracevine</a></li>
+</ul>
+</nav>
+<ul class="site-footer--info">
+<li><a href="http://cmcigroup.com/"><img alt="A CMCI Group Company" src="http://i2.christiantoday.com/www/img/hope/cmci.png"/></a><span class="cmci-text">Christian Today is a <a href="http://cmcigroup.com/" target="_blank">CMCi Group</a> Company</span></li>
+<li>Copyright © 2015 Christian Today. All Rights Reserved.</li>
+<li class="footer-links">
+<a href="http://www.christiantoday.com/aboutus">About Us</a>
+<a href="http://www.christiantoday.com/contactus">Contact Us</a>
+<a href="http://www.christiantoday.com/term">Terms &amp; Conditions</a>
+</li>
+</ul>
+</div>
+<div class="col col-lg-1-4 visible-desktop">
+<div class="social-footer">
+<a class="twitter" href="https://twitter.com/ChristianToday" target="_blank"><i class="fa fa-twitter"></i></a>
+<a class="facebook" href="https://www.facebook.com/ChristianTodayInternational" target="_blank"><i class="fa fa-facebook"></i></a>
+<a class="pinterest" href="http://www.pinterest.com/christiantoday/" target="_blank"><i class="fa fa-pinterest"></i></a>
+<a class="rss" href="/rss"><i class="fa fa-rss"></i></a>
+<a class="email" href="/enewsletter"><i class="fa fa-envelope-o"></i></a>
+</div>
+<dl class="edition">
+<dt>Edition:</dt>
+<dd class="current"><a href="http://www.christiantoday.com/">Intl</a></dd>
+<dd><a href="http://www.christiantoday.co.uk">UK</a></dd>
+</dl>
+</div>
+</div>
+</footer>
+<script src="http://i2.christiantoday.com/assets/js/lib/owl.carousel.min.js"></script>
+<script>
+jQuery(document).ready(function($) {
+  var breaking = $('.breaking-slider');
+  breaking.owlCarousel({
+    loop: true,
+    margin: 10,
+    nav: false,
+    dots: false,
+    mouseDrag: false,
+    items: 1,
+    animateOut: 'fadeOut',
+    animateIn: 'fadeIn',
+    autoplay: true,
+    autoplayTimeout: 3000,
+    autoplayHoverPause: true
+  });
+  breaking.on('change.owl.carousel', function(event) {
+    if (event.property.value > event.item.index) {
+      if ($('.active').next('.owl-item').find('.important').length) {
+        $('.breaking-news').addClass('red');
+      } else {
+        $('.breaking-news').removeClass('red');
+      }
+    } else{
+      if ($('.active').prev('.owl-item').find('.important').length) {
+        $('.breaking-news').addClass('red');
+      } else {
+        $('.breaking-news').removeClass('red');
+      }
+    }
+  });
+  $('.owl-item.active .important').parents('.breaking-news').addClass('red');
+  $('.breaking-news .fa-caret-right').click(function() {
+      breaking.trigger('next.owl.carousel');
+  });
+  $('.breaking-news .fa-caret-left').click(function() {
+      breaking.trigger('prev.owl.carousel');
+  });
+  $('.breaking-news .fa-pause').click(function() {
+      breaking.trigger('stop.owl.autoplay');
+  });
+
+  var topnewsImgs = $('.top-news-img-carousel');
+  topnewsImgs.owlCarousel({
+    loop: true,
+    margin: 10,
+    nav: false,
+    dots: false,
+    items: 1,
+    animateOut: 'fadeOut',
+    animateIn: 'fadeIn',
+    mouseDrag: false,
+    // autoHeight: true
+    autoplay: true,
+    autoplayTimeout: 3000,
+    autoplayHoverPause: true
+  });
+  var topnewsTxt = $('.top-news-txt-carousel');
+  topnewsTxt.owlCarousel({
+    loop: true,
+    margin: 10,
+    nav: false,
+    dots: false,
+    items: 1,
+    animateOut: 'fadeOut',
+    animateIn: 'fadeIn',
+    autoHeight: true,
+    mouseDrag: false,
+    autoplay: true,
+    autoplayTimeout: 3000
+  });
+  $('.top-news-prev, .top-news-next').addClass('show');
+  $('.top-news-prev').click(function() {
+      topnewsImgs.trigger('next.owl.carousel');
+      topnewsTxt.trigger('next.owl.carousel');
+  });
+  $('.top-news-next').click(function() {
+      topnewsImgs.trigger('prev.owl.carousel');
+      topnewsTxt.trigger('prev.owl.carousel');
+  });
+});
+</script>
+<script>
+document.ready(function () {
+	$(".popup_email").click(function(e) {
+		addthis_sendto('email');return false;		
+	});
+	$(".popup_print").click(function(e) {
+		addthis_sendto('print');return false;		
+	});
+	$(".bigger").click(function(){
+		$("#v_article p").add($("#v_article blockquote")).css("font-size",parseInt($("#v_article p").css("font-size"))+1);
+	});
+
+	$(".smaller").click(function(){
+		$("#v_article p").add($("#v_article blockquote")).css("font-size",parseInt($("#v_article p").css("font-size"))-1);
+	});
+});
+</script>
+<!--facebook-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!--facebook-->
+<!-- twitter-->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<!-- twitter-->
+<!--google plus-->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!--google plus-->
+<!-- getclicky-->
+<script type="text/javascript">
+  var clicky_custom = clicky_custom || {};
+  clicky_custom.video_disable = 1;
+</script>
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(100610369); }catch(e){}</script>
+<noscript><p><img alt="Clicky" height="1" src="//in.getclicky.com/100610369ns.gif" width="1"/></p></noscript>
+<!-- getclicky-->
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({
+qacct:"p-f3_tFTzTnk8n2"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img alt="Quantcast" border="0" height="1" src="//pixel.quantserve.com/pixel/p-f3_tFTzTnk8n2.gif" width="1"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- Begin comScore Tag
+        --><script>var _comscore =
+        _comscore || [];_comscore.push({ c1: "2", c2: "7918809"
+        });(function() {var s = document.createElement("script"), el =
+        document.getElementsByTagName("script")[0]; s.async = true;s.src
+        = (document.location.protocol == "https:" ? "https://sb" :
+        "http://b") +
+        ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s,
+        el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=7918809&amp;cv=2.0&amp;cj=1"/></noscript><!-- End comScore Tag -->
+<!-- google analytics --->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1571701-1']);
+  _gaq.push(['_setDomainName', 'christiantoday.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- google analytics-->
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=1023851; 
+var sc_invisible=1; 
+var sc_security="3b06e154"; 
+</script>
+<script src="http://www.statcounter.com/counter/counter.js" type="text/javascript"></script>
+<noscript><div class="statcounter"><a href="http://statcounter.com/" target="_blank" title="click tracking"><img alt="click tracking" class="statcounter" src="http://c.statcounter.com/1023851/0/3b06e154/1/"/></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<!--[if lte IE 7]>
+<style>
+  #lte-ie7-cover { filter:progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='#4C000000', endColorstr='#4C000000');background:rgba(0,0,0,0.3); width: 100%; height: 100%; position: fixed; left: 0; top: 0; z-index: 999999; }
+  #lte-ie7 { position: fixed; z-index: 999999; left: 50%; top: 50%; margin-left: -270px; margin-top: -157px; width: 500px; min-height: 325px; padding: 20px; background-color: #fff; }
+  #lte-ie7 h1 { font-size: 1.3em; line-height: 1.4; margin-bottom: 20px; font-weight: bold; font-family: Arial, sans-serif; text-transform: none; }
+  #lte-ie7 p { font-size: 14px; line-height: 1.4; }
+  #lte-ie7-close { display: inline-block; *display: inline; *zoom: 1; float: right; font-size: .75em; padding: .4em 1em; background-color: #333; color: #f2f2f2; cursor: pointer; }
+  #lte-ie7 ul { list-style: none; margin-left: 0; margin-bottom: 0; }
+  #lte-ie7 li { padding: 10px; margin-right: 10px; border: 1px solid  #ccc; display: inline-block; vertical-align: top; *display: inline; *zoom: 1; }
+  #lte-ie7 li a { display: block; }
+  #lte-ie7 li img { border: none; width: 56px; height: 56px; }
+</style>
+<div id="lte-ie7-cover"></div>
+<div id="lte-ie7">
+  <h1>Sorry, we no longer support your version of Internet Explorer.</h1>
+  <p>Internet Explorer 6, 7 is no longer supported. To get the best possible experience on our website we recommend that you upgrade your browser.</p>
+  <p><span id="lte-ie7-close">close</span>Just click on an icon to get to the download page. 
+  </p>
+  <ul>
+    <li><a href="http://windows.microsoft.com/en-us/windows/upgrade-your-browser" target="_blank"><img src="http://c.s-microsoft.com/en-us/CMSImages/ie_symbol_clr_56x56.png?version=73aa5bf1-0743-11e7-8f71-718675c983bf" width="56" height="56" alt="Internet Explorer"></a></li>
+    <li><a href="https://www.google.com/intl/en-US/chrome/browser/" target="_blank"><img src="https://lh4.googleusercontent.com/-gjxoCu8Fu3c/AAAAAAAAAAI/AAAAAAAA8J0/xOaw3KH2RjQ/photo.jpg?sz=64" width="56" height="56" alt="Chrome"></a></li>
+    <li><a href="http://www.mozilla.org/en-US/firefox/new/" target="_blank"><img src="http://people.mozilla.com/~faaborg/files/shiretoko/firefoxIcon/firefox-64-noshadow.png" width="56" height="56" alt="Firefox"></a></li>
+  </ul>
+</div>
+<script>
+  var close = document.getElementById('lte-ie7-close'),
+      lte7cover = document.getElementById('lte-ie7-cover'),
+      lte7 = document.getElementById('lte-ie7');
+  close.onclick = function () {
+    lte7.style.display = 'none';
+    lte7cover.style.display = 'none';
+  }
+</script>
+<![endif]-->
+<script>news_counter('article','48554','1245','16');</script>
+<script type="text/javascript">
+(function() {
+   var gvn = document.createElement('script');
+   gvn.src = document.location.protocol + '//s0.2mdn.net/instream/video/client.js';
+   gvn.async = true;
+   gvn.type = 'text/javascript';
+   var s = document.getElementsByTagName('script')[0];
+   s.parentNode.insertBefore(gvn, s);
+})();
+</script>
+<script type="text/javascript">(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="//iunbrudy.net/vhttq;!!christiantoday.com-rev2&purl=yes&adb=1/19";var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(s,x);})();</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"8c3b2373fb","applicationID":"3465999","transactionName":"NFJbZEsHVhAAU0JdCg0YbEJQSVENBVVOGhULRw==","queueTime":0,"applicationTime":42,"atts":"GBVYEgMdRR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-515.min.js"}</script></meta></body>
+</html>

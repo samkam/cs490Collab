@@ -1,0 +1,12 @@
+Server: Apache
+Vary: X-CDN
+Cache-Control: max-age=0
+Content-Type: text/html
+Date: Tue, 24 Feb 2015 06:29:02 GMT
+Keep-Alive: timeout=5, max=798
+Expires: Tue, 24 Feb 2015 06:29:02 GMT
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: BBC-UID=25648edcf18a223e767a96f6a1fe3ef71da20b57de58d3e9e3a57add33fcd6f00Opera%2f9%2e80%20%28Windows%20NT%206%2e1%3b%20WOW64%3b%20U%3b%20de%29%20Presto%2f2%2e10%2e289%20Version%2f12%2e01; expires=Wed, 24-Feb-16 06:29:02 GMT; path=/; domain=bbc.co.uk;
+Set-Cookie: BBC-UID=25648edcf18a223e767a96f6a1fe3ef71da20b57de58d3e9e3a57add33fcd6f00Opera%2f9%2e80%20%28Windows%20NT%206%2e1%3b%20WOW64%3b%20U%3b%20de%29%20Presto%2f2%2e10%2e289%20Version%2f12%2e01; expires=Wed, 24-Feb-16 06:29:02 GMT; path=/; domain=bbc.co.uk;
+

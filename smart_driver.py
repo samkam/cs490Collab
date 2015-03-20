@@ -1,5 +1,5 @@
 __author__ = 'Samuel'
-import WebDB, Index, collections
+import WebDB, Index, collections,sys
 class controller:
     def __init__(self):
         self.database = WebDB.WebDB("./Data/cache.db")
@@ -90,8 +90,37 @@ def evaluation():
             items = []
             average_results = [0,0,0,0]
             # items =current_index.database.Get_All_ITEmS
+            items = current_index.database.getItems() #list of tuple of id, name, type
+            #print(items)
+            #sys.exit(0)
             for item in items:
-                print()
+                query_results = []
+                #print(item[2])
+                if queryType:
+                    query_dic = current_index.nnn_query(item[1]+" "+item[2])
+                else:
+                    query_dic = current_index.ltc_query(item[1]+" "+item[2])
+
+                results = current_index.process_query(query_dic)
+                #print(results)
+                for result in results:
+                    query_results.append(result[0])
+                print("item[0] is "+str(item[0]))
+                results = current_index.database.lookupURLs_byItemID(item[0]) # list of tuples of url and id number
+                expected_results = []
+                for result in results:
+                    expected_results.append(result[1])
+
+                print(query_results)
+                print(expected_results)
+                binary_list = []
+                for i in query_results:
+                    if i in expected_results:
+                        binary_list.append(1)
+                    else:
+                        binary_list.append(0)
+                print(binary_list)
+                sys.exit(0)
                 #get results of item name inputted as search query
                 #compare to list of URLids associated with that item in the database
                 #do all of the calculations (ap, r, k, AUC)
@@ -99,9 +128,12 @@ def evaluation():
             print(average_results)
 
 def main():
+    evaluation()
+    '''
     a = controller()
     a.userInit()
     while(True):
         temp = a.search()
         a.print_by_urlID(temp)
+    '''
 main()

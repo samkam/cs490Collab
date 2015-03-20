@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+
+<html class="no-js lastfm" data-ad-zone="video:video:overview" lang="de">
+<head>
+<meta charset="utf-8">
+<meta content="IE=edge; chrome=1" http-equiv="X-UA-Compatible"/>
+<link href="http://purl.org/uF/2008/03/" rel="profile"/>
+<!--–[if IE]--><!endif]–>
+
+            <title>Elvis Presleys Musikvideos – Hören, Videos, Konzerte, Statistiken und Bilder kostenlos bei Last.fm</title>    
+        <script>(function(e) { e.className = e.className.replace(/\bno-js\b/,'js'); })(document.documentElement)</script>
+
+    <link rel="search" type="application/opensearchdescription+xml" href="http://cdn.last.fm/opensearch.xml" title="Last.fm" />
+            <meta name="description" content="Sieh dir Videos an &amp;amp; höre kostenlos Elvis Presley: Blue Christmas, Jailhouse Rock und mehr, außerdem 854 Bilder. Elvis Presley (* 8. Januar 1935 in Tupelo, Mississippi, Vereinigte Staaten; † 16. August 1977 in Memphis, Tennessee, USA; gebürtig Elvis Aron Presley später Elvis Aaron Presley) war ein US-amerikanischer Sänger und Schauspieler, der aufgrund seines immensen und dauerhaften Erfolges den Beinamen „King“ bzw. &quot;King of Rock ’n’ Roll&quot; erhielt. Kindheit Elvis Presley wurde am 8. Januar 1935 in East Tupelo, Mississippi, unter dem Namen Elvis Aron Presley geboren und ist das einzige überlebende Kind von Vernon Presley (* 19. April 1916; † 26. Juni 1979) und Gladys Love Presley (geb. Smith * 25. April 1912; † 14. August 1958). Entdecke mehr Musik, Konzerte, Videos und Bilder mit dem größten Musikkatalog online bei Last.fm."/>
+
+
+            <meta name="robots" content="NOODP" />
+
+        
+                <meta property="og:site_name" content="Last.fm" />
+<meta property="fb:app_id" content="192959324047861" />
+
+            
+                        
+    <meta property="og:title" content="Elvis Presley" />
+    <meta property="og:url" content="http://www.lastfm.de/music/Elvis+Presley" />
+    <meta property="og:image" content="http://userserve-ak.last.fm/serve/126/48133595.png" />
+
+    
+            <meta property="og:type" content="band" />    
+                <link rel="shortcut icon" href="http://cdn.last.fm/flatness/favicon.2.ico" />
+        <link rel="apple-touch-icon" href="http://cdn.last.fm/flatness/apple-touch-icon.png" />
+    
+        <meta name="msapplication-TileImage" content="http://cdn.last.fm/flatness/lastfm_win8_tile_144.png" />
+    <meta name="msapplication-TileColor" content="#d51007" />
+    
+        <meta name="apple-itunes-app" content="app-id=585235199">
+
+    
+    
+    
+                <link rel="alternate" hreflang="en" href="http://www.last.fm/music/Elvis+Presley/+videos" />
+    
+                    <link rel="alternate" hreflang="es" href="http://www.lastfm.es/music/Elvis+Presley/+videos" />
+                <link rel="alternate" hreflang="fr" href="http://www.lastfm.fr/music/Elvis+Presley/+videos" />
+                <link rel="alternate" hreflang="it" href="http://www.lastfm.it/music/Elvis+Presley/+videos" />
+                <link rel="alternate" hreflang="ja" href="http://www.lastfm.jp/music/Elvis+Presley/+videos" />
+                <link rel="alternate" hreflang="pl" href="http://www.lastfm.pl/music/Elvis+Presley/+videos" />
+                <link rel="alternate" hreflang="pt" href="http://www.lastfm.com.br/music/Elvis+Presley/+videos" />
+                <link rel="alternate" hreflang="ru" href="http://www.lastfm.ru/music/Elvis+Presley/+videos" />
+                <link rel="alternate" hreflang="sv" href="http://www.lastfm.se/music/Elvis+Presley/+videos" />
+                <link rel="alternate" hreflang="tr" href="http://www.lastfm.com.tr/music/Elvis+Presley/+videos" />
+                <link rel="alternate" hreflang="zh" href="http://cn.last.fm/music/Elvis+Presley/+videos" />
+        
+    
+        <style>html {zoom: 1;}</style>    <script>
+
+        if(top !== self && top.location.domain !== self.location.domain) {
+            (function(d, s) {
+                if(s && s.insertRule) {
+                    s.insertRule('body { display: none !important }', 0);
+                } else if(s && s.addRule) {
+                    s.addRule('body', 'display: none !important');
+                }
+                top.location.replace(d.location.href);
+            })(document, document.styleSheets[0]);
+        }
+</script>
+
+                                        <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/themes/whittle.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/master.css" />
+                        
+        
+<!--[if lt IE 9!>
+<script>
+
+        window.html5 = {
+            shivCSS: false
+        }
+</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/html5shiv.js"></script>
+<!endif]-->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>$.noConflict();</script>
+<script src="//ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
+<script>
+    if(typeof Prototype === 'undefined') {
+        document.write(unescape("%3Cscript src='http://cdn.last.fm/javascript/javascript/232025/lib/prototype.js'%3E%3C/script%3E"));
+    }
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/scriptaculous.js"></script>
+<script>
+    if(typeof Scriptaculous === 'undefined') {
+        document.write(unescape("%3Cscript src='http://cdn.last.fm/javascript/javascript/232025/lib/scriptaculous/scriptaculous.js'%3E%3C/script%3E"));
+    }
+</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/mustache-min.js"></script>
+
+<script>SM2_DEFER = true;</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/sm2-min.js"></script>
+
+<script src="http://cdn.last.fm/javascript/javascript/232025/LFM.js"></script>
+
+<script>
+    LFM.set("ParentResource", {"id":"1196","type":6,"name":"Elvis Presley","url":"\/music\/Elvis+Presley","image":{"small":"http:\/\/userserve-ak.last.fm\/serve\/34\/48133595.png","smallsquare":"http:\/\/userserve-ak.last.fm\/serve\/34s\/48133595.png","medium":"http:\/\/userserve-ak.last.fm\/serve\/64\/48133595.png","mediumsquare":"http:\/\/userserve-ak.last.fm\/serve\/64s\/48133595.png","large":"http:\/\/userserve-ak.last.fm\/serve\/126\/48133595.png","largesquare":"http:\/\/userserve-ak.last.fm\/serve\/126s\/48133595.png","mega":"http:\/\/userserve-ak.last.fm\/serve\/252\/48133595.png","original":"http:\/\/userserve-ak.last.fm\/serve\/_\/48133595\/Elvis+Presley+png+version.png"}});
+    LFM.Adserver.showAds = true;
+    LFM.set("Session", {"cookieHost":".lastfm.de","host":"www.lastfm.de","staticHost":"http:\/\/cdn.last.fm","wsHost":"ws.audioscrobbler.com","userserveHost":"http:\/\/userserve-ak.last.fm","wsKey":"ceec2bb03d4c5929f0d6667fc266dc75","formtoken":"2bcd67b944b9e63a7fd1b2c0c95a8d55947c66b3","location":"us","language":"de","ajaxhost":"ajax.last.fm","templatePath":"\/templates\/231606","jsPath":"http:\/\/cdn.last.fm\/javascript\/javascript\/232025","cssPath":"http:\/\/cdn.last.fm\/css\/css\/231990","loggedIn":false});
+    LFM.set("resTypes", {
+        EVENT: 29,
+        ARTIST: 6,
+        ALBUM: 8,
+        TRACK: 9,
+        GROUP: 20,
+        TAG: 32,
+        USER: 4,
+        LABEL: 10
+    });
+    LFM.set("resTypeLookup", {
+        29: "Event",
+        6: "Artist",
+        8: "Album",
+        9: "Track",
+        20: "Group",
+        32: "Tag",
+        4: "User",
+        10: "Label"
+    });
+
+    LFM.set("String", {okText: "OK",cancelText: "Abbrechen",clickToEditText: "Zum Bearbeiten hier klicken",savingText: "Speichern...",loadingText: "Wird geladen...",deletingText: "Lösche...",thereWasAnError: "Es gab einen Fehler.",dialogLoadError: "Beim Laden dieses Dialogs ist ein Fehler aufgetreten.",fileTooBig: "Die Datei ist leider zu groß.",noFile: "Bitte wähle eine Datei aus.",uploadCancelled: "Upload abgebrochen.",deleteMessageTitle: "Nachricht löschen",deleteMessagePrompt: "Bist du sicher, dass du diese Nachricht löschen möchtest?",deleteFriendPrompt: "Bist du sicher, dass du die Freundschaft mit dieser Person beenden möchtest?",deleteImage: "Bist du sicher, dass du dieses Bild löschen möchtest?",deleteButtonText: "Löschen",done: "Fertig",backText: "Zurück",yesText: "Ja",noText: "Nein",saveText: "Speichern",saveTitle: "Zum Profil hinzufügen",sendText: "Senden",sendTitle: "An Freunde weiterleiten",addTitle: "Zu Musiksammlung hinzufügen",tagTitle: "Tags hinzufügen",playlistTitle: "Zur Playlist hinzufügen",befriendTitle: "Einen Freund hinzufügen",labsfeedbackTitle: "Gib uns dein Feedback",joinTitle: "Gruppe beitreten",loved: "Geliebt",RemoveFromLibraryTitle: "Aus deiner Musiksammlung löschen",uploadImageTitle: "Bild hochladen",uploadVideoTitle: "Video hochladen",usernoteTitle: "Add a note",cleanupBioTitle: "Cleanup Bio",flageventTitle: "Zur Überprüfung melden",setLocationTitle: "Standort festlegen",newWindowTooltip: "Dieser Link wird ein neues Fenster öffnen",unloadWarningMessage: "Dies stoppt die Wiedergabe",trackLoved: "Als Lieblingslied markiert",playbackStopped: "Wiedergabe gestoppt",loadingTrackInfo: "Titelinformationen werden geladen",errorLoadingTrackInfo: "Fehler beim Laden der Titelinformationen",emailLineup: "Per E-Mail senden",uploadMessages: {mayTakeLonger: "Dies kann leider ein bisschen länger dauern als gewöhnlich. Bitte warte ein paar Sekunden.",uploading: "Lade hoch...",endUploading: "Fertig",progressDisplay: "PERCENTUPLOADED% komplett (TRANSFERRATE kb/s) – TIMEREMAINING verbleibende Sekunden",progressComplete: "100% komplett",failedRetrying: "Konnte Upload nicht noch einmal versuchen.",processingMedia: "Processing media…",unsupportedFormat: "Sorry, the file you uploaded isn’t encoded in a supported format. Please try again.",uploadError: "There was an error uploading your video, please verify that the file you are uploading is not too large or of an incorrect format and try again."},shortMonths: {'1': "Jan",'2': "Feb",'3': "Mär",'4': "Apr",'5': "Mai",'6': "Jun",'7': "Jul",'8': "Aug",'9': "Sep",'10': "Okt",'11': "Nov",'12': "Dez"},resTypePlural: {29: "Events",6: "Künstler",8: "Alben",9: "Titel",20: "Gruppen",32: "Tags",4: "Benutzer","friends":   "Freunde",10: "Labels"}});LFM.set("Element", {icon_loved_indicator: "<img class=\"icon loved_indicator_icon\" width=\"11\" height=\"9\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_tag: "<img class=\"icon tag_icon\" width=\"14\" height=\"14\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_dismiss: "<img class=\"icon dismiss_icon\" width=\"16\" height=\"16\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_play: "<img class=\"transparent_png play_icon\" width=\"13\" height=\"13\" alt=\"Spielen\" src=\"http:\/\/cdn.last.fm\/flatness\/preview\/play_indicator.png\" style=\"\" \/>"});
+        LFM.AdPlacements = ["beacon","interstitial","skin","leaderboard","widerelatedcontent","middleleaderboard","lowerleaderboard"];
+</script>
+
+
+<script data-main="http://cdn.last.fm/javascript/javascript/232025/modules-built/init" src="http://cdn.last.fm/javascript/javascript/232025/lib/requirejs/require-min.js"></script>
+
+    <script src="http://cdn.last.fm/javascript/javascript/232025/components.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/dialog.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/form/typeahead.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/lib/uuid.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/lib/modernizr.js"></script>
+
+<script>
+
+LFM.Page.Tracker = new LFM.Analytics.Tracker('Music/Artist/Videos', window.location.host);
+
+document.observe('dom:loaded', function() {
+
+    LFM.Page.Tracker.bindOutboundLinkListener();
+    LFM.Page.Tracker.bindEventListener();
+
+});
+
+</script>
+
+
+    
+    <script>document.observe("dom:loaded", function () { if (typeof ieHover !== 'undefined') ieHover.setUp(); });</script>
+
+    <script data-require="googleanalytics">LFM.Analytics = LFM.Analytics || {};LFM.Analytics.Helpers = {webhost:"www.lastfm.de",registrationStatus:"LoggedOut",visitorStatus: "Anonymous",artistNameString:"Elvis Presley",transformedUrl:"music/artist/videos"}</script></head>
+
+
+
+<!--[if lt IE 7 !> <body class="r-artist a-videos lfmRed lang-de theme-whittle ie ie6"> <!endif]-->
+<!--[if IE 7 !> <body class="r-artist a-videos lfmRed lang-de theme-whittle ie ie7"> <!endif]-->
+<!--[if IE 8 !> <body class="r-artist a-videos lfmRed lang-de theme-whittle ie ie8"> <!endif]-->
+<!--[if IE 9 !> <body class="r-artist a-videos lfmRed lang-de theme-whittle ie ie9"> <!endif]-->
+<!--[if (gt IE 9)|!(IE)!><!--> <body class="r-artist a-videos lfmRed  lang-de theme-whittle" > <!--<![endif]-->
+<script>var WRInitTime = +new Date();</script>
+<div class="page-hack" id="page"></div> <div class=" page-wrapper">
+<div class="LastAd ad-beacon inactive" data-ad-collapsible="" data-ad-placement="beacon" data-ad-static="" data-require="ads/staticadslot" id="LastAd_beacon">
+<span>
+<script>
+
+
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+(function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+
+</script>
+<script>
+    
+    var googleSlots = { };
+    var googleDisplayed = false;
+    
+
+    googletag.cmd.push(function() {
+        var unitName = "/8264/aw-lastfm/video/video/overview",
+            isVR = false,
+            isDynamic = false,
+            isAnonHome = false;
+    
+
+    function hasPlacement(placement) {
+        return LFM.AdPlacements.indexOf(placement) >= 0;
+    };
+
+    var leaderboardSizes = [[728,90],[970,66],[970,90],[860,55]];
+    // The leaderboard slot height is fixed at 90px when using dynamic ads,
+    // showing a taller leaderboard would cause the page to jump, so we don't request them
+    if ( ! isDynamic) {
+        leaderboardSizes.push([880,150],[880,170],[880,200],[900,150],[900,250],[970,200],[970,250],[860,250],[980,250]);
+    }
+
+    if (hasPlacement('leaderboard')) {
+        googleSlots['leader_top'] = googletag.defineSlot(unitName, leaderboardSizes, "leader_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    var mpuSizes = [[300,250],[138,108]] ;
+    if (! isAnonHome) {
+        mpuSizes.push([300,600]);
+    }
+
+    var lowerMpuSizes = [[300,250]];
+
+    if (hasPlacement('mpu')) {
+        googleSlots['mpu_top'] = googletag.defineSlot(unitName, mpuSizes, "mpu_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    if (hasPlacement('lowermpu')) {
+        googleSlots['mpu_bottom'] = googletag.defineSlot(unitName, lowerMpuSizes, "mpu_bottom")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "bottom");
+    }
+
+    if (hasPlacement('skin')) {
+        googleSlots['skin'] = googletag.defineSlot(unitName, [1600,1000], "skin")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    if (hasPlacement('interstitial')) {
+        googleSlots['intromercial'] = googletag.defineOutOfPageSlot(unitName, "intromercial")
+        .addService(googletag.pubads());
+    }
+
+    var lowerLeaderboardSizes = [[728,90],[970,90],[860,55],[880,150],[880,170],[880,200],[900,150]];
+    if (hasPlacement('lowerleaderboard')) {
+        googleSlots['leader_bottom'] = googletag.defineSlot(unitName, lowerLeaderboardSizes, "leader_bottom")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "bottom");
+    }
+
+    if (hasPlacement('sky')) {
+        googleSlots['sky_top'] = googletag.defineSlot(unitName, [160,600], "sky_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    // Collapse as soon as display() for the slot is reached and expand only when there is an ad
+    // i.e. no flickering
+    googletag.pubads().collapseEmptyDivs(true);
+
+    if ( ! isVR) {
+        googletag.pubads().enableSingleRequest();    
+
+        if ( ! isDynamic) {
+            googletag.pubads().enableSyncRendering();    
+        }
+    }
+
+    if (screen.width >= 1280) {
+        googletag.pubads().setTargeting("inskin", "yes");
+    }
+
+    
+
+            googletag.pubads().setTargeting("ar", "elvispresley,jerryleelewis,johnnycash,shakin\'stevens,chuckberry,carlperkins,eddiecochran,royorbison,buddyholly,fatsdomino,theeverlybrothers");
+            googletag.pubads().setTargeting("tag", "rocknroll,classicrock,rock,oldies,rockandroll,rockabilly,50s,60s,country,pop");
+            googletag.pubads().setTargeting("geo", "US");
+            googletag.pubads().setTargeting("lang", "de");
+            googletag.pubads().setTargeting("res", "1196");
+            googletag.pubads().setTargeting("established", "1");
+    
+    LFM.viewGuid = LFM.viewGuid ? LFM.viewGuid : uuid();
+    googletag.pubads().setTargeting("vguid", LFM.viewGuid);
+
+    googletag.enableServices();
+    
+
+  });
+
+</script>
+</span>
+</div>
+<div class="LastAd ad-interstitial inactive" data-ad-collapsible="" data-ad-placement="interstitial" data-ad-static="" data-require="ads/staticadslot" id="LastAd_interstitial">
+<span>
+<div id="intromercial">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("intromercial"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<div class="LastAd ad-skin inactive" data-ad-collapsible="" data-ad-placement="skin" data-ad-static="" data-require="ads/staticadslot" id="LastAd_skin">
+<span>
+<div id="skin">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("skin"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<div class="LastAd ad-leaderboard inactive" data-ad-collapsible="" data-ad-placement="leaderboard" data-ad-static="" data-require="ads/staticadslot" id="LastAd_leaderboard">
+<span>
+<div id="leader_top">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("leader_top"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<div class="masthead-wrapper">
+<header class="masthead" role="banner">
+<h1>
+<a class="ir lastfm-logo" href="/">
+                Last.fm
+            </a>
+</h1>
+<form action="/search" class=" site-search search-autocomplete search-autocomplete--main " data-require="search/sitesearch" data-template="search" data-url="/search/autocomplete" method="get" role="search">
+<fieldset>
+<legend class="rm">Suche auf der Seite</legend>
+<input autocomplete="off" autocorrect="off" class="js-search search-box" name="q" placeholder="Musiksuche" size="26" type="text"/>
+<div class="js-search-progress search-progress ir">Lädt</div>
+<input name="from" type="hidden" value="ac"/>
+<button class="search-submit icon iconleft iconleft--search" title="Suchen" type="submit"></button>
+</fieldset>
+</form>
+<nav role="navigation">
+<ul class="primary-nav remove-bottom-margin">
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/music">Musik</a>
+</li>
+<li class="primary-nav-item" id="listenNav">
+<a class="primary-nav-link" href="/listen">Hören</a>
+</li>
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/events">Events</a>
+</li>
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/charts">Charts</a>
+</li>
+</ul>
+<div class="masthead-right" role="navigation">
+<a class="join" data-analytics-action="SignUpClick" data-analytics-label="Header" href="/join">Registrieren</a>
+<a class="btn btn--small btn--header btn--rounded login" href="/login" id="login-link">Einloggen</a>
+</div>
+</nav>
+</header>
+<link href="//embed.spotify.com/static/css/mediabar/mediabar-lastfm.css" rel="stylesheet" type="text/css"/>
+<div class="persistent-bar">
+<div class="spotify-mediabar-wrapper">
+<div class="spotify-mediabar" data-require="spotify/spotifymediabar" id="spotify-mediabar"></div>
+</div>
+<a class="spotify-mediabar-feedback" data-lab-name="spotifyplayback" data-require="labfeedbackbutton" href="#">
+<span class="beta-badge">Beta</span> Feedback
+    </a>
+</div>
+<div data-require="spotify/signupcompletemodal" id="spotify-signup-complete-modal">
+<div class="sparse-modal js-modal"></div>
+</div>
+</div>
+<article class="content">
+<header class=" page-head with-crumbtrail with-image clearit ">
+<div class="crumb-wrapper">
+<div class="top-crumb">
+<a href="/music/Elvis+Presley"> <img alt="Miniaturbild von Elvis Presley" class="crumb-image" height="60" src="http://userserve-ak.last.fm/serve/64s/48133595.png" width="60"/>
+            Elvis Presley</a> </div>
+<h1>
+                    Videos
+            </h1>
+</div>
+<nav class="secondary-nav" data-require="secondarynav" role="navigation">
+<ul class="visible-menu">
+<li class=" first "><a href="/music/Elvis+Presley/+tracks">Titel</a></li> <li><a href="/music/Elvis+Presley/+albums">Alben</a></li>
+<li><a href="/music/Elvis+Presley/+images">Bilder</a></li>
+<li class=" current "><a href="/music/Elvis+Presley/+videos">Videos</a></li>
+<li><a href="/music/Elvis+Presley/+events">Events</a></li>
+<li><a href="/music/Elvis+Presley/+wiki">Biografie</a></li>
+<li><a href="/music/Elvis+Presley/+similar">Ähnliche Künstler</a></li> <li><a href="/music/Elvis+Presley/+charts">Charts</a></li> <li><a href="/music/Elvis+Presley/+tags">Tags</a></li> <li><a href="/music/Elvis+Presley/+listeners">Hörer</a></li> <li><a href="/music/Elvis+Presley/+journal">Blog</a></li> <li><a href="/music/Elvis+Presley/+news">News</a></li> <li><a href="/music/Elvis+Presley/+groups">Gruppen</a></li>
+</ul> <div class="drop-down-menu more">
+<a class="menu-toggle" href="#">Mehr…</a>
+<ul class="hidden-menu"></ul>
+</div></nav></header>
+<nav class="add-bottom-margin">
+<div class="whittle-pagination"><span class="btn btn--small whittle-pagination-selected">1</span><a class="btn btn--small btn--white" href="/music/Elvis+Presley/+videos?page=2">2</a><span>…</span><a class="btn btn--small btn--white" href="/music/Elvis+Presley/+videos?page=9">9</a><a class="btn btn--icon-only btn--small btn--white iconright iconright--right" href="/music/Elvis+Presley/+videos?page=2" rel="next" title="Next page">Nächste</a></div> </nav>
+<ul class="clearit videos video-list" restypeclass="">
+<li class="source-muzu external first">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-1" href="/music/Elvis+Presley/_/Blue+Moon/+videos/+7-179235" title="Blue Moon"> <img class="rounded" height="79" src="http://static2.muzu.tv/media/images/000/179/235/001/179235-thb5.png" width="140"/>
+<div class="play-video">Spielen</div>
+                Blue Moon    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-2" href="/music/Elvis+Presley/_/Blue+Christmas/+videos/+3-USRV81000052" title="Blue Christmas"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/119D189DACFB11711BA7F7EDF2967B44.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Blue Christmas    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-3" href="/music/Elvis+Presley/_/(There%27ll+Be)+Peace+in+the+Valley+(For+Me)/+videos/+3-USRV81000056" title="(There'll Be) Peace in the Valley (For Me)"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/437FD971D9993572778F04815EA6B71B.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                (There'll Be)…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-4" href="/music/Elvis+Presley/_/Bossa+Nova+Baby+(Viva+Elvis)/+videos/+3-USRV81400234" title="Bossa Nova Baby (Viva Elvis)"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/A1EFDFC6E36E8D9AB8D4D6F4EAD5BC06201420522256901.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Bossa Nova Baby…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-5" href="/music/Elvis+Presley/_/Santa+Claus+Is+Back+in+Town/+videos/+3-USRV81000048" title="Santa Claus Is Back in Town"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/119D189DACFB11711BA7F7EDF2967B44.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Santa Claus Is…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-6" href="/music/Elvis+Presley/_/Take+My+Hand,+Precious+Lord/+videos/+3-USRV81000058" title="Take My Hand, Precious Lord"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/02D35C68E23EABF4A8544F2CF0D0F397.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Take My Hand,…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-7" href="/music/Elvis+Presley/_/Here+Comes+Santa+Claus+(Right+Down+Santa+Claus+Lane)/+videos/+3-USRV81000050" title="Here Comes Santa Claus (Right Down Santa Claus Lane)"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/B13165C67D9D062C71DD5CA43B9928E320131910122159899.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Here Comes Santa…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-8" href="/music/Elvis+Presley/_/Suspicious+Minds+(Viva+Elvis)/+videos/+3-USRV81000096" title="Suspicious Minds (Viva Elvis)"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/A6EC5518E9FC709A4D31B6D7D9A208C0.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Suspicious Minds…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-9" href="/music/Elvis+Presley/_/Burning+Love+(Viva+Elvis)/+videos/+3-USRV81000117" title="Burning Love (Viva Elvis)"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/B165E7CB42A43B1D64C126B0901923DC.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Burning Love…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-10" href="/music/Elvis+Presley/_/O+Come+All+Ye+Faithful/+videos/+3-GB1101300887" title="O Come All Ye Faithful"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/DD7389ACDC90EC9140A767489216C2A120131411144546755.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                O Come All Ye…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-11" href="/music/Elvis+Presley/_/Blue+Christmas+(Live)/+videos/+3-USRV50800094" title="Blue Christmas (Live)"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/447BB7CF23DB5CD7565F915C3BAD216B.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Blue Christmas…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-12" href="/music/Elvis+Presley/_/Baby+let%27s+play+house+(Spankox+Re:Version)/+videos/+3-IT3380800001" title="Baby let's play house (Spankox Re:Version)"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/17C4751C6B313C1C1966A1AB36341DE1.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Baby let's play…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-13" href="/music/Elvis+Presley/_/Love+Me+Tender+(Viva+Elvis)/+videos/+3-USRV81000115" title="Love Me Tender (Viva Elvis)"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/D5D27EA1E44524E9A9B633BD5CB9BF88.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Love Me Tender…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-14" href="/music/Elvis+Presley/_/The+Complete+Elvis+Presley+Masters/+videos/+3-USRV81000045" title="The Complete Elvis Presley Masters"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/7EFC29DE6C576950F9C7E3EC8356BA03.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                The Complete…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-15" href="/music/Elvis+Presley/_/Viva+ELVIS+-+The+Album:+An+Introduction/+videos/+3-USRV81000038" title="Viva ELVIS - The Album: An Introduction"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/448716E8F225C6B0E5644FAF47ECD8B7.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Viva ELVIS - The…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-16" href="/music/Elvis+Presley/_/Elvis+Presley+Christmas+Duets/+videos/+3-USRV50800095" title="Elvis Presley Christmas Duets"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/CE93239F44616515DBE1452128B2CE98.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Elvis Presley…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-17" href="/music/Elvis+Presley/_/Suspicious+Minds+(Viva+Elvis)+(Audio)/+videos/+3-USSM21001594" title="Suspicious Minds (Viva Elvis) (Audio)"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/37562C434E0CBA9E6CC67BC8412D350F.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Suspicious Minds…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-18" href="/music/Elvis+Presley/_/Elvis+75+Box+Animation/+videos/+3-USRV80900368" title="Elvis 75 Box Animation"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/9D8EC780C0D4235E0D7F6826C25F90B1.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Elvis 75 Box…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-19" href="/music/Elvis+Presley/_/Young+Man+With+The+Big+Beat+(Trailer)/+videos/+3-USRV81100112" title="Young Man With The Big Beat (Trailer)"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/B73781B72019BBDDEB860153574507F3.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Young Man With…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-20" href="/music/Elvis+Presley/_/Suspicious+Minds+(Audio)/+videos/+3-USRV81200152" title="Suspicious Minds (Audio)"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/67019E6E77F85A5E26D14FBA19942833.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Suspicious Minds…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-21" href="/music/Elvis+Presley/_/Jailhouse+Rock+(Audio)/+videos/+3-USRV81200150" title="Jailhouse Rock (Audio)"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/67019E6E77F85A5E26D14FBA199428332013317171924325.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Jailhouse Rock…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-22" href="/music/Elvis+Presley/_/All+Shook+up+(Audio)/+videos/+3-USRV81300115" title="All Shook up (Audio)"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/67019E6E77F85A5E26D14FBA19942833.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                All Shook up…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-23" href="/music/Elvis+Presley/_/One+Night+(Audio)/+videos/+3-USRV81300119" title="One Night (Audio)"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/67019E6E77F85A5E26D14FBA19942833.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                One Night (Audio)    </a>
+</li><li class="source-vevo external last">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-24" href="/music/Elvis+Presley/_/Can%27t+Help+Falling+In+Love+(Audio)/+videos/+3-USRV81200151" title="Can't Help Falling In Love (Audio)"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/0AE55AC1EC91A9FC143E484FB9DBE657.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Can't Help…    </a>
+</li>
+</ul>
+<div class="LastAd ad-widerelatedcontent inactive" data-ad-collapsible="" data-ad-placement="widerelatedcontent" data-ad-static="" data-require="ads/staticadslot" id="LastAd_widerelatedcontent">
+<span>
+</span>
+</div> <div class="LastAd ad-middleleaderboard inactive" data-ad-collapsible="" data-ad-placement="middleleaderboard" data-ad-static="" data-require="ads/staticadslot" id="LastAd_middleleaderboard">
+<span>
+</span>
+</div>
+<nav>
+<div class="whittle-pagination"><span class="btn btn--small whittle-pagination-selected">1</span><a class="btn btn--small btn--white" href="/music/Elvis+Presley/+videos?page=2">2</a><span>…</span><a class="btn btn--small btn--white" href="/music/Elvis+Presley/+videos?page=9">9</a><a class="btn btn--icon-only btn--small btn--white iconright iconright--right" href="/music/Elvis+Presley/+videos?page=2" rel="next" title="Next page">Nächste</a></div> </nav>
+</article>
+<div class="LastAd ad-lowerleaderboard inactive" data-ad-collapsible="" data-ad-placement="lowerleaderboard" data-ad-static="" data-require="ads/staticadslot" id="LastAd_lowerleaderboard">
+<span>
+<div id="leader_bottom">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("leader_bottom"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<footer class="site-footer" role="banner">
+<nav class="site-footer-nav">
+<div class="r add-bottom-margin">
+<a class="g call-to-action call-to-action--upload" data-analytics-action="FooterClick" data-analytics-label="Artists and Labels" href="/uploadmusic">
+<h2>Künstler und Labels</h2>
+<p>Verbinde dich mit Fans, indem du Musik in den Music Manager lädst</p>
+</a>
+<a class="g call-to-action call-to-action--download" data-analytics-action="FooterClick" data-analytics-label="Download Desktop App" href="/download">
+<h2>Lade unsere Apps herunter</h2>
+<p>Hole dir die Last.fm-Apps für Desktop und Mobilgeräte und scrobble los</p>
+</a>
+</div>
+<hr class="separator"/>
+<ul class="r add-bottom-margin">
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Unternehmen</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-company">
+<h2 class="iconright iconright--dropdown">Unternehmen</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="About us" href="/about">Über uns</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Contact us" href="/about/contact">Kontakt</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Jobs" href="/about/jobs">Jobs</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Blog" href="http://blog.last.fm">Blog</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Advertise" href="/advertise">Werben auf Last.fm</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Mitmachen</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-join">
+<h2 class="iconright iconright--dropdown">Mitmachen</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="Sign up" href="/join">Registrieren</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Find people" href="/community/users">Benutzersuche</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Find groups" href="/community/groups">Gruppensuche</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Community" href="/community">Community</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Forums" href="/forum">Foren</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Gutes</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-goodies">
+<h2 class="iconright iconright--dropdown">Gutes</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="More apps" href="/hardware">Mehr Apps &amp; Geräte</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Last.fm API" href="/api">Entwickler-API</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Tools, plugins &amp; more" href="http://build.last.fm">Tools &amp; Plugins</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Playground" href="http://playground.last.fm">Playground</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Free music downloads" href="/music/+free-music-downloads">Kostenlose Musikdownloads</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Hilfe</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-help">
+<h2 class="iconright iconright--dropdown">Hilfe</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="Help &amp; support" href="/help">Hilfe &amp; Support</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="System status" href="http://status.last.fm/">Systemstatus</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+<hr class="separator"/>
+<nav class="language-selector clearit toggle-container" data-require="toggle" id="change-language" role="navigation">
+<h2 class="rm">Sprachen:</h2>
+<ul class="inline-items inline-items--dotted">
+<li class="current-language">
+<strong class="current-language-text iconleft iconleft--globe">
+                    Deutsch
+                    <span class="rm">(aktuelle Sprache)</span>
+</strong>
+<a class="iconleft iconleft--globe iconright iconright--dropdown language-toggle js-toggle" href="#show-languages">
+<strong>Deutsch</strong><span class="rm">(aktuelle Sprache) — Sprache ändern</span>
+</a>
+</li>
+<li class="language-options toggle-target">
+<ul class="language-options-group">
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; en" href="http://www.last.fm/music/Elvis+Presley/+videos?setlang=en" hreflang="en" rel="alternate">English</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; es" href="http://www.lastfm.es/music/Elvis+Presley/+videos?setlang=es" hreflang="es" rel="alternate">Español</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; fr" href="http://www.lastfm.fr/music/Elvis+Presley/+videos?setlang=fr" hreflang="fr" rel="alternate">Français</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; it" href="http://www.lastfm.it/music/Elvis+Presley/+videos?setlang=it" hreflang="it" rel="alternate">Italiano</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; jp" href="http://www.lastfm.jp/music/Elvis+Presley/+videos?setlang=jp" hreflang="ja" rel="alternate">日本語</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; pl" href="http://www.lastfm.pl/music/Elvis+Presley/+videos?setlang=pl" hreflang="pl" rel="alternate">Polski</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; pt" href="http://www.lastfm.com.br/music/Elvis+Presley/+videos?setlang=pt" hreflang="pt" rel="alternate">Português</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; ru" href="http://www.lastfm.ru/music/Elvis+Presley/+videos?setlang=ru" hreflang="ru" rel="alternate">Руccкий</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; sv" href="http://www.lastfm.se/music/Elvis+Presley/+videos?setlang=sv" hreflang="sv" rel="alternate">Svenska</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; tr" href="http://www.lastfm.com.tr/music/Elvis+Presley/+videos?setlang=tr" hreflang="tr" rel="alternate">Türkçe</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; zh" href="http://cn.last.fm/music/Elvis+Presley/+videos?setlang=zh" hreflang="zh" rel="alternate">简体中文</a>
+</li>
+</ul>
+</li>
+</ul>
+<hr class="separator"/>
+</nav>
+<div class="site-footer-legalese">
+<blockquote class="site-footer-strapline">“You Deserve a Last.fm Today.”</blockquote>
+<ul class="inline-items inline-items--dotted">
+<li>
+<a href="http://www.cbsinteractive.com">CBS Interactive</a> © 2015 Last.fm Ltd.         </li>
+<li>
+<a data-analytics-action="FooterClick" data-analytics-label="Terms of Use" href="/legal/terms">Nutzungsbedingungen</a>, 
+                    <a data-analytics-action="FooterClick" data-analytics-label="Privacy Policy" href="/legal/privacy">Datenschutzrichtlinie</a> und 
+       <a data-analytics-action="FooterClick" data-analytics-label="Legal" href="/legal">Rechtliches</a> —
+            <span class="date">Aktualisiert am 26. Nov. 2013</span>
+</li>
+<li>
+<a href="http://www.gamespot.com">Gamespot</a>
+</li>
+</ul>
+</div></footer> </div>
+<div id="multiButtonMenu" style="display: none;">
+<div>
+<ul class="lfmDropDownBody">
+<li class="mAddToLibrary"><a href="#">Zur Musiksammlung hinzufügen</a></li>
+<li class="mAddToFriends"><a href="#">Als Freund hinzufügen</a></li>
+<!-- <li class="save"><a href="#">Lesezeichen hinzufügen</a></li> -->
+<li class="mSend"><a href="#">Weiterleiten</a></li>
+<li class="mLove"><a href="#">Diesen Titel lieben</a></li>
+<li class="mUnlove"><a href="#">Als Lieblingslied entfernen</a></li>
+<li class="mBan"><a href="#">Titel bannen</a></li>
+<li class="mUnban"><a href="#">Titel ent-bannen</a></li>
+<li class="mAddTags"><a href="#">Tags hinzufügen</a></li>
+<li class="mAddToPlaylist"><a href="#">Zur Playlist hinzufügen</a></li>
+<li class="mRemoveFromLibrary"><a href="#">Aus Musiksammlung entfernen</a></li>
+<li class="mBuy"><a href="#">Lied kaufen</a></li>
+<li class="mMessage"><a href="#">Nachricht schreiben</a></li>
+<li class="mEditDetails"><a href="#">Angaben bearbeiten</a></li>
+<li class="mMessageAll"><a href="#">Allen Benutzern eine Nachricht schicken</a></li>
+<li class="mEditPermissions"><a href="#">Genehmigungen bearbeiten</a></li>
+<li class="mAbdicate"><a href="#">Abdanken</a></li>
+<li class="mLeave"><a href="#">Gruppe verlassen</a></li>
+<li class="mLoading"><a href="#"> </a></li>
+</ul>
+</div>
+</div>
+<div style="display: none">
+<script src="//dw.cbsimg.net/js/cbsi/ds.js"></script>
+<script>
+        if (typeof DW === "object") {
+            DW.pageParams = {
+                siteid: '190',
+                ptid: '-1'
+            };
+            DW.tagNielsen = false;
+            DW.clear();
+        }
+    </script>
+<noscript>
+<img src="//dw.cbsimg.net/clear/c.gif?ts=1424760447&amp;sid=190;"/>
+</noscript>
+</div>
+<div class="LastAd ad-tracking inactive" data-ad-collapsible="" data-ad-placement="tracking" data-ad-static="" data-require="ads/staticadslot" id="LastAd_tracking">
+<span>
+<iframe frameborder="0" height="0" name="__bkframe" src="javascript:void(0)" width="0"></iframe>
+<script src="//tags.bkrtx.com/js/bk-coretag.js" type="text/javascript"></script>
+<script type="text/javascript">
+            bk_addPageCtx("ar", "elvispresley,jerryleelewis,johnnycash,shakin\'stevens,chuckberry,carlperkins,eddiecochran,royorbison,buddyholly,fatsdomino,theeverlybrothers");
+            bk_addPageCtx("tag", "rocknroll,classicrock,rock,oldies,rockandroll,rockabilly,50s,60s,country,pop");
+            bk_addPageCtx("path", "aw-lastfm/video/video/overview");
+            bk_addPageCtx("site", "ccbsilastfmsite");
+            bk_addPageCtx("ptype", "artisit_video_list");
+        bk_ignore_meta = true;
+    bk_doJSTag(16515, 4);
+</script>
+</span>
+</div>
+<script data-require="omniture">
+    LFM.viewGuid = LFM.viewGuid ? LFM.viewGuid : uuid();
+    var omdata = {
+        context: {
+                        musicArtistId: "lfm-artist-1196",
+                                    siteSection: "music",
+            pageType: "artisit_video_list",
+            pageViewGuid: LFM.viewGuid
+        }
+    };
+</script>
+<!-- Adobe Marketing Cloud Tag Loader Code-->
+<script type="text/javascript">//<![CDATA[
+var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};
+document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d2/v2/ZDItY2JzaW50ZXJhY3RpdmUtNDgxNC00MTct/amc.js\"></sc"+"ript>");
+//]]></script>
+<!-- End Adobe Marketing Cloud Tag Loader Code -->
+<script>
+LFM.Button.MultiButton.setup();
+LFM.Display.setMinHeight();
+</script>
+<div id="fb-root"></div>
+<script src="http://cn.cbsimg.net/cnwk.1d/Aud/javascript/last/apex.js"></script>
+<script>
+        var cbsiApexGlobal = {
+                    'SITE' : '190',
+                    'PTYPE' : '2000'
+                  };
+        if (typeof cbsiRunApexTargets === "function") {
+            cbsiRunApexTargets(cbsiApexGlobal, 1000);
+        }
+    </script>
+<script>
+    window.ClickTaleSettings = { XHRWrapper: { Enable: true} };
+    document.write(unescape("%3Cscript%20src='" +
+(document.location.protocol == 'https:' ?
+  'https://clicktalecdn.sslcs.cdngc.net/' :
+  'http://cdn.clicktale.net/') +
+"www09/ptc/220b3951-66a2-4b8e-ac35-fa58bfb30846.js'%3E%3C/script%3E"));
+
+    </script>
+</body>
+</body></body></body></meta></head></html>

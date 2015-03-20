@@ -102,10 +102,10 @@ class WebDB:
         else:
             return reslist[0]
 
-    def lookupURLs_byItem(self, name, itemType):
+    def lookupURLs_byItemID(self,itemID):
         #gets list of URLs associated with item
-        sql = "SELECT url FROM Item WHERE name='%s' AND type='%s'"\
-            % (self._quote(name), self._quote(itemType))
+        sql = "SELECT url, CachedURL.id FROM CachedURL JOIN UrlToItem on CachedURL.id = UrlToItem.urlID WHERE UrlToItem.itemID='%s'"\
+            % (itemID)
         res = self.execute(sql)
         reslist = res.fetchall()
         if reslist == []:
@@ -114,7 +114,7 @@ class WebDB:
             out = []
             for i in reslist:
                 out.append(i)
-            return out[0]
+            return out#[0]
 
     def lookupItem(self, name, itemType):
         """
@@ -145,7 +145,16 @@ class WebDB:
                 itemTitle = i[0].rstrip("\n")+"("+i[1]+")"
                 out.append(itemTitle)
             return out[0]
+    def getURLsfromItemID(self,itemID):
+        pass
+        sql = "SELECT url, id FROM CachedURL JOIN UrlToItem on Item.id = UrlWHERE id=%d"
 
+    def getItems(self):
+        pass
+        sql = "SELECT * from Item"
+        res = self.execute(sql)
+        reslist = res.fetchall()
+        return reslist
     def lookupURLToItem(self, urlID, itemID):
         """
         Returns a urlToItem.id for the row

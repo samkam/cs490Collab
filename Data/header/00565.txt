@@ -1,0 +1,22 @@
+Server: nginx/1.4.3
+Content-Type: text/html; charset=utf-8
+Status: 200 OK
+X-Backend: rails
+X-Action: explore/tag
+X-No-Client-Cache: 1
+X-Data-Request: 0
+X-UA-Compatible: IE=Edge,chrome=1
+X-Request-Id: c7b031cc1bf5f1a0154db458bc51efb5
+X-Runtime: 0.341678
+Access-Control-Allow-Methods: POST
+X-Backend: nginx
+X-Data-Request: 2
+Cache-Control: max-age=0, no-cache, must-revalidate
+Transfer-Encoding: chunked
+Date: Tue, 24 Feb 2015 06:50:44 GMT
+Age: 0
+Via: 1.1 varnish
+Connection: close
+X-Cache: MISS
+Access-Control-Allow-Origin: *
+

@@ -1,0 +1,3126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html itemscope="" itemtype="http://schema.org/NewsArticle" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+<script>
+        function confirmDownload() {
+            var r = confirm('We invite you to download our new iPad app. Click Ok to download or Cancel to continue');
+            var newHost = 'https://itunes.apple.com/il/app/haaretz-english-edition-for/id500132377?mt=8';
+             if (r == true) {
+                window.location = newHost;
+             }
+           	return false;
+        }
+        var userAgent = navigator.userAgent.toLowerCase();
+        var isIpad = userAgent.indexOf("ipad") > -1;
+        var expires =   1000*60*60*24*14 // 2 weeks
+        var locTime = localStorage.getItem('htzIpad');
+        
+        if (isIpad && (!locTime || (locTime && new Date().getTime() > parseInt(locTime) + parseInt(expires)))){
+        	localStorage.setItem('htzIpad', new Date().getTime());
+        	confirmDownload();
+        }
+    </script>
+<script src="/js/mobileRedirect.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<meta content="Haaretz.com" property="og:site_name"/>
+<meta content="287530407927859" property="fb:app_id"/>
+<meta content="Report: Madonna in talks over buying luxury vacation home in Tel Aviv - Music &amp; Theater" property="og:title"/>
+<meta content="Natalie Portman has also shown interest in the uber-modern Meier-on-Rothschild Tower, the Mail Online reports." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="http://www.haaretz.com/polopoly_fs/1.643542!/image/2929771547.jpg_gen/derivatives/landscape_474/2929771547.jpg" property="og:image"/>
+<script type="text/javascript">
+		var isArticle=true;
+		var articleId="1.643538";
+		</script>
+<!-- -fr1 -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<script>
+              var ssoDomain 			= 'https://sso.haaretz.com/sso';
+			  var ssoDomainWithoutHttps = 'http://sso.haaretz.com/sso';
+			  var staticSsoDomain   	= 'http://staticsso.haaretz.com/sso';
+			  var paymentDomain 		= 'http://payment.haaretz.com';
+			  var paywallStatDomain 	= 'http://stat.haaretz.com';
+              var fbAppId = '287530407927859';
+        	 </script>
+<script type="text/javascript">				 
+    			window.fbAsyncInit = function() {
+    				   FB.init({appId: fbAppId, status: true, cookie: true, xfbml: true});	
+					   FB.Event.subscribe('edge.create', recommendFB);
+    			};
+        	 </script>
+<!-- TYPE = article -->
+<link href="http://www.haaretz.com/life/music-theater/1.643538" rel="canonical"/>
+<meta content="http://www.haaretz.com/life/music-theater/1.643538" property="og:url"/>
+<link href="/images/icons/Hicon.ico" rel="SHORTCUT ICON"/>
+<script>var dfp_articleId = "1.643538";	</script>
+<script src="http://www.googletagservices.com/tag/js/gpt.js" type="text/javascript"></script>
+<script src="http://www.themarker.com/dclk/dfp/dfp_init_base.js" type="text/javascript"></script>
+<script src="http://www.themarker.com/dclk/dfp/dfp_hdc.js" type="text/javascript"></script>
+<script>var dclkSection = "life";
+				var dclkChannel = "musictheater";</script>
+<script>var dclkArticleId = "1.643538";	</script>
+<script>
+		//map of all adUnits Frequency
+		var adUnitsFrequencyMap = new Array();
+    				adUnitsFrequencyMap['haaretz.com.web.popunder.all']  = '1/4hour';
+    				adUnitsFrequencyMap['haaretz.com.web.inread.article.all']  = '3/1day';
+    				adUnitsFrequencyMap['haaretz.com.mobile_web.maavaron1.all']  = '2/1hour';
+    				adUnitsFrequencyMap['haaretz.com.web.maavaron.section']  = '2/1day';
+    				adUnitsFrequencyMap['haaretz.com.web.maavaron.hp']  = '2/1day';
+    				adUnitsFrequencyMap['haaretz.com.web.inview.skyscraper.all']  = '2/1day';
+    		</script>
+<script>
+			isHomePage = false; 
+		</script>
+<script type="text/javascript">
+    	var invalidReferrer = new Array();
+    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    				    	
+        try{
+          googletag.cmd.push(function() {
+            		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.inread.article declaration 
+        			gptadslots['haaretz.com.web.inread.article']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.inread.article/haaretz.com.web.inread.article_section/haaretz.com.web.inread.article_section.life/haaretz.com.web.inread.article_section.life.music-theater', [[1, 1]], 'haaretz.com.web.inread.article').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.mobile_web.box.article declaration 
+        			gptadslots['haaretz.com.mobile_web.box.article']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.mobile_web.box.article/haaretz.com.mobile_web.box.article_section/haaretz.com.mobile_web.box.article_section.life/haaretz.com.mobile_web.box.article_section.life.music-theater', [[300, 250]], 'haaretz.com.mobile_web.box.article').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.mobile_web.box2 declaration 
+        			gptadslots['haaretz.com.mobile_web.box2']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.mobile_web.box2/haaretz.com.mobile_web.box2_section/haaretz.com.mobile_web.box2_section.life/haaretz.com.mobile_web.box2_section.life.music-theater', [[300, 250]], 'haaretz.com.mobile_web.box2').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.promotionalcontentlarge3 declaration 
+        			gptadslots['haaretz.com.web.promotionalcontentlarge3']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.promotionalcontentlarge3/haaretz.com.web.promotionalcontentlarge3_section/haaretz.com.web.promotionalcontentlarge3_section.life/haaretz.com.web.promotionalcontentlarge3_section.life.music-theater', [[474, 150]], 'haaretz.com.web.promotionalcontentlarge3').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.skyscraper.2 declaration 
+        			gptadslots['haaretz.com.web.skyscraper.2']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.skyscraper.2/haaretz.com.web.skyscraper.2_section/haaretz.com.web.skyscraper.2_section.life/haaretz.com.web.skyscraper.2_section.life.music-theater', [[160, 600]], 'haaretz.com.web.skyscraper.2').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.box5 declaration 
+        			gptadslots['haaretz.com.web.box5']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.box5/haaretz.com.web.box5_section/haaretz.com.web.box5_section.life/haaretz.com.web.box5_section.life.music-theater', [[300, 250]], 'haaretz.com.web.box5').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.mobile_web.box1 declaration 
+        			gptadslots['haaretz.com.mobile_web.box1']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.mobile_web.box1/haaretz.com.mobile_web.box1_section/haaretz.com.mobile_web.box1_section.life/haaretz.com.mobile_web.box1_section.life.music-theater', [[300, 250]], 'haaretz.com.mobile_web.box1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.mobile_web.strip.bottom declaration 
+        			gptadslots['haaretz.com.mobile_web.strip.bottom']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.mobile_web.strip.bottom/haaretz.com.mobile_web.strip.bottom_section/haaretz.com.mobile_web.strip.bottom_section.life/haaretz.com.mobile_web.strip.bottom_section.life.music-theater', [[320, 50]], 'haaretz.com.mobile_web.strip.bottom').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.inview.skyscraper declaration 
+        			gptadslots['haaretz.com.web.inview.skyscraper']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.inview.skyscraper/haaretz.com.web.inview.skyscraper_section/haaretz.com.web.inview.skyscraper_section.life/haaretz.com.web.inview.skyscraper_section.life.music-theater', [[1, 1]], 'haaretz.com.web.inview.skyscraper').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.box.articles declaration 
+        			gptadslots['haaretz.com.web.box.articles']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.box.articles/haaretz.com.web.box.articles_section/haaretz.com.web.box.articles_section.life/haaretz.com.web.box.articles_section.life.music-theater', [[300, 250]], 'haaretz.com.web.box.articles').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.box.below_talkback declaration 
+        			gptadslots['haaretz.com.web.box.below_talkback']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.box.below_talkback/haaretz.com.web.box.below_talkback_section/haaretz.com.web.box.below_talkback_section.life/haaretz.com.web.box.below_talkback_section.life.music-theater', [[300, 250]], 'haaretz.com.web.box.below_talkback').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.box1 declaration 
+        			gptadslots['haaretz.com.web.box1']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.box1/haaretz.com.web.box1_section/haaretz.com.web.box1_section.life/haaretz.com.web.box1_section.life.music-theater', [[300, 250]], 'haaretz.com.web.box1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.box2 declaration 
+        			gptadslots['haaretz.com.web.box2']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.box2/haaretz.com.web.box2_section/haaretz.com.web.box2_section.life/haaretz.com.web.box2_section.life.music-theater', [[300, 250]], 'haaretz.com.web.box2').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.box3 declaration 
+        			gptadslots['haaretz.com.web.box3']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.box3/haaretz.com.web.box3_section/haaretz.com.web.box3_section.life/haaretz.com.web.box3_section.life.music-theater', [[300, 250]], 'haaretz.com.web.box3').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.box4 declaration 
+        			gptadslots['haaretz.com.web.box4']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.box4/haaretz.com.web.box4_section/haaretz.com.web.box4_section.life/haaretz.com.web.box4_section.life.music-theater', [[300, 250]], 'haaretz.com.web.box4').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.fullbanner.endclosearticle declaration 
+        			gptadslots['haaretz.com.web.fullbanner.endclosearticle']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.fullbanner.endclosearticle/haaretz.com.web.fullbanner.endclosearticle_section/haaretz.com.web.fullbanner.endclosearticle_section.life/haaretz.com.web.fullbanner.endclosearticle_section.life.music-theater', [[468, 60]], 'haaretz.com.web.fullbanner.endclosearticle').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.fullbanner.endopenarticle declaration 
+        			gptadslots['haaretz.com.web.fullbanner.endopenarticle']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.fullbanner.endopenarticle/haaretz.com.web.fullbanner.endopenarticle_section/haaretz.com.web.fullbanner.endopenarticle_section.life/haaretz.com.web.fullbanner.endopenarticle_section.life.music-theater', [[468, 60]], 'haaretz.com.web.fullbanner.endopenarticle').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.fullbanner.talkback declaration 
+        			gptadslots['haaretz.com.web.fullbanner.talkback']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.fullbanner.talkback/haaretz.com.web.fullbanner.talkback_section/haaretz.com.web.fullbanner.talkback_section.life/haaretz.com.web.fullbanner.talkback_section.life.music-theater', [[468, 60]], 'haaretz.com.web.fullbanner.talkback').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.fullbanner1 declaration 
+        			gptadslots['haaretz.com.web.fullbanner1']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.fullbanner1/haaretz.com.web.fullbanner1_section/haaretz.com.web.fullbanner1_section.life/haaretz.com.web.fullbanner1_section.life.music-theater', [[468, 60]], 'haaretz.com.web.fullbanner1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.fullbanner2 declaration 
+        			gptadslots['haaretz.com.web.fullbanner2']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.fullbanner2/haaretz.com.web.fullbanner2_section/haaretz.com.web.fullbanner2_section.life/haaretz.com.web.fullbanner2_section.life.music-theater', [[468, 60]], 'haaretz.com.web.fullbanner2').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.half_page.1 declaration 
+        			gptadslots['haaretz.com.web.half_page.1']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.half_page.1/haaretz.com.web.half_page.1_section/haaretz.com.web.half_page.1_section.life/haaretz.com.web.half_page.1_section.life.music-theater', [[300, 600]], 'haaretz.com.web.half_page.1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.maavaron declaration 
+        			gptadslots['haaretz.com.web.maavaron']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.maavaron/haaretz.com.web.maavaron_section/haaretz.com.web.maavaron_section.life/haaretz.com.web.maavaron_section.life.music-theater', [[2, 1]], 'haaretz.com.web.maavaron').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.plazma declaration 
+        			gptadslots['haaretz.com.web.plazma']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.plazma/haaretz.com.web.plazma_section/haaretz.com.web.plazma_section.life/haaretz.com.web.plazma_section.life.music-theater', [[728, 90], [970, 90], [970, 250], [980, 190], [1040, 200]], 'haaretz.com.web.plazma').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			    				//Adslot: haaretz.com.web.popunder declaration (Out-of-page unit)
+    			    gptadslots['haaretz.com.web.popunder']= googletag.defineOutOfPageSlot('/9401/haaretz.com.web/haaretz.com.web.popunder/haaretz.com.web.popunder_section/haaretz.com.web.popunder_section.life/haaretz.com.web.popunder_section.life.music-theater', 'haaretz.com.web.popunder').addService(googletag.pubads());
+    			    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.promotionalcontentlarge1 declaration 
+        			gptadslots['haaretz.com.web.promotionalcontentlarge1']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.promotionalcontentlarge1/haaretz.com.web.promotionalcontentlarge1_section/haaretz.com.web.promotionalcontentlarge1_section.life/haaretz.com.web.promotionalcontentlarge1_section.life.music-theater', [[474, 150]], 'haaretz.com.web.promotionalcontentlarge1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.promotionalcontentlarge2 declaration 
+        			gptadslots['haaretz.com.web.promotionalcontentlarge2']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.promotionalcontentlarge2/haaretz.com.web.promotionalcontentlarge2_section/haaretz.com.web.promotionalcontentlarge2_section.life/haaretz.com.web.promotionalcontentlarge2_section.life.music-theater', [[474, 150]], 'haaretz.com.web.promotionalcontentlarge2').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.skyscraper.1 declaration 
+        			gptadslots['haaretz.com.web.skyscraper.1']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.skyscraper.1/haaretz.com.web.skyscraper.1_section/haaretz.com.web.skyscraper.1_section.life/haaretz.com.web.skyscraper.1_section.life.music-theater', [[160, 600]], 'haaretz.com.web.skyscraper.1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.skyscraper.article declaration 
+        			gptadslots['haaretz.com.web.skyscraper.article']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.skyscraper.article/haaretz.com.web.skyscraper.article_section/haaretz.com.web.skyscraper.article_section.life/haaretz.com.web.skyscraper.article_section.life.music-theater', [[160, 600]], 'haaretz.com.web.skyscraper.article').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.slideshow474x282 declaration 
+        			gptadslots['haaretz.com.web.slideshow474x282']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.slideshow474x282/haaretz.com.web.slideshow474x282_section/haaretz.com.web.slideshow474x282_section.life/haaretz.com.web.slideshow474x282_section.life.music-theater', [[474, 282]], 'haaretz.com.web.slideshow474x282').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.slideshow720x300 declaration 
+        			gptadslots['haaretz.com.web.slideshow720x300']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.slideshow720x300/haaretz.com.web.slideshow720x300_section/haaretz.com.web.slideshow720x300_section.life/haaretz.com.web.slideshow720x300_section.life.music-theater', [[720, 300]], 'haaretz.com.web.slideshow720x300').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.web.verticalbanner.article declaration 
+        			gptadslots['haaretz.com.web.verticalbanner.article']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.web.verticalbanner.article/haaretz.com.web.verticalbanner.article_section/haaretz.com.web.verticalbanner.article_section.life/haaretz.com.web.verticalbanner.article_section.life.music-theater', [[120, 240]], 'haaretz.com.web.verticalbanner.article').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.mobile_web.maavaron1 declaration 
+        			gptadslots['haaretz.com.mobile_web.maavaron1']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.mobile_web.maavaron1/haaretz.com.mobile_web.maavaron1_section/haaretz.com.mobile_web.maavaron1_section.life/haaretz.com.mobile_web.maavaron1_section.life.music-theater', [[2, 1]], 'haaretz.com.mobile_web.maavaron1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.mobile_web.splash declaration 
+        			gptadslots['haaretz.com.mobile_web.splash']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.mobile_web.splash/haaretz.com.mobile_web.splash_section/haaretz.com.mobile_web.splash_section.life/haaretz.com.mobile_web.splash_section.life.music-theater', [[2, 1]], 'haaretz.com.mobile_web.splash').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.mobile_web.strip.1 declaration 
+        			gptadslots['haaretz.com.mobile_web.strip.1']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.mobile_web.strip.1/haaretz.com.mobile_web.strip.1_section/haaretz.com.mobile_web.strip.1_section.life/haaretz.com.mobile_web.strip.1_section.life.music-theater', [[320, 50],[320, 100]], 'haaretz.com.mobile_web.strip.1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.mobile_web.strip.2 declaration 
+        			gptadslots['haaretz.com.mobile_web.strip.2']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.mobile_web.strip.2/haaretz.com.mobile_web.strip.2_section/haaretz.com.mobile_web.strip.2_section.life/haaretz.com.mobile_web.strip.2_section.life.music-theater', [[320, 50],[320, 100]], 'haaretz.com.mobile_web.strip.2').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	    		    		
+    									     		
+						     			        			//Adslot: haaretz.com.mobile_web.box.article.2 declaration 
+        			gptadslots['haaretz.com.mobile_web.box.article.2']= googletag.defineSlot('/9401/haaretz.com.web/haaretz.com.mobile_web.box.article.2/haaretz.com.mobile_web.box.article.2_section/haaretz.com.mobile_web.box.article.2_section.life/haaretz.com.mobile_web.box.article.2_section.life.music-theater', [[300, 250]], 'haaretz.com.mobile_web.box.article.2').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        		    		    	  			
+            //trageting params
+            if (typeof dfpUserType != "undefined")
+              googletag.pubads().setTargeting('UserType',[dfpUserType ]);
+            if (typeof dfpUrAe!= "undefined")
+              googletag.pubads().setTargeting('age',[dfpUrAe]);
+            if (typeof dfpStg!= "undefined")
+              googletag.pubads().setTargeting('stg',[dfpStg]);
+            if (typeof dfpUrGdr!= "undefined")
+             googletag.pubads().setTargeting('urgdr',[dfpUrGdr]);
+            if (typeof dfpArticleId!= "undefined")
+             googletag.pubads().setTargeting('articleId',[dfpArticleId]);
+            
+			 				googletag.pubads().enableAsyncRendering();
+			            googletag.enableServices();
+          });
+	 
+	  }catch(err){
+		 var errorDFPMsg = err.message;
+		}	
+    </script>
+<script type="text/javascript">
+ 
+    function closeAdUnitPlazma( ){
+		 				
+		
+									 		
+				
+		try {
+    		var iframe_Plazma = document.getElementById('haaretz.com.web.plazma').children[1];
+            iframe_Plazma.style.display = 'none';
+            document.getElementById('haaretz.com.web.plazma').id = 'haaretz.com.web.leaderboard.top';
+			            	googletag.defineUnit('/9401/haaretz.com.web/haaretz.com.web.leaderboard.top/haaretz.com.web.leaderboard.top_section/haaretz.com.web.leaderboard.top_section.life/haaretz.com.web.leaderboard.top_section.life.music-theater', [[970, 90],[728, 90]], 'haaretz.com.web.leaderboard.top').addService(googletag.pubads().setTargeting('divid', 'haaretz.com.web.leaderboard.top'));
+						adUnit('haaretz.com.web.leaderboard.top').show();
+			
+						$('#Haim_L').hide();
+            $('#Haim_R').hide();
+            $('#Haim_Close_button').hide();
+            document.getElementById('haaretz.com.web.leaderboard.top').style.height = '100%';
+            document.getElementById('haaretz.com.web.leaderboard.top').style.width = '100%';
+            document.getElementById('haaretz.com.web.leaderboard.top').style.padding = '5px 0 5px 0';
+			
+        } catch(err){
+			var plazmaError = err.message;
+		}	
+    }
+	
+</script>
+<script>
+var mdspop={pop:function(e,t){var n=t.cap||1;var r=t.wait||4;var i=t.cookie||"__.mdspop";var s=t.width;var o=t.height;var t="";var u={initialize:function(){this.ua.initialize()},ua:{initialize:function(){this.browser=this.searchString(this.list_browser)||"unknown";this.version=this.searchVersion(navigator.userAgent)||this.searchVersion(navigator.appVersion)||"unknown";this.os=this.searchString(this.list_os)||"unknown";if(this.browser=="Chrome"||this.browser=="chrome"){s=s||window.innerWidth;o=o||window.innerHeight}else if(this.browser=="Explorer"||this.browser=="explorer"){s=s||window.innerWidth;o=o||window.innerHeight}else{s=s||screen.width;o=o||screen.height}t="width="+s+",height="+o+",resizable=no,toolbar=no,location=no,directories=no,status=no,menubar=no,copyhistory=no,scrollbars=yes,top=0,left=0"},list_browser:[{str:navigator.userAgent,subStr:"Chrome",id:"Chrome"},{str:navigator.userAgent,subStr:"OmniWeb",versionSearch:"OmniWeb/",id:"OmniWeb"},{str:navigator.vendor,subStr:"Apple",id:"Safari",versionSearch:"Version"},{prop:window.opera,id:"Opera",versionSearch:"Version"},{str:navigator.vendor,subStr:"iCab",id:"iCab"},{str:navigator.vendor,subStr:"KDE",id:"Konqueror"},{str:navigator.userAgent,subStr:"Firefox",id:"Firefox"},{str:navigator.vendor,subStr:"Camino",id:"Camino"},{str:navigator.userAgent,subStr:"Netscape",id:"Netscape"},{str:navigator.userAgent,subStr:"MSIE",id:"Explorer",versionSearch:"MSIE"},{str:navigator.userAgent,subStr:"Gecko",id:"Mozilla",versionSearch:"rv"},{str:navigator.userAgent,subStr:"Mozilla",id:"Netscape",versionSearch:"Mozilla"}],list_os:[{str:navigator.platform,subStr:"Win",id:"Windows"},{str:navigator.platform,subStr:"Mac",id:"Mac"},{str:navigator.userAgent,subStr:"iPhone",id:"iPhone/iPod"},{str:navigator.platform,subStr:"Linux",id:"Linux"}],searchString:function(e){for(var t=0;t<e.length;t++){var n=e[t].str;var r=e[t].prop;this.versionSearchString=e[t].versionSearch||e[t].id;if(n){if(n.indexOf(e[t].subStr)!=-1){return e[t].id}}else{if(r){return e[t].id}}}},searchVersion:function(e){var t=e.indexOf(this.versionSearchString);if(t==-1){return}return parseFloat(e.substr(t+this.versionSearchString.length+1))}},cookie:{get:function(e,t){var n=new Date;n.setTime(n.getTime());var r=(new Date(n.getTime()+1e3*60*60*t)).toGMTString();var i=document.cookie.split(";");var s="";var o="";var u=[0,r];for(var a=0;a<i.length;a++){s=i[a].split("=");o=s[0].replace(/^\s+|\s+$/g,"");if(o==e){b_cookie_found=true;if(s.length>1){u=unescape(s[1]).split("|");if(u.length==1){u[1]=r}}return u}s=null;o=""}return u},set:function(e,t,n){document.cookie=e+"="+escape(t+"|"+n)+";expires="+n+";path=/"}},listener:{add:function(e,t,n){var r="on"+t;if(typeof e.addEventListener!="undefined"){e.addEventListener(t,n,arguments.callee)}else{if(typeof e.attachEvent!="undefined"){e.attachEvent(r,n)}else{if(typeof e[r]!="function"){e[r]=n}else{var i=e[r];e["old_"+r]=i;e[r]=function(){i();return n()}}}}},remove:function(e,t,n){var r="on"+t;if(typeof e.removeEventListener!="undefined"){e.removeEventListener(t,n,false)}else{if(typeof e.detachEvent!="undefined"){e.detachEvent(r,n)}else{if(typeof e["old_"+r]!="function"){e[r]=null}else{e[r]=e["old_"+r]}}}}},format:{},random:function(){return Math.floor(Math.random()*1000001)}};u.initialize();u.format.popunder={settings:{url:e,times:n,hours:r,cookie:i},config:t,isBinded:false,isTriggered:false,initialize:function(){var e=u.cookie.get(u.format.popunder.settings.cookie,u.format.popunder.settings.hours);this.cookie={};this.cookie.times=!isNaN(Number(e[0]))?Number(e[0]):0;this.cookie.expires=!isNaN(Date.parse(e[1]))?e[1]:(new Date).toGMTString();if(document.readyState=="complete"){setTimeout(u.format.popunder.bind,1)}else{u.listener.add(document,"DOMContentLoaded",function(){u.listener.remove(document,"DOMContentLoaded");u.format.popunder.bind()});u.listener.add(document,"onreadystatechange",function(){if(document.readyState=="complete"){u.listener.remove(document,"onreadystatechange");u.format.popunder.bind()}});u.listener.add(window,"load",u.format.popunder.bind)}},bind:function(){if(u.format.popunder.isBinded){return}u.format.popunder.isBinded=true;if(u.format.popunder.cookie.times>=u.format.popunder.settings.times){return}var e={};for(var t in u.format.popunder.binders){var n=u.format.popunder.binders[t];var r=t.split("");var i="",s="";var o=1,a;for(var f=0;f<r.length;f++){var l=r[f];if(l.match(/[a-z0-9]/)==null){continue}a=l.search(/[a-z]/)==0;if(a){if(a!=o){e[i][s]=n;i=l}else{i+=l}}else{if(a!=o||parseInt(f)+1==r.length){if(a!=o){if(typeof e[i]!="object"){e[i]={}}s=l}if(parseInt(f)+1==r.length){e[i][a==o?s+l:s]=n}}else{s+=l}}o=a}}var c=e[u.ua.browser.toLowerCase()]||e.all;var h=Object.keys(c);h.sort();for(var p=0;p<h.length;p++){var s=h[p];if(u.ua.version<=s){break}}c[s]()},binders:{chrome30:function(){u.listener.add(document,"click",u.ua.os=="Windows"?u.format.popunder.triggers.fullscreen_trigger:u.format.popunder.triggers.triple_trigger)},chrome28:function(){u.listener.add(document,"click",u.format.popunder.triggers.triple_trigger)},firefox12_chrome21:function(){u.listener.add(document,"click",u.format.popunder.triggers.double_trigger)},explorer0:function(){u.listener.add(document,"click",u.format.popunder.triggers.single_delay)},all0:function(){u.listener.add(document,"click",u.format.popunder.triggers.single)}},triggers:{fullscreen_trigger:function(){u.listener.remove(document,"click",u.format.popunder.triggers.fullscreen_trigger);if(!u.format.popunder.registerTrigger()){return}document.documentElement.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);window.open(u.format.popunder.settings.url,"pu_"+u.random(),u.format.popunder.config);document.webkitCancelFullScreen()},triple_trigger:function(){u.listener.remove(document,"click",u.format.popunder.triggers.triple_trigger);if(!u.format.popunder.registerTrigger()){return}window.open("javascript:window.focus()","_self");var e=window.open("about:blank","pu_"+u.random(),u.format.popunder.config);var t=document.createElement("a");t.setAttribute("href","data:text/html,<scr"+"ipt>window.close();</scr"+"ipt>");t.style.display="none";document.body.appendChild(t);var n=document.createEvent("MouseEvents");n.initMouseEvent("click",true,true,window,0,0,0,0,0,true,false,false,true,0,null);t.dispatchEvent(n);document.body.removeChild(t);e.document.open().write("<scr"+'ipt type="text/javascript">window.location="'+u.format.popunder.settings.url+'";</scr'+"ipt>");e.document.close()},double_trigger:function(e){u.listener.remove(document,"click",u.format.popunder.triggers.double_trigger);if(!u.format.popunder.registerTrigger()&&e!="i"){return}var t=window.open(u.format.popunder.settings.url,"pu_"+u.random(),u.format.popunder.config);if(t){t.blur();try{var n=t.window.open("about:blank");n.close()}catch(r){}if(u.ua.browser=="Firefox")window.showModalDialog("javascript:window.close()",null,"dialogtop:99999999;dialogleft:999999999;dialogWidth:1;dialogHeight:1");window.focus()}},single_delay:function(){u.listener.remove(document,"click",u.format.popunder.triggers.single_delay);if(!u.format.popunder.registerTrigger())return;var e=window.open(u.format.popunder.settings.url,"pu_"+u.random(),u.format.popunder.config);window.setTimeout(window.focus,750);window.setTimeout(window.focus,850);if(e)e.blur()},single:function(e){u.listener.remove(document,"click",u.format.popunder.triggers.single);if(!u.format.popunder.registerTrigger()&&e!="i"){return}var t=window.open(u.format.popunder.settings.url,"pu_"+u.random(),u.format.popunder.config);if(t){t.blur();window.focus()}}},registerTrigger:function(){if(u.format.popunder.isTriggered){return false}u.format.popunder.isTriggered=true;if(u.format.popunder.settings.hours>0){u.cookie.set(u.format.popunder.settings.cookie,++u.format.popunder.cookie.times,u.format.popunder.cookie.expires)}return true}};u.format.popunder.initialize();if(!Object.keys){Object.keys=function(){var e=Object.prototype.hasOwnProperty,t=!{toString:null}.propertyIsEnumerable("toString"),n=["toString","toLocaleString","valueOf","hasOwnProperty","isPrototypeOf","propertyIsEnumerable","constructor"],r=n.length;return function(i){if(typeof i!=="object"&&typeof i!=="function"||i===null)throw new TypeError("Object.keys called on non-object");var s=[];for(var o in i){if(e.call(i,o)){s.push(o)}}if(t){for(var u=0;u<r;u++){if(e.call(i,n[u]))s.push(n[u])}}return s}}()}}}
+</script>
+<script>
+  try{
+if (typeof tmo_util != "object") {tmo_util = {};}
+if (typeof tmo_prop != "object") {tmo_prop = {};}
+
+tmo_util.stlPopUnder = function(adcode, specification,Targetwindow,pop,ife,Height,Width){
+
+                        tmo_prop.TM_PopUnder="off";
+                        tmo_prop.TM_PopUnderData=adcode
+                        tmo_prop.TM_PopUnderHeight=Height;
+                        tmo_prop.TM_PopUnderWidth=Width;
+                        tmo_prop.TM_Targetwindow=Targetwindow
+                        tmo_prop.TM_PopUnderSpecification=specification
+                        top.isPopDone_ = false;
+
+                        window.TM_openWin = function(){
+                                    if (tmo_prop.TM_PopUnder=="off")
+                                    {
+                                                tmo_prop.TM_PopUnder="on"
+                                                myWindow=window.open('',tmo_prop.TM_Targetwindow,tmo_prop.TM_PopUnderSpecification);
+                                                myWindow.document.write('<html><head><title>&nbsp;Advertisement</title></head><body marginheight=0 marginwidth=0 leftmargin=0 topmargin=0>'+tmo_prop.TM_PopUnderData+'</body></html>');
+                                                if (!tmo_prop.IE){
+                                                            myWindow.window.open('about:blank').close();
+                                                }
+                                                if (pop="Pop-under"){
+                                                            myWindow.blur();
+                                                            window.focus();
+
+                                                }
+                                    }
+                       }
+                        
+                        if ( !tmo_prop.IE ) {
+                                    document.addEventListener("click", window.TM_openWin, false);
+                        }
+
+                        if (!tmo_prop.IE){
+                                    document.addEventListener("mouseup", function () {
+                                                if (top.isPopDone_) return; var rand = Math.random(); var a = document.createElement("a");
+                                                //a.target = "_tab" + rand.toString();
+                                                //a.href = "about:blank";
+                                                a.href = "data:text/html," + unescape('%3Cscript%3E') + "window.close();" + unescape('%3C/script%3E'),
+                                                document.getElementsByTagName("body")[0].appendChild(a);
+                                                //document.body.appendChild(a);
+                                                document.getElementsByTagName("body")[0].appendChild(a);
+                                                var e = document.createEvent("MouseEvents");
+                                                e.initMouseEvent("click", true, true, window, 0, 0, 0, 0, 0, true, false, false, true, 0, null);
+                                                a.dispatchEvent(e);
+                                                a.parentNode.removeChild(a);
+                                                window.open("about:blank", "_tab" + rand.toString()).close();
+                                                top.isPopDone_ = true;
+                                    }, false);
+                        }
+                        else{
+                                    setTimeout(window.TM_openWin,250);
+                        
+                        }
+                        
+            }
+    }catch(e){
+      var PopUndeRscript = e;
+    }
+</script>
+<script language="javascript" type="text/javascript">
+
+var isLegalReferer = !!(document.referrer.match(/twitter|facebook|google|bit\.ly|htz\.li|t\.co/i));
+ var userAgent = navigator.userAgent.toLowerCase();
+ var isIphone = userAgent.indexOf("iphone") > -1;
+ var isAndroid = userAgent.indexOf("android") > -1;
+ var isBlackberry = userAgent.indexOf("blackberry") > -1;
+
+var encryptedId = '2CC0C074CD87B5891748C3FA2CD0E3E2';
+ var contentId='VersionedContentId(7.964334.1420970087)';
+ var originalContentId='[ContentId(2.169), ContentId(2.1246), ContentId(2.305), ContentId(1.643538)]';
+ // "&contentId="+contentId"&original="+originalContentId
+
+if ((isIphone || isAndroid || isBlackberry) && document.cookie.indexOf("doNotRedirectToMobile=") < 0)
+ {
+ if(typeof isArticle != 'undefined' && isArticle && typeof articleId != 'undefined')
+ {
+ if (isLegalReferer){ document.location.href = "/mobile/" + articleId +'?v='+encryptedId; } else{ document.location.href = "/mobile/" + articleId; }
+ }
+ else
+{  document.location.href = "/mobile";  } 
+}
+ </script>
+<meta content="https://www.facebook.com/haaretzcom" property="article:publisher"/>
+<meta content="app-id=504537897" name="apple-itunes-app">
+<div itemscope="" itemtype="http://schema.org/Organization" style="display:none;">
+<a href="http://www.haaretz.com/" itemprop="url">Home</a>
+<img itemprop="logo" src="http://www.haaretz.com/images/logos/HaaretzLogo.gif"/>
+</div>
+<!-- 0 -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '284553035029410']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img alt="" height="1" src="https://www.facebook.com/tr?id=284553035029410&amp;ev=NoScript" style="display:none" width="1"/></noscript>
+<script data-cfasync="false" type="text/javascript">(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="//cdn.engine.adsupply.com/Scripts/infinity.js.aspx?guid=a0b0261f-ad00-40b4-974b-8e80f371d595";s.id="infinity";s.setAttribute("data-guid","a0b0261f-ad00-40b4-974b-8e80f371d595");s.setAttribute("data-version","async");var e=document.getElementsByTagName('script')[0];e.parentNode.insertBefore(s,e)})();</script>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<title>Report: Madonna in talks over buying luxury vacation home in Tel Aviv - Music &amp; Theater -  Israel News | Haaretz</title>
+<meta content="Natalie Portman has also shown interest in the uber-modern Meier-on-Rothschild Tower, the Mail Online reports." name="description"/>
+<meta content="Madonna,  Tel Aviv" name="keywords"/>
+<meta content="Madonna,  Tel Aviv" name="news_keywords"/>
+<link href="/css/all.css?VersionNumber.0030_02_03_V1" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/header.css?VersionNumber.0030_02_03_V1" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://staticsso.haaretz.com/sso/style/ssoForms.css" rel="stylesheet">
+<script src="/js/resize.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<script src="/js/jquery-1.4.2.min.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<script src="/js/jquery.blockUI.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<script src="/js/jquery.cycle.all.min.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<script src="/js/jquery.simplelightbox.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<script src="/js/jquery.tinysort.min.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<script src="/js/haaretz_main.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<!--<script src="http://connect.facebook.net/en_US/all.js"></script>-->
+<script src="http://staticsso.haaretz.com/sso/script/jquery.batchImageLoad.js" type="text/javascript"></script>
+<script src="http://staticsso.haaretz.com/sso/script/hdcErrorText.js" type="text/javascript"></script>
+<script src="http://staticsso.haaretz.com/sso/script/hdcValidateUtils.js" type="text/javascript"></script>
+<script src="http://staticsso.haaretz.com/sso/script/hdcMainServices.js" type="text/javascript"></script>
+<link href="https://sso.haaretz.com/sso/script/submodal.css" rel="stylesheet" type="text/css"/>
+<script src="https://sso.haaretz.com/sso/script/submodalsource.js" type="text/javascript"></script>
+<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/css/ielt7.css?VersionNumber.0030_02_03_V1"/><![endif]-->
+<!--<script type="text/javascript" src="/js/jquery.lightbox-0.4.min.js?VersionNumber.0030_02_03_V1"></script> -->
+<script type="text/javascript">
+            <!--
+            jQuery(document).ready(function() {
+                window.pageLoaded=true
+            });
+            //-->
+        </script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+<link href="/css/external_packages/floatingbanner.css?VersionNumber.0030_02_03_V1" rel="stylesheet" type="text/css">
+<script src="/js/external_packages/jquery.floatingbanner.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+</link></link></meta></head>
+<body>
+<div id="fb-root"></div>
+<script>
+    		(function() {
+    			  var e = document.createElement('script');
+    			  e.async = true;
+    			  e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+    			 //e.src = '//connect.facebook.net/en_US/all.js';
+    			  document.getElementById('fb-root').appendChild(e);
+    		 }());
+		</script>
+<div id="sso_form" style="position:relative;display:none;"></div>
+<div id="sso_login_form" style="position:relative;display:none;"></div>
+<div id="cookies" style="display:none"></div>
+<div id="wrapper">
+<div class="articlePage" id="main-area">
+<div id="header">
+<!-- Google JMG Haaretz  Tag -->
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-MWWRZQ" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MWWRZQ');</script>
+<!-- Google JMG haaretz Tag -->
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: Audience - Haaretz
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+-->
+<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="http://4351288.fls.doubleclick.net/activityi;src=4351288;type=invmedia;cat=4aep6V0y;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script>
+<noscript>
+<iframe frameborder="0" height="1" src="http://4351288.fls.doubleclick.net/activityi;src=4351288;type=invmedia;cat=4aep6V0y;ord=1?" style="display:none" width="1"></iframe>
+</noscript>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+<div class="subscrOptWide">
+<div class="subscrOptWideCenter">
+<div class="subscrOptWideTxt">SUBSCRIBE TO HAARETZ DIGITAL EDITIONS</div>
+<a class="subscrOptWideBtn subscrBtn" href="http://pubads.g.doubleclick.net/gampad/clk?id=13772954&amp;iu=/9401/Haaretz.com.ClickTracker/Haaretz.com.ClickTracker.OrangeStripHeader"></a>
+</div>
+</div>
+<!-- www/elementgroup.vm -->
+<div class="fullheader"><div class="header">
+<div class="menu">
+<ul class="top-nav">
+<li class="active">Haaretz.com</li>
+<li><a href="http://www.haaretz.co.il" target="_blank">הארץ</a></li>
+<li><a href="http://www.themarker.com" target="_blank">TheMarker</a></li>
+<li><a href="http://www.mouse.co.il" target="_blank">עכבר העיר</a></li>
+<li><a href="http://cafe.themarker.com" target="_blank">TheMarker Café</a></li>
+</ul>
+<!-- www/elementgroup.vm -->
+<div class="cooperationsBanner" style="">
+<div class="menu">
+</div>
+</div>
+<!-- www/navigation.vm -->
+<ul class="center-menu">
+<li>
+<div class="HeaderTeaser">
+<div class="headerTeaserText">
+<div class="headerTeaserSection">
+        		Opinion
+    		</div>
+<div class="headerTeaserTitle">
+<a href="http://www.haaretz.com/opinion/.premium-1.643680" target="">
+    			        		    			The unlikely man who can bring the left to power <img src="/images/arrows/red-arrow.png" style="display:inline;margin-right:-3px;"/>
+</a>
+</div>
+</div>
+<div class="headerTeaserImg">
+<a href="http://www.haaretz.com/opinion/.premium-1.643680" target="">
+<img alt="Herzog-Livni" class="" height="94" src="/polopoly_fs/1.638483.1421926441!/image/815635307.png_gen/derivatives/landscape_112/815635307.png" title="Herzog-Livni" width="112"/> </a>
+</div>
+</div>
+</li>
+</ul>
+<div class="logo">
+<a href="/"></a>
+<div class="date">Tuesday, February 24, 2015 Adar 5, 5775</div>
+</div>
+<div class="header-login">
+<div class="login-cube-wrapper"></div>
+<div class="userDetails">
+<div class="username">
+<span class="user"> Hello user</span>
+<span class="profile">
+<span id="Logout">Logout</span>
+<span class="separator"> | </span>
+<span id="profile">profile</span>
+</span>
+</div>
+<div class="numOfArticles">
+<span>You have watched</span>
+<span id="numOfReadarticles"></span> <span>of 10 articles</span>
+</div>
+</div>
+<script src="/js/HTZsso.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<script src="/js/login-cube.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<script>
+	
+	try
+	{
+	  document.getElementById("numOfReadarticles").innerHTML = getCookie(REGISTERD_USER_COOKIE);
+	}
+	catch(err)
+	{}  
+	</script>
+<div class="headerSearch">
+<div class="form-box">
+<form action="/misc/search-results" id="headerSearchForm" method="post">
+<fieldset>
+<input name="view" type="hidden" value="results"/>
+<input name="sessionId" type="hidden" value="1"/>
+<input name="client" type="hidden" value="pub-3359258982778815"/>
+<input name="forid" type="hidden" value="1"/>
+<input name="channel" type="hidden" value="3983316430"/>
+<input name="ie" type="hidden" value="ISO-8859-1"/>
+<input name="oe" type="hidden" value="ISO-8859-1"/>
+<input name="cof" type="hidden" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:11"/>
+<input name="hl" type="hidden" value="en"/>
+<input name="search_type" type="hidden" value="site"/>
+<!-- default sort method is by relevancy -->
+<input id="sort_method" name="sort_method" type="hidden" value="relevance"/>
+<span class="btn2 searchBtn"><input class="btn" id="headerSearchBtn" name="submitBtn" style="color: transparent;" type="submit" value="textSearch"/></span>
+<input maxlength="0" size="0" style="border:0; width:0; height:0; display:none;" type="text"/>
+<input class="text" name="q" type="text" value="Search Haaretz.com">
+</input></fieldset>
+</form>
+</div>
+</div>
+</div>
+<div id="main-nav-div">
+<ul id="main-nav">
+<!-- -->
+<!-- gift newyorktimes has  sub pages -->
+<!-- -->
+<!-- gift subscription redeem has  sub pages -->
+<!-- -->
+<!-- Operational has  sub pages -->
+<!-- -->
+<!-- promotions-page-old has  sub pages -->
+<!-- -->
+<!-- News has  sub pages -->
+<!-- render News as parent page element ($numOfPages sub pages)-->
+<li class="has-drop-down first-child">
+<a class="has-drop-down-link first-child-link" href="http://www.haaretz.com/news">News</a>
+<div class="drop">
+<div class="table">
+<div class="top-left"></div>
+<div class="top"></div>
+<div class="top-right"></div>
+<div class="body">
+<div class="left"></div>
+<div class="content">
+<div class="hold">
+<div class="col-hold">
+<ul class="body">
+<li class="col">
+<a class="child" href="http://www.haaretz.com/news/israel-election-2015">Israel election 2015</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/news/diplomacy-defense">Diplomacy and Defense</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/news/national">National</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/news/middle-east">Middle East</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/news/world">World</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/news/features">Features</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/news/israel-s-eye-on-iran">Israel's eye on Iran</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="right"></div>
+</div>
+<div class="bottom-left"></div>
+<div class="bottom"></div>
+<div class="bottom-right"></div>
+</div>
+</div>
+<em class="pointer"></em>
+</li>
+<!-- -->
+<!-- Opinion has  sub pages -->
+<!-- render Opinion as childless page element ($numOfPages sub pages)-->
+<li><a href="http://www.haaretz.com/opinion">Opinion</a></li>
+<!-- -->
+<!-- Blogs has  sub pages -->
+<!-- render Blogs as parent page element ($numOfPages sub pages)-->
+<li class="has-drop-down">
+<a class="has-drop-down-link" href="http://www.haaretz.com/blogs">Blogs</a>
+<div class="drop">
+<div class="table">
+<div class="top-left"></div>
+<div class="top"></div>
+<div class="top-right"></div>
+<div class="body">
+<div class="left"></div>
+<div class="content">
+<div class="hold">
+<div class="col-hold">
+<ul class="body">
+<li class="col">
+<a class="child" href="http://www.haaretz.com/blogs/a-special-place-in-hell">A Special Place in Hell</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/blogs/west-of-eden">West of Eden</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/blogs/routine-emergencies">Routine Emergencies</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/blogs/jerusalem-babylon">Jerusalem &amp; Babylon</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/blogs/jerusalem-vivendi">Jerusalem Vivendi</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/blogs/sayed-kashua">Sayed Kashua</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/blogs/david-s-harp">David's Harp</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/blogs/exposure-haaretz-photo-blog">Exposure: Haaretz Photo Blog</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/blogs/diplomania">Diplomania</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/blogs/strenger-than-fiction">Strenger than Fiction</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/blogs/modern-manna">Modern Manna</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/blogs/the-fifth-question">The Fifth Question </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="right"></div>
+</div>
+<div class="bottom-left"></div>
+<div class="bottom"></div>
+<div class="bottom-right"></div>
+</div>
+</div>
+<em class="pointer"></em>
+</li>
+<!-- -->
+<!-- Daily Cartoon has  sub pages -->
+<!-- -->
+<!-- Jewish World has  sub pages -->
+<!-- render Jewish World as parent page element ($numOfPages sub pages)-->
+<li class="has-drop-down">
+<a class="has-drop-down-link" href="http://www.haaretz.com/jewish-world">Jewish World</a>
+<div class="drop">
+<div class="table">
+<div class="top-left"></div>
+<div class="top"></div>
+<div class="top-right"></div>
+<div class="body">
+<div class="left"></div>
+<div class="content">
+<div class="hold">
+<div class="col-hold">
+<ul class="body">
+<li class="col">
+<a class="child" href="http://www.haaretz.com/jewish-world/jewish-world-news">Jewish World News</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/jewish-world/jewish-world-features">Jewish World Features</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/news/features/this-day-in-jewish-history">This Day in Jewish History</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/jewish-world/rabbis-round-table">Rabbis' Round Table </a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/jewish-world/the-jewish-thinker">The Jewish Thinker</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/jewish-world/jewish-world-opinions">Jewish World Opinions </a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/jewish-world/kosher-cuisine">Kosher Cuisine</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/jewish-world/the-power-of-giving">The Power Of Giving</a>
+</li>
+<li class="col"><a class="child" href="http://www.haaretz.com/store/" style="background-color:#CECFCA" target="_blank">Haaretz Store</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="right"></div>
+</div>
+<div class="bottom-left"></div>
+<div class="bottom"></div>
+<div class="bottom-right"></div>
+</div>
+</div>
+<em class="pointer"></em>
+</li>
+<!-- -->
+<!-- Business has  sub pages -->
+<!-- render Business as parent page element ($numOfPages sub pages)-->
+<li class="has-drop-down">
+<a class="has-drop-down-link" href="http://www.haaretz.com/business">Business</a>
+<div class="drop">
+<div class="table">
+<div class="top-left"></div>
+<div class="top"></div>
+<div class="top-right"></div>
+<div class="body">
+<div class="left"></div>
+<div class="content">
+<div class="hold">
+<div class="col-hold">
+<ul class="body">
+<li class="col">
+<a class="child" href="http://www.haaretz.com/blogs/david-s-harp">David's Harp</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/business/start-up-of-the-week">Start-up of the Week</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/business/real-estate">Real Estate</a>
+</li>
+<li class="col"><a class="child" href="http://www.haaretz.com/business/equities-israel" style="background-color:#CECFCA" target="_blank">Equities Israel</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="right"></div>
+</div>
+<div class="bottom-left"></div>
+<div class="bottom"></div>
+<div class="bottom-right"></div>
+</div>
+</div>
+<em class="pointer"></em>
+</li>
+<!-- -->
+<!-- Travel has  sub pages -->
+<!-- render Travel as parent page element ($numOfPages sub pages)-->
+<li class="has-drop-down">
+<a class="has-drop-down-link" href="http://www.haaretz.com/travel-in-israel">Travel</a>
+<div class="drop">
+<div class="table">
+<div class="top-left"></div>
+<div class="top"></div>
+<div class="top-right"></div>
+<div class="body">
+<div class="left"></div>
+<div class="content">
+<div class="hold">
+<div class="col-hold">
+<ul class="body">
+<li class="col">
+<a class="child" href="http://www.haaretz.com/travel-in-israel/travel-news">Travel News</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/travel-in-israel/jewish-world-travel">Jewish World Travel</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/travel-in-israel/tourist-tip-of-the-day">Israel Travel Tips</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/travel-in-israel/food-drink">Eating in Israel</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/travel-in-israel/religion-relics">Religion &amp; Holy Land</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/travel-in-israel/museums-exhibits">Museum &amp; Art</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/travel-in-israel/israel-nightlife">Israel Nightlife</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/travel-in-israel/gay-tel-aviv">Gay Tel Aviv</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="right"></div>
+</div>
+<div class="bottom-left"></div>
+<div class="bottom"></div>
+<div class="bottom-right"></div>
+</div>
+</div>
+<em class="pointer"></em>
+</li>
+<!-- -->
+<!-- TV has  sub pages -->
+<!-- -->
+<!-- Life has  sub pages -->
+<!-- render Life as parent page element ($numOfPages sub pages)-->
+<li class="has-drop-down">
+<a class="has-drop-down-link" href="http://www.haaretz.com/life">Life</a>
+<div class="drop">
+<div class="table">
+<div class="top-left"></div>
+<div class="top"></div>
+<div class="top-right"></div>
+<div class="body">
+<div class="left"></div>
+<div class="content">
+<div class="hold">
+<div class="col-hold">
+<ul class="body">
+<li class="col">
+<a class="child" href="http://www.haaretz.com/life/archaeology">Archaeology</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/life/culture/food-wine">Food &amp; Wine</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/life/nature-environment">Nature &amp; Environment</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/life/science-medicine">Science &amp; Medicine</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/life/health-fitness">Health &amp; Fitness  </a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/life/movies-television">Movies &amp; Television</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/life/arts-leisure">Arts &amp; Leisure</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/life/books">Books</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/life/music-theater">Music &amp; Theater</a>
+</li>
+<li class="col">
+<a class="child" href="http://www.haaretz.com/life/sports">Sports</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="right"></div>
+</div>
+<div class="bottom-left"></div>
+<div class="bottom"></div>
+<div class="bottom-right"></div>
+</div>
+</div>
+<em class="pointer"></em>
+</li>
+<!-- -->
+<!-- Video has  sub pages -->
+<!-- render Video as childless page element ($numOfPages sub pages)-->
+<li><a href="http://www.haaretz.com/video">Video</a></li>
+<!-- -->
+<!-- Podcasts has  sub pages -->
+<!-- render Podcasts as childless page element ($numOfPages sub pages)-->
+<li><a href="http://www.haaretz.com/misc/podcasts">Podcasts</a></li>
+<!-- -->
+<!-- promotions-page has  sub pages -->
+<!-- -->
+<!-- Weekend has  sub pages -->
+<!-- -->
+<!-- Archaeology has  sub pages -->
+<!-- render Archaeology as childless page element ($numOfPages sub pages)-->
+<!-- -->
+<!-- Misc has  sub pages -->
+<!-- -->
+<!-- Haaretz Labels has  sub pages -->
+<!-- -->
+<!-- Registration Page has  sub pages -->
+<!-- -->
+<!-- Car Rental has  sub pages -->
+<!-- -->
+<!-- mobile has  sub pages -->
+<!-- -->
+<!-- Aliyah has  sub pages -->
+<!-- -->
+<!-- Promotions has  sub pages -->
+<!-- -->
+<!-- Special Price has  sub pages -->
+<!-- -->
+<!-- Print Edition has  sub pages -->
+<!-- -->
+<!-- Haaretz 2012: A year in review has  sub pages -->
+<!-- -->
+<!-- GA 2011 has  sub pages -->
+<!-- -->
+<!-- Black Flag Over Israel's Democracy has  sub pages -->
+<!-- -->
+<!-- Haaretz 2013: A Year in Review has  sub pages -->
+<!-- -->
+<!-- Haaretz Authors' Edition has  sub pages -->
+<!-- -->
+<!-- Ga 2010 has  sub pages -->
+<!-- -->
+<!-- Online French Lessons has  sub pages -->
+<!-- render Online French Lessons as childless page element ($numOfPages sub pages)-->
+<!-- -->
+<!-- General has  sub pages -->
+<!-- -->
+<!-- Culture has  sub pages -->
+<!-- -->
+<!-- People And Departments has  sub pages -->
+<!-- -->
+<!-- Employment Opportunities has  sub pages -->
+<!-- -->
+<!-- JerusalemOnline has  sub pages -->
+<!-- -->
+<!-- Contact Us has  sub pages -->
+<!-- -->
+<!-- Downloads Page has  sub pages -->
+<!-- -->
+<!-- Haaretz Site Rules has  sub pages -->
+<!-- -->
+<!-- myPromotions has  sub pages -->
+<!-- -->
+<!-- IHT print subscription has  sub pages -->
+<li><a class="jerusalemonline" href="http://www.haaretz.com/jerusalemonline/1.540058">News Broadcast</a></li>
+</ul>
+</div>
+<!-- www/elementgroup.vm -->
+<div align="center">
+<div class="menu">
+<div class="topBanner" id="haaretz.com.web.plazma" style="">
+<script type="text/javascript">
+							if (sendRequestToDFP('all', 'haaretz.com.web.plazma')) {
+								adUnit('haaretz.com.web.plazma').show();
+							}
+						</script>
+</div>
+</div>
+</div>
+<!-- www/elementgroup.vm -->
+<div class="headerLinks">
+<div class="title innerPageHeaderLinks "><a href="/">ISRAEL NEWS</a></div>
+<div class="title homepageHeaderLinks">ISRAEL NEWS</div>
+<div class="menu">
+<div>
+<a href="http://www.haaretz.com/misc/tags/Denmark-1.642546">Denmark attacks</a>
+</div>
+<div>
+<a class="externalLink" href="http://www.haaretz.com/news/israel-election-2015">Elections</a>
+</div>
+<div>
+<a href="http://www.haaretz.com/news/middle-east/middle-east-updates/1.643930">Mideast updates</a>
+</div>
+<div>
+<a href="http://www.haaretz.com/misc/tags/Israel%20US-1.476780">Netanyahu address</a>
+</div>
+<div>
+<a href="http://www.haaretz.com/travel-in-israel/out-about/1.643216">This week in Israel</a>
+</div>
+</div>
+</div>
+<script>
+				var  numOfLinksToObject = jQuery(".headerLinks .menu").children().length;
+				if (numOfLinksToObject !=null && numOfLinksToObject==0){
+					jQuery(".headerLinks").css("display","none");
+				} 
+			</script>
+<div class="social-links">
+<iframe allowtransparency="true" class="facebook" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?app_id=224870837548378&amp;href=http%3A%2F%2Fwww.facebook.com%2Fhaaretzcom&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;locale=en_US">
+</iframe>
+<div class="twitter">
+<!--script type="text/javascript" src="//cdn.api.twitter.com/1/urls/count.json?url=$m.stack.canonicalPath/$m.context.page.pathAfterPage.get(0).contentIdString&callback=twttr.receiveCount"></script-->
+<a class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" href="https://twitter.com/haaretzcom">Follow @haaretzcom</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+<div class="google">
+<a href="https://plus.google.com/111645974908902038503" rel="publisher">
+<img border="0" height="16" src="http://ssl.gstatic.com/images/icons/gplus-16.png" width="16">
+</img></a>
+</div>
+<a href="http://haaretz.tumblr.com/"><div class="tumblr"></div></a>
+<div class="cb"></div>
+</div>
+<script>
+				$(document).ready(function() {
+					$('.social-links').show();
+				});
+			</script>
+<div class="news-ticker">
+<strong>BREAKING NEWS</strong>
+<ul style="position:relative">
+<li class="news_ticker_first">
+<span style="float:left;">8:41 AM</span>
+<div>One man dead, one woman seriously injured in traffic accident in central Israel (Haaretz)</div>
+</li>
+<li style="display:none;">
+<span style="float:left;">7:14 AM</span>
+<div>IDF soldiers kill Palestinian in clash near Bethlehem overnight (Haaretz)</div>
+</li>
+<li style="display:none;">
+<span style="float:left;">6:52 AM</span>
+<div>Indonesian judge rejects appeal from two Australian men due to be executed (Reuters)</div>
+</li>
+<li style="display:none;">
+<span style="float:left;">6:42 AM</span>
+<div>Cambodia deports outspoken Spanish environmental activist (AP)</div>
+</li>
+<li style="display:none;">
+<span style="float:left;">6:38 AM</span>
+<div>South Korea, U.S. to stage joint military exercises next month amid North Korean threats (DPA)</div>
+</li>
+<li style="display:none;">
+<span style="float:left;">5:43 AM</span>
+<div>U.S. surgeons separate 10-month-old conjoined twin girls (AP)</div>
+</li>
+<li style="display:none;">
+<span style="float:left;">2:56 AM</span>
+<div>OSCE says Ukraine cease-fire has lowered military exchanges (AP)</div>
+</li>
+<li style="display:none;">
+<span style="float:left;">2:28 AM</span>
+<div>Two men sentenced to 25 years in plot to attack Americans in Afghanistan (Reuters)</div>
+</li>
+<li style="display:none;">
+<span style="float:left;">2:13 AM</span>
+<div>U.S. names Randy Berry first-ever special international envoy for LGBT rights (DPA)</div>
+</li>
+<li style="display:none;">
+<span style="float:left;">1:10 AM</span>
+<div><p>
+<a href="http://www.haaretz.com/news/diplomacy-defense/1.643929" target="_blank">U.S. Senate Democrats invite Netanyahu to meeting during his visit to Washington next week (Reuters)</a></p>
+</div>
+</li>
+<li style="display:none;">
+<span style="float:left;">1:09 AM</span>
+<div>Ebola drug shows promise in first tests in West Africa (AP)</div>
+</li>
+<li style="display:none;">
+<span style="float:left;">12:55 AM</span>
+<div>Girl as young as 10 kills five in northeast Nigeria suicide bombing (AP)</div>
+</li>
+<li style="display:none;">
+<span style="float:left;">12:34 AM</span>
+<div>France's Hollande pledges to protect French Jewish community (AP)</div>
+</li>
+<li style="display:none;">
+<span style="float:left;">12:13 AM</span>
+<div>Maldives ex-president's detention extended; India, U.S. concerned (Reuters)</div>
+</li>
+<li style="display:none;">
+<span style="float:left;">11:56 PM</span>
+<div>Venezuela's ruling Socialists call for probe of additional opposition leader (Reuters)</div>
+</li>
+</ul>
+<a class="more-news" href="http://www.haaretz.com/misc/breakingnews"><span>More Breaking News</span><img src="/images/arrows/red-arrow.png" style="margin-left: 4px;"/></a>
+<div id="cb"></div>
+</div>
+<ul class="breadcrumbs">
+<span style="margin-left:5px;"></span> <li class=""><a href="http://www.haaretz.com/">Home</a></li>
+<li class=""><a href="http://www.haaretz.com/life">Life</a></li>
+<li class="last"><a href="http://www.haaretz.com/life/music-theater">Music &amp; Theater</a></li>
+</ul>
+<div class="" id="dclk_objects_100" name="PopUpSubscription" style="width:0px;height:0px;" title="anonymous"></div>
+</div>
+<!-- www/elementgroup.vm -->
+<div class="menu">
+<script>
+  try{
+if (typeof(tmo_util)!="object"){ tmo_util={}}
+tmo_util.stlMavran = function(_html,displayTime) {
+if((!isNaN(displayTime))&&(displayTime/1>0)) {setTimeout("tmo_util.dclk_hide_overlay()",displayTime*1000);}
+$("body").prepend(_html);
+}
+tmo_util.dclk_hide_overlay = function(){
+                if(parent.document.getElementById("dclk_overlay_2568471236")){parent.document.getElementById("dclk_overlay_2568471236").style.visibility='hidden';}
+                if(parent.document.getElementById("dclk_overlay_2568471236")){parent.document.getElementById("dclk_overlay_2568471236").innerHTML="";}
+                if(parent.document.getElementById("dclk_overlay_1892131985")){parent.document.getElementById("dclk_overlay_1892131985").style.visibility='hidden';}
+                if(parent.document.getElementById("dclk_overlay_1892131985")){parent.document.getElementById("dclk_overlay_1892131985").innerHTML="";}
+    if(parent.document.getElementById("dclk_overlay_25326957458")){parent.document.getElementById("dclk_overlay_25326957458").style.visibility='hidden';}
+                if(parent.document.getElementById("dclk_overlay_25326957458")){parent.document.getElementById("dclk_overlay_25326957458").innerHTML="";}
+    if(parent.document.getElementById("dclk_overlay_1892131986")){parent.document.getElementById("dclk_overlay_1892131986").style.visibility='hidden';}
+                if(parent.document.getElementById("dclk_overlay_1892131986")){parent.document.getElementById("dclk_overlay_1892131986").innerHTML="";}
+            parent.document.body.scroll = 'auto';
+            parent.document.body.style.overflowY = 'auto';
+               parent.document.getElementById("haaretz.com.web.maavaron").style.display = 'none';
+
+
+}
+  }catch(e){
+    logError("error in Maavaron script element", e);
+  }
+</script>
+<!--
+<script>
+if (typeof tmo_util != "object") {tmo_util = {};}
+if (typeof tmo_prop != "object") {tmo_prop = {};}
+
+tmo_util.stlPopUnder : function(adcode, specification,Targetwindow,pop,ife,Height,Width){
+
+                        tmo_prop.TM_PopUnder="off";
+                        tmo_prop.TM_PopUnderData=adcode
+                        tmo_prop.TM_PopUnderHeight=Height;
+                        tmo_prop.TM_PopUnderWidth=Width;
+                        tmo_prop.TM_Targetwindow=Targetwindow
+                        tmo_prop.TM_PopUnderSpecification=specification
+                        top.isPopDone_ = false; 
+
+                        window.TM_openWin = function(){
+                                    if (tmo_prop.TM_PopUnder=="off")
+                                    {
+                                                tmo_prop.TM_PopUnder="on"
+                                                myWindow=window.open('',tmo_prop.TM_Targetwindow,tmo_prop.TM_PopUnderSpecification);
+                                                myWindow.document.write('<html><head><title>&nbsp;Advertisement</title></head><body marginheight=0 marginwidth=0 leftmargin=0 topmargin=0>'+tmo_prop.TM_PopUnderData+'</body></html>');
+                                                if (!tmo_prop.IE){
+                                                            myWindow.window.open('about:blank').close();
+                                                }
+                                                if (pop="Pop-under"){
+                                                            myWindow.blur();
+                                                            window.focus();
+
+                                                }
+                                    }
+                        }
+                        
+                        if ( !tmo_prop.IE ) {
+                                    document.addEventListener("click", window.TM_openWin, false);
+                        }
+
+                        if (!tmo_prop.IE){
+                                    document.addEventListener("mouseup", function () {
+                                                if (top.isPopDone_) return; var rand = Math.random(); var a = document.createElement("a"); 
+                                                //a.target = "_tab" + rand.toString(); 
+                                                //a.href = "about:blank"; 
+                                                a.href = "data:text/html," + unescape('%3Cscript%3E') + "window.close();" + unescape('%3C/script%3E'),
+                                                document.getElementsByTagName("body")[0].appendChild(a); 
+                                                //document.body.appendChild(a); 
+                                                document.getElementsByTagName("body")[0].appendChild(a); 
+                                                var e = document.createEvent("MouseEvents"); 
+                                                e.initMouseEvent("click", true, true, window, 0, 0, 0, 0, 0, true, false, false, true, 0, null);
+                                                a.dispatchEvent(e);
+                                                a.parentNode.removeChild(a);
+                                                window.open("about:blank", "_tab" + rand.toString()).close();
+                                                top.isPopDone_ = true; 
+                                    }, false); 
+                        }
+                        else{
+                                    setTimeout(window.TM_openWin,250);
+                        
+                        }
+                        
+            },
+</script>
+-->
+<!--  
+<script>
+if (typeof tmo_util != "object") {tmo_util = {};}
+if (typeof tmo_prop != "object") {tmo_prop = {};}
+
+            
+            tmo_util.stlPopUnderURL = function(url, specification,Targetwindow,pop){
+                        tmo_prop.TM_PopUnder="off";
+                        tmo_prop.TM_Targetwindow=Targetwindow
+                        tmo_prop.TM_PopUnderSpecification=specification
+                        top.isPopDone_ = false; 
+                                                
+                        window.TM_openWin = function(){
+                                    if (tmo_prop.TM_PopUnder=="off")
+                                    {
+                                               tmo_prop.TM_PopUnder="on"
+                                                myWindow=window.open(url,tmo_prop.TM_Targetwindow,tmo_prop.TM_PopUnderSpecification);
+                                                if (!tmo_prop.IE){
+                                                            myWindow.window.open('about:blank').close();
+                                                }
+                                                if (pop="Pop-under"){
+                                                            myWindow.blur();
+                                                            window.focus();
+                                                }
+                                    }
+                        }
+                       
+                        if ( !tmo_prop.IE ) {
+                                    document.addEventListener("click", window.TM_openWin, false);
+                        }
+                        if (!tmo_prop.IE){
+                                    document.addEventListener("mouseup", function () {
+                                                if (top.isPopDone_) return; var rand = Math.random(); var a = document.createElement("a"); 
+                                                //a.target = "_tab" + rand.toString(); 
+                                                //a.href = "about:blank"; 
+                                                a.href = "data:text/html," + unescape('%3Cscript%3E') + "window.close();" + unescape('%3C/script%3E'),
+                                                document.getElementsByTagName("body")[0].appendChild(a); 
+                                                //document.body.appendChild(a); 
+                                                document.getElementsByTagName("body")[0].appendChild(a); 
+                                                var e = document.createEvent("MouseEvents"); 
+                                                e.initMouseEvent("click", true, true, window, 0, 0, 0, 0, 0, true, false, false, true, 0, null);
+                                                a.dispatchEvent(e);
+                                                a.parentNode.removeChild(a);
+                                                window.open("about:blank", "_tab" + rand.toString()).close();
+                                                top.isPopDone_ = true; 
+                                    }, false); 
+                        }
+                        else{
+                                    setTimeout(window.TM_openWin,250);
+                        }           
+            
+            }
+  </script> 
+-->
+<div class="" id="haaretz.com.web.maavaron" style="">
+<script type="text/javascript">
+							if (sendRequestToDFP('nonPaying', 'haaretz.com.web.maavaron')) {
+								adUnit('haaretz.com.web.maavaron').show();
+							}
+						</script>
+</div>
+<div class="" id="haaretz.com.web.popunder" style="">
+<script type="text/javascript">
+							if (sendRequestToDFP('nonPaying', 'haaretz.com.web.popunder')) {
+								adUnit('haaretz.com.web.popunder').show();
+							}
+						</script>
+</div>
+</div>
+<!-- 0 -->
+</div>
+<div class="article" id="main">
+<script src="/js/external_packages/ga_social_tracking.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<link href="https://sso.haaretz.com/sso/script/submodal.css" rel="stylesheet" type="text/css"/>
+<script src="https://sso.haaretz.com/sso/script/submodalsource.js" type="text/javascript"></script>
+<div class="twocolumns" id="threecolumns">
+<div class="" id="content">
+<!-- articlebody.vm -->
+<!-- standardarticle.vm -->
+<script language="javascript">
+        jQuery().ready(function() {
+            initServiceInstanceId('1.643538');
+        });
+        </script>
+<!-- google_ad_section_start -->
+<div class="main-news article_page_main_margin">
+<h1 class="article_page_h1_margin" itemprop="headline">
+    			    			Report: Madonna in talks over buying luxury vacation home in Tel Aviv</h1>
+<h2 itemprop="description">Natalie Portman has also shown interest in the uber-modern Meier-on-Rothschild Tower, the Mail Online reports.</h2>
+<div class="authorBar">
+<span class="autorBarWriters" itemprop="author">
+<span class="writer">
+						By
+																																												<a href="http://www.haaretz.com/misc/writers/haaretz-1.367584" rel="author"><span>Haaretz</span></a> </span>
+		    			 				 					|
+				 				</span>
+<span class="date"><meta content="2015-02-21" itemprop="datePublished">
+						Feb. 21, 2015 | 11:44 PM</meta></span>
+									|
+    				<img src="/images/icons/comment.png"/>
+<span class="commentsCount">5</span>
+</div>
+</div>
+<div class="fblike">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td style="padding-top:4px" valign="top"><g:plusone size="medium"></g:plusone></td>
+<td style="padding-top:4px" valign="top">
+<a class="twitter-share-button" data-counturl="http://www.haaretz.com/life/music-theater/1.643538" data-lang="en" data-text="Report: Madonna in talks over buying luxury vacation home in Tel Aviv" data-url="http://www.haaretz.com/life/music-theater/1.643538" href="https://twitter.com/share">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</td>
+<td style="padding-top:4px"><su:badge layout="3"></su:badge></td>
+<td style="padding-left:5px;padding-top:4px"><a href="//www.reddit.com/submit" onclick="window.location = '//www.reddit.com/submit?url=' + encodeURIComponent(window.location); return false">
+<img alt="submit to reddit" border="0" src="//www.reddit.com/static/spreddit7.gif"/> </a></td>
+<td id="fbtd" style="padding-left:5px;padding-top:4px" valign="top"><fb:like action="recommend" font="verdana" href="http://www.haaretz.com/life/music-theater/1.643538" layout="button_count" send="true" show_faces="false" width="480"></fb:like></td>
+</tr>
+</table>
+</div>
+<script type="text/javascript">
+              (function() {
+                var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
+                li.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//platform.stumbleupon.com/1/widgets.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s);
+              })();
+          </script>
+<div class="articleBody">
+<div id="innerArticle" name="innerArticle">
+<div class="imageContainer" style="width: 640px;">
+<img alt="Madonna (right) and a penthouse at the Meier-on-Rothschild Tower in Tel Aviv." class="" itemprop="image" src="/polopoly_fs/1.643542.1424558040!/image/2929771547.jpg_gen/derivatives/landscape_640/2929771547.jpg" title="Madonna (right) and a penthouse at the Meier-on-Rothschild Tower in Tel Aviv."/> <div class="imageBottomLineWrapper">
+<div class="content_container">
+<span class="imageText">Madonna (right) and a penthouse at the Meier-on-Rothschild Tower in Tel Aviv.</span>
+<span class="imageCredit">Photo by AP and View Point</span>
+</div>
+</div>
+</div>
+<div id="mobiles-buttons-wrapper">
+<div class="mobile-button">
+<a href="http://itunes.apple.com/us/app/haaretz-english-edition-new/id504537897" target="_blank"><img src="/images/btn/iPhone-btn.png"/></a>
+</div>
+<div class="mobile-button middle-button">
+<a href="http://play.google.com/store/apps/details?id=com.opentech.haaretz" target="_blank"><img src="/images/btn/Android-btn.png"/></a>
+</div>
+<div class="mobile-button">
+<a href="http://itunes.apple.com/app/haaretz-english-edition-for/id500132377" target="_blank"><img src="/images/btn/iPad-bttn.png"/></a>
+</div>
+<div class="cb"></div>
+</div>
+<div id="articleContentAndWidgetsContainer">
+<div class="articleServices">
+<script src="http://s7.addthis.com/js/300/addthis_widget.js?pub=xa-4a277571579109cb" type="text/javascript"></script>
+<div class="servicesList">
+<div class="service-text-size">
+<span class="text-size">Text size</span>
+<img id="decrease" src="/images/icons/A-.png"/>
+<img id="increase" src="/images/icons/A+.png"/>
+<div class="cb"></div>
+</div>
+<div class="service-link-box">
+<a href="#article_comments">
+<img src="/images/icons/comments_icn.png"/>
+<span class="text-content">Comments (5)</span>
+</a>
+</div>
+<div class="service-link-box">
+<a href="http://www.haaretz.com/misc/article-print-page/1.643538?trailingPath=2.169%2C2.1246%2C2.305%2C" target="_blank">
+<img src="/images/icons/Print_icn.png"/>
+<span class="text-content">Print Page</span>
+</a>
+</div>
+<div class="service-link-box">
+<a href="javascript:return addthis_sendto('email');" onclick="return addthis_sendto('email');">
+<img src="/images/icons/SendToFriend_icn.png"/>
+<span class="text-content">Send to friend</span>
+</a>
+</div>
+<div class="service-link-box">
+<a href="#" onclick="return addthis_sendto('facebook');">
+<img src="/images/icons/Fb-icn.png"/>
+<span class="text-content">
+						Share on Facebook
+				</span>
+</a>
+</div>
+<div class="service-link-box">
+<a addthis:title="Report: Madonna in talks over buying luxury vacation home in Tel Aviv" addthis:url="http://www.haaretz.com/life/music-theater/1.643538" class="addthis_button_twitter" href="#">
+<img src="/images/icons/twitter-icn.png"/>
+<span class="text-content">Share on Twitter</span>
+</a>
+</div>
+<div class="service-link-box">
+<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=300">
+<img src="/images/icons/Share_icn.png"/>
+<span class="text-content">Share</span>
+</a>
+<script type="text/javascript">
+	                var addthis_options = 'delicious,stumbleupon, facebook, myspace, twitter, ask, digg, fark, reddit, more';
+	                var addthis_brand = "HAARETZ.com";
+	                var addthis_header_color = "#ffffff";
+	                var addthis_header_background = "#0099ff";
+	            </script>
+</div></div></div></div></div></div></div></div></div></div></div></div></div></body></html>
+
+
+<div class="tags-box">
+<div class="service-title">related tags</div>
+<div class="tags_container">
+<div class="tag_container">
+<a href="/misc/tags/Madonna-1.477822" style="text-decoration:underline">Madonna</a>
+</div>
+<div class="tag_container">
+<a href="/misc/tags/Tel Aviv-1.477112" style="text-decoration:underline">Tel Aviv</a>
+</div>
+</div>
+</div>
+
+<div class="articleMedia">
+<div class="advertisement">
+<div class="advertisement_title">
+<div class="advertisemnet_top_spacer"></div>
+<div class="advertisement_title_text"></div>
+<div class="advertisemnet_top_spacer"></div>
+<div class="cb"></div>
+<div class="" id="haaretz.com.web.box.articles" style="">
+<script type="text/javascript">
+							if (sendRequestToDFP('all', 'haaretz.com.web.box.articles')) {
+								adUnit('haaretz.com.web.box.articles').show();
+							}
+						</script>
+</div>
+</div>
+<div class="advertisement_footer"></div>
+</div>
+<div class="relatedArticles">
+<div class="related_articles_title">related articles</div>
+<div class="related_article_container">
+<div class="related_article_title_link"><a href="http://www.haaretz.com/life/movies-television/.premium-1.640752">Hollywood in the Holy Land: Where movies were filmed in Israel </a></div>
+<div class="related_article_authors_time">
+<span class="writer">
+						By
+																										<span>Marty Friedlander</span> </span>
+<span class="pipe-line_delimiter"> | </span> Feb. 4, 2015 | 12:35 PM
+    													    												</div>
+</div>
+</div>
+</div>
+<div style="float: right; clear: both; margin-left: 18px;">
+<div class="" id="haaretz.com.web.verticalbanner.article" style="">
+<script type="text/javascript">
+							if (sendRequestToDFP('all', 'haaretz.com.web.verticalbanner.article')) {
+								adUnit('haaretz.com.web.verticalbanner.article').show();
+							}
+						</script>
+</div>
+</div>
+<!--INFOLINKS_ON-->
+<!--  xx1-->
+<div>
+<meta itemprop="articleBody">
+<p> <a href="http://www.haaretz.com/misc/tags/Madonna-1.477822" target="_blank">Madonna</a> is in talks over buying a luxury vacation home in the uber-modern Meier-on-Rothschild Tower, the Mail Online reports.
+						
+						</p>
+<p>	The iconic 42-story tower is designed by Pritzker Prize-winning architect Richard Meier, whose previous achievements include the Barcelona Museum of Art and the Getty Center in Los Angeles.
+						
+						</p>
+<p>	The 590ft-high glass, steel and white aluminum-clad block includes 141 apartments and penthouses, with private terraces. Meier’s modernist design was recently described by Forbes as one of the world's tallest luxury residential towers.
+						
+						</p>
+<p>	Madonna was photographed with the development's brochure when the project was first announced in 2013, according to the Mail Online. As construction on the project is nearing completion, Madonna has reopened discussions over the purchase.
+						
+						</p>
+<p>	Madonna’s ties with Israel are well known. The singer, also known as Esther, is a follower of kabbala and has visited Israel several times in recent years. She even opened her 2012 world tour in Tel Aviv.
+						
+						</p>
+<p>	Citing a source close to the project, the Mail Online also reported that Israeli-born American actress Natalie Portman has also shown interest in buying an apartment in the building.
+						
+						</p>
+<p> <img border="0" height="300" src="http://www.haaretz.co.il/st/inter/Heng/news/images/penthouse.jpg" width="460"/><em><strong>An apartment at the Meier-on-Rothschild Tower (View Point)</strong></em>
+</p>
+<p>	The website reported that largest penthouse in the tower, named “the Palace in the Sky,” is on sale for £36 million (roughly $55 million). The 15,263 square feet of luxurious living space feature a private elevator, huge entertaining areas, a 12-seater dining room, a large kitchen/breakfast room, two terraces, a private gym, cocktail bar, cinema, mini-spa and a private outdoor swimming pool.
+						
+						</p>
+</meta></div>
+<!--INFOLINKS_OFF-->
+<div class="cb"></div>
+
+
+<script type="text/javascript">
+                   var ssoValue = getCookie("engsso");
+                   var activityValue=getCookie("ssoLastActivity");
+                   if (activityValue == null && ssoValue != null && ssoDomain != null){
+                   		jQuery.ajax({
+                    		url: 	ssoDomain + "/r/logUserLastActivity",
+							dataType: 'script',
+                    		type	: "GET",
+                    		success : function(data, status) {
+                			}
+                    	});
+                   }			   
+            </script>
+<div class="bottomBanners">
+<div class="" id="haaretz.com.web.fullbanner.endopenarticle" style="">
+<script type="text/javascript">
+							if (sendRequestToDFP('all', 'haaretz.com.web.fullbanner.endopenarticle')) {
+								adUnit('haaretz.com.web.fullbanner.endopenarticle').show();
+							}
+						</script>
+</div>
+<div class="cb"></div>
+</div>
+ <!-- google_ad_section_end -->
+<div class="inread" id="haaretz.com.web.inread.article" style="">
+<script type="text/javascript">
+							if (sendRequestToDFP('nonPaying', 'haaretz.com.web.inread.article')) {
+								adUnit('haaretz.com.web.inread.article').show();
+							}
+						</script>
+</div>
+<b>To get the latest from Haaretz</b>
+<a class="twitter-follow-button" data-show-count="false" href="https://twitter.com/haaretzcom">Follow @Haaretzom</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<br>
+<b>Like us on Facebook and get articles directly in your news feed</b>
+<div class="fb-like" data-font="arial" data-href="https://www.facebook.com/haaretzcom" data-layout="button_count" data-send="false" data-show-faces="false" data-width="80"></div>
+<div class="OUTBRAIN" data-ob-template="haaretz" data-src="http://www.haaretz.com/life/music-theater/1.643538" data-widget-id="AR_2"></div>
+<script src="http://widgets.outbrain.com/outbrain.js" type="text/javascript"></script>
+<!-- www/elementgroup.vm -->
+<div class="menu twocols" style="float: left;">
+<a name="article_comments"></a>
+<div class="commentsTile">comments</div>
+<div class="talkbacks" id="mainTalkbackFormBox">
+<form action="http://www.haaretz.com/life/music-theater/1.643538#commentsForm-643538" class="form-talkbacks back-1" id="mainTalkbackForm" method="post">
+<input name="commentsId" type="hidden" value="7.1264609.1424562783">
+<input name="articleId" type="hidden" value="1.643538">
+<input id="parentCommentId" name="parentCommentId" type="hidden" value="0">
+<input id="callbackMsgId" name="callbackMsgId" type="hidden" value="0">
+<input name="action" type="hidden" value="CREATE_COMMENT"/>
+<input class="reset" name="clear" type="reset" value="Clear"/>
+<input name="ajax" type="hidden" value="true"/>
+<input name="formId" type="hidden" value="mainTalkbackForm"/>
+<input id="comment_author" name="comment_author" type="hidden"/>
+<input id="facebookUID" name="facebookUID" type="hidden" value=""/>
+<fieldset>
+<h3></h3>
+<div class="facebookUserLoggedOut" style="display:none;">
+<div class="row">
+<label>Name </label>
+<input class="text loggedOut" name="comment_author_notLoggedIn" type="text" value=""/>
+</div>
+<p style="padding-top:2px; display: none;">
+<span style="margin-right:25px;">Or login and comment using:</span>
+<b style="line-height:38px;"><fb:login-button width="500"></fb:login-button></b><!-- - <a href="#">What is this?</a> -->
+</p>
+</div>
+<!-- <div class="user-box facebookUserLoggedIn"  style="display:none;">
+					<div class="avatar">
+						<fb:profile-pic uid='loggedinuser'></fb:profile-pic>
+					</div>
+					<div class="facebook-text-holder">
+						<h4 id="fbusername"><fb:name uid="loggedinuser" useyou="false" linked="true"></fb:name></h4>
+						<p><a href="#" class="displayAnonymous">Click here</a> to add an anonymous talkback</p>
+					</div>
+				</div> -->
+<div class="name-and-pic facebookAnonymousUser fbError" style="display:none;">
+<div class="row">
+<label>Name</label>
+<input class="text anonymous" maxlength="50" name="comment_author_anonymous" type="text" value=""/>
+</div>
+<p>or use your <a class="displayFacebookData" href="#">name and picture</a></p>
+</div>
+<div class="row">
+<label>Subject</label>
+<input class="text" id="comment_title" maxlength="140" name="comment_title" type="text" value=""/>
+</div>
+<div class="row">
+<label>Comment</label>
+<textarea class="text" cols="1" id="comment_text" name="comment_text" onfocus="if(this.value == 'Your comment here') this.value='';" rows="1">Your comment here</textarea>
+</div>
+<span class="terms">By adding a comment i agree to this site’s 
+					 <a href="/haaretz-site-rules">
+<span class="termsOfUseLink"> Terms of use</span>
+</a>
+</span>
+<div class="btn-holder">
+<input class="btn-send" type="submit" value="Send">
+</input></div>
+<img class="inProgress" src="/images/ajax_loader.gif"/>
+<div class="fieldsError">
+<div class="commentError authorError"></div>
+<div class="commentError titleError" name=""></div>
+<div class="commentError serverError"></div>
+</div>
+<div class="cb"></div>
+</fieldset>
+<div class="cb"></div>
+</input></input></input></input></form>
+</div>
+<form action="http://www.haaretz.com/life/music-theater/1.643538#commentsForm-643538" class="form-talkbacks back-1" id="innerTalkbackFormTemplate" method="post">
+<input name="commentsId" type="hidden" value="7.1264609.1424562783">
+<input name="articleId" type="hidden" value="1.643538">
+<input id="parentCommentId" name="parentCommentId" type="hidden" value="0">
+<input id="callbackMsgId" name="callbackMsgId" type="hidden" value="0">
+<input name="action" type="hidden" value="CREATE_COMMENT"/>
+<input class="reset" name="clear" type="reset" value="Clear"/>
+<input name="ajax" type="hidden" value="true"/>
+<input name="formId" type="hidden" value="innerTalkbackFormTemplate"/>
+<input id="comment_author" name="comment_author" type="hidden"/>
+<input id="facebookUID" name="facebookUID" type="hidden" value=""/>
+<fieldset>
+<h3>REPLY TO THIS TALKBACK</h3>
+<div class="facebookUserLoggedOut" style="display:none;">
+<div class="row">
+<label>Name </label>
+<input class="text loggedOut" name="comment_author_notLoggedIn" type="text" value=""/>
+</div>
+<p style="padding-top:2px; display: none;">
+<span style="margin-right:25px;">Or login and comment using:</span>
+<b style="line-height:38px;"><fb:login-button width="500"></fb:login-button></b><!-- - <a href="#">What is this?</a> -->
+</p>
+</div>
+<!-- <div class="user-box facebookUserLoggedIn"  style="display:none;">
+					<div class="avatar">
+						<fb:profile-pic uid='loggedinuser'></fb:profile-pic>
+					</div>
+					<div class="facebook-text-holder">
+						<h4 id="fbusername"><fb:name uid="loggedinuser" useyou="false" linked="true"></fb:name></h4>
+						<p><a href="#" class="displayAnonymous">Click here</a> to add an anonymous talkback</p>
+					</div>
+				</div> -->
+<div class="name-and-pic facebookAnonymousUser fbError" style="display:none;">
+<div class="row">
+<label>Name</label>
+<input class="text anonymous" maxlength="50" name="comment_author_anonymous" type="text" value=""/>
+</div>
+<p>or use your <a class="displayFacebookData" href="#">name and picture</a></p>
+</div>
+<div class="row">
+<label>Subject</label>
+<input class="text" id="comment_title" maxlength="140" name="comment_title" type="text" value=""/>
+</div>
+<div class="row">
+<label>Comment</label>
+<textarea class="text" cols="1" id="comment_text" name="comment_text" onfocus="if(this.value == 'Your comment here') this.value='';" rows="1">Your comment here</textarea>
+</div>
+<span class="terms">By adding a comment i agree to this site’s 
+					 <a href="/haaretz-site-rules">
+<span class="termsOfUseLink"> Terms of use</span>
+</a>
+</span>
+<div class="btn-holder">
+<input class="btn-send" type="submit" value="Send">
+</input></div>
+<img class="inProgress" src="/images/ajax_loader.gif"/>
+<div class="fieldsError">
+<div class="commentError authorError"></div>
+<div class="commentError titleError" name=""></div>
+<div class="commentError serverError"></div>
+</div>
+<div class="cb"></div>
+</fieldset>
+<div class="cb"></div>
+</input></input></input></input></form>
+<div class="talkbacks callbackMsg0" id="mainCommentsReplyAgain">
+<p class="thankscallbackMsg0">thank you</p>
+<p class="h4">
+		Your talkback has been submitted successfully. <br/>If selected for publication, it will appear as soon as possible on Haaretz.com.
+	</p>
+<a href="#">Reply again</a>
+</div>
+<link href="/css/talkbacks.css?VersionNumber.0030_02_03_V1" media="all" rel="stylesheet" type="text/css"/>
+<noscript>
+<link href="/css/talkbacks_noscript.css?VersionNumber.0030_02_03_V1" media="all" rel="stylesheet" type="text/css"/>
+</noscript>
+<script language="javascript">
+jQuery().ready(function() {
+    Haaretz.Comment.initialize('7.1264609', '/2.169/2.1246/2.305/1.643538', true);
+});
+</script>
+<div class="leftcol tabs">
+<ul class="tabset" id="commentsTabset">
+<li id="date"><a class="tab active" href="#comtab1"><span>LATEST</span></a></li>
+<li id="view"><a class="tab" href="#comtab2"><span>MOST VIEWED</span></a></li>
+<li id="rate"><a class="tab" href="#comtab3"><span>HIGHEST RATED</span></a></li>
+<li id="toggle_open"><span class="tab" id="openCloseComments">Open All</span></li>
+</ul>
+<script language="javascript">
+            jQuery().ready(function() {
+				$('#comments_banner_wrapper').css('overflow', "");
+            });
+            </script>
+<!--div name="468x60.adpos=02" id="dclk_objects_15" style="display:none;" title="all"></div-->
+<div class="talkback" id="commentsTab">
+<ul class="post">
+<li class=" mainComment" date="4" rate="12" view="17">
+<div class="post-holder commentItem">
+<span class="number">04</span>
+<span class="rating" style="display:block;">
+<span class="top rateCommentPlus ratingPlusBigger ratingplus19.3967960 ratingBtn19.3967960" id="tab-${tabNum}-rateup-19.3967960">11</span>
+<span class="bt rateCommentMinus ratingMinusSmaller ratingminus19.3967960 ratingBtn19.3967960" id="tab-${tabNum}-ratedown-19.3967960">1</span>
+<div class="viewCommentNoJS" style="font-size:12px; padding-left: 10px; float: left; clear: both;">
+<a href="http://www.haaretz.com/misc/comment-page/there-goes-the-neighborhood-19.3967960">View &gt;</a>
+</div>
+</span>
+<div class="text">
+<strong class="h3 article_page_comments_title_to_text_margin"><a class="commentTitle" href="#" id="comment-19.3967960">There goes the neighborhood!</a></strong>
+<ul class="meta">
+<li class="by">
+    			    				By Shimon
+    						</li>
+<li class="createdate">22 Feb 2015</li>
+<li class="createtime">02:53PM</li>
+</ul>
+<div class="slide">
+<div class="text-holder">
+<p></p> </div>
+<ul class="options">
+<li>
+<a class="replyComment" href="#" id="tab-${tabNum}-parentid-19.3967960-commentid-19.3967960">Reply to this talkback</a>
+</li>
+<!-- <li><a href="#">Report abuse </a></li> -->
+</ul>
+<div class="thankYou callbackMsg19.3967960 h4">
+<div class="thanks">thank you</div>
+<div class="thanksContent">Your talkback has been submitted successfully. <br/>If selected for publication, it will appear as soon as possible on Haaretz.com.</div>
+<div class="puButton close" id="close-19.3967960">
+<div class="puRight"></div>
+<div class="puMiddle">Close</div>
+<div class="puLeft"></div>
+<div class="cb"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- Banner 468x60 Place -->
+</div>
+<div class="relatedCommentsHolder">
+<ul class="answers">
+</ul>
+</div>
+</li>
+<li class=" mainComment" date="3" rate="13" view="25">
+<div class="post-holder commentItem">
+<span class="number">03</span>
+<span class="rating" style="display:block;">
+<span class="top rateCommentPlus ratingPlusBigger ratingplus19.3967865 ratingBtn19.3967865" id="tab-${tabNum}-rateup-19.3967865">12</span>
+<span class="bt rateCommentMinus ratingMinusSmaller ratingminus19.3967865 ratingBtn19.3967865" id="tab-${tabNum}-ratedown-19.3967865">1</span>
+<div class="viewCommentNoJS" style="font-size:12px; padding-left: 10px; float: left; clear: both;">
+<a href="http://www.haaretz.com/misc/comment-page/circus-will-jesus-come-after-her-19.3967865">View &gt;</a>
+</div>
+</span>
+<div class="text">
+<strong class="h3 article_page_comments_title_to_text_margin"><a class="commentTitle" href="#" id="comment-19.3967865">circus, will Jesus come after her</a></strong>
+<ul class="meta">
+<li class="by">
+    			    				By brk
+    						</li>
+<li class="createdate">22 Feb 2015</li>
+<li class="createtime">10:19AM</li>
+</ul>
+<div class="slide">
+<div class="text-holder">
+<p></p> </div>
+<ul class="options">
+<li>
+<a class="replyComment" href="#" id="tab-${tabNum}-parentid-19.3967865-commentid-19.3967865">Reply to this talkback</a>
+</li>
+<!-- <li><a href="#">Report abuse </a></li> -->
+</ul>
+<div class="thankYou callbackMsg19.3967865 h4">
+<div class="thanks">thank you</div>
+<div class="thanksContent">Your talkback has been submitted successfully. <br/>If selected for publication, it will appear as soon as possible on Haaretz.com.</div>
+<div class="puButton close" id="close-19.3967865">
+<div class="puRight"></div>
+<div class="puMiddle">Close</div>
+<div class="puLeft"></div>
+<div class="cb"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- Banner 468x60 Place -->
+</div>
+<div class="relatedCommentsHolder">
+<ul class="answers">
+</ul>
+</div>
+</li>
+<li class=" mainComment" date="2" rate="13" view="21">
+<div class="post-holder commentItem">
+<span class="number">02</span>
+<span class="rating" style="display:block;">
+<span class="top rateCommentPlus ratingPlusSmaller ratingplus19.3967852 ratingBtn19.3967852" id="tab-${tabNum}-rateup-19.3967852">3</span>
+<span class="bt rateCommentMinus ratingMinusBigger ratingminus19.3967852 ratingBtn19.3967852" id="tab-${tabNum}-ratedown-19.3967852">10</span>
+<div class="viewCommentNoJS" style="font-size:12px; padding-left: 10px; float: left; clear: both;">
+<a href="http://www.haaretz.com/misc/comment-page/the-real-reason-for-the-housing-problems-19.3967852">View &gt;</a>
+</div>
+</span>
+<div class="text">
+<strong class="h3 article_page_comments_title_to_text_margin"><a class="commentTitle" href="#" id="comment-19.3967852">the real reason for the housing problems</a></strong>
+<ul class="meta">
+<li class="by">
+    			    				By zionist forever
+    						</li>
+<li class="createdate">22 Feb 2015</li>
+<li class="createtime">09:06AM</li>
+</ul>
+<div class="slide">
+<div class="text-holder">
+<p>Foreigners wanting vacation homes brings millions into the country every year, the richer foreigners creating a feeling the demand for luxury buildings and the poorer ones buying the more affordable apartments that are in the price range of ordinary Israelis/ The housing boom has been spurred largely by an increase of richer olim from Western Europe wanting luxury which is the most profitable for developers so thats what they build and often buy old buildings, pull them down and build luxury buildings. The richer olim are also more likely to have money to buy ordinary apartments and olim get special mortgages as part of their alliyah ebenfits package which are on better terms than the banks give Israelis so they are buying the more affordable apartments and with an influx of olim from Europe over the last 3-4 years its contributed towards a property boom which has driven up prices.</p> </div>
+<ul class="options">
+<li>
+<a class="replyComment" href="#" id="tab-${tabNum}-parentid-19.3967852-commentid-19.3967852">Reply to this talkback</a>
+</li>
+<!-- <li><a href="#">Report abuse </a></li> -->
+</ul>
+<div class="thankYou callbackMsg19.3967852 h4">
+<div class="thanks">thank you</div>
+<div class="thanksContent">Your talkback has been submitted successfully. <br/>If selected for publication, it will appear as soon as possible on Haaretz.com.</div>
+<div class="puButton close" id="close-19.3967852">
+<div class="puRight"></div>
+<div class="puMiddle">Close</div>
+<div class="puLeft"></div>
+<div class="cb"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- Banner 468x60 Place -->
+</div>
+<div class="relatedCommentsHolder">
+<ul class="answers">
+</ul>
+</div>
+</li>
+<li class=" mainComment" date="1" rate="22" view="47">
+<div class="post-holder commentItem">
+<span class="number">01</span>
+<span class="rating" style="display:block;">
+<span class="top rateCommentPlus ratingPlusBigger ratingplus19.3967785 ratingBtn19.3967785" id="tab-${tabNum}-rateup-19.3967785">19</span>
+<span class="bt rateCommentMinus ratingMinusSmaller ratingminus19.3967785 ratingBtn19.3967785" id="tab-${tabNum}-ratedown-19.3967785">3</span>
+<div class="viewCommentNoJS" style="font-size:12px; padding-left: 10px; float: left; clear: both;">
+<a href="http://www.haaretz.com/misc/comment-page/boycott-madonna-19.3967785">View &gt;</a>
+</div>
+</span>
+<div class="text">
+<strong class="h3 article_page_comments_title_to_text_margin"><a class="commentTitle" href="#" id="comment-19.3967785">Boycott Madonna</a></strong>
+<ul class="meta">
+<li class="by">
+    			    				By American Patriot
+    						</li>
+<li class="createdate">22 Feb 2015</li>
+<li class="createtime">01:53AM</li>
+</ul>
+<div class="slide">
+<div class="text-holder">
+</div>
+<ul class="options">
+<li>
+<a class="replyComment" href="#" id="tab-${tabNum}-parentid-19.3967785-commentid-19.3967785">Reply to this talkback</a>
+</li>
+<!-- <li><a href="#">Report abuse </a></li> -->
+</ul>
+<div class="thankYou callbackMsg19.3967785 h4">
+<div class="thanks">thank you</div>
+<div class="thanksContent">Your talkback has been submitted successfully. <br/>If selected for publication, it will appear as soon as possible on Haaretz.com.</div>
+<div class="puButton close" id="close-19.3967785">
+<div class="puRight"></div>
+<div class="puMiddle">Close</div>
+<div class="puLeft"></div>
+<div class="cb"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- Banner 468x60 Place -->
+</div>
+<div class="relatedCommentsHolder">
+<ul class="answers">
+<li class="commentItem">
+<span class="rating" style="display:block;">
+<span class="top rateCommentPlus ratingPlusSmaller ratingplus19.3967854 ratingBtn19.3967854" id="tab-${tabNum}-rateup-19.3967854">1</span>
+<span class="bt rateCommentMinus ratingMinusBigger ratingminus19.3967854 ratingBtn19.3967854" id="tab-${tabNum}-ratedown-19.3967854">13</span>
+<div class="viewCommentNoJS" style="font-size:12px; padding-left: 10px; float: left; clear: both;">
+<a href="http://www.haaretz.com/misc/comment-page/amarican-patriot-19.3967854">View &gt;</a>
+</div>
+</span>
+<div class="text">
+<strong class="h3 article_page_comments_title_to_text_margin"><a class="commentTitle" href="#" id="comment-19.3967854">Amarican Patriot</a></strong>
+<ul class="meta">
+<li class="by">
+    			    				By zionist forever
+    						</li>
+<li class="createdate">22 Feb 2015</li>
+<li class="createtime">09:14AM</li>
+</ul>
+<div class="slide">
+<div class="text-holder">
+<p>Why because she has money and she wants to spend it on a luxury vacation home in Israel? Really must end this politics of envy.</p> </div>
+<ul class="options">
+<li>
+<a class="replyComment" href="#" id="tab-${tabNum}-parentid-19.3967785-commentid-19.3967854">Reply to this talkback</a>
+</li>
+<!-- <li><a href="#">Report abuse </a></li> -->
+</ul>
+<div class="thankYou callbackMsg19.3967854 h4">
+<div class="thanks">thank you</div>
+<div class="thanksContent">Your talkback has been submitted successfully. <br/>If selected for publication, it will appear as soon as possible on Haaretz.com.</div>
+<div class="puButton close" id="close-19.3967854">
+<div class="puRight"></div>
+<div class="puMiddle">Close</div>
+<div class="puLeft"></div>
+<div class="cb"></div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<script>
+		var talkbackBanner = "Haaretz.com.Web.FullBanner.TalkBack";
+		if (typeof talkbackBanner != 'undefined' && talkbackBanner != null){
+			talkbackBanner = talkbackBanner.toLowerCase();
+		}
+	</script>
+<div id="comments_banner_wrapper" style="display:none">
+<div class="" id="haaretz.com.web.fullbanner.talkback" style="">
+<script type="text/javascript">
+							if (sendRequestToDFP('all', 'haaretz.com.web.fullbanner.talkback')) {
+								adUnit('haaretz.com.web.fullbanner.talkback').show();
+							}
+						</script>
+</div>
+</div>
+</div>
+<div class="rightcol ads" id="haaretz.com.web.skyscraper.article" style="float: right;width: 160px;padding-top:20px">
+<script type="text/javascript">
+							if (sendRequestToDFP('all', 'haaretz.com.web.skyscraper.article')) {
+								adUnit('haaretz.com.web.skyscraper.article').show();
+							}
+						</script>
+</div>
+<!-- 0 -->
+<!-- buzzfeed script -->
+<div id="BF_WIDGET_1"> </div>
+<script type="text/javascript">
+(function( ){
+BF_WIDGET_JS=document.createElement("script"); BF_WIDGET_JS.type="text/javascript";
+BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=haaretz.com&to=1&or=vb&wid=1&cb=" + (new Date()).getTime();
+setTimeout(function() {document.getElementById("BF_WIDGET_1").appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);
+})();
+</script>
+<div class="" id="haaretz.com.web.box.below_talkback" style="">
+<script type="text/javascript">
+							if (sendRequestToDFP('all', 'haaretz.com.web.box.below_talkback')) {
+								adUnit('haaretz.com.web.box.below_talkback').show();
+							}
+						</script>
+</div>
+<!-- 
+<div id="nmWidgetContainer" data-client="693"></div>
+<script src="http://cdn.nmcdn.us/js/connect.js"></script>
+<script type="text/javascript">
+NM.init({ClientID: 693});
+</script> 
+-->
+</br>
+<div class="aside">
+<a href="http://htz.li/1Cz" target="blank"><img border="0" src="http://www.haaretz.com/st/c/static/eng/2015/img/PollCentral-300X200.png"/></a>
+<div class="" id="haaretz.com.web.3:1rectangle.1" style="text align:center;margin-bottom:15px;margin-top:15px;font-size:0">
+<script type="text/javascript">
+							if (sendRequestToDFP('nonPaying', 'haaretz.com.web.3:1rectangle.1')) {
+								adUnit('haaretz.com.web.3:1rectangle.1').show();
+							}
+						</script>
+</div>
+<div class="listUpperLine haaretz_select">
+<div class="titleAndMore" style="position: relative;">
+<div class="listTitle">
+<span>Haaretz Select</span>
+</div>
+</div>
+<div class="cb"></div>
+</div>
+<div class="cb"></div>
+<div class="listUnderLine listUnderLine_black"></div>
+<a name="listAnchor7.979425"></a>
+<div class="posts posts-stories haaretz-select-list ">
+<div class="htzTeaser haaretz_selectTeaser first" itemposition="1">
+<div class="playerIcon"></div>
+<div class="textHolder">
+<div class="teaserTitle">
+<div class="mainImage">
+<div class="mainImageIcon"></div>
+<a class="mainImageAnchor" href="http://www.haaretz.com/blogs/west-of-eden/.premium-1.643904" target="">
+<img alt="Former N.Y.C. Mayor Rudy Giuliani speaks before protestors outside the Metropolitan Opera." class="" height="164" src="/polopoly_fs/1.621888.1424725400!/image/3693713357.jpg_gen/derivatives/landscape_282/3693713357.jpg" style="" title="Former N.Y.C. Mayor Rudy Giuliani speaks before protestors outside the Metropolitan Opera." width="282"/> </a>
+</div>
+<div class="TitleSection">
+</div>
+<a class="teaserLeadTitle" href="http://www.haaretz.com/blogs/west-of-eden/.premium-1.643904" target="">				
+									    				        				Giuliani yearns for a love like Netanyahu’s
+    																	<div class="premium_key_image"></div>
+</a>
+<div class="teaserText oh ">
+<div class="oh">
+<a href="http://www.haaretz.com/blogs/west-of-eden/.premium-1.643904" target="">
+					  The former NY mayor's comments would pass unnoticed in Israel, where the right routinely casts doubt on the left's patriotism.<img class="haaretz_selectTeaser first" id="haaretzEditorialRedArrow" src="/images/arrows/RedArwRight.png"/>
+</a>
+<div class="authorBar">
+<span class="authorBarElement Writers">
+					By 																		<span class="autorBarWriters">Chemi Shalev
+						</span> </span>
+<span>|</span><span class="authorBarElement">
+<a class="autorBarAnchor" href="http://www.haaretz.com/blogs/west-of-eden">
+           				West of Eden
+           			</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="htzTeaser haaretz_selectTeaser noSubtitle" itemposition="2">
+<div class="playerIcon"></div>
+<div class="textHolder">
+<div class="teaserTitle">
+<div class="TitleSection">
+</div>
+<a class="teaserLeadTitle" href="http://www.haaretz.com/opinion/.premium-1.643836" target="">				
+									    				        				What Israelis can learn from the Saudis
+    																	<div class="premium_key_image"></div>
+</a>
+<div class="teaserText oh ">
+<div class="oh">
+<div class="authorBar">
+<span class="authorBarElement Writers">
+					By 																		<span class="autorBarWriters">Oded Eran
+						</span>,										<span class="autorBarWriters">Yoel Guzansky
+						</span> </span>
+<span>|</span><span class="authorBarElement">
+<a class="autorBarAnchor" href="http://www.haaretz.com/opinion">
+           				Opinion
+           			</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="" id="haaretz.com.web.half_page.1" style="">
+<script type="text/javascript">
+							if (sendRequestToDFP('all', 'haaretz.com.web.half_page.1')) {
+								adUnit('haaretz.com.web.half_page.1').show();
+							}
+						</script>
+</div>
+<div class="htzTeaser haaretz_selectTeaser noSubtitle" itemposition="2">
+<div class="playerIcon"></div>
+<div class="textHolder">
+<div class="teaserTitle">
+<div class="TitleSection">
+</div>
+<a class="teaserLeadTitle" href="http://www.haaretz.com/video/.premium-1.643817" target="">				
+									    				        				'Israel secretly pouring billions into settlements'
+    																	<div class="premium_key_image"></div>
+</a>
+<div class="teaserText oh ">
+<div class="oh">
+<div class="authorBar">
+<span class="authorBarElement Writers">
+					By 																		<span class="autorBarWriters">Aimee Amiga
+						</span> </span>
+<span>|</span><span class="authorBarElement">
+<a class="autorBarAnchor" href="http://www.haaretz.com/video">
+           				Video
+           			</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a name="listAnchor7.841042"></a>
+<div class="posts posts-stories haaretz-select-list ">
+<!-- standardarticle.vm -->
+<div class="htzTeaser haaretz_selectTeaser first" itemposition="1">
+<div class="playerIcon"></div>
+<div class="textHolder">
+<div class="teaserTitle">
+<div class="mainImage">
+<div class="mainImageIcon"></div>
+<a class="mainImageAnchor" href="http://www.haaretz.com/news/diplomacy-defense/.premium-1.643821" target="">
+<img alt="A 1st-grade class in an Israeli school (illustrative photo)." class="" height="164" src="/polopoly_fs/1.641759.1423561098!/image/39129407.jpg_gen/derivatives/landscape_282/39129407.jpg" style="" title="A 1st-grade class in an Israeli school (illustrative photo)." width="282"/> </a>
+</div>
+<div class="TitleSection">
+</div>
+<a class="teaserLeadTitle" href="http://www.haaretz.com/news/diplomacy-defense/.premium-1.643821" target="">				
+									    				        				Do you believe in God? Haaretz engages Israeli politicians in special questionnaire
+    																	<div class="premium_key_image"></div>
+</a>
+<div class="teaserText oh ">
+<div class="oh">
+<a href="http://www.haaretz.com/news/diplomacy-defense/.premium-1.643821" target="">
+					  What do the heads of Israel’s political parties think of evolution? Are they for or against a biometric database? We sent a list of questions about science to the heads of the parties who will likely enter the next Knesset.<img class="haaretz_selectTeaser first" id="haaretzEditorialRedArrow" src="/images/arrows/RedArwRight.png"/>
+</a>
+<div class="authorBar">
+<span class="authorBarElement Writers">
+					By 																		<span class="autorBarWriters">Oded Carmeli
+						</span> </span>
+<span>|</span><span class="authorBarElement">
+<a class="autorBarAnchor" href="http://www.haaretz.com/news/diplomacy-defense">
+           				Diplomacy and Defense
+           			</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="htzTeaser haaretz_selectTeaser noSubtitle" itemposition="2">
+<div class="playerIcon"></div>
+<div class="textHolder">
+<div class="teaserTitle">
+<div class="TitleSection">
+</div>
+<a class="teaserLeadTitle" href="http://www.haaretz.com/blogs/routine-emergencies/.premium-1.643653" target="">				
+									    				        				How can a Mossad agent hate Israel?
+    																	<div class="premium_key_image"></div>
+</a>
+<div class="teaserText oh ">
+<div class="oh">
+<div class="authorBar">
+<span class="authorBarElement Writers">
+					By 																		<span class="autorBarWriters">Allison Kaplan Sommer
+						</span> </span>
+<span>|</span><span class="authorBarElement">
+<a class="autorBarAnchor" href="http://www.haaretz.com/blogs/routine-emergencies">
+           				Routine Emergencies
+           			</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="htzTeaser haaretz_selectTeaser noSubtitle" itemposition="3">
+<div class="playerIcon"></div>
+<div class="textHolder">
+<div class="teaserTitle">
+<div class="TitleSection">
+</div>
+<a class="teaserLeadTitle" href="http://www.haaretz.com/news/israel-election-2015/.premium-1.643710" target="">				
+									    				        				Parties woo young voters with DJs, dancers... and even a little politics
+    																	<div class="premium_key_image"></div>
+</a>
+<div class="teaserText oh ">
+<div class="oh">
+<div class="authorBar">
+<span class="authorBarElement Writers">
+					By 																		<span class="autorBarWriters">Yarden Skop
+						</span> </span>
+<span>|</span><span class="authorBarElement">
+<a class="autorBarAnchor" href="http://www.haaretz.com/news/israel-election-2015">
+           				Israel election 2015
+           			</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="htzTeaser haaretz_selectTeaser noSubtitle" itemposition="3">
+<div class="playerIcon"></div>
+<div class="textHolder">
+<div class="teaserTitle">
+<div class="TitleSection">
+</div>
+<a class="teaserLeadTitle" href="http://www.haaretz.com/news/features/this-day-in-jewish-history/.premium-1.643665" target="">
+<span class="exclusive">This Day || </span>
+					    				        				The woman who changed Jewish liturgical music because she was bored
+    																	<div class="premium_key_image"></div>
+</a>
+<div class="teaserText oh ">
+<div class="oh">
+<div class="authorBar">
+<span class="authorBarElement Writers">
+					By 																		<span class="autorBarWriters">David B. Green
+						</span> </span>
+<span>|</span><span class="authorBarElement">
+<a class="autorBarAnchor" href="http://www.haaretz.com/news/features/this-day-in-jewish-history">
+           				This Day in Jewish History
+           			</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="" id="haaretz.com.web.box1" style="text align:center;margin-bottom:15px;margin-top:15px;font-size:0">
+<script type="text/javascript">
+							if (sendRequestToDFP('all', 'haaretz.com.web.box1')) {
+								adUnit('haaretz.com.web.box1').show();
+							}
+						</script>
+</div>
+<div class="box">
+<div class="listUpperLine">
+<div class="titleAndMore">
+<div class="listTitle">
+<span>Music &amp; Theater</span>
+</div>
+</div>
+</div>
+<div class="listUnderLine listUnderLine_black"></div>
+<div class="posts">
+<!-- standardarticle.vm -->
+<div class="htzTeaser sections_300 noSubtitle" itemposition="1">
+<div class="playerIcon"></div>
+<div class="textHolder">
+<div class="teaserTitle">
+<div class="mainImage">
+<div class="mainImageIcon"></div>
+<a class="mainImageAnchor" href="http://www.haaretz.com/life/music-theater/.premium-1.643683" target="">
+<img alt="Amir Benayoun" class="" height="79" src="/polopoly_fs/1.643777.1424682460!/image/3333399714.jpg_gen/derivatives/landscape_95/3333399714.jpg" style="" title="Amir Benayoun" width="95"/> </a>
+</div>
+<div class="TitleSection">
+</div>
+<a class="teaserLeadTitle" href="http://www.haaretz.com/life/music-theater/.premium-1.643683" target="">				
+									    				        				Good music, flawed humanity: Amir Benayoun's post-storm album has both
+    																	<div class="premium_key_image"></div>
+</a>
+<div class="teaserText oh ">
+<div class="oh">
+<div class="authorBar">
+<span class="authorBarElement Writers">
+					By 																		<span class="autorBarWriters">Ben Shalev
+						</span> </span>
+<span class="authorBarElementSecondSep">|</span><span class="authorBarElement">
+        			10:14 AM
+        		</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- standardarticle.vm -->
+<div class="htzTeaser sections_300 noSubtitle" itemposition="1">
+<div class="playerIcon"></div>
+<div class="textHolder">
+<div class="teaserTitle">
+<div class="mainImage">
+<div class="mainImageIcon"></div>
+<a class="mainImageAnchor" href="http://www.haaretz.com/life/music-theater/1.643538" target="">
+<img alt="Madonna (right) and a penthouse at the Meier-on-Rothschild Tower in Tel Aviv." class="" height="79" src="/polopoly_fs/1.643542.1424558040!/image/2929771547.jpg_gen/derivatives/landscape_95/2929771547.jpg" style="" title="Madonna (right) and a penthouse at the Meier-on-Rothschild Tower in Tel Aviv." width="95"/> </a>
+</div>
+<div class="TitleSection">
+</div>
+<a class="teaserLeadTitle" href="http://www.haaretz.com/life/music-theater/1.643538" target="">				
+									    				        				Report: Madonna in talks over buying luxury vacation home in Tel Aviv
+    												    										</a>
+<div class="teaserText oh ">
+<div class="oh">
+<div class="authorBar">
+<span class="authorBarElement Writers">
+					By 																		<span class="autorBarWriters">Haaretz
+						</span> </span>
+<span class="authorBarElementSecondSep">|</span><span class="authorBarElement">
+        			11:44 PM
+        		</span>
+<span>|</span><span class="authorBarElement">
+<a href="http://www.haaretz.com/life/music-theater/1.643538#article_comments">
+<span class="baloon" id="authorBarBaloon">5</span>
+</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- standardarticle.vm -->
+<div class="htzTeaser sections_300 noSubtitle" itemposition="1">
+<div class="playerIcon"></div>
+<div class="textHolder">
+<div class="teaserTitle">
+<div class="mainImage">
+<div class="mainImageIcon"></div>
+<a class="mainImageAnchor" href="http://www.haaretz.com/life/music-theater/.premium-1.643223" target="">
+<img alt="From the farce 'A Surfeit of Lovers.'" class="" height="79" src="/polopoly_fs/1.643222.1424346084!/image/739356695.jpg_gen/derivatives/landscape_95/739356695.jpg" style="" title="From the farce 'A Surfeit of Lovers.'" width="95"/> </a>
+</div>
+<div class="TitleSection">
+</div>
+<a class="teaserLeadTitle" href="http://www.haaretz.com/life/music-theater/.premium-1.643223" target="">				
+									    				        				A British farce with a not-so-subtle French twist
+    																	<div class="premium_key_image"></div>
+</a>
+<div class="teaserText oh ">
+<div class="oh">
+<div class="authorBar">
+<span class="authorBarElement Writers">
+					By 																		<span class="autorBarWriters">Michael Handelzalts
+						</span> </span>
+<span class="authorBarElementSecondSep">|</span><span class="authorBarElement">
+        			01:38 PM
+        		</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- standardarticle.vm -->
+<div class="htzTeaser sections_300 noSubtitle" itemposition="1">
+<div class="playerIcon"></div>
+<div class="textHolder">
+<div class="teaserTitle">
+<div class="mainImage">
+<div class="mainImageIcon"></div>
+<a class="mainImageAnchor" href="http://www.haaretz.com/life/music-theater/.premium-1.642959" target="">
+<img alt="Olivia Vinall" class="" height="79" src="/polopoly_fs/1.642964.1424204403!/image/1270874147.jpg_gen/derivatives/landscape_95/1270874147.jpg" style="" title="Olivia Vinall" width="95"/> </a>
+</div>
+<div class="TitleSection">
+</div>
+<a class="teaserLeadTitle" href="http://www.haaretz.com/life/music-theater/.premium-1.642959" target="">				
+									    				        				Tom Stoppard’s biggest problem, with plenty of body and soul
+    																	<div class="premium_key_image"></div>
+</a>
+<div class="teaserText oh ">
+<div class="oh">
+<div class="authorBar">
+<span class="authorBarElement Writers">
+					By 																		<span class="autorBarWriters">Michael Handelzalts
+						</span> </span>
+<span class="authorBarElementSecondSep">|</span><span class="authorBarElement">
+        			03:00 AM
+        		</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="OUTBRAIN" data-ob-template="haaretz" data-widget-id="SB_1"></div>
+<script src="http://widgets.outbrain.com/outbrain.js" type="text/javascript"></script>
+<div class=" div-google-adx" name="google-adx" style="margin-bottom:20px;" title="all">
+<div data-client="686" id="nmWidgetContainer"></div>
+<script src="http://cdn.nmcdn.us/js/connect.js"></script>
+<script type="text/javascript">
+NM.init({ClientID: 686});
+</script>
+</div>
+<div class="" id="haaretz.com.web.box2" style="text align:center;margin-bottom:15px;margin-top:15px;font-size:0">
+<script type="text/javascript">
+							if (sendRequestToDFP('all', 'haaretz.com.web.box2')) {
+								adUnit('haaretz.com.web.box2').show();
+							}
+						</script>
+</div>
+<!-- 0 -->
+<div class="" id="haaretz.com.web.inview.skyscraper" style="">
+<script type="text/javascript">
+							if (sendRequestToDFP('nonPaying', 'haaretz.com.web.inview.skyscraper')) {
+								adUnit('haaretz.com.web.inview.skyscraper').show();
+							}
+						</script>
+</div>
+</div>
+
+<div id="subscription-reminder"></div>
+<script src="http://staticsso.haaretz.com/sso/script/hdcErrorText.js" type="text/javascript"></script>
+<script src="/js/comments.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<!--<script src="http://connect.facebook.net/en_US/all.js" ></script>-->
+<script src="/js/facebook.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<script src="/js/external_packages/picbox.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<link href="/css/picbox.css?VersionNumber.0030_02_03_V1" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+	var isArticle = true;
+</script> 
+
+
+<div class="twocolumnlayout-footer" id="footer-wrapper">
+<div class="footerHead"></div>
+<div id="footer">
+<a href="#wrapper">
+<div class="back-on-top">
+</div>
+</a>
+<div class="holder">
+<p>
+<strong>News:</strong> <a href="http://www.haaretz.com/news/diplomacy-defense">Diplomacy and Defense</a> | <a href="http://www.haaretz.com/news/national">National</a> | <a href="http://www.haaretz.com/news/world">World</a> | <a href="http://www.haaretz.com/news/middle-east">Middle East</a> | <a href="http://www.haaretz.com/archaeology" target="_blank">Archaeology</a> | <a href="http://www.haaretz.com/misc/weather-forecast-page">Israel weather</a> | <strong><a href="http://www.haaretz.com/opinion">Opinion</a> </strong>| <strong><a href="http://www.haaretz.com/news/features">Features</a></strong><br/>
+<br/>
+<strong>Jewish World: </strong><a href="http://www.haaretz.com/jewish-world/jewish-world-news">News</a> | <a href="http://www.haaretz.com/jewish-world/jewish-world-features" target="_blank">Features</a> | <a href="http://www.haaretz.com/jewish-world/rabbis-round-table">Rabbis' Round Table</a> | <a href="http://www.haaretz.com/jewish-world/the-jewish-thinker">The Jewish Thinker</a> | <a href="http://www.haaretz.com/store/">Haaretz Store</a></p>
+<p>
+<strong>Life: </strong><a href="http://www.haaretz.com/life/health-fitness" target="_blank">Health &amp; Fitness</a> | <a href="http://www.haaretz.com/culture/books">Books</a> | <a href="http://www.haaretz.com/culture/food-wine">Food</a> | <a href="http://www.haaretz.com/life/movies-television" target="_blank">Movies &amp; Television</a> |  <a href="http://www.haaretz.com/life/nature-environment" target="_blank">Nature</a></p>
+<p>
+	 </p>
+<p>
+<strong>Haaretz.com Blogs:</strong> <a href="http://www.haaretz.com/blogs/a-special-place-in-hell">A Special Place in Hell </a>| <strong> </strong><a href="http://www.haaretz.com/blogs/west-of-eden">West of Eden</a> | <a href="http://www.haaretz.com/blogs/jerusalem-babylon" target="_blank">Jerusalem &amp; Babylon</a> | <a href="http://www.haaretz.com/blogs/sayed-kashua">Sayed Kashua</a> | <a href="http://www.haaretz.com/blogs/routine-emergencies">Routine Emergencies</a> | <a href="http://www.haaretz.com/blogs/jerusalem-vivendi">Jerusalem Vivendi</a> | <a href="http://www.haaretz.com/blogs/david-s-harp" target="_blank">David's Harp</a> | <a href="http://www.haaretz.com/blogs/exposure-haaretz-photo-blog" target="_blank">Exposure: Haaretz Photo Blog</a> | <a href="http://www.haaretz.com/blogs/diplomania" target="http://www.haaretz.com/blogs/diplomania">Diplomania</a> | <a href="http://www.haaretz.com/blogs/strenger-than-fiction">Strenger than Fiction</a> | <a href="http://www.haaretz.com/blogs/modern-manna">Modern Manna</a> | <a href="http://www.haaretz.com/blogs/the-fifth-question">The Fifth Question</a></p>
+<p>
+	 </p>
+<p>
+<strong>Haaretz.co.il: </strong><!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:View>Normal</w:View>
+<w:Zoom>0</w:Zoom>
+<w:TrackMoves />
+<w:TrackFormatting />
+<w:PunctuationKerning />
+<w:ValidateAgainstSchemas />
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF />
+<w:LidThemeOther>EN-US</w:LidThemeOther>
+<w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+<w:LidThemeComplexScript>HE</w:LidThemeComplexScript>
+<w:Compatibility>
+<w:BreakWrappedTables />
+<w:SnapToGridInCell />
+<w:WrapTextWithPunct />
+<w:UseAsianBreakRules />
+<w:DontGrowAutofit />
+<w:SplitPgBreakAndParaMark />
+<w:DontVertAlignCellWithSp />
+<w:DontBreakConstrainedForcedTables />
+<w:DontVertAlignInTxbx />
+<w:Word11KerningPairs />
+<w:CachedColBalance />
+</w:Compatibility>
+<w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+<m:mathPr>
+<m:mathFont m:val="Cambria Math" />
+<m:brkBin m:val="before" />
+<m:brkBinSub m:val="--" />
+<m:smallFrac m:val="off" />
+<m:dispDef />
+<m:lMargin m:val="0" />
+<m:rMargin m:val="0" />
+<m:defJc m:val="centerGroup" />
+<m:wrapIndent m:val="1440" />
+<m:intLim m:val="subSup" />
+<m:naryLim m:val="undOvr" />
+</m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+LatentStyleCount="267">
+<w:LsdException Locked="false" Priority="0" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Normal" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="heading 1" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9" />
+<w:LsdException Locked="false" Priority="39" Name="toc 1" />
+<w:LsdException Locked="false" Priority="39" Name="toc 2" />
+<w:LsdException Locked="false" Priority="39" Name="toc 3" />
+<w:LsdException Locked="false" Priority="39" Name="toc 4" />
+<w:LsdException Locked="false" Priority="39" Name="toc 5" />
+<w:LsdException Locked="false" Priority="39" Name="toc 6" />
+<w:LsdException Locked="false" Priority="39" Name="toc 7" />
+<w:LsdException Locked="false" Priority="39" Name="toc 8" />
+<w:LsdException Locked="false" Priority="39" Name="toc 9" />
+<w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption" />
+<w:LsdException Locked="false" Priority="10" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Title" />
+<w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font" />
+<w:LsdException Locked="false" Priority="11" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtitle" />
+<w:LsdException Locked="false" Priority="22" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Strong" />
+<w:LsdException Locked="false" Priority="20" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Emphasis" />
+<w:LsdException Locked="false" Priority="59" SemiHidden="false"
+UnhideWhenUsed="false" Name="Table Grid" />
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text" />
+<w:LsdException Locked="false" Priority="1" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="No Spacing" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 1" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 1" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 1" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 1" />
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision" />
+<w:LsdException Locked="false" Priority="34" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="List Paragraph" />
+<w:LsdException Locked="false" Priority="29" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Quote" />
+<w:LsdException Locked="false" Priority="30" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Quote" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 1" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 1" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 1" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 1" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 1" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 2" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 2" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 2" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 2" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 2" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 2" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 2" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 2" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 2" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 3" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 3" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 3" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 3" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 3" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 3" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 3" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 3" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 3" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 4" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 4" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 4" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 4" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 4" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 4" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 4" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 4" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 4" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 5" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 5" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 5" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 5" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 5" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 5" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 5" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 5" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 5" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 6" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 6" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 6" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 6" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 6" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 6" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 6" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 6" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 6" />
+<w:LsdException Locked="false" Priority="19" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis" />
+<w:LsdException Locked="false" Priority="21" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis" />
+<w:LsdException Locked="false" Priority="31" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference" />
+<w:LsdException Locked="false" Priority="32" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Reference" />
+<w:LsdException Locked="false" Priority="33" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Book Title" />
+<w:LsdException Locked="false" Priority="37" Name="Bibliography" />
+<w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading" />
+</w:LatentStyles>
+</xml><![endif]--><a href="http://www.haaretz.co.il/literature">ספרים</a> | <a href="http://www.haaretz.co.il/news/elections">בחירות 2015</a> | <a href="http://www.haaretz.co.il/news/weather/kinneret">מפלס הכנרת </a>| <a href="http://www.haaretz.co.il/gallery/recipes/restaurants-reviews">ביקורת מסעדות</a>  | <a href="http://www.haaretz.co.il/news/world">חדשות חוץ</a> | <a href="http://www.haaretz.co.il/gallery">גלריה</a> | <a href="http://www.haaretz.co.il/news/weather">מזג אוויר</a> | <a href="http://www.haaretz.co.il/news">חדשות</a> | <a href="http://www.haaretz.co.il/">הארץ</a></p>
+<p>
+<br/>
+<a href="http://www.haaretz.com/misc/faq">FAQ</a> | <a href="http://www.haaretz.com/contact-us">Contact us</a> | <a href="http://www.haaretz.com/misc/newsletters-page">Newsletters Page</a> | <a href="http://www.haaretz.com/misc/terms-and-conditions">Terms and Conditions</a> | <a href="http://www.haaretz.com/misc/privacy-policy">Privacy Policy |</a><a href="/employment-opportunities"> </a><a href="http://www.haaretz.com/misc/management">Management</a> | <a href="http://www.haaretz.com/misc/editorial">Editorial</a> | <a href="http://www.haaretz.com/employment-opportunities">Employment Opportunities</a> | <a href="http://www.haaretz.com/misc/haaretz-advertising">Advertise on Haaretz.com</a> |  <a href="http://www.haaretz.com/haaretz-com-news-widget-1.411965">Haaretz News Widget</a></p>
+<p>
+	 </p>
+<p>
+	 </p>
+<p>
+	 </p>
+<p>
+	 </p>
+<p>
+<br/>
+	Design by <a href="http://roniarie.carbonmade.com/" target="_blank">Roni Arie</a> | Accelerated by <a href="http://www.cotendo.com" target="_blank">cotendo</a></p>
+
+      
+          	    
+
+      
+  
+                          											
+              
+
+        
+    
+        
+        	    		
+        
+                        Haaretz.com, the online edition of Haaretz Newspaper in Israel, and analysis from Israel and the Middle East. 
+Haaretz.com provides extensive and in-depth coverage of Israel, the Jewish World and the Middle East, including defense, diplomacy, the Arab-Israeli conflict, 
+the peace process, Israeli politics, Jerusalem affairs, international relations, Iran, Iraq, Syria, Lebanon, the Palestinian Authority, the West Bank and the Gaza Strip, 
+the Israeli business world and Jewish life in Israel and the Diaspora.
+<p>
+© Haaretz Daily Newspaper Ltd. All Rights Reserved
+
+      
+          	    
+
+      
+  
+                                      	</p></div>
+</div>
+<div>
+<img alt="" src="/logger/p.gif?a=1.643538&amp;d=/2.169/2.1246/2.305"/> </div>
+</div>
+<span class="logError" id="debug"></span>
+<script src="/js/imagegallery.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<link href="/css/jquery-ui-haaretz.css?VersionNumber.0030_02_03_V1" media="all" rel="stylesheet" type="text/css"/>
+<script src="/js/jquery-ui-datepicker-min.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<script src="/js/jquery.validate-1.5.1.min.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<script src="/js/datejs/date.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<script src="/js/haaretzSearch.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<script src="/js/haaretzFormsValidation.js?VersionNumber.0030_02_03_V1" type="text/javascript"></script>
+<script type="text/javascript">
+var pp_gemius_identifier = new String('ncowEnLiLzAvTKjY8hSH3WZV7O7BNgP0Y.tKbezxLBP.C7');
+</script>
+<script src="http://www.haaretz.com/js/external_packages/xgemius.js" type="text/javascript"></script>
+<script type="text/javascript">
+var infolinks_pid = 2320844;
+var infolinks_wsid = 0;
+  try {
+      if (dfpUserType != "payer") {
+        document.write('<sc' + 'ript type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></sc'+'ript>');
+      }
+  } catch (e) {
+      console.error('infolinks script error ' + e);
+  }
+</script>
+<script>
+
+var urlGlobal = encodeURIComponent(document.URL);
+var isPremium =  false;
+if(urlGlobal.indexOf(".premium-") > -1)
+{
+  isPremium = true;
+}
+var engSso = getCookie("engsso");
+if(engSso!= null)
+{    
+  doStat();
+}
+  
+  
+  function getStatCookie(e) {
+        var t = e + "=";
+        var n = document.cookie.split(";");
+        for (var r = 0; r < n.length; r++) {
+           var i = n[r].trim();
+           if (i.indexOf(t) == 0) return i.substring(t.length, i.length)
+       }
+       return ""
+   }
+
+   function doStat(){
+     var sendTo = 'http://ds.haaretz.co.il/ds.php?'  
+         var date = new Date();
+     var now = date.getTime();
+     var uniqueID = "uniqueID=" + now;
+     var userAgent = "useragent=" + encodeURIComponent(navigator.userAgent);
+     var windowWidth = "width=" + screen.availWidth;
+     var windowHeight = "height=" + screen.availHeight;
+     var url = "url=" + urlGlobal;
+     var referrer = "referrer=" + encodeURIComponent(document.referrer);
+     var domain = "domain=" + window.location.hostname
+         var offset = "offset=" + date.getTimezoneOffset();
+      
+var HdcRusr= "Rusr=" + getStatCookie('HdcRusr');
+    var HdcPusr= "Pusr=" + getStatCookie('HdcPusr');
+  var userId = "userId=" + Haaretz.Sso.getParameter("userId");
+
+     
+if(isPremium)
+{
+openMode = "openMode=" + openMode;
+}
+else
+{
+  openMode ="";
+}
+     
+data = userAgent + "&" + windowWidth + "&" +  windowHeight + "&" + url + "&" + referrer + "&" + domain + "&" + offset + "&" +  HdcRusr + "&" +  HdcPusr +"&" +  userId  + "&" + openMode;      var script = jQuery('<script><' + '/script>');
+      script.attr('src', sendTo + data);
+      jQuery('head').append( script );
+   }
+
+  
+  </script>
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: HACOM-Site-GN
+URL of the webpage where the tag is expected to be placed: http://haaretz.com
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 08/12/2013
+-->
+<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="http://4197153.fls.doubleclick.net/activityi;src=4197153;type=sitek029;cat=hacom848;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script>
+<noscript>
+<iframe frameborder="0" height="1" src="http://4197153.fls.doubleclick.net/activityi;src=4197153;type=sitek029;cat=hacom848;ord=1?" style="display:none" width="1"></iframe>
+</noscript>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+window._taboola.push({article: "auto"});
+</script>
+<script src="http://cdn.taboolasyndication.com/libtrc/haaretz/loader.js" type="text/javascript"></script>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/5351.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<link href="https://plus.google.com/111645974908902038503" rel="publisher"/>
+<script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-589309-2']);
+          _gaq.push(['_setDomainName', 'haaretz.com']);
+          _gaq.push(['_setAllowLinker', true]);
+          _gaq.push(['_trackPageLoadTime']);
+          var visitor = 'Non';
+          if (getCookie("engsso") == null) {
+            visitor = 'Non-registered';
+          }
+          else {
+            if (getCookie("HdcPusr") == null) {
+              visitor = 'Registered';
+            }
+            else {
+              visitor = 'Paying';
+            }
+          }
+          _gaq.push(['._setCustomVar', 1, 'user-type',visitor, 1]);
+          _gaq.push(['_trackPageview']);
+          
+          (function() {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+          })();
+        </script>
+<!-- Google Analytics Social Button Tracking -->
+<script>
+          _ga.trackSocial();         
+        </script>
+<!-- Google Code for &#1514;&#1490; &#1513;&#1500; &#1513;&#1497;&#1493;&#1493;&#1511; &#1502;&#1495;&#1491;&#1513; -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1006436517;
+var google_conversion_label = "BrteCMu9_AIQpYH03wM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+</script>
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1006436517/?value=0&amp;label=BrteCMu9_AIQpYH03wM&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://piwik.themarker.com/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "3"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+<script type="text/javascript">
+var _sf_async_config={};
+/** CONFIGURATION START ***/
+_sf_async_config.uid = 5952;
+_sf_async_config.domain = "haaretz.com";
+                                                                                                                                                                          _sf_async_config.sections = "Life,Music & Theater"; 
+             
+                              _sf_async_config.authors = "Haaretz";
+
+/** CONFIGURATION END **/
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement("script");
+    e.setAttribute("language", "javascript");
+    e.setAttribute("type", "text/javascript");
+    e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != "function") ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+<script type="text/javascript">
+ var puser = getCookie("HdcPusr");
+  
+  if(puser != null) //it's payment user
+  {  
+    var cppu = getCookie("cppu"); //check paying user
+    if(cppu == null) //check the user in the list
+    {
+      var engsso = getCookie("engsso");
+      if(engsso != 'undefined')
+      {
+        var userName = Haaretz.Sso.getParameter("userName");
+        checkPayingProblematicUser(userName);
+       
+      }
+    }
+    
+  }
+  
+  function checkPayingProblematicUser(userName)
+{
+ 
+    return jQuery.ajax({
+            type: "GET",
+            url: "http://papp.haaretz.com/cpu/cppu.php?email="+userName,
+     
+            complete: function(data){
+              answerAjaxReply(data, status);
+            }
+        });
+}
+  
+  function answerAjaxReply(data, status){
+     if(data.status == 200)
+        {
+          var expireDate = getEpireDay();
+          document.cookie="cppu=cppu;expires=" + expireDate + ";path=/";
+          if(data.response == "blocked")
+             {
+       
+var message = '' +
+          '<div  class="puEnvelope" style="text-align:center; width:600px;height: 135px; margin-left:auto; margin-right:auto;background-color:white;padding-bottom: 10px;">' +
+      '<div style= "text-align: left;margin-left: 42px;font-family: bold;font-size: 16px;padding: 5px;">CHANGE PAYMENT DETAILS </div>' +
+     '<div style="background-color:#EFEFE3; width:590px;margin-left: 5px;height: 105px;line-height: 18px;"> Your Haaretz.com subscription has been suspended due a problem with your payment details.'+
+     '</br>Please enter your new credit card details to restore your subcription <div class="puButton"  style = "margin-top: 40px;margin-right: 40px;" onclick="redirectMyPage()">        <div class="puRight"></div>        <div class="puMiddle">OK</div>        <div class="puLeft"></div>        <div class="cb"></div>      </div> </div>' +
+          '</div>';
+          
+        var  width = 571;
+      var  height = 80;
+
+        
+            jQuery.blockUI.defaults.css.backgroundColor = '';
+  jQuery.blockUI.defaults.css.border = 'none';
+  jQuery.blockUI.defaults.css.textAlign = 'left';
+  jQuery.blockUI.defaults.css.cursor = 'default';
+  jQuery.blockUI.defaults.overlayCSS.cursor = 'default';
+  jQuery.blockUI.defaults.overlayCSS.backgroundColor = '#000000' ;
+  jQuery.blockUI.defaults.overlayCSS.opacity = '0.65';
+  
+  //Set the popup window to center
+  var winH = $(window).height();
+  var winW = $(window).width();
+  
+  //jQuery.blockUI.defaults.css.top = "387px";
+  jQuery.blockUI.defaults.css.top = winH/2 - height/2 + "px";
+  jQuery.blockUI.defaults.css.left = winW/2 - width/2 + "px";
+  
+  jQuery.blockUI({ message: message, baseZ: 5000 });
+  
+             }
+     }
+ 
+  }
+  
+  function getEpireDay(){
+    var date = new Date();
+    var dayInWeek = date.getDay();
+    var expire;
+    if(dayInWeek == 4) //Thursday
+    {
+      expire = 3;
+    }
+    else if(dayInWeek == 5) //Friday
+    {
+      expire = 2;
+    }
+    else   //other day in week
+    {
+      expire = 1;
+    }
+  
+  date.setTime(date.getTime() + (expire * 24 * 60 * 60 * 1000))
+  return date.toGMTString();
+  }
+
+
+
+    function redirectMyPage(){
+      window.location.href = "http://" + window.location.hostname + "/misc/mypage#anchorToPayment";
+    }
+
+</script>
+<script>
+(function(){
+  if(!getCookie("acl") && !getCookie("HdcPusr")){
+    var date = new Date();
+    date.setTime(date.getTime() + (60 * 60 * 1000));
+    document.cookie="acl=acl;expires=" + date.toGMTString() + ";path=/";
+    jQuery.ajax({
+      url    : "http://acl.haaretz.com/noac.php",
+      type  : "GET",
+      dataType: "script",
+      success  : function(data) {
+        location.reload();        
+      },
+      error:function(){
+        
+      }
+    });
+  }
+})();
+  
+  </script>
+<!-- Google Code for Audience - Haaretz -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 994187515;
+var google_conversion_label = "75QGCNWv7QkQ-7GI2gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+</script>
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/994187515/?value=1.000000&amp;label=75QGCNWv7QkQ-7GI2gM&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+<!-- Google Code for Audience - Haaretz -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1006472116;
+var google_conversion_label = "wUYHCLzI4QoQtJf23wM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+</script>
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1006472116/?value=1.000000&amp;label=wUYHCLzI4QoQtJf23wM&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+<!-- Google Code for haaretz remarketing -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 967463147;
+var google_conversion_label = "pW5UCI3fzgkQ66GpzQM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+</script>
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/967463147/?value=1.000000&amp;label=pW5UCI3fzgkQ66GpzQM&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+
+

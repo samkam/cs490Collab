@@ -1,0 +1,22 @@
+Server: Apache
+X-Content-Type-Options: nosniff
+Content-language: en
+X-Backend-Response-Time: 0.202
+ETag: "20150222185612-1424730194"
+Last-Modified: Sun, 22 Feb 2015 18:56:12 GMT
+Content-Type: text/html; charset=utf-8
+X-Cacheable: YES
+Content-Length: 173379
+Accept-Ranges: bytes
+Date: Tue, 24 Feb 2015 06:36:30 GMT
+Age: 11591
+Connection: close
+X-Served-By: ap-s38, cache-wk-sjc3160-WKSJC, cache-atl6221-ATL
+X-Cache: ORIGIN, HIT, HIT
+X-Cache-Hits: ORIGIN, 1, 1
+X-Timer: S1424759790.407662,VS0,VE6
+Vary: Accept-Encoding,Cookie
+Set-Cookie: wikia_beacon_id=5am8qh1R-f; domain=.wikia.com; path=/; expires=Sun, 23 Aug 2015 06:36:30 GMT;
+Set-Cookie: Geo={%22city%22:%22FIXME%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+

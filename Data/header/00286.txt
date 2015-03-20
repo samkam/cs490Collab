@@ -1,0 +1,20 @@
+Cache-Control: stale-while-revalidate=300
+Content-Type: text/html; charset=utf-8
+P3P: CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+X-Kinja: app20.bfc.kinja-ops.com #14861
+X-Kinja-Build: 14861
+X-Kinja-Server: app20.bfc.kinja-ops.com
+x-cdn-fetch: mantle-default
+Content-Length: 74202
+Accept-Ranges: bytes
+Date: Tue, 24 Feb 2015 06:36:18 GMT
+Via: 1.1 varnish
+Age: 45
+Connection: close
+X-Served-By: cache-atl6226-ATL
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1424759778.031885,VS0,VE1
+Vary: Accept-Encoding, X-Feature-Hash
+Set-Cookie: geocc=US;path=/;
+

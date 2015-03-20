@@ -1,0 +1,960 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<!--[if IE]><![endif]--><!--Empty IE conditional comment to improve site performance-->
+<html lang="en">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="http://img.sparknotes.com/images/new_global/new_favicon.ico" rel="shortcut icon"/>
+<!-- 16 -->
+<title>SparkNotes No Fear Literature: A Tale of Two Cities: Book 1: Recalled to Life, Chapter 1: The Period</title>
+<meta content="" name="description"/>
+<meta content="" name="keywords"/>
+<link href="http://img.sparknotes.com/css/2013/styles.css?rev=313061" rel="stylesheet"/>
+<link href="http://img.sparknotes.com/css/2013/large-screens.css" rel="stylesheet"/>
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE7.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE7.css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE8.css" /><![endif]-->
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE.css" /><![endif]-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
+<script src="http://img.sparknotes.com/js/new_user.js" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA]
+    var ord = window.ord || Math.floor(Math.random()*1E16);
+    var RNS = String(ord).substring(2, 11);
+    var count = 0;
+    var zone = 'nfl/titles;';
+    var keyvalues = 'title=a-tale-of-two-cities;edu=college;'; 
+
+    function DisplayAds (position) {
+        var size = '';
+	position = position.replace(/.*!/, "");
+        switch (position) { 
+            case 'Top':
+            case 'Bottom':
+                size = 'sz=728x90;pos=top;exp=true;';
+                width = 728;
+                height = 90;
+                break;
+            case 'Top2':
+                size = 'sz=728x90;pos=bottom;';
+                width = 728;
+                height = 90;
+                break;
+            case 'Right':
+                size = 'sz=160x600;';
+                width = 160;
+                height = 600;
+                break;
+            case 'DualSizeBox':
+                size = 'sz=300x250,300x600,300x1050;pos=top;exp=true;';
+                width = 300;
+                height = 600;
+                break;
+            case 'Middle':
+            case 'Middle1':
+                size = 'sz=300x250;pos=top;';
+                width = 300;
+                height = 250;
+                break;
+            case 'Middle2':
+                size = 'sz=300x250;pos=bottom;';
+                width = 300;
+                height = 250;
+                break;
+            case 'ExpandableBox':
+                size = 'sz=300x250,300x600,300x1050;pos=top;exp=true;';
+                width = 300;
+                height = 250;
+                break;
+            case 'MiniMasthead':
+                size = 'sz=185x90;';
+                width = 185;
+                height = 90;
+                break;
+            case 'PushdownBanner':
+                size = 'sz=970x90;pos=top;exp=true;';
+                width = 970;
+                height = 90;
+                break;
+            case 'Wallpaper':
+                size = 'sz=2x2;exp=true;';
+                break;
+            case 'Interstitial':
+                size = 'sz=1x1;dcopt=ist;';
+                break;
+            default:
+                size = '';
+       }
+       count = count + 1;
+              document.write('<script type="text/javascript" src="//ad.doubleclick.net/N9885823/adj/5480.lia.sparknotes/' + zone + keyvalues + size + 'tile=' + count + ';s=sn;ord=' + ord + '?"><\/script>');
+           }
+//]]>
+</script>
+</head>
+<body class="study-guides blue-background">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script> <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-125069-1']);
+    _gaq.push(['_setDomainName', '.sparknotes.com']);
+    _gaq.push(['_addIgnoredRef', 'sparknotes.com']); 
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+<header>
+<link href="http://img.sparknotes.com/css/gigya.css" rel="stylesheet"/>
+<div class="short-light-grey-gradient">
+<div class="clearfix centered-width masthead">
+<div class="col-1-3">
+<div class="utility navigation">
+<div id="placeholder">
+<script>
+    jQuery(document).ready(function(){
+    my_domain = document.domain;
+    identifier = my_domain.substring(0,3);
+    protocol = window.location.protocol;
+    if(identifier == 'spa')
+    {
+        my_domain = "www." + my_domain;
+    }
+
+    my_domain = protocol + "//" + my_domain;
+        if(is_loggedin())
+        {
+            jQuery.ajax({
+                'beforeSend': function(){
+                    jQuery.getScript(protocol + "//img.sparknotes.com/js/messaging.js");
+                },
+                'url': my_domain + '/messaging',
+                'success': function(data){
+                    jQuery("#placeholder").replaceWith(data);
+                    jQuery.getScript(protocol + "//img.sparknotes.com/js/messaging_bootstrap.js");
+                }
+            });
+        }
+    });
+    </script>
+</div>
+										 
+				</div>
+</div>
+<div class="col-1-3 center logo">
+<h2 class="is-centered"><a class="logo hide-text" href="http://www.sparknotes.com/">SparkNotes</a></h2>
+</div>
+<div class="col-1-3 last">
+<navigation>
+<div id="user-links-wrapper">
+<div class="login" id="login-dialog" style="display:none;">
+<form action="https://www.sparknotes.com/login" id="loginform" method="POST">
+<input class="jsClearOnFocus" id="email" name="email" placeholder="email" type="text">
+<input class="jsClearOnFocus" id="password" name="password" type="password" value="password">
+<input checked="checked" id="remember_me" name="remember_me" type="checkbox">
+<label for="remember_me"> Remember me</label>
+<input class="turquoise-gradient" id="login" name="submit" type="submit" value="Log in">
+<input name="uri" type="hidden" value="http://www.sparknotes.com/">
+<input id="referer" name="referer" type="hidden" value="http://www.sparknotes.com/">
+</input></input></input></input></input></input></form>
+</div>
+<script type="text/javascript">
+							print_user_links2013();
+							setupEmailLoginDialog();
+							jQuery('.jsClearOnFocus').clearOnFocus();	
+						</script>
+<script type="text/javascript">
+							var login_params={
+								showTermsLink: 'false'
+								,hideGigyaLink: 'true'
+								,height: '15'
+								,width: '35'
+								,containerID: 'socializebuttons'
+								,UIConfig: '<config><body><background frame-color="Transparent"></background><&#x2F;body></config>'
+								,useFacebookConnect: 'true'
+								,redirectURL: 'https://www.sparknotes.com/login/social'
+								//,useHTML: 'true'
+						}
+						</script>
+<script type="text/javascript">
+var conf=
+{
+        APIKey: '2_UGGKiKfaEluDbkM2cTMfH9LBTEJQ08V7qOVliOgV8dCq-kqUhpv53OV_bT45CPjA'
+        ,enabledProviders: 'facebook,google'
+        ,connectWithoutLoginBehavior: "alwaysLogin"
+        ,buttonSize: '42'
+};
+</script>
+<script src="http://cdn.gigya.com/JS/socialize.js?apikey=2_UGGKiKfaEluDbkM2cTMfH9LBTEJQ08V7qOVliOgV8dCq-kqUhpv53OV_bT45CPjA" type="text/javascript"></script>
+<script type="text/javascript">
+						var conf=
+						{
+								APIKey: '2_UGGKiKfaEluDbkM2cTMfH9LBTEJQ08V7qOVliOgV8dCq-kqUhpv53OV_bT45CPjA'
+								,enabledProviders: 'facebook,google'
+								,connectWithoutLoginBehavior: "alwaysLogin"
+						};
+							gigya.services.socialize.showLoginUI(conf,login_params);
+						</script>
+</div>
+</navigation>
+<div class="ui-widget search small-search">
+<form action="http://www.sparknotes.com/search" class="clearfix search" id="searchform" method="get">
+<fieldset>
+<input class="search_field inner-shadow grey-text" id="search-sparknotes" name="q" placeholder="By keyword" type="text" value=""/>
+<input type="submit" value="Go"/>
+<!--      						<input name="searchbg" value="" class="searchbg" type="hidden" />
+      						
+      						<input name="template" value="default" type="hidden" />
+      						
+      						<input type="hidden" name="output" value="xml_no_dtd" />
+      						
+      						<input type="hidden" name="oe" value="UTF-8"/>
+      						
+      						<input type="hidden" name="ie" value="UTF-8" />
+      						
+      						<input type="hidden" name="client" value="default_frontend" />
+      						
+      						<input type="hidden" name="proxystylesheet" value="default_frontend" />
+      						
+      						<input type="hidden" name="site" value="SparkNotes" /> -->
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+</div>
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6035001" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+<img alt="" src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035001&amp;cv=2.0&amp;cj=1"/>
+</noscript>
+<!-- End comScore Tag -->
+<a class="hide-text hide-text-accessibility" href="#startcontent">Skip over navigation</a>
+<div class="dark-grey-background">
+<div class="clearfix no-columns center centered-width top-nav-container">
+<navigation>
+<ul class="clearfix is-inline is-centered top-nav" id="menu">
+<li id="sparknotes-tab"><a class="semi-bold light-text" href="http://www.sparknotes.com/sparknotes/">SparkNotes</a>
+<div class="clearfix dropdown text-color dropdown-sparknotes dark-drop-shadow">
+<div class="col-1-8">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/"><strong>SparkNotes Main</strong></a></h5></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/"><strong>Video SparkNotes</strong></a></li>
+<li><a href="http://www.sparknotes.com/shakespeare/"><strong>Shakespeare SparkNotes</strong></a></li>
+<li><a href="http://www.sparknotes.com/lit/index_title.html"><strong>Titles A-Z</strong></a></li>
+<li>
+<ul class="clearfix margin-0 alpha">
+<li><a href="http://www.sparknotes.com/lit/index_a.html">A</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_b.html">B</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_c.html">C</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_d.html">D</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_e.html">E</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_f.html">F</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_g.html">G</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_h.html">H</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_i.html">I</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_j.html">J</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_k.html">K</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_l.html">L</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_m.html">M</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_n.html">N</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_o.html">O</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_p.html">P</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_r.html">R</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_s.html">S</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_t.html">T</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_u.html">U</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_v.html">V</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_w.html">W</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_y.html">Y</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="http://www.sparknotes.com/lit/index_author.html"><strong>Authors A-Z</strong></a></li>
+<li>
+<ul class="clearfix margin-0 alpha">
+<li><a href="http://www.sparknotes.com/lit/index_author_a.html">A</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_b.html">B</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_c.html">C</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_d.html">D</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_e.html">E</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_f.html">F</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_g.html">G</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_h.html">H</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_i.html">I</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_j.html">J</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_k.html">K</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_l.html">L</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_m.html">M</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_n.html">N</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_o.html">O</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_p.html">P</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_r.html">R</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_s.html">S</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_t.html">T</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_u.html">U</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_v.html">V</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_w.html">W</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_y.html">Y</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="col-1-4">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/">Top SparkNotes</a></h5></li>
+<li><a class="main" href="http://www.sparknotes.com/lit/mocking/">To Kill a Mockingbird</a></li>
+<li><a href="http://www.sparknotes.com/lit/gatsby/">The Great Gatsby</a></li>
+<li><a href="http://www.sparknotes.com/lit/flies/">Lord of the Flies</a></li>
+<li><a href="http://www.sparknotes.com/lit/huckfinn">Adventures of Huck Finn</a></li>
+<li><a href="http://www.sparknotes.com/lit/catcher/">The Catcher in the Rye</a></li>
+<li><a href="http://www.sparknotes.com/lit/1984">1984</a></li>
+<li><a href="http://www.sparknotes.com/lit/451">Fahrenheit 451</a></li>
+<li><a href="http://www.sparknotes.com/lit/scarlet">The Scarlet Letter</a></li>
+<li><a href="http://www.sparknotes.com/lit/grapesofwrath">The Grapes of Wrath</a></li>
+<li><a href="http://www.sparknotes.com/lit/bravenew">Brave New World</a></li>
+<li><a class="link-color" href="http://www.sparknotes.com/sparknotes/"><strong>See all →</strong></a></li>
+</ul>
+</div>
+<div class="col-1-4">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/video/">Top Video SparkNotes</a></h5></li>
+<li><a class="main" href="http://www.sparknotes.com/sparknotes/video/1984">1984</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/hamlet">Hamlet</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/romeojuliet">Romeo and Juliet</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/mocking">To Kill A Mockingbird</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/othello">Othello</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/macbeth">Macbeth</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/scarlet">The Scarlet Letter</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/flies">Lord of the Flies</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/frankenstein">Frankenstein</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/gatsby">The Great Gatsby</a></li>
+<li><a class="link-color" href="http://www.sparknotes.com/sparknotes/video/"><strong>See all →</strong></a></li>
+</ul>
+</div>
+<div class="col-1-8 last">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/">Other Subjects</a></h5></li>
+<li><a class="main" href="http://www.sparknotes.com/biology/">Biology</a></li>
+<li><a href="http://www.sparknotes.com/biography/">Biography</a></li>
+<li><a href="http://www.sparknotes.com/chemistry/">Chemistry</a></li>
+<li><a href="http://www.sparknotes.com/cs/">Computer Science</a></li>
+<li><a href="http://www.sparknotes.com/drama/">Drama</a></li>
+<li><a href="http://www.sparknotes.com/economics/">Economics</a></li>
+<li><a href="http://www.sparknotes.com/film/">Film</a></li>
+<li><a href="http://www.sparknotes.com/history/">History</a></li>
+<li><a href="http://www.sparknotes.com/lit/">Literature</a></li>
+<li><a href="http://www.sparknotes.com/math/">Math</a></li>
+<li><a href="http://www.sparknotes.com/philosophy/">Philosophy</a></li>
+<li><a href="http://www.sparknotes.com/physics/">Physics</a></li>
+<li><a href="http://www.sparknotes.com/poetry/">Poetry</a></li>
+<li><a href="http://www.sparknotes.com/psychology/">Psychology</a></li>
+<li><a href="http://www.sparknotes.com/sociology/">Sociology</a></li>
+<li><a href="http://www.sparknotes.com/us-government-and-politics/">U.S. Government</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li id="no-fear"><a class="semi-bold light-text" href="http://nfs.sparknotes.com/">No Fear</a>
+<div class="clearfix dropdown dropdown-no-fear text-color dark-drop-shadow">
+</div>
+</li>
+<li id="test-prep"><a class="semi-bold light-text" href="http://www.sparknotes.com/testprep/">Test Prep</a>
+<div class="clearfix dropdown dropdown-test-prep text-color dark-drop-shadow centered-width">
+<div class="col-1-4">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/testprep/">Test Prep Main</a></h5></li>
+<li><a href="http://www.sparknotes.com/testprep/newsat/">SAT</a></li>
+<li><a href="http://www.sparknotes.com/testprep/act/">ACT</a></li>
+<li><a href="http://www.sparknotes.com/testprep/gre/">GRE</a></li>
+</ul>
+</div>
+<div class="col-1-4 last">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/testprep/newsat/">SAT Subject Tests</a></h5></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/biology/">SAT Biology</a></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/chemistry/">SAT Chemistry</a></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/history/">SAT History</a></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/math1c/">SAT Math Level 1</a></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/math2c/">SAT Math Level 2</a></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/physics/">SAT Physics</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li id="video"><a class="semi-bold light-text" href="http://www.sparknotes.com/video/">Video</a>
+<div class="clearfix dropdown dropdown-video text-color border-dark-grey">
+</div>
+</li>
+<li id="sparklife"><a class="semi-bold light-text" href="http://community.sparknotes.com/">SparkLife</a>
+<div class="clearfix dropdown dropdown-sparklife text-color dark-drop-shadow">
+</div>
+</li>
+<li id="mindhut"><a class="semi-bold light-text" href="http://www.sparknotes.com/mindhut">The Mindhut</a>
+<div class="clearfix dropdown dropdown-mindhut text-color dark-drop-shadow">
+</div>
+</li>
+</ul>
+</navigation>
+</div>
+</div>
+<a class="hide-text hide-text-accessibility" id="startcontent"></a><!-- For accesibility -->
+</header>
+<script type="text/javascript">
+	//
+	// JS for main navigation and search bar
+	//
+	jQuery(window).ready(function(){
+
+		// set active tab
+		var cur_url = document.location.href;
+        jQuery('navigation ul#menu > li').each(function() {
+            switch(jQuery(this).attr('id'))
+            {
+                case "mindhut":
+                if(cur_url.indexOf('http://www.sparknotes.com/mindhut') === 0) { // match http://www.sparknotes.com/mindhut
+                    jQuery(this).addClass('selected');
+                }
+                break;
+                case "sparklife":
+                if(cur_url.indexOf('http://community.sparknotes.com/') === 0) { // match http://community.sparknotes.com/
+                    jQuery(this).addClass('selected');
+                }
+                break;
+                case "video":
+                if(cur_url.indexOf('http://www.sparknotes.com/video/') === 0 || cur_url.indexOf('http://www.sparknotes.com/sparknotes/video/') === 0 ) { // match http://www.sparknotes.com/video/
+                    jQuery(this).addClass('selected');
+                }
+                break;
+                case "test-prep":
+                if(cur_url.indexOf('http://www.sparknotes.com/testprep/') === 0) { // match http://www.sparknotes.com/testprep/
+                    jQuery(this).addClass('selected');
+                }
+                break;
+                case "sparknotes-tab":
+                if(cur_url.indexOf('http://www.sparknotes.com/lit/') === 0 || cur_url == 'http://www.sparknotes.com/sparknotes/') { // match http://www.sparknotes.com/sparknotes
+                    jQuery(this).addClass('selected');
+                }
+                break;
+                case "no-fear":
+                if(cur_url.indexOf('http://nfs.sparknotes.com') === 0) { // match http://nfs.sparknotes.com/
+                    jQuery(this).addClass('selected');
+                }
+                break;
+            }
+        });
+        var dropdown_loaded1 = false;
+        jQuery("#no-fear").mouseover(function(){
+            //console.log("http://www.sparknotes.com/nofear/index.php/featured/nofear"); 
+            //console.log('/featured/nofear');
+            var nfurl =  "/nofear/index.php/featured/nofear";    
+            nfurl = "/featured/nofear";   
+            if(!dropdown_loaded1)
+            {
+                jQuery.get(nfurl, function(data){                                                                        
+                    jQuery('.dropdown-no-fear').html(data);
+                    dropdown_loaded1 = true;
+                });
+            }
+        });
+   
+        var dropdown_loaded2 = false;
+        jQuery("#video").mouseover(function(){
+            //console.log("http://www.sparknotes.com/nofear/index.php/featured/video2013"); 
+            //console.log('/featured/video2013');
+            var vurl =  "/nofear/index.php/featured/video2013";    
+            vurl = "/featured/video2013";   
+            if(!dropdown_loaded2)
+            {
+                jQuery.get(vurl, function(data){
+                    jQuery('.dropdown-video').html(data);
+                    dropdown_loaded2 = true;
+                });
+            }
+        });
+        var dropdown_loaded3 = false;
+        jQuery("#sparklife").mouseover(function(){
+            //console.log("http://www.sparknotes.com/nofear/index.php/featured/sparklife"); 
+            //console.log('/featured/sparklife');
+            var surl =  "/nofear/index.php/featured/sparklife";    
+            surl = "/featured/sparklife"; 
+            if(!dropdown_loaded3)
+            {
+                jQuery.get(surl, function(data){
+                    jQuery('.dropdown-sparklife').html(data);
+                    dropdown_loaded3 = true;
+                });
+            }
+        });
+        var dropdown_loaded4 = false;
+        jQuery("#mindhut").mouseover(function(){
+            //console.log("http://www.sparknotes.com/nofear/index.php/featured/mindhut"); 
+            //console.log('/featured/mindhut');
+            var murl =  "/nofear/index.php/featured/mindhut";    
+            murl = "/featured/mindhut"; 
+            if(!dropdown_loaded4)
+            {
+                jQuery.get(murl, function(data){
+                    jQuery('.dropdown-mindhut').html(data);
+                    dropdown_loaded4 = true;
+                });
+            }
+        });
+        
+        var cache2 = {};
+        jQuery( "#search-sparknotes" ).autocomplete({
+          position: { my : "left+10 top", at: "left bottom" },
+          appendTo: ".small-search",
+          minLength: 2,
+          source: function(request,response){
+            // hit a json source, caching results
+            if(request.term in cache2) {
+              response($.map(cache2[request.term], function(item){
+                return { value: item.value, id: item.id}
+              }));
+              return;
+            }
+            jQuery.ajax({
+              url: "http://" + window.location.hostname + "/autocomplete/autocomplete_query.php",          
+              data: "term=" + request.term,
+              dataType: "json",
+              type: "GET",
+              contentType: "application/json; charset=utf-8",
+              dataFilter: function(data) {return data;},
+              success: function(data) {                              
+                cache2[request.term] = data;
+                response(jQuery.map(data, function(item) {
+                  return {
+                    value: item.value,
+                    id: item.id
+                  }
+                }))
+              },
+              error: function() {
+                if ( window.console && window.console.log ) {
+                  // console is available
+                  console.log('problem with autocomplete ajax call!');
+                  }
+                }
+            });
+          },
+          select: function (a, b) { // submit form with the selected item
+            jQuery(this).val(b.item.value);
+            jQuery("#searchform").submit();            
+          }
+        });
+    });
+  </script>
+<div id="ad-skin-bg">
+<div id="ad-skin-img">
+<div class="inner-content blue-background">
+<div class="center no-columns top-ad">
+<div class="is-centered ad-container">
+<script type="text/javascript">
+                      DisplayAds('Wallpaper');
+                      DisplayAds('Top');
+        </script>
+</div>
+</div>
+<div class="clearfix breadcrumbs">
+<ul class="clearfix is-inline semi-bold">
+<li class="margin-0">
+<a href="http://www.sparknotes.com">Home</a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/nofear/lit/">No Fear Literature </a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/">A Tale of Two Cities </a> <span class="link-color">→</span> Book 1: Recalled to Life, Chapter 1: The Period    	</li>
+</ul>
+</div><script src="http://img.sparknotes.com/js/over.js" type="text/javascript"></script>
+<div class="clearfix interior">
+<div class="col-2-3 NFS-container">
+<div class="white-background border-blue">
+<div class="NFS content">
+<div class="clearfix">
+<h1 class="left title padding-btm-0">A Tale of Two Cities</h1>
+<h2 class="right nfl-logo"><a class="hide-text" href="http://www.sparknotes.com/nofear/lit/">No Fear Literature</a></h2>
+</div>
+<div class="clearfix next-previous center"><a class="left arrow-nav previous text-color tooltip-link" href="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/characters/">←<span class="tooltip-css dark-grey-background study-guide-tooltip"><h3>Characters</h3></span></a><div class="dropdownMenu is-centered"><form>
+<select onchange="document.location = this.value" style="margin-top:10px; width: 200px;">
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/">Table of Contents</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/characters/">Characters</option>
+<option selected="" value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-1-chapter-1-the-period/">Book 1: Recalled to Life, Chapter 1: The Period</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-1-chapter-1-the-period/page_2.html">  Book 1: Recalled to Life, Chapter 1: The Period: Page 2</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-1-chapter-2-the-mail/">Book 1, Chapter 2: The Mail</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-1-chapter-3-the-night-shadows/">Book 1, Chapter 3: The Night Shadows</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-1-chapter-4-the-preparation/">Book 1, Chapter 4: The Preparation</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-1-chapter-5-the-wine-shop/">Book 1, Chapter 5: The Wine Shop</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-1-chapter-6-the-shoemaker/">Book 1, Chapter 6: The Shoemaker</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-1-five-years-later/">Book 2: The Golden Thread, Chapter 1: Five Years Later</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-2-a-sight/">Book 2, Chapter 2: A Sight</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-3-a-disappointment/">Book 2, Chapter 3: A Disappointment</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-4-congratulatory/">Book 2, Chapter 4: Congratulatory</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-5-the-jackal/">Book 2, Chapter 5: The Jackal</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-6-hundreds-of-people/">Book 2, Chapter 6: Hundreds of People</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-7-monseigneur-in-town/">Book 2, Chapter 7: Monseigneur in Town</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-8-monseigneur-in-the-country/">Book 2, Chapter 8: Monseigneur in the Country</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-9-the-gorgons-head/">Book 2, Chapter 9: The Gorgon’s Head</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-10-two-promises/">Book 2, Chapter 10: Two Promises</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-11-a-companion-picture/">Book 2, Chapter 11: A Companion Picture</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-12-the-fellow-of-delicacy/">Book 2, Chapter 12: The Fellow of Delicacy</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-13-the-fellow-of-no-delicacy/">Book 2, Chapter 13: The Fellow of No Delicacy</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-14-the-honest-tradesman/">Book 2, Chapter 14: The Honest Tradesman</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-15-knitting/">Book 2, Chapter 15: Knitting</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-16-still-knitting/">Book 2, Chapter 16: Still Knitting</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-17-one-night/">Book 2, Chapter 17: One Night</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-18-nine-days/">Book 2, Chapter 18: Nine Days</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-19-an-opinion/">Book 2, Chapter 19: An Opinion</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-20-a-plea/">Book 2, Chapter 20: A Plea</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-21-echoing-footsteps/">Book 2, Chapter 21: Echoing Footsteps</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-22-the-sea-still-rises/">Book 2, Chapter 22: The Sea Still Rises</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-23-fire-rises/">Book 2, Chapter 23: Fire Rises</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-24-drawn-to-the-loadstone-rock/">Book 2, Chapter 24: Drawn to the Loadstone Rock</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-1-in-secret/">Book 3: The Track of a Storm, Chapter 1: In Secret</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-2-the-grindstone/">Book 3, Chapter 2: The Grindstone</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-3-the-shadow/">Book 3, Chapter 3: The Shadow</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-4-calm-in-storm/">Book 3, Chapter 4: Calm in Storm</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-5-the-wood-sawyer/">Book 3, Chapter 5: The Wood-Sawyer</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-6-triumph/">Book 3, Chapter 6: Triumph</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-7-a-knock-at-the-door/">Book 3, Chapter 7: A Knock at the Door</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-8-a-hand-at-cards/">Book 3, Chapter 8: A Hand at Cards</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-9-the-game-made/">Book 3, Chapter 9: The Game Made</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-10-the-substance-of-the-shadow/">Book 3, Chapter 10: The Substance of the Shadow</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-11-dusk/">Book 3, Chapter 11: Dusk</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-12-darkness/">Book 3, Chapter 12: Darkness</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-13-fifty-two/">Book 3, Chapter 13: Fifty-two</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-14-the-knitting-done/">Book 3, Chapter 14: The Knitting Done</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-15-the-footsteps-die-out-for-ever/">Book 3, Chapter 15: The Footsteps Die Out For Ever</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/citing/">How to Cite</option>
+</select>
+</form></div><a class="right arrow-nav next text-color tooltip-link" href="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-1-chapter-1-the-period/page_2.html">→<span class="tooltip-css dark-grey-background study-guide-tooltip"><h3>Book 1: Recalled to Life, Chapter 1: The Period: Page 2</h3></span></a></div>
+<div id="noFear-comparison"><table border="0" cellpadding="0" class="noFearLit"><tr><td class="noFear-left"><h3 class="semi-bold">Original Text</h3></td><td class="noFear-right"><h3 class="semi-bold">Modern Text</h3></td></tr>
+<tr><td class="noFear-left">
+                    It was the best of times, it was the worst of times, it was the age of wisdom,
+                    it was the age of foolishness, it was the epoch of belief, it was the epoch of
+                    incredulity, it was the season of Light, it was the season of Darkness, it was
+                    the spring of hope, it was the winter of despair, we had everything before us,
+                    we had nothing before us, we were all going direct to Heaven, we were all going
+                    direct the other way—in short, the period was so far like the present period,
+                    that some of its noisiest authorities insisted on its being received, for good
+                    or for evil, in the superlative degree of comparison only.
+            </td><td class="noFear-right">
+                    It was one of the best and worst times in history. It was a time of great
+                    intelligence and ignorance, belief and disbelief, good and evil, hope and
+                    hopelessness. We had everything to live for, and we had nothing to live for.
+                    Everyone was going straight to Heaven and straight to hell. Basically, it was
+                    just like <a class="tooltip-link" href="javascript:void(0);"><span class="tooltip-css tooltip-background"><h4 class="semi-bold">the present</h4><p>1859, the time at which Dickens was writing</p></span>the present</a>, with experts of the time insisting on seeing its events only in
+                    terms of contrasting extremes.
+            </td></tr>
+<tr><td class="noFear-left">
+                    There were a king with a large jaw and a queen with a plain face, on the
+                    throne of England; there were a king with a large jaw and a queen with a fair
+                    face, on the throne of France. In both countries it was clearer than crystal to
+                    the lords of the State preserves of loaves and fishes, that things in general
+                    were settled for ever.
+            </td><td class="noFear-right">
+                    A stern-looking king and a plain-looking queen ruled England. A stern-looking
+                    king and a beautiful queen ruled France. In both countries, it seemed obvious to
+                    the people managing the royal food supplies that things were stable and nothing
+                    would ever change. 
+            </td></tr>
+<tr><td class="noFear-left">
+                    It was the year of Our Lord one thousand seven hundred and seventy-five.
+                    Spiritual revelations were conceded to England at that favoured period, as at
+                    this. Mrs. Southcott had recently attained her five-and-twentieth blessed
+                    birthday, of whom a prophetic private in the Life Guards had heralded the
+                    sublime appearance by announcing that arrangements were made for the swallowing
+                    up of London and Westminster. Even the Cock-lane ghost had been laid only a
+                    round dozen of years, after rapping out its messages, as the spirits of this
+                    very year last past (supernaturally deficient in originality) rapped out theirs.
+                    Mere messages in the earthly order of events had lately come to the English
+                    Crown and People, from a congress of British subjects in America: which, strange
+                    to relate, have proved more important to the human race than any communications
+                    yet received through any of the chickens of the Cock-lane brood.
+            </td><td class="noFear-right">
+                    It was 1775. People in England were as superstitious then as they
+                    are now. <a class="tooltip-link" href="javascript:void(0);"><span class="tooltip-css tooltip-background"><h4 class="semi-bold">Mrs. Southcott</h4><p>a woman who claimed to be a prophet</p></span>Mrs. Southcott</a> had just turned twenty-five, and a private in the British army who claimed he could tell the future announced her appearance by saying that London and Westminster would be destroyed.
+                    Even the <a class="tooltip-link" href="javascript:void(0);"><span class="tooltip-css tooltip-background"><h4 class="semi-bold">Cock Lane Ghost</h4><p>the ghost of a woman believed to haunt a house on Cock Lane</p></span>Cock Lane Ghost</a> had only been gone twelve years since last tapping out its messages, as the very unoriginal ghosts of last year tapped out
+                    theirs. A <a class="tooltip-link" href="javascript:void(0);"><span class="tooltip-css tooltip-background"><h4 class="semi-bold">group of British subjects in the American colonies</h4><p>the First Continental Congress</p></span>group of British subjects in the American colonies</a> had
+                    recently sent messages to the King of England, and oddly enough, these earthly messages proved more important than any of the supernatural ones from Cock Lane.
+            </td></tr>
+<tr><td class="noFear-left">
+                    France, less favoured on the whole as to matters spiritual than her sister of
+                    the shield and trident, rolled with exceeding smoothness down hill, making paper
+                    money and spending it. Under the guidance of her Christian pastors, she
+                    entertained herself, besides, with such humane achievements as sentencing a
+                    youth to have his hands cut off, his tongue torn out with pincers, and his body
+                    burned alive, because he had not kneeled down in the rain to do honour to a
+                    dirty procession of monks which passed within his view, at a distance of some
+                    fifty or sixty yards. It is likely enough that, rooted in the woods of France
+                    and Norway, there were growing trees, when that sufferer was put to death,
+                    already marked by the Woodman, Fate, to come down and be sawn into boards, to
+                    make a certain movable framework with a sack and a knife in it, terrible in
+                    history. It is likely enough that in the rough outhouses of some tillers of the
+                    heavy lands adjacent to Paris, there were sheltered from the weather that very
+                    day, rude carts, bespattered with rustic mire, snuffed about by pigs, and
+                    roosted in by poultry, which the Farmer, Death, had already set apart to be his
+                    tumbrils of the Revolution. But that Woodman and that Farmer, though they work
+                    unceasingly, work silently, and no one heard them as they went about with
+                    muffled tread: the rather, forasmuch as to entertain any suspicion that they
+                    were awake, was to be atheistical and traitorous.
+            </td><td class="noFear-right">
+                    France, which was less interested in spiritual matters than England, was
+                    headed straight toward disaster, printing lots of paper money and spending all
+                    of it. Under the leadership of the clergy, the French government entertained
+                    itself with such activities as cutting off a young man’s hands, pulling his
+                    tongue out with pliers, and burning him alive. The French government did this
+                    because the man didn’t kneel down in the rain to pay tribute to a group of dirty
+                    monks walking by fifty or sixty yards away. While this young man was being put
+                    to death, trees were growing in the forests of France and Norway that Fate had
+                    decided would one day be used to make the guillotines that would play a terrible
+                    role in history. It’s likely too that on the crude farms near Paris sat rough,
+                    filthy carts, which pigs snuffed around and poultry roosted in, that Death had
+                    decided would be used during the Revolution to cart people to the guillotine.
+                    Though Fate and Death work constantly, they also work quietly, so no one heard
+                    them as they went sneaking around. Instead, if a person even suggested that bad
+                    times were on the way, he would be accused of being an atheist and a traitor.
+                
+            </td></tr>
+</table></div>
+<div class="clearfix next-previous center border-bottom-0"><a class="left arrow-nav previous text-color tooltip-link" href="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/characters/">←<span class="tooltip-css dark-grey-background study-guide-tooltip"><h3>Characters</h3></span></a><div class="dropdownMenu is-centered"><form>
+<select onchange="document.location = this.value" style="margin-top:10px; width: 200px;">
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/">Table of Contents</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/characters/">Characters</option>
+<option selected="" value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-1-chapter-1-the-period/">Book 1: Recalled to Life, Chapter 1: The Period</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-1-chapter-1-the-period/page_2.html">  Book 1: Recalled to Life, Chapter 1: The Period: Page 2</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-1-chapter-2-the-mail/">Book 1, Chapter 2: The Mail</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-1-chapter-3-the-night-shadows/">Book 1, Chapter 3: The Night Shadows</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-1-chapter-4-the-preparation/">Book 1, Chapter 4: The Preparation</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-1-chapter-5-the-wine-shop/">Book 1, Chapter 5: The Wine Shop</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-1-chapter-6-the-shoemaker/">Book 1, Chapter 6: The Shoemaker</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-1-five-years-later/">Book 2: The Golden Thread, Chapter 1: Five Years Later</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-2-a-sight/">Book 2, Chapter 2: A Sight</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-3-a-disappointment/">Book 2, Chapter 3: A Disappointment</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-4-congratulatory/">Book 2, Chapter 4: Congratulatory</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-5-the-jackal/">Book 2, Chapter 5: The Jackal</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-6-hundreds-of-people/">Book 2, Chapter 6: Hundreds of People</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-7-monseigneur-in-town/">Book 2, Chapter 7: Monseigneur in Town</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-8-monseigneur-in-the-country/">Book 2, Chapter 8: Monseigneur in the Country</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-9-the-gorgons-head/">Book 2, Chapter 9: The Gorgon’s Head</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-10-two-promises/">Book 2, Chapter 10: Two Promises</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-11-a-companion-picture/">Book 2, Chapter 11: A Companion Picture</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-12-the-fellow-of-delicacy/">Book 2, Chapter 12: The Fellow of Delicacy</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-13-the-fellow-of-no-delicacy/">Book 2, Chapter 13: The Fellow of No Delicacy</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-14-the-honest-tradesman/">Book 2, Chapter 14: The Honest Tradesman</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-15-knitting/">Book 2, Chapter 15: Knitting</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-16-still-knitting/">Book 2, Chapter 16: Still Knitting</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-17-one-night/">Book 2, Chapter 17: One Night</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-18-nine-days/">Book 2, Chapter 18: Nine Days</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-19-an-opinion/">Book 2, Chapter 19: An Opinion</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-20-a-plea/">Book 2, Chapter 20: A Plea</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-21-echoing-footsteps/">Book 2, Chapter 21: Echoing Footsteps</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-22-the-sea-still-rises/">Book 2, Chapter 22: The Sea Still Rises</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-23-fire-rises/">Book 2, Chapter 23: Fire Rises</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-2-chapter-24-drawn-to-the-loadstone-rock/">Book 2, Chapter 24: Drawn to the Loadstone Rock</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-1-in-secret/">Book 3: The Track of a Storm, Chapter 1: In Secret</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-2-the-grindstone/">Book 3, Chapter 2: The Grindstone</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-3-the-shadow/">Book 3, Chapter 3: The Shadow</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-4-calm-in-storm/">Book 3, Chapter 4: Calm in Storm</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-5-the-wood-sawyer/">Book 3, Chapter 5: The Wood-Sawyer</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-6-triumph/">Book 3, Chapter 6: Triumph</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-7-a-knock-at-the-door/">Book 3, Chapter 7: A Knock at the Door</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-8-a-hand-at-cards/">Book 3, Chapter 8: A Hand at Cards</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-9-the-game-made/">Book 3, Chapter 9: The Game Made</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-10-the-substance-of-the-shadow/">Book 3, Chapter 10: The Substance of the Shadow</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-11-dusk/">Book 3, Chapter 11: Dusk</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-12-darkness/">Book 3, Chapter 12: Darkness</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-13-fifty-two/">Book 3, Chapter 13: Fifty-two</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-14-the-knitting-done/">Book 3, Chapter 14: The Knitting Done</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-3-chapter-15-the-footsteps-die-out-for-ever/">Book 3, Chapter 15: The Footsteps Die Out For Ever</option>
+<option value="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/citing/">How to Cite</option>
+</select>
+</form></div><a class="right arrow-nav next text-color tooltip-link" href="http://www.sparknotes.com/nofear/lit/a-tale-of-two-cities/book-1-chapter-1-the-period/page_2.html">→<span class="tooltip-css dark-grey-background study-guide-tooltip"><h3>Book 1: Recalled to Life, Chapter 1: The Period: Page 2</h3></span></a></div>
+</div>
+</div>
+<div class="white-background border-blue more-help interior">
+<h3>More Help</h3>
+<div class="more-help-interior">
+<ul class="clearfix is-inline" id="more-help-carousel">
+<li class="center">
+<a class="is-centered" href="http://www.sparknotes.com/lit/twocities" target="_blank">
+<img src="http://img.sparknotes.com/images/more_help/to-sparknote.png">
+</img></a>
+<h5><a class="text-color is-centered" href="http://www.sparknotes.com/lit/twocities" target="_blank">Read the A Tale of Two Cities SparkNote</a></h5>
+</li>
+</ul>
+<a class="arrow" href="javascript: void(0)" id="carousel_prev">Previous</a>
+<a class="arrow" href="javascript: void(0)" id="carousel_next">Next</a>
+<script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery("#more-help-carousel").carouFredSel({
+            	circular			: false,
+                items               : 3,
+                responsive          : true,
+                auto                : false,
+                height              : 190,
+                prev    : { 
+                    button  : "#carousel_prev",
+                    key     : "left"
+                },
+                next    : { 
+                    button  : "#carousel_next",
+                    key     : "right"
+                },
+                scroll : {
+                    items           : 3,
+                    duration        : 600,                          
+                    pauseOnHover    : true  
+                }                   
+            }); 
+        });
+        </script>
+</div>
+</div>
+</div>
+<div class="col-1-3 last top-right-ad">
+<div class="center">
+<div class="is-centered">
+<script type="text/javascript">
+//<![CDATA[
+		    DisplayAds('ExpandableBox');
+		
+//]]>
+</script> </div>
+</div><div class="white-background border-blue blog-feature">
+<h3 class="sparklife-logo-home"><a class="hide-text" href="http://community.sparknotes.com/">SparkLife</a></h3>
+<h2>Take a Study Break!</h2>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/23/the-most-stunning-red-carpet-moments-at-the-2015-academy-awards"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/oscarsstudy2015.jpg	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/23/the-most-stunning-red-carpet-moments-at-the-2015-academy-awards">CRY US A RIVER, THESE OSCARS DRESSES WERE WEEPING WITH BEAUTY</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/19/if-fictional-characters-could-text"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/testfictstudy.jpg	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/19/if-fictional-characters-could-text">If your fav character could text, here's what they'd say</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/17/sasha-and-malia-are-the-coolest-heres-why"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/sashamalstudy.jpg	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/17/sasha-and-malia-are-the-coolest-heres-why">Sasha and Malia are crushing adolescence... here's why</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/19/snl-40th-anniversary-valentines-day-in-this-weeks-celeb-twitter-roundup"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/twit0220study.jpg	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/19/snl-40th-anniversary-valentines-day-in-this-weeks-celeb-twitter-roundup">OMG WHO GOT THE HEART-SHAPED ENGAGEMENT RING?!</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/23/11-reasons-we-wish-emma-watson-was-dating-prince-harry"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/emprincestudy.jpg	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/23/11-reasons-we-wish-emma-watson-was-dating-prince-harry">Why we NEED the Emma Watson-Prince Harry dating rumor to be true</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/23/meet-jenna-our-2015-prom-blogger"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/promblogintrostudy.jpg	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/23/meet-jenna-our-2015-prom-blogger">Meet our adorbs new prom blogger, Jenna - you'll be picking her dress!</a></h4>
+</div>
+</div>
+<h3 class="geekOut border-top-blue"><a class="hide-text" href="http://www.sparknotes.com/mindhut">The MindHut</a></h3>
+<h2>Take a Study Break!</h2>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/02/19/how-to-tell-the-hollywood-nerds-from-the-hollywood-geeks"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/hwoodgkshwdnrrrdsthumb.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/19/how-to-tell-the-hollywood-nerds-from-the-hollywood-geeks">How to tell a Hollywood Geek from a Hollywood Nerd</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/02/23/your-favorite-disney-characters-partner-with-pokemon-in-this-art-series"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/dizmeetzpokezthumb.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/23/your-favorite-disney-characters-partner-with-pokemon-in-this-art-series">Disney meets Pokémon!</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/01/30/obsolete-tech-thats-worth-big-bucks-today"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/OldTechBigMoney2_Slidemhcar.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/30/obsolete-tech-thats-worth-big-bucks-today">You'll never believe how much this computer is worth</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/02/18/we-came-we-saw-we-played-with-toys-at-the-2015-international-toy-fair"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/toynotfairitsfairthumb.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/18/we-came-we-saw-we-played-with-toys-at-the-2015-international-toy-fair">We played with ALL THE TOYS at this year's Toy Fair!</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/01/28/fourteen-fascinatingly-poop-tastic-facts-about-animal-poop"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/WeirdAnimalPoops0_Slidethumbzzz.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/28/fourteen-fascinatingly-poop-tastic-facts-about-animal-poop">This post is 100% about weird animal poop</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/01/22/what-we-would-change-if-we-rebooted-these-recent-sci-fi-and-fantasy-flops-that-could-be-great-with-a-little-help"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/couldanotsuckkkked.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/22/what-we-would-change-if-we-rebooted-these-recent-sci-fi-and-fantasy-flops-that-could-be-great-with-a-little-help">The Last Airbender could have rocked if they'd just done THIS</a></h4>
+</div>
+</div>
+</div>
+<!-- todo: include GlobalTemplatePlugin/modules/project_templates/templates/_bookBlogPosts.php here -->
+</div></div>
+<script src="http://img.sparknotes.com/js/jquery.carouFredSel-6.1.0-packed.js" type="text/javascript"></script> </div>
+</div>
+<footer>
+<div class="dark-grey-background">
+<div class="clearfix center centered-width footer">
+<h6 class="semi-bold">When your books and teachers don't make sense, we do.</h6>
+<navigation>
+<ul class="clearfix is-inline is-centered semi-bold">
+<li class="first"><a href="http://www.sparknotes.com/contact/">Contact Us</a></li>
+<li><a href="http://www.sparknotes.com/legal/">Legal</a></li>
+<li><a href="http://www.sparknotes.com/about/">About</a></li>
+<li><a href="http://www.sparknotes.com/sitemap/">Sitemap</a></li>
+<li><a href="http://www.sparknotes.com/mobile-apps/">Mobile Apps</a></li>
+<li><a href="http://www.sparknotes.com/advertisers/">Advertise</a></li>
+<li><a class="hide-text small-facebook" href="http://www.facebook.com/SPARKNOTES">Facebook</a></li>
+<li><a class="hide-text small-twitter" href="https://twitter.com/SparkNotes">Twitter</a></li>
+</ul>
+<p class="is-centered">SparkNotes is brought to you by <a href="http://www.barnesandnoble.com/">B&amp;N</a>. Visit B&amp;N to buy and rent <a href="http://www.barnesandnoble.com/textbooks/index.asp">textbooks</a>, and check out our award-winning tablets and ereaders, including <a href="http://www.barnesandnoble.com/u/samsung-galaxy-tab-4-nook-tablet/379004262">Samsung Galaxy Tab 4 NOOK</a> and <a href="http://www.barnesandnoble.com/u/nook-glowlight-ereader/379004122">NOOK GlowLight</a>.</p>
+</navigation>
+<p class="is-centered small">© 2015 <a class="light-grey" href="http://www.sparknotes.com/">SparkNotes LLC</a>, All Rights Reserved</p>
+</div>
+</div>
+</footer>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-704167h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+<div>
+<img alt="" height="1" src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-704167h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1"/>
+</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<script src="http://img.sparknotes.com/js/jquery-ui-1.10.2.custom.min.js" type="text/javascript"></script>
+<script src="http://img.sparknotes.com/js/sparknotes.js" type="text/javascript"></script>
+</div>
+</body>
+</html>

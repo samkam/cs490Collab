@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="width=device-width" name="viewport"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>WordPress › Installation</title>
+<link href="http://reviewthemovie.com/wp-includes/css/buttons.min.css?ver=3.8.4" id="buttons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&amp;subset=latin%2Clatin-ext&amp;ver=3.8.4" id="open-sans-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://reviewthemovie.com/wp-admin/css/install.min.css?ver=3.8.4" id="install-css" media="all" rel="stylesheet" type="text/css"/>
+</head>
+<body class="wp-core-ui">
+<h1 id="logo"><a href="http://wordpress.org/">WordPress</a></h1>
+<h1>Welcome</h1>
+<p>Welcome to the famous five minute WordPress installation process! You may want to browse the <a href="../readme.html">ReadMe documentation</a> at your leisure. Otherwise, just fill in the information below and you’ll be on your way to using the most extendable and powerful personal publishing platform in the world.</p>
+<h1>Information needed</h1>
+<p>Please provide the following information. Don’t worry, you can always change these settings later.</p>
+<form action="install.php?step=2" id="setup" method="post">
+<table class="form-table">
+<tr>
+<th scope="row"><label for="weblog_title">Site Title</label></th>
+<td><input id="weblog_title" name="weblog_title" size="25" type="text" value=""/></td>
+</tr>
+<tr>
+<th scope="row"><label for="user_login">Username</label></th>
+<td>
+			User(s) already exists.			</td>
+</tr>
+<tr>
+<th scope="row"><label for="admin_email">Your E-mail</label></th>
+<td><input id="admin_email" name="admin_email" size="25" type="text" value=""/>
+<p>Double-check your email address before continuing.</p></td>
+</tr>
+<tr>
+<th scope="row"><label for="blog_public">Privacy</label></th>
+<td colspan="2"><label><input checked="checked" name="blog_public" type="checkbox" value="1"/> Allow search engines to index this site.</label></td>
+</tr>
+</table>
+<p class="step"><input class="button button-large" name="Submit" type="submit" value="Install WordPress"/></p>
+</form>
+<script type="text/javascript">var t = document.getElementById('weblog_title'); if (t){ t.focus(); }</script>
+<script src="http://reviewthemovie.com/wp-includes/js/jquery/jquery.js?ver=1.10.2" type="text/javascript"></script>
+<script src="http://reviewthemovie.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _zxcvbnSettings = {"src":"http:\/\/reviewthemovie.com\/wp-includes\/js\/zxcvbn.min.js"};
+/* ]]> */
+</script>
+<script src="http://reviewthemovie.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pwsL10n = {"empty":"Strength indicator","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
+/* ]]> */
+</script>
+<script src="http://reviewthemovie.com/wp-admin/js/password-strength-meter.min.js?ver=3.8.4" type="text/javascript"></script>
+<script src="http://reviewthemovie.com/wp-admin/js/user-profile.min.js?ver=3.8.4" type="text/javascript"></script>
+</body>
+</html>

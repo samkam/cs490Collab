@@ -1,0 +1,1698 @@
+
+<!DOCTYPE html>
+
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 modePublish"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8 modePublish"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9 modePublish"> <![endif]-->
+<!--[if IE 9]> <html class="no-js modePublish"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js gt-ie9 modePublish"><!--<![endif]-->
+<head>
+<!-- Begin comScore Tag -->
+<script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "18406752" });
+      (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=18406752&amp;cv=2.0&amp;cj=1"/>
+</noscript>
+<!-- End comScore Tag -->
+<script>
+      //Reload to canonical if you try to paste in the print page
+      if (window.location.search.indexOf("print") > -1) {
+        if (document.referrer.indexOf("http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html") != 0) {
+          window.location = "http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html";
+        }
+      }
+      //-- Stop hiding script -->
+    </script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQ4OUFNbGwEGU1dUAwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(3),t(4),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:6,4:5,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:21,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],10:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","trackUserAction","finished","traceEvent","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:19,2:20,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-536.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:19,2:10,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],19:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<script type="text/javascript">
+      var slate_public_url = "http://www.slate.com/";
+      window._sf_startpt=(new Date()).getTime();
+    </script>
+<meta charset="utf-8">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<title>The disgusting brilliance of Lolita.</title>
+<meta content="Every now and again it's probably healthy to crack open the glass, remove a certain world masterpiece from the display case, and in re-reading it recall that—unlike Ulysses and Lady Chatterley's Lover, two other novels once deemed obscene by the tribunes of moral upkeep— Lolita is a disgusting book. Furthermore,..." name="description"/>
+<meta content="" name="keywords"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+<script>
+      
+      var commercialNode = 'arts/bookreview';
+      
+      var commercialPageType = 'article';
+      var selectedText = "";
+    </script>
+<!-- Facebook OG -->
+<meta content="The disgusting brilliance of Lolita." id="ogtitle" property="og:title"/>
+<meta content="http://www.facebook.com/Slate" property="article:publisher"/>
+<meta content="https://www.facebook.com/sdmetcalf" property="article:author"/>
+<meta content="article" property="og:type"/>
+<meta content="http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html" id="ogurl" property="og:url"/>
+<meta content="http://www.slate.com/content/dam/slate/archive/2005/12/1_123125_122946_2112097_2131456_051216_books_lolita.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg" id="ogimage" property="og:image"/>
+<meta content="Slate Magazine" property="og:site_name"/>
+<meta content="Every now and again it's probably healthy to crack open the glass, remove a certain world masterpiece from the display case, and in re-reading it recall that—unlike Ulysses and Lady Chatterley's Lover, two other novels once deemed obscene by the tribunes of moral upkeep— Lolita is a disgusting book. Furthermore,..." id="ogdescription" property="og:description"/>
+<meta content="142011022527753" property="fb:app_id"/>
+<!-- Twitter -->
+<meta name="twitter:card" value="summary"/>
+<meta name="twitter:site" value="@slate"/>
+<meta name="twitter:creator" value="@Metlandia"/>
+<meta name="twitter:url" value="http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html"/>
+<meta name="twitter:title" value="The disgusting brilliance of Lolita."/>
+<meta name="twitter:description" value="Every now and again it's probably healthy to crack open the glass, remove a certain world masterpiece from the display case, and in re-reading it recall that—unlike Ulysses and Lady Chatterley's Lover, two other novels once deemed obscene by the tribunes of moral upkeep— Lolita is a disgusting book. Furthermore,..."/>
+<meta name="twitter:image" value="http://www.slate.com/content/dam/slate/archive/2005/12/1_123125_122946_2112097_2131456_051216_books_lolita.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg"/>
+<link href="http://static.cdnslate.com/etc/designs/slate/css/story.05c9149f.css" rel="stylesheet" type="text/css"/>
+<script data-ad-site="slate" src="http://static.cdnslate.com/etc/designs/slate/js/libs/require.js"></script>
+<script>
+    requirejs.config({
+      "baseUrl": "http://static.cdnslate.com/etc/designs/slate/js",
+      "waitSeconds": 0,
+      "paths": {
+        "jquery": "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min",
+        "jqueryui": "//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min",
+        "modernizr": "/etc/designs/slate/js/libs/modernizr-2.6.1.min",
+        "announcements": "/etc/designs/slate/js/announcements",
+        "slate": "/etc/designs/slate/lib",
+        "hogan": "libs/hogan-2.0.0",
+        "facebook": "//connect.facebook.net/en_US/all",
+        "livefyre": "http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre",
+        "livefyresidenotes": "//cdn.livefyre.com/Livefyre",
+        "brightcove": "http://admin.brightcove.com/js/BrightcoveExperiences",
+        "brightcovetracking": "/etc/designs/slate/js/brightcovetracking",
+        "mobileredirection": "libs/redirection_mobile_1.0.0.min",
+        "optimizely": "//cdn.optimizely.com/js/37441550",
+        "outbrain": "//widgets.outbrain.com/outbrain",
+        "shared": "http://static.cdnslate.com/etc/designs/shared/js",
+        "instafeed": "/etc/designs/slate/js/instafeed",
+        "campaigns": "http://campaigns.slate.com/campaigns/slate",
+        "clipboard": "libs/zeroclipboard/ZeroClipboard.min",
+        "tinypass": "//cdn.tinypass.com/api/tinypass.min"
+      },
+      "shim": {
+        "shared/devicemode": ["modernizr"],
+        "hcs/script": ["jquery", "modernizr", "shared/devicemode"],
+        "libs/jquery-plugins/jquery.browser": ["jquery"],
+        "hcs/plugins/jquery.transit": ["jquery"],
+        "hcs/plugins/SGFootnote.jquery": ["jquery"],
+        "hcs/plugins/SGSocialIcons.jquery": ["jquery", "hcs/script"],
+        "hcs/plugins/SGNavDropdown.jquery": ["jquery"],
+        "hcs/plugins/SGComments.jquery": ["jquery", "hcs/script"],
+        "hcs/plugins/SGRollup.jquery": ["jquery", "hcs/script"],
+        "hcs/plugins/SGGlobalNav.jquery": ["jquery", "hcs/script"],
+        "hcs/plugins/SGLightbox.jquery": ["jquery"],
+        "hcs/plugins/jQuery.highlighter": ["jquery"],
+        "hcs/libs/swipe": ["jquery"],
+        "hcs/libs/magnific": ["jquery"],
+        "hcs/plugins/jquery.swipebox": ["jquery"],
+        "hcs/plugins/SGBigSlider.jquery": ["jquery", "hcs/script", "hcs/libs/swipe"],
+        "hcs/plugins/jquery.placeholder.min": ["jquery"],
+        "libs/jquery-plugins/jquery.timeago": ["jquery"],
+        "libs/jquery-plugins/jquery.form": ["jquery"],
+        "libs/jquery-plugins/jquery.cookie": ["jquery"],
+        "libs/jquery-plugins/jquery.fittext": ["jquery"],
+        "libs/jquery-plugins/jquery.backgroundSize": ["jquery"],
+        "libs/jquery-plugins/jquery.flexslider": ["jquery"],
+        "libs/jquery-plugins/purl": ["jquery"],
+        "libs/jquery-plugins/jquery.colorbox": [ "jquery" ],
+        "libs/jquery-plugins/jquery.sticky": ["jquery"],
+        "libs/jquery-plugins/jquery.autoComplete": ["jquery"],
+        "libs/jquery-plugins/jquery.boxfit": ["jquery"],
+        "libs/jquery-plugins/jquery.dateformat": ["jquery"],
+        "libs/jquery-plugins/jquery.lazyloadxt": ["jquery"],
+        "libs/jquery-plugins/jquery.lazyloadxt.extra": ["jquery"],
+        "libs/jquery-plugins/jquery.lazyloadxt.bg": ["jquery"],
+        "libs/jquery-plugins/jquery.lazyloadxt.widget": ["jquery"],
+        "libs/jquery-plugins/jquery.visible": ["jquery"],
+        "optimizely": ["jquery"],
+        "facebook": {
+            deps: ["identity/wapo_site_bottom"],
+            exports: "FB"
+        },
+        "livefyre": {
+            exports: "fyre"
+        },
+        "brightcove": {
+          	"exports": "brightcove"
+        },
+        "mobileredirection": {
+                "exports": "mobileredirection"
+        },
+        "hogan": {
+          	"exports": "Hogan"
+        },
+        "outbrain": {
+          "exports": "OBR"
+        }
+      }
+    });
+
+
+    
+    define("config", {
+      "env": {
+        "edit": false,
+        "environment": "prod"
+      },
+      "identity": {
+		"fb_xd_receiver": "http://www.slate.com/xd_receiver.htm",
+		"fb_app_id": 142011022527753,
+		"publicationName": "Slate",
+		"site_base_domain": "slate.com",
+		"site_path": "/",
+		"wapo_secure_protocol": "https:",
+		"wapo_site_url": "//id.slate.com/identity/",
+		"site_url": "//www.slate.com/",
+		"wapo_public_protocol": "http:",
+		"myslate_domain": "//my.slate.com/",
+		"myslate_https": true,
+		"enabled": true
+	  },
+	  "livefyre": {
+	    "network": "slate.fyre.co",
+	    "jsSourceUrl": "http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js",
+	    "siteId": "337720",
+      "loadTiming": "demand",
+	  },
+      "campaigns": {
+         "domain":"campaigns.slate.com"
+       },
+       "site": {
+         "site": "slate",
+         "title": "Slate",
+         "staticUrl": "http://static.cdnslate.com",
+         "omniturePrefix": "sl"
+       },
+       "data_domain": "http://www.slate.com/",
+       "page": {
+         "articleId": "2132708",
+         "roadblocked": false,
+         "embeddedContent": false,
+         "slateplus": false
+       },
+      "ads": {
+        "enableHomepageViewability": false,
+        "enableStoryViewability": true,
+        "viewabilityEnabled": true,
+        "viewability": {
+          "leaderboardRollup": true,
+          "leaderboardRollupDisabledList": "",
+          "refreshInterval": "30",
+          "refreshPolar": false,
+          "testPageList": "news,life,arts,sports,technology,blogs,business,science,doublex,video,podvideo,podcasts,news,life,arts,sports,technology,blogs,business,science,doublex,video,podvideo,podcasts",
+          "lazyload": {
+            "homepageBB": true,
+            "leaderboard_2": true,
+            "tiffTiles": true,
+            "rightflex": true
+          }
+        }
+      },
+      "tinypass": {
+        "aid": "Ey9jlGV74T",
+        "contentCreated": "2005-12-19T13:31:00",
+        "contentAuthor": ["Stephen Metcalf"],
+        "contentSection": "Arts"
+      },
+      "_log": [],
+      "log": function(data) {
+         requirejs(["config"], function(config) {
+           if (typeof console != "undefined" &&
+               typeof console.log != "undefined") {
+             console.log(data);
+           }
+           config._log.push(data);
+         });
+       }
+    });
+    var homepagePolarSpot = 'b1';
+    </script>
+<script src="http://static.cdnslate.com/etc/designs/slate/js/main.min.69644e89.js"></script>
+<script language="javascript" type="text/javascript">
+requirejs(["s_code"], function(s) {
+
+        s.currencyCode="usd";
+        s.charSet="utf-8";
+        s.trackDownloadLinks=true;
+        s.trackExternalLinks=true;
+        s.trackInlineStats=true;
+        s.linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,wmv,doc,pdf,xls";
+        s.linkInternalFilters="javascript:,slate.com,traffic.outbrain.com";
+        s.linkTrackVars="none";
+        s.linkTrackEvents="none";
+        s.pageName="arts:article - 20051219 - the disgusting brilliance of lolita.";
+        s.channel="sl - arts";
+        s.server="www.slate.com";
+        s.prop2="books";
+        s.prop3="article";
+        s.prop4="slate";
+        s.prop5="stephen metcalf";
+        s.prop12="2132708";
+        s.prop13="the disgusting brilliance of lolita.";
+        s.prop14="1";
+        s.prop34="3.63.1";
+        s.prop36="general";
+        s.prop39="arts/bookreview";
+        s.hier1="arts|books|article";
+        s.eVar8="stephen metcalf";
+        s.eVar17="article";
+s.t();
+});
+</script>
+<script>               
+      var _isNavMoving = false; // acts as a global (sorry) mutex for keeping track of when our nav panels are moving around. Allows us to prevent overlapping actions.
+    </script>
+<!-- Google Sitemap -->
+<meta content="jXqoqqPSmx_PWchRdG-IXu-X616Ee2Ptf_AiElI9LzQ" name="google-site-verification"/>
+<link href="http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html" rel="canonical"/>
+<link href="http://www.slate.com/content/dam/slate/archive/2005/12/1_123125_122946_2112097_2131456_051216_books_lolita.jpg.CROP.thumbnail-small.jpg" rel="image_src"/>
+<!-- Parsely -->
+<meta content='{
+  "title": "The disgusting brilliance of Lolita.",
+  "link": "http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html",
+  "image_url": "http://www.slate.com/content/dam/slate/archive/2005/12/1_123125_122946_2112097_2131456_051216_books_lolita.jpg.CROP.thumbnail-small.jpg",
+  "type": "post",
+  "post_id": "2132708",
+  "pub_date": "2005-12-19T13:31:00Z",
+  "section": "Arts",
+  "author": "Stephen Metcalf",
+  "tags": []
+}' name="parsely-page"/>
+<!-- RSS -->
+<link href="http://www.slate.com/articles/arts.fulltext.all.rss" rel="alternate" title="Arts (RSS 2.0)" type="application/rss+xml"/>
+<script>var wp_meta_data = {"authors":["Stephen Metcalf"],"contentType":"article","page_id":"2132708","keywords":"Books","section":"Arts","rubric":"Books"};</script>
+<!if gte IE 8!>
+<script type="text/javascript">
+    requirejs(['pagenav', 'jquery'], function(pagenav, $) {
+      var SlateNextbox = {};
+
+      SlateNextbox.data = {
+        'headline': 'Meet the Graphic Design Mastermind Behind the Best Part of the Oscars',
+        'subhead': '',
+        'url': 'http:\/\/www.slate.com\/blogs\/browbeat\/2015\/02\/23\/henry_hobson_interview_meet_the_man_behind_the_oscars_beautiful_animated.html',
+        'article_id': '205150223009',
+        'hasImage': true,
+        
+        'image': 'http:\/\/www.slate.com\/content\/dam\/slate\/blogs\/browbeat\/2015\/02\/23\/henry_hobson_interview_meet_the_man_behind_the_oscars_beautiful_animated\/budapest_copy.jpg.CROP.rectangle-small.jpg',
+        
+      
+        'section': 'Brow Beat',
+      
+        'subscribe_type': 'rubric'
+      };
+      $.data(window, "SlateNextbox", SlateNextbox);
+      pagenav.addStory(SlateNextbox.data);
+    });
+
+    </script>
+<!endif!>
+<!-- sailthru meta -->
+<meta content="" name="sailthru.tags"/>
+<meta content="Stephen Metcalf" name="sailthru.author"/>
+<meta content="2005-12-19T13:31:00Z" name="sailthru.date"/>
+<meta content="Every now and again it's probably healthy to crack open the glass, remove a certain world masterpiece from the display case, and in re-reading it recall that—unlike Ulysses and Lady Chatterley's Lover, two other novels once deemed obscene by the tribunes of moral upkeep— Lolita is a disgusting book. Furthermore,..." name="sailthru.description"/>
+<meta content="http://www.slate.com/content/dam/slate/archive/2005/12/1_123125_122946_2112097_2131456_051216_books_lolita.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg" name="sailthru.image.full"/>
+<meta content="Lolita at 50" name="sailthru.headline"/>
+<meta content="Is Nabokov's masterpiece still shocking?" name="sailthru.subheadline"/>
+<meta content="The disgusting brilliance of Lolita." name="sailthru.promoheadline"/>
+</meta></meta></meta></head>
+<body class="article story">
+<div class="ad " data-ad-mode="large" data-ad-type="teads" id="slug_teads"></div>
+<input id="currPath" type="hidden" value="/articles/arts/books/2005/12/lolita_at_50"/>
+<!-- HCS: shared/roll_ups/tablet -->
+<!-- This is the header bar we always show in tablet mode -->
+<header class="roll-up" id="tablet_header">
+<div class="container">
+<div class="main">
+</div>
+<div class="sidebar">
+<section class="nav-panel">
+<div class="nav-header">
+<a class="slate-logo" href="/"><span class="logo">Slate</span></a>
+<a class="user-link " href="#"></a>
+<a class="search-link " href="#"></a>
+<a class="global-nav-handle " href="#"></a>
+<div class="buttons">
+<span class="link option "><a class="first nav-option sign-in-link" href="#" id="sign_in_link">Sign In</a></span>
+<span class="link option "><a class="nav-option sign-up-link" href="#" id="sign_up_link">Sign Up</a></span>
+</div>
+</div>
+</section>
+</div>
+</div><!-- /.container -->
+</header><!-- /.header.roll-up -->
+<!-- HCS END: shared/roll_ups/tablet -->
+<div class="top">
+<div class="ad " data-ad-mode="large" data-ad-type="teads" id="slug_teads"></div>
+<div class="tAd ad " data-ad-mode="mobile" data-ad-type="t" id="slug_t"></div>
+<div class="banner ad " data-ad-mode="large" data-ad-type="leaderboard" id="slug_leaderboard"></div>
+<div class="banner ad " data-ad-mode="large" data-ad-type="pushdown" id="slug_pushdown"></div>
+</div><!-- end #top -->
+<!-- HCS END: layouts/shared/top -->
+<!-- this is the rollup for basic article, no multipart fun -->
+<header class="roll-up with-dropdown" id="article_rollup">
+<div class="container">
+<div class="main">
+<div class="titles centered-titles">
+<h1 class="primary centered-primary">The disgusting brilliance of Lolita.</h1>
+</div>
+<div class="social social-with-popup sharing-buttons">
+<a class="facebook first" data-share="http://www.facebook.com/sharer.php?s=100&amp;p[title]=The+disgusting+brilliance+of+Lolita.&amp;p[summary]=Every+now+and+again+it's+probably+healthy+to+crack+open+the+glass,+remove+a+certain+world+masterpiece+from+the+display+case,+and+in+re-reading+it+recall+that—unlike+Ulysses+and+Lady+Chatterley's+Lover,+two+other+novels+once+deemed+obscene+by+the+tribunes+of+moral+upkeep—+Lolita+is+a+disgusting+book.+Furthermore,...&amp;p[ref]=sl_live&amp;p[images][0]=http://www.slate.com/content/dam/slate/archive/2005/12/1_123125_122946_2112097_2131456_051216_books_lolita.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg&amp;p[url]=http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html?wpsrc=sh_all_dt_fb_ru" href="#">
+<span class="icon"></span>
+<span class="count"></span>
+</a>
+<div class="twitter">
+<a class="twitter" data-share="http://twitter.com/share?text=The+disgusting+brilliance+of+Lolita.&amp;count=none&amp;via=slate&amp;url=http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html?wpsrc=sh_all_dt_tw_ru" href="#">
+<span class="icon"></span>
+<span class="count"></span>
+</a>
+</div>
+<a class="comments" href="#comments">
+<span class="icon"></span>
+</a>
+<a class="email" href="mailto:?subject=Check%20out%20this%20piece%20on%20Slate&amp;body=I%20thought%20you%20might%20like%20this%20article%20on%20Slate:%0AThe%20disgusting%20brilliance%20of%20Lolita.%0Ahttp://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html?wpsrc=sh_all_dt_em_ru">
+<span class="icon"></span>
+</a>
+</div>
+</div>
+<div class="sidebar">
+<section class="nav-panel">
+<div class="nav-header">
+<a class="slate-logo" href="/"><span class="logo">Slate</span></a>
+<a class="user-link " href="#"></a>
+<a class="search-link " href="#"></a>
+<a class="global-nav-handle " href="#"></a>
+<div class="buttons">
+<span class="link option "><a class="first nav-option sign-in-link" href="#" id="sign_in_link">Sign In</a></span>
+<span class="link option "><a class="nav-option sign-up-link" href="#" id="sign_up_link">Sign Up</a></span>
+</div>
+</div>
+</section>
+</div>
+</div><!-- /.container -->
+<a class="mobile-social-toggle" href="#"><span></span></a> <!-- only shown in mobile -->
+</header><!-- /.header.roll-up -->
+<div class="page">
+<article class="main">
+<div class="parsys contentWellTop iparsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys contentWellTop iparsys">
+</div>
+</div>
+</div>
+<header class="article-header" id="article_header">
+<div class="meta">
+<div class="prop-name print-only"><a href="http://www.slate.com">Slate</a></div><div class="prop-name"><a href="http://www.slate.com/articles/arts/books.html">Books</a></div><div class="prop-desc">Reading between the lines.</div><div class="pub-date">Dec. 19 2005 1:31 PM</div>
+</div>
+<h1 class="hed">Lolita at 50</h1>
+<div class="social social-with-popup sharing-buttons" id="header_social">
+<a class="facebook" data-share="http://www.facebook.com/sharer.php?s=100&amp;p[title]=The+disgusting+brilliance+of+Lolita.&amp;p[summary]=Every+now+and+again+it's+probably+healthy+to+crack+open+the+glass,+remove+a+certain+world+masterpiece+from+the+display+case,+and+in+re-reading+it+recall+that—unlike+Ulysses+and+Lady+Chatterley's+Lover,+two+other+novels+once+deemed+obscene+by+the+tribunes+of+moral+upkeep—+Lolita+is+a+disgusting+book.+Furthermore,...&amp;p[ref]=sl_live&amp;p[images][0]=http://www.slate.com/content/dam/slate/archive/2005/12/1_123125_122946_2112097_2131456_051216_books_lolita.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg&amp;p[url]=http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html?wpsrc=sh_all_dt_fb_top" href="#">
+<span class="icon"></span>
+<span class="count"></span>
+</a>
+<div class="twitter">
+<a class="twitter" data-share="http://twitter.com/share?text=The+disgusting+brilliance+of+Lolita.&amp;count=none&amp;via=slate&amp;url=http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html?wpsrc=sh_all_dt_tw_top" href="#">
+<span class="icon"></span>
+</a>
+<a class="tw-count" href="http://twitter.com/search?q=http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html"><span class="count"></span></a>
+</div>
+<a class="comments" href="#comments">
+<span class="icon"></span>
+<span class="count"></span>
+</a>
+</div>
+<h2 class="dek">Is Nabokov's masterpiece still shocking?</h2>
+<div class="byline" id="main_byline">
+        By <a href="http://www.slate.com/authors.stephen_metcalf.html" rel="author">Stephen Metcalf</a>
+</div>
+<div class="social horiz-counts-mobile centered sharing-buttons">
+<div class="comments">
+<a class="mobile-comments" href="#comments">
+<span class="icon"></span>
+<span class="count"></span>
+</a>
+</div>
+<div class="facebook">
+<a class="share facebook" data-share="http://www.facebook.com/sharer.php?m2w&amp;s=100&amp;p[title]=The+disgusting+brilliance+of+Lolita.&amp;p[summary]=Every+now+and+again+it's+probably+healthy+to+crack+open+the+glass,+remove+a+certain+world+masterpiece+from+the+display+case,+and+in+re-reading+it+recall+that—unlike+Ulysses+and+Lady+Chatterley's+Lover,+two+other+novels+once+deemed+obscene+by+the+tribunes+of+moral+upkeep—+Lolita+is+a+disgusting+book.+Furthermore,...&amp;p[ref]=sl_live&amp;p[images][0]=http://www.slate.com/content/dam/slate/archive/2005/12/1_123125_122946_2112097_2131456_051216_books_lolita.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg&amp;p[url]=http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html?wpsrc=sh_all_mob_fb_top" href="#" target="_blank">
+<span class="icon"></span>
+<span class="count"></span>
+</a>
+</div>
+<div class="twitter">
+<a class="twitter" data-share="http://twitter.com/share?text=The+disgusting+brilliance+of+Lolita.&amp;count=none&amp;via=slate&amp;url=http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html?wpsrc=sh_all_mob_tw_top" href="#">
+<span class="icon"></span>
+</a>
+<a class="tw-count" href="http://twitter.com/search?q=http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html"><span class="count"></span></a>
+</div>
+<div class="whatsapp">
+<a class="whatsapp" href="whatsapp://send?text=The%20disgusting%20brilliance%20of%20Lolita.%20http%3A%2F%2Fwww.slate.com%2Farticles%2Farts%2Fbooks%2F2005%2F12%2Flolita_at_50.html%3Fwpsrc%3Dsh_all_mob_wa_top">
+<span class="icon"></span>
+</a>
+</div>
+<div class="email">
+<a class="email" href="mailto:?subject=Check%20out%20this%20piece%20on%20Slate&amp;body=I%20thought%20you%20might%20like%20this%20article%20on%20Slate:%0AThe%20disgusting%20brilliance%20of%20Lolita.%0Ahttp://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html?wpsrc=sh_all_mob_em_top">
+<span class="icon"></span>
+<span class="count"> </span>
+</a>
+</div>
+</div>
+</header><!-- /header -->
+<section class="content">
+<div class="parsys iparsys editorsNote"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys editorsNote">
+</div>
+</div>
+</div>
+<div class="newbody body parsys">
+<div class="page-container" id="pageContainer1">
+<a class="pagebreak-anchor" name="pagebreak_anchor_1" style="visibility:hidden"></a>
+<div class="parbase image slate_image section">
+<div class="">
+<figure class="image inline left" style="width: 125px;  "> <img alt="Book Cover" src="/content/dam/slate/archive/2005/12/1_123125_122946_2112097_2131456_051216_books_lolita.jpg.CROP.original-original.jpg" title="1_123125_122946_2112097_2131456_051216_books_lolita"> <figcaption class="caption"><span></span></figcaption>
+</img></figure>
+</div>
+<script>
+        requirejs(["jquery"], function($) {
+            if ($(window).width() < 640) {
+                $(".slate_image figure").width("100%");
+            }
+        });
+        </script> </div>
+<div class="text text-1 parbase section">
+<p> Every now and again it's probably healthy to crack open the glass, remove a certain world masterpiece from the display case, and in re-reading it recall that—unlike <em>Ulysses</em> and <em>Lady Chatterley's Lover</em>, two other novels once deemed obscene by the tribunes of moral upkeep— <em>Lolita</em> is a disgusting book. Furthermore, the day will never come when it is not a disgusting book. By comparison, in fact, it can make Lawrence and Joyce look like a pair of old village bluenoses. For all its arduous recourse to the c-word, <em>Lady Chatterley's Lover </em> places its faith in the sexually fulfilled marriage, a ho-hum piety in the age of divorce. For all its scatological frankness, <em>Ulysses</em> tells the touching story of a surrogate father finding his surrogate son. <em> <a linktype="Bookmarkname" name="b" resizable="yes">Lolita</a></em>, meanwhile, tells the story of a stepfather serially defiling his adolescent stepdaughter. <a data-linktype="Bookmark" href="http://www.slate.com#a">*</a> Public taste was meant to catch up to Lady Chatterley screwing her gamekeeper, to Leopold Bloom sitting on his jakes. Public taste was never meant to catch up to Humbert Humbert.</p>
+</div>
+<div class="section authorbox">
+<section class="about-the-author fancy inline with-head">
+<a class="header author-toggle" href="http://www.slate.com/authors.stephen_metcalf.html">
+<header>
+<img alt="Stephen Metcalf" class="author-photo" src="/content/dam/slate/Authors/stephen_metcalf-authorbio.png"/>
+<span class="name">Stephen Metcalf</span>
+</header>
+</a>
+<div class="author-bio"><p>Stephen Metcalf is <b><i>Slate</i></b>'s critic at large. He is working on a book about the 1980s.</p>
+</div>
+<ul class="follow-links">
+<li><a class="follow facebook" data-lang="en" data-show-count="true" href="https://www.facebook.com/sdmetcalf"></a></li>
+<li><a class="follow twitter" data-lang="en" data-show-count="true" href="https://twitter.com/Metlandia"></a></li>
+<li><a class="follow slateplus" href="http://www.slate.com/authors.stephen_metcalf.slateplus.html"></a></li>
+</ul>
+</section> <!-- /.about-the-author -->
+</div>
+<div class="text-2 text parbase section">
+<p>"I want my learned readers to participate in the scene I am about to replay," Humbert asks us early on, by way of setting up his description of his first taste of sexual bliss with Lolita, the pre-pubescent daughter of his landlady. (Humbert will eventually marry the landlady; the landlady will eventually die; Humbert will eventually abscond with Lolita. For now, though, he is only their boarder, a debonair European with certain hidden proclivities.) "So let us get started. I have a difficult job before me." This is Nabokov winking out at us. By difficult job, Humbert means: I want to conjure this scene up, with all its strange anatomical circumnavigations, as carefully as possible, to demonstrate to the reader that I am not wholly a monster. (He also means: I had to ejaculate, without letting Lolita know.) By difficult job, Nabokov means: I will indulge Humbert in all his strange circumlocutions, to demonstrate to the reader what a total monster he is. In this respect, Nabokov and Humbert have opposing aims; but in the telling, they become as one. All the comically baroque pleonasms help Humbert shield from himself how repulsively he has acted. They allow Nabokov, meanwhile, to describe a rapine act of frottage without becoming explicitly pornographic. Here is some of what follows: </p>
+</div>
+<div class="text-3 text parbase section">
+<blockquote><p>She was musical and apple-sweet. Her legs twitched a little as they lay across my live lap; I stroked them; there she lolled on in the right-hand corner, almost asprawl, Lola, the bobby-soxer, devouring her immemorial fruit, singing through its juice, losing her slipper, rubbing the heel of her slipperless foot in its sloppy anklet, against the pile of old magazines heaped on my left on the sofa—and every movement she made, every shuffle and ripple, helped me to conceal and improve the secret system of tactile correspondence between beast and beauty—between my gagged, bursting beast and the beauty of her dimpled body in its innocent cotton frock …</p></blockquote>
+</div>
+<div class="tablet-ad">
+    Advertisement<br>
+<div class="ad " data-ad-mode="tabletPortrait" data-ad-type="midarticleflex" id="slug_midarticleflex"></div>
+<div class="ad " data-ad-mode="mobile" data-ad-type="mob_bigbox" id="slug_mob_bigbox"></div>
+</br></div>
+<div class="text parbase text-4 section">
+<p>And a little later:</p>
+</div>
+<div class="text parbase text-5 section">
+<blockquote><p>With the deep hot sweetness thus established and well on its way to its ultimate convulsion I felt I could slow down in order to prolong the glow. …</p></blockquote>
+</div>
+<div class="text text-6 parbase section">
+<p>Then finally:</p>
+</div>
+<div class="text parbase text-7 section">
+<blockquote><p>[H]er teeth rested on her glistening underlip as she half-turned away, and my moaning mouth, gentlemen of the jury, almost reached her bare neck, while I crushed out against her left buttock the last throb of the longest ecstasy man or monster had ever known.</p></blockquote>
+</div>
+<div class="text parbase text-8 section">
+<p><em>Lolita</em> turns 50 this year, and having stayed so perverse, it remains fresh as ever. To fully appreciate its perversity, though, one must first appreciate that it is not obscene. Your run-of-the-mill obscene masterwork—<em>Tropic of Cancer</em>, say—demands that you, enlightened reader, work your way past the sex and excrement to recognize how beautiful it is. But with <em>Lolita</em>, you must work past its beauty to recognize how shocking it is. And for all its beauty, for all its immense ingenuity and humor, one easily forgets how shocking <em>Lolita</em> is. To wit: Later in the narrative, Humbert has settled with Lolita in a small town called Beardsley and set up a semblance of a normal suburban life. Humbert is called into Lolita's private school for a parent-teacher conference, where he is told that she is "antagonistic, dissatisfied, cagey" and "obsessed with sexual thoughts for which she finds no outlet." In essence, Humbert is being offered an inventory of the damage he has wrought on his stepdaughter, but all he can do is sneer inwardly at the messenger, a psychobabbling crone named Pratt, and then … and then … well, what happens next is so shocking, and yet so calmly and economically detailed, it had somehow absented itself from my memory of the novel. Humbert finds Lolita sitting in a study hall</p>
+</div>
+<div class="text parbase text-9 section">
+<blockquote><p>with a sepia print of Reynolds' 'The Age of Innocence' above the chalkboard, and several rows of clumsy-looking pupil desks. At one of these, my Lolita was reading … and there was another girl with a very naked, porcelain-white neck and wonderful platinum hair, who sat in front reading too, absolutely lost to the world and interminably winding a soft curl around one finger, and I sat beside Dolly [Lolita] just behind that neck and that hair, and unbuttoned my overcoat and for sixty-five cents plus the permission to participate in the school play, had Dolly put her inky, chalky, red-knuckled hand under the desk. Oh, stupid and reckless of me, no doubt, but after the torture I had been subjected to, I simply had to take advantage of a combination that I knew would never occur again. </p></blockquote>
+</div>
+<div class="text parbase text-10 section">
+<p>Accustomed to receiving <em>Lolita</em> as evidence of towering genius, we hide a question in plain sight: Why did Nabokov choose to inhabit Humbert Humbert, a pitiable half-mad émigré suffering from acute nympholepsy, in the first place? One clue is hidden in the last part of that last sentence: <em>I simply had to take advantage of a combination that I knew would never occur again</em>. Humbert means: Look, I had to avail myself of that hand-job, because when might the opportunity ever recur? But Nabokov, again winking at us, means: I love the exquisite particularity of that specific instant. The only psychiatrist Nabokov could tolerate was Havelock Ellis, for whom "the individuality of each case is respected and catalogued in the same way that butterflies are carefully classified," as one of Nabokov's biographers has explained. (Nabokov was a famous lepidopterist.) Conversely, Nabokov detested "Freudian voodooism," as he once put it, because he saw in Freud an attempt by psychiatry to corner, appropriate, and submit to generalized principles people's inner lives. And submitting one's inner life—the unique hazard of one's personality, the camera obscura of one's own personal store of memories—to a set of deterministic explanations was for Nabokov an indignity on par with the expropriations of the Bolsheviks. </p>
+</div>
+</div>
+<div class="pagebreak section">
+</div>
+<div class="page-container" id="pageContainer2" style="display:none">
+<div class="sl-art-prev-page">(Continued from <a alt="page
+                1" href="http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html"><strong>Page 1</strong></a>)</div>
+<a class="pagebreak-anchor" name="pagebreak_anchor_2" style="visibility:hidden"></a>
+<div class="text-11 text parbase section">
+<p>To inhabit a pedophile—and not just a pedophile, but a European pedophile, on an American soil Nabokov had himself grown to love!—was to torture <em>in extremis</em> his faith in the sanctity of the exquisite inner life. We are clearly meant to regard Humbert as a moral abomination, and even Humbert eventually concedes (it is one of the book's most beautiful and unforgettable passages) that in exploiting Lolita he has gratuitously destroyed another human being. And yet, how close to absolute Nabokov makes Humbert's claim to his own thoughts and feelings! There are two competing accounts in <em>Lolita</em> for why Humbert is a pervert. The first is a bit of personal mythopoeics put forward by Humbert himself, who believes his (entirely natural) love for a young girl named Annabel when he was a young boy, and its brutally abrupt interruption, explains the origin of his adult nympholepsy. Later, Humbert tells us of having once bribed a nurse to show him his psychiatric files, in which he discovered he has been labeled "homosexual." The first explanation is poetic, beautiful, intensely rendered, utterly self-serving, and probably untrue. The second explanation is clinical, dispassionate, probably true, but so neglectful of the intensity of Humbert's own consciousness as to be repulsive to Nabokov. </p>
+</div>
+<div class="rubricautofeature section">
+</div>
+<div class="text-12 text parbase section">
+<p>Nabokov overcame the worst affliction of all, from a writer's point of view: a happy childhood. He was an eldest child who chose to pretend he was an only child. Testimony from acquaintances relates how loath he was even to casually discuss siblings, and one can read dozens of pages of <em>Speak, Memory</em> without ever sensing he had to share his parents' affections. ("There was a sunny quality about the way he talked of his own family," one of his Wellesley students has recalled, "One had the feeling of the much-loved little princeling. Clean linen and hot milk and never a scolding.") That utter primacy, of the little princeling basking in the eyes of his justly revering parents, seems never to have left Nabokov, but as a genius, he understood it both as his burden, and as his unique portal to aesthetic discovery. </p>
+</div>
+<div class="text-13 text parbase section">
+<p><em>Lolita</em> is most commonly remembered as one man's living poem to his own daemonic perversity, and as such, is overpraised by its adherents for its technical virtuosity and hilarity, and misconstrued by its detractors as little more than a frost-encrusted monument to Nabokov's own monumental arrogance. Its real genius is too easily missed. It lies in what Nabokov called the "nerves of the novel," the "secret points, the subliminal coordinates by means of which the book is plotted." In these, Nabokov has hinted at the life that exceeds the perimeter of Humbert's encompassing obsession—at the inner lives of those others whom he so casually dismisses or destroys. It cost Nabokov, by his own admission, "a month of work" to write one sentence in which Humbert gets his hair cut by a barber who has never stopped mourning his dead son—a fact that scarcely dents Humbert's exquisite consciousness.<font face="verdana"><font size="2"> And one last detail, hidden by Nabokov in the book's sham preface: <font color="#000000">Mrs. Richard F. Schiller, previously Miss Dolores Haze, aka Lolita, died on Christmas day 1952, giving birth to a stillborn baby girl.*</font></font></font></p>
+</div>
+<div class="text text-14 parbase section">
+<p><font size="2"><em><strong>Correction, Dec. 19, 2005:</strong> This article originally and incorrectly stated that Vladimir Nabokov gave his character Dolores Haze, aka Lolita, an IQ of 150. In fact, her IQ was 121. The sentence in question has been removed. <a linktype="Bookmarkname" name="a" resizable="yes">The </a> article also may have given the impression that Lolita was 14 years old at the beginning, or for the duration, of the book. In fact, she is 12 at the beginning and 14 when Humbert Humbert settles them in Beardsley. Click <a data-linktype="Bookmark" href="http://www.slate.com#b">here</a>  to return to the first corrected sentence.</em></font></p>
+</div>
+</div>
+</div>
+</section>
+<footer>
+<div class="pagination">
+<div class="pagination-container">
+<div class="single-page"><a href="http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.single.html">SINGLE PAGE</a></div>
+<ul class="pages">
+<li class="number active"><a href="#">1</a></li>
+<li class="number"><a href="http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.2.html">2</a></li>
+<li class="next"><a href="http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.2.html">NEXT</a></li>
+</ul>
+</div>
+<script type="text/javascript">
+            requirejs(["jquery","myslate"], function($,myslate) {
+                myslate.paginate();
+            });
+        </script>
+<div class="social social-with-popup sharing-buttons">
+<div class="plus-popup">
+<a class="reprint" href="http://www.slatereprints.com/reprint-products-quote-request/?cf2_field_17=http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html&amp;cf2_field_18=www.slate.com&amp;cf2_field_19=The+disgusting+brilliance+of+Lolita.&amp;cf2_field_20=09%2F20%2F2013">REPRINT</a>
+<a class="print" href="http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.single.html?print" target="_blank">PRINT</a>
+<a class="email" href="mailto:?subject=Check%20out%20this%20piece%20on%20Slate&amp;body=I%20thought%20you%20might%20like%20this%20article%20on%20Slate:%0AThe%20disgusting%20brilliance%20of%20Lolita.%0Ahttp://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html?wpsrc=sh_all_dt_em_bot">EMAIL</a>
+<div class="arrow-border"></div>
+<div class="arrow"></div>
+</div>
+<a class="plus" href="#">
+<span class="icon"></span>
+</a>
+<a class="facebook" data-share="http://www.facebook.com/sharer.php?s=100&amp;p[title]=The+disgusting+brilliance+of+Lolita.&amp;p[summary]=Every+now+and+again+it's+probably+healthy+to+crack+open+the+glass,+remove+a+certain+world+masterpiece+from+the+display+case,+and+in+re-reading+it+recall+that—unlike+Ulysses+and+Lady+Chatterley's+Lover,+two+other+novels+once+deemed+obscene+by+the+tribunes+of+moral+upkeep—+Lolita+is+a+disgusting+book.+Furthermore,...&amp;p[ref]=sl_live&amp;p[images][0]=http://www.slate.com/content/dam/slate/archive/2005/12/1_123125_122946_2112097_2131456_051216_books_lolita.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg&amp;p[url]=http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html?wpsrc=sh_all_dt_fb_bot" href="#">
+<span class="icon"></span>
+<span class="count"></span>
+</a>
+<div class="twitter">
+<a class="twitter" data-share="http://twitter.com/share?text=The+disgusting+brilliance+of+Lolita.&amp;count=none&amp;via=slate&amp;url=http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html?wpsrc=sh_all_dt_tw_bot" href="#">
+<span class="icon"></span>
+</a>
+<a class="tw-count" href="http://twitter.com/search?q=http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html"><span class="count"></span></a>
+</div>
+<a class="comments" href="#comments">
+<span class="icon"></span>
+<span class="count"></span>
+</a>
+</div>
+</div><!-- /.pagination -->
+<div class="social horiz-counts-mobile centered sharing-buttons">
+<div class="comments">
+<a class="mobile-comments" href="#comments">
+<span class="icon"></span>
+<span class="count"></span>
+</a>
+</div>
+<div class="facebook">
+<a class="share facebook" data-share="http://www.facebook.com/sharer.php?m2w&amp;s=100&amp;p[title]=The+disgusting+brilliance+of+Lolita.&amp;p[summary]=Every+now+and+again+it's+probably+healthy+to+crack+open+the+glass,+remove+a+certain+world+masterpiece+from+the+display+case,+and+in+re-reading+it+recall+that—unlike+Ulysses+and+Lady+Chatterley's+Lover,+two+other+novels+once+deemed+obscene+by+the+tribunes+of+moral+upkeep—+Lolita+is+a+disgusting+book.+Furthermore,...&amp;p[ref]=sl_live&amp;p[images][0]=http://www.slate.com/content/dam/slate/archive/2005/12/1_123125_122946_2112097_2131456_051216_books_lolita.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg&amp;p[url]=http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html?wpsrc=sh_all_mob_fb_bot" href="#" target="_blank">
+<span class="icon"></span>
+<span class="count"></span>
+</a>
+</div>
+<div class="twitter">
+<a class="twitter" data-share="http://twitter.com/share?text=The+disgusting+brilliance+of+Lolita.&amp;count=none&amp;via=slate&amp;url=http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html?wpsrc=sh_all_mob_tw_bot" href="#">
+<span class="icon"></span>
+</a>
+<a class="tw-count" href="http://twitter.com/search?q=http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html"><span class="count"></span></a>
+</div>
+<div class="whatsapp">
+<a class="whatsapp" href="whatsapp://send?text=The%20disgusting%20brilliance%20of%20Lolita.%20http%3A%2F%2Fwww.slate.com%2Farticles%2Farts%2Fbooks%2F2005%2F12%2Flolita_at_50.html%3Fwpsrc%3Dsh_all_mob_wa_bot">
+<span class="icon"></span>
+</a>
+</div>
+<div class="email">
+<a class="email" href="mailto:?subject=Check%20out%20this%20piece%20on%20Slate&amp;body=I%20thought%20you%20might%20like%20this%20article%20on%20Slate:%0AThe%20disgusting%20brilliance%20of%20Lolita.%0Ahttp://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html?wpsrc=sh_all_mob_em_bot">
+<span class="icon"></span>
+<span class="count"> </span>
+</a>
+</div>
+</div>
+<div class="row up-next" id="up-next-box"></div>
+<div class="footer-tiles">
+<div class="row">
+<div id="outbrain_placeholder"></div>
+<div class="sl-outbrain-divider"></div>
+<script type="text/javascript">
+  requirejs(["jquery","myslate"], function($,myslate) {
+    var isCommentUser = $.cookie("s_segs") && $.cookie("s_segs").indexOf('commenter') > -1;
+    if(!myslate.isSlatePlusUser) {
+      var createOutbrainDivs = function(widgetId) {
+        var divHtml = '<div class="OUTBRAIN" data-src="http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html" data-widget-id="' + widgetId + '" data-ob-template="SlateMag" ></div>';
+        $("#outbrain_placeholder").append(divHtml);
+      }
+      if (mobileMode()) {
+        createOutbrainDivs("MB_1");
+      } else {
+        createOutbrainDivs("AR_3");
+        createOutbrainDivs("AR_17");
+      }
+      $('<script>', {src: '//widgets.outbrain.com/outbrain.js'}).appendTo('body');
+    }
+  });
+  </script>
+</div>
+</div> <!-- /.footer-tiles -->
+</footer>
+<div class="comments-container" data-lf-hash="MzM3NzIwOmNxLTIxMzI3MDg=" id="comments">
+<div id="livefyre">
+<div class="button-container lf-loader" style="text-align:center;">
+<button class="push-button comments-push-button" style="padding: 0 15px;">Load Comments</button>
+</div>
+</div>
+<div id="powered_by_livefyre_new"><a href="http://livefyre.com" target="_blank">Powered by Livefyre</a></div>
+</div>
+<div class="comments-ads-container" id="comments-ads">
+</div>
+<script type="text/javascript">
+requirejs(['config'], function(config) {
+  $.extend(config.livefyre, {
+    collectionMeta: 'eyJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IlRoZSBkaXNndXN0aW5nIGJyaWxsaWFuY2Ugb2YgTG9saXRhLiIsInVybCI6Imh0dHA6Ly93d3cuc2xhdGUuY29tL2FydGljbGVzL2FydHMvYm9va3MvMjAwNS8xMi9sb2xpdGFfYXRfNTAuaHRtbD93cGlzcmNcdTAwM2RsZiIsInRhZ3MiOiIiLCJjaGVja3N1bSI6IjdkODg4NWM2NmNiZTZlODNjYmU1ODc3M2FhMzRhY2NmIiwiYXJ0aWNsZUlkIjoiY3EtMjEzMjcwOCJ9.0u6vWgXDzkTiCzASvmzF4Kz1OyR7JXiS05WZJqD0-ac'
+  });
+});
+requirejs(['slate-livefyre']);
+</script>
+<div class="parsys iparsys contentWellBottom"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys contentWellBottom">
+</div>
+</div>
+</div>
+<div class="abridgedhomepage">
+<div class="twocolumn-stories">
+<div class="twocolumn-stories__left large-tiles tiles">
+<div class="parsys homepageSectionStoriesLeft"><div class="storyboxgroupquery section">
+<div class="story-box-news-politics" data-vr-zone="Story Box: News &amp; Politics">
+<header class="black-header">
+<a class="primary" href="http://www.slate.com/articles/news_and_politics.html"></a>
+<span class="see-all"> </span>
+
+News &amp; Politics</header>
+<div class="tile stacked long-hed " data-promo-image="http://www.slate.com/content/dam/slate/articles/news_and_politics/politics/2015/02/scott_walker_missed_opportunity_the_wisconsin_governor_could_have_raised/457396568-governor-scott-walker-prepares-to-face-off-with.jpg.CROP.promo-medium2.jpg" data-vr-contentbox="" style="background-image: url('http://www.slate.com/content/dam/slate/articles/news_and_politics/politics/2015/02/scott_walker_missed_opportunity_the_wisconsin_governor_could_have_raised/457396568-governor-scott-walker-prepares-to-face-off-with.jpg.CROP.promo-medium2.jpg');">
+<a class="primary" href="http://www.slate.com/articles/news_and_politics/politics/2015/02/scott_walker_missed_opportunity_the_wisconsin_governor_could_have_raised.html"></a>
+<span class="rubrik">Politics</span>
+<div class="full-tile">
+<span class="timestamp">Feb. 23 2015 7:00 PM</span>
+<!-- <span class="hed">Scott Walker’s First Big Chance</span> -->
+<span class="hed">Scott Walker’s First Big Chance</span>
+<span class="dek">The Wisconsin governor could have raised his profile. Instead, he chose to pass.</span>
+<span class="byline">John Dickerson</span>
+</div>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/news_and_politics/politics/2015/02/scott_walker_has_always_played_to_his_political_base_the_wisconsin_governor.html">Why Scott Walker’s Current Troubles Were Entirely Predictable</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/news_and_politics/crime/2015/02/prison_survival_guides_books_and_videos_for_navigating_life_on_the_inside.html">The Surprisingly Robust Genre of Prison Survival Guides</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/news_and_politics/politics/2015/02/joe_biden_should_run_for_president_the_vice_president_won_t_win_but_it_would.html">Biden Should Run for President</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/news_and_politics/jurisprudence/2015/02/fdr_court_packing_plan_obama_and_roosevelt_s_supreme_court_standoffs.html">In Defense of Court-Packing</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/news_and_politics/politics/2015/02/marco_rubio_s_foreign_policy_experience_the_florida_senator_can_t_rely_on.html">Why Marco Rubio Won’t Be Able to Follow Barack Obama’s Example</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/news_and_politics/frame_game/2015/02/how_obama_thinks_about_islam_and_terrorism_why_he_chooses_his_words_so_carefully.html">How Obama Thinks About Islam and Terrorism</a>
+</div>
+<div class="section-list last" data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/news_and_politics/foreigners/2015/02/angela_merkel_and_europe_s_twin_crises_can_the_german_chancellor_solve_the.html">Can Angela Merkel Solve Crises in Greece and Ukraine Simultaneously?</a>
+</div>
+</div>
+</div>
+<div class="storyboxgroupquery section">
+<div class="story-box-business" data-vr-zone="Story Box: Business">
+<header class="black-header">
+<a class="primary" href="http://www.slate.com/articles/business.html"></a>
+<span class="see-all"> </span>
+
+Business</header>
+<div class="tile stacked long-hed " data-promo-image="http://www.slate.com/content/dam/slate/blogs/moneybox/2015/02/23/solar_jobs_growth_the_industry_now_employs_more_workers_than_coal/104627690-woker-finishes-installing-solar-panels-funded-by.jpg.CROP.promo-medium2.jpg" data-vr-contentbox="" style="background-image: url('http://www.slate.com/content/dam/slate/blogs/moneybox/2015/02/23/solar_jobs_growth_the_industry_now_employs_more_workers_than_coal/104627690-woker-finishes-installing-solar-panels-funded-by.jpg.CROP.promo-medium2.jpg');">
+<a class="primary" href="http://www.slate.com/blogs/moneybox/2015/02/23/solar_jobs_growth_the_industry_now_employs_more_workers_than_coal.html"></a>
+<span class="rubrik">Moneybox</span>
+<div class="full-tile">
+<span class="timestamp">Feb. 23 2015 12:42 PM</span>
+<!-- <span class="hed">The Solar Business Now Employs More Americans Than Coal Mining &nbsp;</span> -->
+<span class="hed">The Solar Business Now Employs More Americans Than Coal Mining  </span>
+<span class="dek"></span>
+<span class="byline">Jordan Weissmann</span>
+</div>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/business_insider/2015/02/23/moscow_s_12_billion_financial_district_mirrors_russia_s_economic_crisis.html">Moscow's Floundering Finance District Mirrors Russia's Sad Economy</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/moneybox/2015/02/20/greece_and_euro_zone_reach_a_deal_more_details_to_come_on_monday.html">Greece Strikes a Deal With the Eurozone, Pulls Off a Small Victory</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/moneybox/2015/02/20/obamacare_special_enrollment_period_americans_get_more_time_to_join_health.html">Millions Still Don’t Know About the Obamacare Penalty. The Government Is Giving Them One More Chance.</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/business/the_juice/2015/02/apple_kaiser_permanente_solar_investments_renewable_energy_is_finally_a.html">Watch Out, Coal: Big Companies Are Finally Making Big Investments in Green Energy</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/moneybox/2015/02/19/if_the_vice_ceo_had_dined_at_chipotle_what_300_000_of_burritos_looks_like.html">How Much Chipotle Can You Get for $300,000? <em><strong>Slate</strong></em> Investigates.</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/moneybox/2015/02/19/ancient_egyptian_workers_had_state_supported_health_care_sick_leave.html">Ancient Egyptian Tomb Builders Had State-Supported Health Care</a>
+</div>
+<div class="section-list last" data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/business_insider/2015/02/19/american_express_card_holders_face_higher_fees_fewer_rewards_compared_to.html">Is There an AmEx in Your Wallet? Trash It.</a>
+</div>
+</div>
+</div>
+<div class="storyboxgroupquery section">
+<div class="story-box-life" data-vr-zone="Story Box: Life">
+<header class="black-header">
+<a class="primary" href="http://www.slate.com/articles/life.html"></a>
+<span class="see-all"> </span>
+
+Life</header>
+<div class="tile stacked long-hed " data-promo-image="http://www.slate.com/content/dam/slate/blogs/outward/2015/02/23/graham_moore_s_oscar_speech_equated_gay_with_weird_is_that_fair/464203436-graham-moore-winner-for-best-adapted-screenplay-the.jpg.CROP.promo-medium2.jpg" data-vr-contentbox="" style="background-image: url('http://www.slate.com/content/dam/slate/blogs/outward/2015/02/23/graham_moore_s_oscar_speech_equated_gay_with_weird_is_that_fair/464203436-graham-moore-winner-for-best-adapted-screenplay-the.jpg.CROP.promo-medium2.jpg');">
+<a class="primary" href="http://www.slate.com/blogs/outward/2015/02/23/graham_moore_s_oscar_speech_equated_gay_with_weird_is_that_fair.html"></a>
+<span class="rubrik">Outward</span>
+<div class="full-tile">
+<span class="timestamp">Feb. 23 2015 6:25 PM</span>
+<!-- <span class="hed">Is It “Weird” to Be Gay? What Graham Moore’s Speech Really Means.</span> -->
+<span class="hed">Is It “Weird” to Be Gay? What Graham Moore’s Speech Really Means.</span>
+<span class="dek"></span>
+<span class="byline">J. Bryan Lowder</span>
+</div>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/life/dear_prudence/2015/02/dear_prudence_my_male_boss_took_us_to_see_fifty_shades_of_grey.html">Help! My Male Boss Took All the Women in the Office to See <em>Fifty Shades of Grey</em>.</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/the_eye/2015/02/23/esi_design_uses_light_video_and_graphics_to_renovate_outdated_buildings.html">How LED Lighting and Clever Graphics Can Bring Tired, Outdated Buildings Into the 21st Century</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/atlas_obscura/2015/02/23/lookout_mountain_secret_film_studio_in_laurel_canyon_hollywood.html">The Story of Hollywood's Top-Secret Nuclear Film Studio</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/lexicon_valley/2015/02/23/smeg_smegma_and_the_smeg_effect_one_little_known_word_illustrates_the_way.html">Smeg: The Most Disgusting Word You’ve Never Heard Of</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/life/education/2015/02/university_hiring_if_you_didn_t_get_your_ph_d_at_an_elite_university_good.html">An Astonishingly Small Number of Elite Graduate Schools Produce the Academics Who Get Jobs</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/quora/2015/02/23/magneto_and_graviton_who_would_win_a_fight.html">If Magneto and Graviton Would Battle, Who Would Win?</a>
+</div>
+<div class="section-list last" data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/outward/2015/02/23/graham_moore_oscars_acceptance_speech_stirring_but_confusing_video.html">Graham Moore’s Oscars Acceptance Speech Was Stirring but Confusing</a>
+</div>
+</div>
+</div>
+<div class="storyboxgroupquery section">
+<div class="story-box-double-x" data-vr-zone="Story Box: Double X">
+<header class="black-header">
+<a class="primary" href="http://www.slate.com/articles/double_x.html"></a>
+<span class="see-all"> </span>
+
+Double X</header>
+<div class="tile full-image with-screen long-hed " data-promo-image="http://www.slate.com/content/dam/slate/blogs/xx_factor/2015/02/23/gender_wage_gap_in_hollywood_it_s_very_very_wide/464174866-winner-for-best-supporting-actress-patricia-arquette.jpg.CROP.promo-medium2.jpg" data-vr-contentbox="" style="background-image: url('http://www.slate.com/content/dam/slate/blogs/xx_factor/2015/02/23/gender_wage_gap_in_hollywood_it_s_very_very_wide/464174866-winner-for-best-supporting-actress-patricia-arquette.jpg.CROP.promo-medium2.jpg');">
+<a class="primary" href="http://www.slate.com/blogs/xx_factor/2015/02/23/gender_wage_gap_in_hollywood_it_s_very_very_wide.html"></a>
+<div class="screen"></div>
+<span class="rubrik">The XX Factor</span>
+<div class="full-tile">
+<span class="timestamp">Feb. 23 2015 5:21 PM</span>
+<!-- <span class="hed">The Gender Wage Gap Is Especially Terrible in Hollywood</span> -->
+<span class="hed">The Gender Wage Gap Is Especially Terrible in Hollywood</span>
+<span class="dek"></span>
+<span class="byline">Betsy Woodruff</span>
+</div>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/xx_factor/2015/02/23/the_lean_in_stock_image_collection_for_getty_is_a_year_old.html">The Three Most Popular Images in Sheryl Sandberg’s Lean In Stock Photo Collection </a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/xx_factor/2015/02/23/patricia_arquette_on_pay_equality_insulting_to_feminism.html">Patricia Arquette’s Shallow and Insulting Oscar Comments: Good for GIFs, Bad for Feminism</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/xx_factor/2015/02/23/macgyver_will_be_a_woman_soon.html">MacGyver as a Woman? It's Time.  </a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/xx_factor/2015/02/19/isaac_latterell_of_south_dakota_calls_planned_parenthood_worse_than_isis.html">Legislator Calls Planned Parenthood "Worse Than ISIS," Proposes a "Preborn Infant Beheading Ban"</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/xx_factor/2015/02/19/beyonc_un_retouched_photo_leak_let_s_not.html">The Un-retouched Beyoncé Photos Will Make You Feel Better About Yourself. Good Thing They're Gone.</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/double_x/doublex/2015/02/after_birth_an_interview_about_motherhood_feminism_and_loneliness_with_novelist.html">“Having a Baby Is Not Unlike Dealing With a Death,” and Other Thoughts on New Motherhood</a>
+</div>
+<div class="section-list last" data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/xx_factor/2015/02/18/guns_on_campus_will_not_solve_the_problem_of_campus_sexual_assault.html">Pro-Gun Advocates Are Hijacking the Issue of Campus Sexual Assault</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="twocolumn-stories__right large-tiles tiles">
+<div class="parsys homepageSectionStoriesRight"><div class="storyboxgroupquery section">
+<div class="story-box-slate-plus" data-vr-zone="Story Box: Slate Plus">
+<header class="black-header">
+<a class="primary" href="/plus/home?wpisrc=sp_all_native-by-section"></a>
+<span class="see-all"> </span>
+
+Slate Plus</header>
+<div class="tile stacked long-hed slateplus-preview" data-promo-image="http://www.slate.com/content/dam/slate/Slate%20Plus/articles/2015/02/150218_PLUS_WalkingDeadS5Ep11.jpg.CROP.promo-medium2.jpg" data-vr-contentbox="" style="background-image: url('http://www.slate.com/content/dam/slate/Slate%20Plus/articles/2015/02/150218_PLUS_WalkingDeadS5Ep11.jpg.CROP.promo-medium2.jpg');">
+<a class="primary" href="http://www.slate.com/articles/podcasts/tv_club/2014/10/slate_s_the_walking_dead_podcast_recap_and_spoiler_special.html?wpsrc=sp_all_native_by-section"></a>
+<span class="rubrik">TV Club</span>
+<div class="full-tile">
+<span class="timestamp">Feb. 22 2015 11:00 PM</span>
+<!-- <span class="hed">The <em>Walking Dead</em> Podcast</span> -->
+<span class="hed">The <em>Walking Dead</em> Podcast</span>
+<span class="dek">Listen to an early release of <strong><em>Slate</em></strong>'s recap of Episode 11, "The Distance."</span>
+<span class="byline">Mike Vuolo and Chris Wade</span>
+</div>
+</div>
+<div class="section-list slateplus-preview" data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/arts/tv_club/2015/02/slate_s_downton_abbey_podcast_recap_and_spoiler_special_episode_8.html?wpsrc=sp_all_native_by-section">A Spoiler-Filled Podcast on <em>Downton Abbey </em>Episode 8</a>
+</div>
+<div class="section-list slateplus-preview" data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/life/culturebox/2015/02/slate_s_weekly_roundup_justin_peters_on_his_ten_years_at_slate.html?wpsrc=sp_all_native_by-section">Justin Peters on his Favorite Reads From <strong><em>Slate </em></strong>This Week</a>
+</div>
+<div class="section-list slateplus-preview" data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/news_and_politics/plus_roundups/2015/02/what_we_like_right_now_a_recommendations_roundup_from_slate_writers_and_1.html?wpsrc=sp_all_native_by-section">This Week’s Best of the Web, Curated by Slatesters</a>
+</div>
+<div class="section-list slateplus-preview last" data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/podcasts/culturegabfest/2015/02/the_world_s_greatest_love_songs_a_culturefest_bonus_segment.html?wpsrc=sp_all_native_by-section">Bonus Segment: Which Love Songs Make the Culturefest Swoon?</a>
+</div>
+</div>
+</div>
+<div class="storyboxgroupquery section">
+<div class="story-box-arts" data-vr-zone="Story Box: Arts">
+<header class="black-header">
+<a class="primary" href="http://www.slate.com/articles/arts.html"></a>
+<span class="see-all"> </span>
+
+Arts</header>
+<div class="tile stacked long-hed " data-promo-image="http://www.slate.com/content/dam/slate/blogs/browbeat/2015/02/23/henry_hobson_interview_meet_the_man_behind_the_oscars_beautiful_animated/budapest_copy.jpg.CROP.promo-medium2.jpg" data-vr-contentbox="" style="background-image: url('http://www.slate.com/content/dam/slate/blogs/browbeat/2015/02/23/henry_hobson_interview_meet_the_man_behind_the_oscars_beautiful_animated/budapest_copy.jpg.CROP.promo-medium2.jpg');">
+<a class="primary" href="http://www.slate.com/blogs/browbeat/2015/02/23/henry_hobson_interview_meet_the_man_behind_the_oscars_beautiful_animated.html"></a>
+<span class="rubrik">Brow Beat</span>
+<div class="full-tile">
+<span class="timestamp">Feb. 23 2015 11:43 PM</span>
+<!-- <span class="hed">Meet the Graphic Design Mastermind Behind the Best Part of the Oscars</span> -->
+<span class="hed">Meet the Graphic Design Mastermind Behind the Best Part of the Oscars</span>
+<span class="dek"></span>
+<span class="byline">Laura Bennett</span>
+</div>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/browbeat/2015/02/23/nick_jonas_covers_kanye_west_hear_the_singer_s_moving_version_of_only_one.html">Nick Jonas Covered Kanye West’s “Only One,” and It’s Not Bad at All</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/browbeat/2015/02/23/oscars_2015_and_race_jokes_neil_patrick_harris_s_lame_one_liners_about_diversity.html">The Oscars, Like <em>SNL</em>, Can’t Joke Its Way Out of Its Race Problem</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/browbeat/2015/02/23/mad_men_season_7_poster_matthew_weiner_analyzes_the_final_official_mad_men.html">Matthew Weiner Analyzes the Final, Official <em>Mad Men</em> Poster</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/browbeat/2015/02/23/oscars_best_actor_winner_michael_keaton_lost_because_the_academy_doesn_t.html">Why Michael Keaton Lost: The Academy Doesn’t Love Comeback Stories</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/behold/2015/02/23/robbie_augspurger_glamour_headshots_takes_a_whimsical_look_at_1980s_portraiture.html">These Photos Are So Great, You’ll Think They’re From Another Decade</a>
+</div>
+<div class="section-list last" data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/browbeat/2015/02/23/john_oliver_on_elected_judges_last_week_tonight_tackles_judicial_elections.html">John Oliver Takes on the Bizarre American Practice of Electing Judges</a>
+</div>
+</div>
+</div>
+<div class="storyboxgroupquery section">
+<div class="story-box-technology" data-vr-zone="Story Box: Technology">
+<header class="black-header">
+<a class="primary" href="http://www.slate.com/articles/technology.html"></a>
+<span class="see-all"> </span>
+
+Technology</header>
+<div class="tile short " data-promo-image="" data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/future_tense/2015/02/23/science_gallery_dublin_s_lifelogging_exhibit_includes_a_tombstone_by_karl.html"></a>
+<span class="rubrik">Future Tense</span>
+<div class="full-tile">
+<span class="timestamp">Feb. 23 2015 6:16 PM</span>
+<!-- <span class="hed">Will Lifelogging Data End Up on Our Tombstones?</span> -->
+<span class="hed">Will Lifelogging Data End Up on Our Tombstones?</span>
+<span class="dek"></span>
+<span class="byline">Lily Hay Newman</span>
+</div>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/future_tense/2015/02/23/edward_snowden_reddit_ama_citizenfour_documentary_subject_has_just_one_regret.html">Edward Snowden Has Just One Regret</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/future_tense/2015/02/23/community_college_online_the_promise_of_zero_textbook_cost_degrees.html">How to Get a Degree Without Ever Paying for Textbooks</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/technology/future_tense/2015/02/phnom_penh_drone_ban_cambodia_cracks_down_after_journalist_films_queen_mother.html">How to Travel With a Drone Without Causing an International Incident</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/future_tense/2015/02/23/vicemo_shows_venmo_transactions_related_to_drugs_alcohol_and_sex.html">Who’s Buying Drugs, Sex, and Booze on Venmo? This Site Will Tell You.</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/future_tense/2015/02/23/abc_s_oscars_live_stream_problems_cuts_to_jeopardy_the_social_network.html">The Live Stream of the Oscars Was Even Worse Than the Oscars</a>
+</div>
+<div class="section-list last" data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/future_tense/2015/02/22/oscars_live_stream_how_to_watch_2015_academy_awards_online.html">How to Watch the Oscars Online, and Why You Probably Can’t</a>
+</div>
+</div>
+</div>
+<div class="storyboxgroupquery section">
+<div class="story-box-health-science" data-vr-zone="Story Box: Health &amp; Science">
+<header class="black-header">
+<a class="primary" href="http://www.slate.com/articles/health_and_science.html"></a>
+<span class="see-all"> </span>
+
+Health &amp; Science</header>
+<div class="tile full-image notched-screen " data-promo-image="http://www.slate.com/content/dam/slate/blogs/bad_astronomy/2015/02/19/nh_pluto_moons_feb2015.jpg.CROP.promo-medium2.jpg" data-vr-contentbox="" style="background-image: url('http://www.slate.com/content/dam/slate/blogs/bad_astronomy/2015/02/19/nh_pluto_moons_feb2015.jpg.CROP.promo-medium2.jpg');">
+<a class="primary" href="http://www.slate.com/blogs/bad_astronomy/2015/02/23/pluto_new_horizons_sees_two_more_moons.html"></a>
+<span class="rubrik">Bad Astronomy</span>
+<div class="full-tile">
+<span class="timestamp">Feb. 23 2015 7:30 AM</span>
+<!-- <span class="hed">Mooning Pluto</span> -->
+<span class="hed">Mooning Pluto</span>
+<span class="dek"></span>
+<span class="byline">Phil Plait</span>
+</div>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/bad_astronomy/2015/02/22/simpsons_betrayed_by_the_moon.html">We’ve Been Wrong About Springfield This Whole Time</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/bad_astronomy/2015/02/21/vaccine_star_actress_kristin_bell_supports_vaccination.html">Kristen Bell: Vaccine Supporter</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/health_and_science/new_scientist/2015/02/tornadoes_and_downbursts_in_a_lab_the_windeee_facility_tests_wind_dangers.html">How to Create a 5-Meter-Wide Tornado in a Lab</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/wild_things/2015/02/20/red_panda_video_adorable_red_pandas_at_the_cincinnati_zoo_loves_the_snow.html">Red Pandas Have Way More Fun In The Snow Than You Do</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/blogs/bad_astronomy/2015/02/20/pluto_new_horizons_animation.html">Pluto, Unphased</a>
+</div>
+<div class="section-list last" data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/health_and_science/science/2015/02/altruistic_animals_bald_ibis_vampire_bats_birds_reciprocal_relationships.html">Can Animals Be Altruistic? Look at the Flying V.</a>
+</div>
+</div>
+</div>
+<div class="storyboxgroupquery section">
+<div class="story-box-sports" data-vr-zone="Story Box: Sports">
+<header class="black-header">
+<a class="primary" href="http://www.slate.com/articles/sports.html"></a>
+<span class="see-all"> </span>
+
+Sports</header>
+<div class="tile stacked long-hed " data-promo-image="http://www.slate.com/content/dam/slate/articles/sports/sports_nut/2015/02/140205_SNUT_7-10-Split.jpg.CROP.promo-medium2.jpg" data-vr-contentbox="" style="background-image: url('http://www.slate.com/content/dam/slate/articles/sports/sports_nut/2015/02/140205_SNUT_7-10-Split.jpg.CROP.promo-medium2.jpg');">
+<a class="primary" href="http://www.slate.com/articles/sports/sports_nut/2015/02/hardest_shot_in_bowling_it_s_not_the_7_10_split_it_s_the_greek_church.html"></a>
+<span class="rubrik">Sports Nut</span>
+<div class="full-tile">
+<span class="timestamp">Feb. 18 2015 3:57 PM</span>
+<!-- <span class="hed">What’s the Hardest Shot in Bowling?</span> -->
+<span class="hed">What’s the Hardest Shot in Bowling?</span>
+<span class="dek">It’s not the 7-10 split. It’s the “Greek Church.”</span>
+<span class="byline">Ben Blatt</span>
+</div>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/sports/sports_nut/2015/02/asu_curtain_of_distraction_has_arizona_state_university_discovered_the_holy.html">Has ASU Discovered the Holy Grail of Free-Throw Distraction?</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/sports/sports_nut/2015/02/john_wall_versus_steph_curry_how_the_washington_wizards_point_guard_became.html">How John Wall Became the Most Entertaining Player in the NBA</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/sports/sports_nut/2015/02/dean_smith_obit_the_legendary_university_of_north_carolina_basketball_coach.html">Dean Smith’s Political Approach to Being a Coach Is Missed Now More Than Ever</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/sports/sports_nut/2015/02/_2022_world_cup_why_the_2015_men_s_handball_world_championship_in_qatar.html">Why Handball’s World Championship in Qatar Should Worry World Cup Fans</a>
+</div>
+<div class="section-list " data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/sports/sports_nut/2015/02/pete_carroll_s_play_call_didn_t_lose_the_super_bowl_bill_belichick_tom_brady.html">Seattle Didn’t Throw Away the Super Bowl. The Patriots Won It.</a>
+</div>
+<div class="section-list last" data-vr-contentbox="">
+<a class="primary" href="http://www.slate.com/articles/sports/sports_nut/2015/02/why_pete_carroll_s_decision_to_pass_wasn_t_the_worst_play_call_ever.html">Why Pete Carroll’s Final Call Was Not As Stupid As It Looked</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article><!-- /.main -->
+<aside class="sidebar" id="main_sidebar">
+<div class="sidebar-wrapper">
+<section class="nav-panel" id="slate_logo">
+<div class="nav-header">
+<a class="slate-logo" href="/"><span class="logo">Slate</span></a>
+<a class="user-link sidebar-handle" href="#"></a>
+<a class="search-link sidebar-handle" href="#"></a>
+<a class="global-nav-handle sidebar-handle" href="#"></a>
+<div class="buttons">
+<span class="link option "><a class="first nav-option sign-in-link" href="#" id="sign_in_link">Sign In</a></span>
+<span class="link option "><a class="nav-option sign-up-link" href="#" id="sign_up_link">Sign Up</a></span>
+</div>
+</div>
+</section>
+<div class="parsys iparsys contentSidebar"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys contentSidebar"><div class="renderHtml section">
+<style type="text/css">
+.mostshared {display: none;}
+.mostpopular {display: none;}
+</style>
+<script type="text/javascript">
+ 
+requirejs(["shared/campaignManager"], function(campaigns) {
+
+if (!($.cookie("slate_plus")) || $.cookie("slate_plus").split(",")[0].split(":")[1]!="true") {
+if (window.location.href.indexOf("seven_wonders")==-1) {
+if (!mobileMode()) {
+
+   if (typeof console.log != "undefined") {
+     console.log("Configuring campaign.");
+   }
+   campaigns.set({
+     id: "sp_25x_interstitial_softlaunch",
+     template_id: "slateplus",
+     data: { 
+       "img": { "src": "slateplus-logo.png" },
+       "title": "You like Slate. And we like you. This is Slate Plus.",
+       "body": "<div style='font-size: 1em; line-height: 1.1;'><strong>Slate Plus</strong>, our membership program, offers our loyal readers great perks, including special access to your favorite <strong><em>Slate</em></strong> writers and editors, ad free podcasts with bonus audio segments, early access to some of our very best content, exclusive behind-the-scenes features, 30 percent off live events and 20 percent off <strong><em>Slate</em></strong> merchandise, and more.<br/><br/>Become an annual member today and receive your choice of an exclusive <strong><em>Slate</em></strong> mug designed by Jonathan Adler or a 1-year subscription to <em>New York</em> magazine!</div>",
+       "action": {
+         "text": "Learn more",
+         "url": "http://www.slate.com/plus?wpsrc=sp_25x_interstitial_softlaunch_kois-short"
+
+       },
+       "submit": "Sign up"
+     },
+     mode: campaigns.modes.overlay,
+     frequency: 20,
+     resurrection: 0,
+     initialDelay: 1,
+     completeOnClose: false,
+     dismissOnClose: false,
+     options: {
+        onOpen: function() {
+            $(".overlay-wrapper").css("z-index", "100000000");
+        }
+     }
+   });
+
+};
+};
+};
+
+ });
+
+</script>
+</div>
+<div class="mostpopular section">
+<section class="items">
+<a class="header" href="#">Most Read</a>
+<ul class="numbered-list">
+<li><a href="http://www.slate.com/blogs/bad_astronomy/2015/02/22/simpsons_betrayed_by_the_moon.html"><small>1.</small> <span>We’ve Been Wrong About Springfield This Whole Time</span></a></li>
+<li><a href="http://www.slate.com/articles/life/dear_prudence/2015/02/dear_prudence_my_male_boss_took_us_to_see_fifty_shades_of_grey.html"><small>2.</small> <span>Help! My Male Boss Took All the Women in the Office to See <em>Fifty Shades of Grey</em>.</span></a></li>
+<li><a href="http://www.slate.com/articles/life/education/2015/02/university_hiring_if_you_didn_t_get_your_ph_d_at_an_elite_university_good.html"><small>3.</small> <span>An Astonishingly Small Number of Elite Graduate Schools Produce the Academics Who Get Jobs</span></a></li>
+<li><a href="http://www.slate.com/blogs/browbeat/2015/02/23/oscars_best_picture_winner_birdman_boyhood_snub_is_the_academy_s_worst_mistake.html"><small>4.</small> <span>The Academy’s Failure to Recognize <em>Boyhood</em> Is Their Worst Mistake in 20 Years</span></a></li>
+<li><a href="http://www.slate.com/blogs/xx_factor/2015/02/23/patricia_arquette_on_pay_equality_insulting_to_feminism.html"><small>5.</small> <span>Patricia Arquette’s Shallow and Insulting Oscar Comments: Good for GIFs, Bad for Feminism</span></a></li>
+</ul>
+</section>
+</div>
+<div class="mostshared section">
+<section data-vr-zone="Most Shared">
+<header class="black-header">Most Shared</header>
+<ul class="numbered-list">
+<li data-vr-contentbox="">
+<a href="http://www.slate.com/blogs/browbeat/2015/02/23/oscars_best_picture_winner_birdman_boyhood_snub_is_the_academy_s_worst_mistake.html">
+<small>1.</small> <span>The Academy’s Failure to Recognize <em>Boyhood</em> Is Their Worst Mistake in 20 Years</span>
+</a>
+</li>
+<li data-vr-contentbox="">
+<a href="http://www.slate.com/blogs/browbeat/2015/02/22/meryl_streep_and_jennifer_lopez_react_to_patricia_arquette_s_oscar_speech.html">
+<small>2.</small> <span>Watch Meryl and J.Lo Nearly Fall Out of Their Chairs for Patricia Arquette’s Feminist Oscar Speech</span>
+</a>
+</li>
+<li data-vr-contentbox="">
+<a href="http://www.slate.com/blogs/xx_factor/2015/02/23/patricia_arquette_on_pay_equality_insulting_to_feminism.html">
+<small>3.</small> <span>Patricia Arquette’s Shallow and Insulting Oscar Comments: Good for GIFs, Bad for Feminism</span>
+</a>
+</li>
+<li data-vr-contentbox="">
+<a href="http://www.slate.com/blogs/browbeat/2015/02/23/common_and_john_legend_sing_glory_watch_their_rousing_tear_inducing_oscar.html">
+<small>4.</small> <span>Watch the Oscars Musical Performance That Left Everyone in Tears—Even Chris Pine</span>
+</a>
+</li>
+<li data-vr-contentbox="">
+<a href="http://www.slate.com/articles/arts/movies/2015/02/in_praise_of_julianne_moore_the_actress_oscar_and_career.html">
+<small>5.</small> <span>Julianne Moore: Our Smartest, Bravest, and Most Self-Effacingly Brilliant Actress</span>
+</a>
+</li>
+</ul>
+</section>
+</div>
+<div class="rightrailstories section">
+<section class="items">
+<div data-omit-views="true" data-track-module="smart-rr" id="rr-results">
+<div class="smallvideos">
+<div class="row">
+<section class="video-gallery" id="small_videos" style="display: none;">
+<div id="small_video_gallery_mobile_wrap">
+<div class="current-video">
+<img src="http://www.slate.com/content/dam/slate/articles/video/video/2015/02/best_movie_deaths_2014_in_memoriam_to_film_characters_who_died_video/screen_shot_20150222_at_3.52.42_pm_1.png.CROP.hd-large.png"/>
+<a class="primary" href="http://www.slate.com/articles/video/video/2015/02/best_movie_deaths_2014_in_memoriam_to_film_characters_who_died_video.html?wpisrc=seg_video">
+<span class="play-button"></span>
+<span class="main-title">In Memoriam</span>
+</a>
+</div>
+</div>
+</section>
+</div>
+<script>
+requirejs(["jquery"], function($) {
+	if ($.cookie("s_segs") && $.cookie("s_segs").indexOf('video') > -1) {
+      $([
+        '#small_videos',
+        '#small_video_gallery_mobile_wrap',
+        '.current-video'
+      ].join(',')).show();
+      if (mobileMode()) {
+        $('#video_gallery_mobile').show();
+      }
+      $(".video-gallery").css('height','auto');
+      $(window).load(function() {
+        var dataCount3 = $('.rr-block[data-count="3"]');
+        dataCount3.addClass('repositioned');
+        $('.rr-block[data-count="9"]').before(dataCount3);
+      });
+	}
+});
+</script></div>
+<div class="rr-block" data-count="3"></div>
+<div class="item ad-container">
+<div class="ad rightflex" data-ad-mode="desktop" data-ad-type="rightflex"></div>
+<div class="ad " data-ad-mode="tabletLandscape" data-ad-type="rightflex" id="slug_rightflex"></div>
+</div>
+<div class="rr-block" data-count="9"></div>
+<div class="sl-art-ad-midflex">
+<div class="item ad-container">
+<div class="ad rightflex-2" data-ad-mode="desktop" data-ad-type="rightflex|2"></div>
+<div class="ad " data-ad-mode="tabletLandscape" data-ad-type="rightflex|2" id="slug_rightflex_2"></div>
+</div>
+</div>
+<div class="rr-block"></div>
+</div>
+</section>
+<script type="text/javascript">
+requirejs(["jquery","rrstories"], function($,rrs) {
+  if (!mobileMode()) {
+    rrs.init(40,14,"trending");
+  } else {
+    $(".rightrailstories section").remove();
+  }
+});
+</script>
+</div>
+</div>
+</div>
+</div>
+</div><!-- /.sidebar-wrapper -->
+</aside><!-- /.sidebar -->
+<footer id="article_footer_tiles">
+</footer>
+</div><!-- /.page -->
+<!-- HCS: layout -->
+<style type="text/css">
+      body > .bottom {
+        text-align: center;
+        padding: 10px 0;
+      }
+      .bottom > #slug_leaderboard_2 {
+        position: relative;
+        width: auto;
+        text-align: center;
+      }
+    </style>
+<div class="bottom">
+<div class="ad leaderboard-2" data-ad-mode="desktop" data-ad-type="leaderboard|2"></div>
+</div>
+<footer class="footer-base">
+<div class="container">
+<div class="sub-slate-row">
+<div class="left">
+<span class="label">FOLLOW SLATE</span>
+<a class="twitter" href="https://twitter.com/slate"><img src="http://static.cdnslate.com/etc/designs/slate/images/social/yellow-twitterNew.821dc365.png"/></a>
+<a class="facebook" href="http://www.facebook.com/Slate"><img src="http://static.cdnslate.com/etc/designs/slate/images/social/yellow-facebookNew.74981e6f.png"/></a>
+</div>
+<div class="left slate-on">
+<span class="label">SLATE ON</span>
+<a href="http://itunes.apple.com/us/app/slate-magazine/id384914589?mt=8">IPAD</a>
+<a href="http://itunes.apple.com/us/app/slate-com/id357555242?mt=8">IPHONE</a>
+<a href="https://market.android.com/details?id=com.wapo.slate.android">ANDROID</a>
+<a href="http://www.amazon.com/gp/product/B000IOMTC0?ie=UTF8&amp;tag=slatmaga-20&amp;link_code=as3&amp;camp=211189&amp;creative=373489&amp;creativeASIN=B000IOMTC0/">KINDLE</a>
+</div>
+<div class="right">
+<a class="label reprints" href="http://www.slatereprints.com">REPRINTS</a>
+<a class="label advertise-with-us" href="http://innovate.slate.com/" target="_blank">ADVERTISE WITH US</a>
+</div>
+</div>
+</div><!-- /.container -->
+</footer>
+<footer class="footer-base-toc">
+<div class="container">
+<div class="footer-link-cols">
+<ul>
+<li><a href="/articles/news_and_politics/slate_fare/2006/08/about_us.html">ABOUT US</a></li>
+<li><a href="/articles/briefing/contact_us/2006/08/whereto_find_slate_staff.html">CONTACT US</a></li>
+<li><a href="/articles/news_and_politics/slate_fare/2008/04/a_job_for_you_at_slate.html">WORK WITH US</a></li>
+</ul>
+<ul class="center">
+<li><a href="/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_terms_of_service.html">USER AGREEMENT</a></li>
+<li><a href="/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_privacy_policy.html">PRIVACY POLICY</a></li>
+<li><a href="/articles/briefing/slate_fare/2011/12/commenting_on_slate_frequently_asked_questions.html">FAQ</a></li>
+</ul>
+<ul class="last">
+<li><a href="mailto:feedback@slate.com">FEEDBACK</a></li>
+<li><a href="/articles/news_and_politics/corrections.html">CORRECTIONS</a></li>
+</ul>
+</div>
+<ul class="copyright unstyled">
+<li><a href="http://www.slate.com"><img src="http://static.cdnslate.com/etc/designs/slate/images/the-slate-group-logo.12cbe5ac.png"/></a></li>
+<li><a href="http://www.theroot.com"><img src="http://static.cdnslate.com/etc/designs/slate/images/the-root-logo.74009c0a.png"/></a></li>
+<li class="blurb">Slate is published by The Slate Group, a Graham Holdings Company. All contents © 2014 The Slate Group LLC. All rights reserved.</li>
+</ul>
+</div><!-- /.container -->
+</footer> <!-- /.footer-base-toc -->
+<!-- HCS END: layout -->
+<!-- HCS: layouts/shared/bottom -->
+<div id="sidebar_toggle">
+<a href="#" id="sidebar_handle"></a>
+</div>
+<script src="http://slate-ad-scripts.s3.amazonaws.com/wp-srv/ad/loaders/latest/js/min/polar_config.min.js"></script>
+<script>
+
+
+requirejs(["jquery", "hcs/libs/iscroll-lite", "modernizr", "hcs/script", "hcs/plugins/SGGlobalNav.jquery", "hcs/plugins/jQuery.highlighter","hcs/plugins/SGGlobalNav.jquery","libs/jquery-plugins/jquery.timeago","announcements","myslate"], function($, iScroll, unused0, unused1, unused2, unused3, unused4, unused5, announcements, myslate) {
+  $(document).ready(function() {
+    announcements.deleteOldCookies();
+    
+    $("span.timeago").timeago();
+  });
+  function pageLoadedForScrolling(){
+
+
+    scroller = new iScroll('main_sidebar', {
+      hScroll: false,
+      hScrollbar: false,
+      bounce: false
+    });
+
+    if(!mobileMode() && tabletMode() && $('html').hasClass('touch')){
+      // Nav gets iScroll if we're on an actual tablet.
+      window.tabletScroller = new iScroll('nav_sections', {
+        hScroll: false,
+        hScrollbar: false,
+        bounce: false,
+        onBeforeScrollStart: function (e) {
+          var target = e.target;
+          while (target.nodeType != 1) target = target.parentNode;
+
+          if (target.tagName != 'SELECT' && target.tagName != 'INPUT' && target.tagName != 'TEXTAREA')
+          e.preventDefault();
+        }
+      });
+    }
+
+  }
+
+  // We institute fancy scrolling on iscroll only on mobile webkit.
+
+  // Webkit detection script
+  Modernizr.addTest('webkit', function(){
+    return RegExp(" AppleWebKit/").test(navigator.userAgent);
+  });
+
+  // Mobile Webkit
+  Modernizr.addTest('mobile', function(){
+    return RegExp(" Mobile/").test(navigator.userAgent);
+  });
+
+  if(Modernizr.webkit && Modernizr.mobile){
+    if (document.addEventListener){
+      document.addEventListener('DOMContentLoaded', function () { setTimeout(pageLoadedForScrolling, 200); }, false);
+    } else if (document.attachEvent){
+      document.attachEvent('DOMContentLoaded', function () { setTimeout(pageLoadedForScrolling, 200); }, false);
+    }
+  }
+
+
+
+  $(function(){
+
+    watchSidebar();
+
+    if ($('body').hasClass('home')
+        || $('body').hasClass('landing')
+        || $('body').hasClass('settings')) {
+      $('.nav-header').SGGlobalNav({
+        noRollup: true, // Need to tell the homepage and landing etc that there's no rollup here, which causes things to behave differently.
+        noBurgerScroll: $('body').hasClass('no-burger-scroll'),
+        isSlatePlusUser: myslate.isSlatePlusUser
+      });
+    } else {
+      $('.nav-header').SGGlobalNav({
+        isSlatePlusUser: myslate.isSlatePlusUser
+      });
+    }
+
+
+    // Input field placeholder plugin to account for placeholder fallbacks.
+    jQuery(document).ready(function($) {
+      $(".field-with-placeholder").placeholder();
+    });
+
+
+    $('.content').highlighter({
+      'selector': '.highlighter-container',
+      'noHighlightIds': $('#podcast-slateplus-page'),
+      'minWords': 0,
+      'complete': function (data) {
+        // Here we have the selected string for use.
+        // console.log(data);
+        selectedText = data;
+      }
+    });
+
+  });
+
+
+  $(document).ready(function() {
+    $(".sticky").each(function() {
+      var stickyTop = $(".sticky").offset().top; // returns number
+      $(window).scroll(function() { // scroll event
+        var windowTop = $(window).scrollTop() + 57 + parseInt($(".sticky").css("margin-top").split("px")[0]); // returns number
+        if (stickyTop < windowTop) {
+          $(".sticky").css({ position: "fixed", top: "53px" });
+        } else {
+          $(".sticky").css("position","static");
+        }
+      });
+    })
+  });
+
+  watchSocialWelcomeNotifications();
+
+});
+    </script>
+<script>
+requirejs(["jquery", "myslate", "hcs/script", "hcs/plugins/SGNavDropdown.jquery",
+		"hcs/plugins/SGBigSlider.jquery","hcs/plugins/SGFootnote.jquery","hcs/plugins/SGRollup.jquery",
+		"hcs/plugins/SGNavDropdown.jquery","hcs/plugins/SGComments.jquery","hcs/plugins/SGLightbox.jquery",
+		"hcs/plugins/SGSocialIcons.jquery"],
+		function($, myslate, unused0, unused1, unused2, unused3, unused4, unused5, unused6, unused7, unused8) {
+
+    $(function(){
+
+      $('#big_slider').SGBigSlider({
+        type: 'home'
+      });
+
+      $('.footnote').SGFootnote();
+      var multipartArticleRollup = $('#article_rollup');
+
+      var subHed = $('#sub_hed');
+      if(subHed.length > 0){
+        subHed.SGNavDropdown({ // Multipart rollup triggered by tapping the subhed.
+          extraId: 'subhed', // Used to name events inside the plugin, so we can be sure to bind/unbind the correct stuff.
+          targetId: '#multipart_nav', // The thing to show.
+          leftOffset: function(){ return $('#sub_hed').position().left; },
+          topOffset: function(){ return $('#sub_hed').position().top + $('#sub_hed').outerHeight(true); },
+          onShow: function(){
+            $('#multipart_nav').css('position', 'absolute');
+            $('#multipart_nav').css('height', 'auto');
+            $('#multipart_nav').css('overflow', 'auto');
+            // subHed.find('.toggle').addClass('open-toggle');
+          },
+          onHide: function(){
+            // subHed.find('.toggle').removeClass('open-toggle');
+          }
+        });
+      }
+
+      if($('#article_header').length > 0){
+        // The roll up.
+        $('#main_sidebar').SGRollup({ // The main element assigned to this plugin is used to trigger the drop of the rollup on desktop mode.
+          rollupEl: multipartArticleRollup,
+          topOffset: $('#slate_logo').height(),
+          leftOffset: $('#article_header').offset().left,
+          tablet: {el: $('#article_header'), topOffset: $('#article_header').height()}, // Indicate the visibility triggers for tablet mode.
+          mobile: {el: $('#tablet_header'), topOffset: $('#tablet_header').height()},// Indicate the visibility triggers for mobile mode.
+          onHide: function(){
+            // On roll back up make sure to hide the nav if it's open, assuming it was opened by the rollup toggle.
+            if(multipartArticleRollup.data('plugin_SGNavDropdown').isTargetVisible() && $('#multipart_nav').data('openedByRollup')){
+              multipartArticleRollup.data('plugin_SGNavDropdown').close();
+            }
+            if (!myslate.isSlatePlusUser) {
+              if ($('#comments').length > 0) {
+                $('#comments').data('plugin_SGComments').close();
+              }
+            }
+          }
+        });
+      }
+
+    // Multipart dropdown triggered by the rollup in the multipart nav.
+      multipartArticleRollup.SGNavDropdown({
+        targetId: '#multipart_nav', // The thing to show.
+        extraSpecificHandle: '.handle',
+        extraId: 'multipart', // Used to name events inside the plugin, so we can be sure to bind/unbind the correct stuff.
+        leftOffset: function(){ return multipartArticleRollup.find('.main').offset().left; },
+        topOffset: function(){
+          return multipartArticleRollup.outerHeight(true)
+        },
+        onShow: function(){
+          $('#multipart_nav').css('position', ''); // undo the absolute bit we might have affixed in subHed.SGNavDropdown().
+          $('#multipart_nav').addClass('fixed').data('openedByRollup', true);
+          $('#multipart_nav').css('max-height', (mobileMode() ? $(window).outerHeight(true) + 10 : $(window).height() - $('#article_rollup').height()));
+          $('#multipart_nav').css('overflow', 'scroll');
+          if(mobileMode()){
+            $('#multipart_nav').css('right', 0);
+          }
+        },
+        onHide: function(){
+          $('#multipart_nav').data('openedByRollup', false);
+        }
+      });
+
+
+      if (!myslate.isSlatePlusUser) {
+        $('#comments').SGComments({
+          handles: $('.social .comments, .comment-options a'),
+          rollUp: $('#main_sidebar').data('plugin_SGRollup'),
+          leftOffset: function(){
+            // The intent is for the right side of the comments to line up with the sidebar.
+            if(tabletMode()){
+              return 0;
+            } else {
+              return $('#main_sidebar').offset().left - $('#comments').outerWidth() - 11;
+            }
+          },
+          topOffset: function(){ return $('#article_rollup').height(); },
+          onShow: function(){
+            if(multipartArticleRollup.data('plugin_SGNavDropdown').isTargetVisible()){
+              multipartArticleRollup.data('plugin_SGNavDropdown').close();
+            }
+            //if ($("#livefyre .fyre").size() == 0) {
+            //  loadLivefyre();
+            //}
+          },
+          mobile: {
+            handle: $('#see_more_comments') // This both triggers the mobile comments and indicates where to drop the content in the DOM.
+          }
+
+        });
+      }
+
+
+      // Trigger the slideshow lightbox for from the .slideshow-preview example.
+        $('#slideshow_preview_link').SGLightbox({
+          type: 'slideshow',
+          slideshowElement: $('#the_slideshow')
+        });
+
+
+      $('.social-with-popup').SGSocialIcons({});
+
+      watchMobileRollupSocialToggle();
+
+      $('.expandable').find('.toggle').click(function(e){
+        $(this).closest('.social').toggleClass('visible');
+        $('#main_byline').toggle();
+        e.preventDefault();
+      });
+
+      $('.full-width').setFullWidth();
+
+      myslate.benefits();
+
+    });
+});
+    </script>
+<script>
+    // Manage the social horizontal toggles on the landing pages.
+requirejs(["jquery", "hcs/script"],
+		function($, unused0) {
+
+      $(function(){
+        $('.social').find('.toggle').click(function(e){
+          e.preventDefault();
+          $(this).closest('.social').toggleClass('visible');
+        });
+      });
+});
+    </script>
+<script>
+    requirejs(["facebook"], function(unused0) {
+      $(function(){
+        FB.XFBML.parse();
+      });
+    });
+    </script>
+<!-- Buzzfeed -->
+<!-- Chartbeat -->
+<script type="text/javascript">
+
+var _sf_async_config={uid:9250,domain:"slate.com"};
+_sf_async_config.useCanonical = true;
+if (wp_meta_data) {
+    var sectionsArray = new Array();
+    if (wp_meta_data.section !== undefined) {
+        sectionsArray.push(wp_meta_data.section);
+    }
+    if (wp_meta_data.rubric !== undefined) {
+        sectionsArray.push(wp_meta_data.rubric);
+    }
+    if (wp_meta_data.blog !== undefined) {
+        sectionsArray.push(wp_meta_data.blog);
+    }
+    _sf_async_config.sections = sectionsArray.join(",");
+    if (wp_meta_data.authors !== undefined) {
+        _sf_async_config.authors = wp_meta_data.authors.join(",");
+    }
+}
+
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+<!-- Parsely -->
+<div id="parsely-root" style="display: none">
+<div data-parsely-site="slate.com" id="parsely-cfg"></div>
+</div>
+<script>
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include -->
+<script>
+            requirejs(["shared/sgads"], function(slateads) {
+                slateads.wire("http://js.slate.com/wp-srv/ad/loaders/latest/js/min/loader.min.js");
+            });
+        </script>
+<div class="nav-header" id="magic_nav_header">
+<a class="slate-logo" href="/"><span class="logo">Slate</span></a>
+<div class="buttons">
+<span class="link option"><a class="first nav-option sign-in-link" href="#" id="sign_in_link">
+      Sign In
+    </a></span>
+<span class="link option"><a class="nav-option sign-up-link" href="#" id="sign_up_link">Sign Up</a></span>
+</div>
+</div><!-- /.nav-header -->
+<!-- HCS: layouts/shared/nav/nav -->
+<div id="nav_sections"></div>
+<!-- HCS END: layouts/shared/nav/nav -->
+<section class="nav-panel" id="nav_header_for_rollup_magic">
+<div class="nav-header">
+<a class="slate-logo" href="/"><span class="logo">Slate</span></a>
+<a class="user-link sidebar-handle" href="#"></a>
+<a class="search-link sidebar-handle" href="#"></a>
+<a class="global-nav-handle sidebar-handle" href="#"></a>
+<div class="buttons">
+<span class="link option "><a class="first nav-option sign-in-link" href="#" id="sign_in_link">Sign In</a></span>
+<span class="link option "><a class="nav-option sign-up-link" href="#" id="sign_up_link">Sign Up</a></span>
+</div>
+</div>
+</section>
+<div id="nav_animation_mask">
+</div>
+<span class="highlighter-container">
+<div class="social social-with-popup sharing-buttons">
+<a class="facebook share highlighter" data-share="http://www.facebook.com/sharer/sharer.php?s=100&amp;p[url]=http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html&amp;p[images][0]=http://www.slate.com/content/dam/slate/archive/2005/12/1_123125_122946_2112097_2131456_051216_books_lolita.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg&amp;p[title]=The+disgusting+brilliance+of+Lolita.&amp;p[summary]=Every+now+and+again+it%27s+probably+healthy+to+crack+open+the+glass%2C+remove+a+certain+world+masterpiece+from+the+display+case%2C+and+in+re-reading+it+recall+that%E2%80%94unlike+Ulysses+and+Lady+Chatterley%27s+Lover%2C+two+other+novels+once+deemed+obscene+by+the+tribunes+of+moral+upkeep%E2%80%94+Lolita+is+a+disgusting+book.+Furthermore%2C..." href="#">
+<span class="icon"></span>
+</a>
+<a class="twitter" data-share="http://twitter.com/share?url=http://www.slate.com/articles/arts/books/2005/12/lolita_at_50.html&amp;count=none&amp;via=slate" href="#">
+<span class="icon"></span>
+</a>
+<a class="comments" href="#comments" style="display: none;">
+<span class="icon"></span>
+</a>
+</div>
+<div class="arrow-border"></div>
+<div class="arrow"></div>
+</span>
+<!-- Sailthru Horizon -->
+<script>
+    requirejs(['jquery'], function($) {
+      (function() {
+        function loadHorizon() {
+          var s = document.createElement('script');
+          s.type = 'text/javascript';
+          s.async = true;
+          s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+          var x = document.getElementsByTagName('script')[0];
+          x.parentNode.insertBefore(s, x);
+        }
+        loadHorizon();
+        var oldOnLoad = window.onload;
+        window.onload = function() {
+          if (typeof oldOnLoad === 'function') {
+            oldOnLoad();
+          }
+          Sailthru.setup({
+            domain: 'horizon.slate.com'
+          });
+        };
+      })();
+    });
+    </script>
+<!-- HCS END: layouts/shared/bottom -->
+<!-- Campaigns -->
+<script>
+     requirejs(["shared/campaignManager", "optimizely"], function(campaigns, optimizely) {
+       // setTimeout.  Boo.
+       setTimeout(campaigns.execute, 400);
+     });
+    </script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"2676640","applicationTime":174,"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"f3154255a5","transactionName":"YwEAY0tTXkJYURBYVlpLLFhLX1FdUEgBVWxGDU1WS0ZZUlVXFx5YRhARGFtdX1pKHU4eExsIDVtQRlFuWEY7BAkaDBZaVQ==","agent":"js-agent.newrelic.com\/nr-536.min.js","errorBeacon":"bam.nr-data.net"}</script>
+<!--
+Page Loading starts on 2015/02/24 01:30:32, Total time elapsed to render is 0.1659759 seconds, Server: pub2w.slate.com
+-->
+</body>
+</html>

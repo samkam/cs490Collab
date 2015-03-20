@@ -1,0 +1,11 @@
+Server: nginx/1.0.15
+Date: Tue, 24 Feb 2015 06:35:03 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Set-Cookie: loggedin=false; path=/
+Set-Cookie: _session_id=4e27c1882c2af8e967f0e02499df54ad; path=/
+Vary: User-agent
+Status: 200 OK
+Cache-Control: no-cache
+Content-Length: 124097
+

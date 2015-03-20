@@ -1,0 +1,1293 @@
+
+<!DOCTYPE html>
+
+<html class="no-js lastfm" data-ad-zone="listen:listen:station" lang="de">
+<head>
+<meta charset="utf-8">
+<meta content="IE=edge; chrome=1" http-equiv="X-UA-Compatible"/>
+<link href="http://purl.org/uF/2008/03/" rel="profile"/>
+<!--–[if IE]--><!endif]–>
+
+                <title>Led Zeppelin und ähnliche – Last.fm</title>
+    <script>
+
+        
+        
+        (function(){
+            var match = window.location.hash.match(/(?:station=)([^&]*)/i);
+            if(match && match.length && match[1]) {
+                window.location = decodeURIComponent(match[1]);
+            }
+        })();
+        
+
+    </script>
+
+                                    
+    
+        <script>(function(e) { e.className = e.className.replace(/\bno-js\b/,'js'); })(document.documentElement)</script>
+
+    <link rel="search" type="application/opensearchdescription+xml" href="http://cdn.last.fm/opensearch.xml" title="Last.fm" />
+            <meta name="description" content="Der weltgrößte Musikkatalog online, unterstützt von deinen Scrobbles. Hören, Videos, Fotos, Statistiken, Charts, Biografien und Konzerte kostenlos."/>
+
+
+            <meta name="robots" content="NOODP" />
+
+        
+                <meta property="og:site_name" content="Last.fm" />
+<meta property="fb:app_id" content="192959324047861" />
+
+            
+                        
+    <meta property="og:title" content="Led Zeppelin und ähnliche" />
+    <meta property="og:url" content="http://www.lastfm.de/listen/artist/Led%2BZeppelin/similarartists" />
+    <meta property="og:image" content="http://userserve-ak.last.fm/serve/126/42469.jpg" />    
+                <link rel="shortcut icon" href="http://cdn.last.fm/flatness/favicon.2.ico" />
+        <link rel="apple-touch-icon" href="http://cdn.last.fm/flatness/apple-touch-icon.png" />
+    
+        <meta name="msapplication-TileImage" content="http://cdn.last.fm/flatness/lastfm_win8_tile_144.png" />
+    <meta name="msapplication-TileColor" content="#d51007" />
+    
+        <meta name="apple-itunes-app" content="app-id=585235199">
+
+    
+    
+    
+                <link rel="alternate" hreflang="en" href="http://www.last.fm/listen/artist/Led+Zeppelin/similarartists" />
+    
+                    <link rel="alternate" hreflang="es" href="http://www.lastfm.es/listen/artist/Led+Zeppelin/similarartists" />
+                <link rel="alternate" hreflang="fr" href="http://www.lastfm.fr/listen/artist/Led+Zeppelin/similarartists" />
+                <link rel="alternate" hreflang="it" href="http://www.lastfm.it/listen/artist/Led+Zeppelin/similarartists" />
+                <link rel="alternate" hreflang="ja" href="http://www.lastfm.jp/listen/artist/Led+Zeppelin/similarartists" />
+                <link rel="alternate" hreflang="pl" href="http://www.lastfm.pl/listen/artist/Led+Zeppelin/similarartists" />
+                <link rel="alternate" hreflang="pt" href="http://www.lastfm.com.br/listen/artist/Led+Zeppelin/similarartists" />
+                <link rel="alternate" hreflang="ru" href="http://www.lastfm.ru/listen/artist/Led+Zeppelin/similarartists" />
+                <link rel="alternate" hreflang="sv" href="http://www.lastfm.se/listen/artist/Led+Zeppelin/similarartists" />
+                <link rel="alternate" hreflang="tr" href="http://www.lastfm.com.tr/listen/artist/Led+Zeppelin/similarartists" />
+                <link rel="alternate" hreflang="zh" href="http://cn.last.fm/listen/artist/Led+Zeppelin/similarartists" />
+        
+    
+        <style>html {zoom: 1;}</style>    <script>
+
+        if(top !== self && top.location.domain !== self.location.domain) {
+            (function(d, s) {
+                if(s && s.insertRule) {
+                    s.insertRule('body { display: none !important }', 0);
+                } else if(s && s.addRule) {
+                    s.addRule('body', 'display: none !important');
+                }
+                top.location.replace(d.location.href);
+            })(document, document.styleSheets[0]);
+        }
+</script>
+
+                                        <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/master.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/listen/overview-buggles.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/listen/player-buggles.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/listen/webclient-buggles.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/listen/youtube.css" />
+                        
+        
+<!--[if lt IE 9!>
+<script>
+
+        window.html5 = {
+            shivCSS: false
+        }
+</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/html5shiv.js"></script>
+<!endif]-->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>$.noConflict();</script>
+<script src="//ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
+<script>
+    if(typeof Prototype === 'undefined') {
+        document.write(unescape("%3Cscript src='http://cdn.last.fm/javascript/javascript/232025/lib/prototype.js'%3E%3C/script%3E"));
+    }
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/scriptaculous.js"></script>
+<script>
+    if(typeof Scriptaculous === 'undefined') {
+        document.write(unescape("%3Cscript src='http://cdn.last.fm/javascript/javascript/232025/lib/scriptaculous/scriptaculous.js'%3E%3C/script%3E"));
+    }
+</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/mustache-min.js"></script>
+
+<script>SM2_DEFER = true;</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/sm2-min.js"></script>
+
+<script src="http://cdn.last.fm/javascript/javascript/232025/LFM.js"></script>
+
+<script>
+    LFM.set("ParentResource", {"id":"30934","type":73,"name":"Led Zeppelin und \u00e4hnliche","url":"\/listen\/artist\/Led%2BZeppelin\/similarartists","parent":{"id":"1394","type":6,"name":"Led Zeppelin","url":"\/music\/Led+Zeppelin","image":{"small":"http:\/\/userserve-ak.last.fm\/serve\/34\/42469.jpg","smallsquare":"http:\/\/userserve-ak.last.fm\/serve\/34s\/42469.jpg","medium":"http:\/\/userserve-ak.last.fm\/serve\/64\/42469.jpg","mediumsquare":"http:\/\/userserve-ak.last.fm\/serve\/64s\/42469.jpg","large":"http:\/\/userserve-ak.last.fm\/serve\/126\/42469.jpg","largesquare":"http:\/\/userserve-ak.last.fm\/serve\/126s\/42469.jpg","mega":"http:\/\/userserve-ak.last.fm\/serve\/252\/42469.jpg","original":"http:\/\/userserve-ak.last.fm\/serve\/_\/42469\/Led+Zeppelin.jpg"}},"coreStationName":"Led Zeppelin und \u00e4hnliche","coreStationUrl":"\/listen\/artist\/Led%2BZeppelin\/similarartists"});
+    LFM.Adserver.showAds = true;
+    LFM.set("Session", {"cookieHost":".lastfm.de","host":"www.lastfm.de","staticHost":"http:\/\/cdn.last.fm","wsHost":"ws.audioscrobbler.com","userserveHost":"http:\/\/userserve-ak.last.fm","wsKey":"ceec2bb03d4c5929f0d6667fc266dc75","formtoken":"2bcd67b944b9e63a7fd1b2c0c95a8d55947c66b3","location":"us","language":"de","ajaxhost":"ajax.last.fm","templatePath":"\/templates\/231606","jsPath":"http:\/\/cdn.last.fm\/javascript\/javascript\/232025","cssPath":"http:\/\/cdn.last.fm\/css\/css\/231990","loggedIn":false});
+    LFM.set("resTypes", {
+        EVENT: 29,
+        ARTIST: 6,
+        ALBUM: 8,
+        TRACK: 9,
+        GROUP: 20,
+        TAG: 32,
+        USER: 4,
+        LABEL: 10
+    });
+    LFM.set("resTypeLookup", {
+        29: "Event",
+        6: "Artist",
+        8: "Album",
+        9: "Track",
+        20: "Group",
+        32: "Tag",
+        4: "User",
+        10: "Label"
+    });
+
+    LFM.set("String", {okText: "OK",cancelText: "Abbrechen",clickToEditText: "Zum Bearbeiten hier klicken",savingText: "Speichern...",loadingText: "Wird geladen...",deletingText: "Lösche...",thereWasAnError: "Es gab einen Fehler.",dialogLoadError: "Beim Laden dieses Dialogs ist ein Fehler aufgetreten.",fileTooBig: "Die Datei ist leider zu groß.",noFile: "Bitte wähle eine Datei aus.",uploadCancelled: "Upload abgebrochen.",deleteMessageTitle: "Nachricht löschen",deleteMessagePrompt: "Bist du sicher, dass du diese Nachricht löschen möchtest?",deleteFriendPrompt: "Bist du sicher, dass du die Freundschaft mit dieser Person beenden möchtest?",deleteImage: "Bist du sicher, dass du dieses Bild löschen möchtest?",deleteButtonText: "Löschen",done: "Fertig",backText: "Zurück",yesText: "Ja",noText: "Nein",saveText: "Speichern",saveTitle: "Zum Profil hinzufügen",sendText: "Senden",sendTitle: "An Freunde weiterleiten",addTitle: "Zu Musiksammlung hinzufügen",tagTitle: "Tags hinzufügen",playlistTitle: "Zur Playlist hinzufügen",befriendTitle: "Einen Freund hinzufügen",labsfeedbackTitle: "Gib uns dein Feedback",joinTitle: "Gruppe beitreten",loved: "Geliebt",RemoveFromLibraryTitle: "Aus deiner Musiksammlung löschen",uploadImageTitle: "Bild hochladen",uploadVideoTitle: "Video hochladen",usernoteTitle: "Add a note",cleanupBioTitle: "Cleanup Bio",flageventTitle: "Zur Überprüfung melden",setLocationTitle: "Standort festlegen",newWindowTooltip: "Dieser Link wird ein neues Fenster öffnen",unloadWarningMessage: "Dies stoppt die Wiedergabe",trackLoved: "Als Lieblingslied markiert",playbackStopped: "Wiedergabe gestoppt",loadingTrackInfo: "Titelinformationen werden geladen",errorLoadingTrackInfo: "Fehler beim Laden der Titelinformationen",emailLineup: "Per E-Mail senden",uploadMessages: {mayTakeLonger: "Dies kann leider ein bisschen länger dauern als gewöhnlich. Bitte warte ein paar Sekunden.",uploading: "Lade hoch...",endUploading: "Fertig",progressDisplay: "PERCENTUPLOADED% komplett (TRANSFERRATE kb/s) – TIMEREMAINING verbleibende Sekunden",progressComplete: "100% komplett",failedRetrying: "Konnte Upload nicht noch einmal versuchen.",processingMedia: "Processing media…",unsupportedFormat: "Sorry, the file you uploaded isn’t encoded in a supported format. Please try again.",uploadError: "There was an error uploading your video, please verify that the file you are uploading is not too large or of an incorrect format and try again."},shortMonths: {'1': "Jan",'2': "Feb",'3': "Mär",'4': "Apr",'5': "Mai",'6': "Jun",'7': "Jul",'8': "Aug",'9': "Sep",'10': "Okt",'11': "Nov",'12': "Dez"},resTypePlural: {29: "Events",6: "Künstler",8: "Alben",9: "Titel",20: "Gruppen",32: "Tags",4: "Benutzer","friends":   "Freunde",10: "Labels"}});LFM.set("Element", {icon_loved_indicator: "<img class=\"icon loved_indicator_icon\" width=\"11\" height=\"9\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_tag: "<img class=\"icon tag_icon\" width=\"14\" height=\"14\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_dismiss: "<img class=\"icon dismiss_icon\" width=\"16\" height=\"16\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_play: "<img class=\"transparent_png play_icon\" width=\"13\" height=\"13\" alt=\"Spielen\" src=\"http:\/\/cdn.last.fm\/flatness\/preview\/play_indicator.png\" style=\"\" \/>"});
+        LFM.AdPlacements = ["beacon","leaderboard","mpu","lowerleaderboard"];
+</script>
+
+
+<script data-main="http://cdn.last.fm/javascript/javascript/232025/modules-built/init" src="http://cdn.last.fm/javascript/javascript/232025/lib/requirejs/require-min.js"></script>
+
+    <script src="http://cdn.last.fm/javascript/javascript/232025/lib/ufo.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/components.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/radio.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/lib/jwplayer/v5/jwplayer.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/dialog.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/form/typeahead.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/lib/uuid.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/ads.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/lib/modernizr.js"></script>
+
+<script>
+
+LFM.Page.Tracker = new LFM.Analytics.Tracker('Listen-buggles/Station/', window.location.host);
+
+document.observe('dom:loaded', function() {
+
+    LFM.Page.Tracker.bindOutboundLinkListener();
+    LFM.Page.Tracker.bindEventListener();
+
+});
+
+</script>
+
+
+    
+    <script>document.observe("dom:loaded", function () { if (typeof ieHover !== 'undefined') ieHover.setUp(); });</script>
+
+    <script data-require="googleanalytics">LFM.Analytics = LFM.Analytics || {};LFM.Analytics.Helpers = {webhost:"www.lastfm.de",registrationStatus:"LoggedOut",visitorStatus: "Anonymous",transformedUrl:"listen-buggles/station/"}</script></head>
+
+
+
+<!--[if lt IE 7 !> <body class="r-station a-station lfmRed lang-de theme-flatness ie ie6"> <!endif]-->
+<!--[if IE 7 !> <body class="r-station a-station lfmRed lang-de theme-flatness ie ie7"> <!endif]-->
+<!--[if IE 8 !> <body class="r-station a-station lfmRed lang-de theme-flatness ie ie8"> <!endif]-->
+<!--[if IE 9 !> <body class="r-station a-station lfmRed lang-de theme-flatness ie ie9"> <!endif]-->
+<!--[if (gt IE 9)|!(IE)!><!--> <body class="r-station a-station lfmRed  lang-de theme-flatness" > <!--<![endif]-->
+<script>var WRInitTime = +new Date();</script>
+<div class=" " id="page">
+<div class="fixed" id="radio">
+<div class="LastAd ad-beacon inactive" data-ad-collapsible="" data-ad-placement="beacon" data-ad-static="" data-require="ads/staticadslot" dynamicads="1" id="LastAd_beacon">
+<span>
+<script>
+
+
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+(function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+
+</script>
+<script>
+    
+    var googleSlots = { };
+    var googleDisplayed = false;
+    
+
+    googletag.cmd.push(function() {
+        var unitName = "/8264/aw-lastfm/listen/listen/station",
+            isVR = true,
+            isDynamic = true,
+            isAnonHome = false;
+    
+
+    function hasPlacement(placement) {
+        return LFM.AdPlacements.indexOf(placement) >= 0;
+    };
+
+    var leaderboardSizes = [[728,90],[970,66],[970,90],[860,55]];
+    // The leaderboard slot height is fixed at 90px when using dynamic ads,
+    // showing a taller leaderboard would cause the page to jump, so we don't request them
+    if ( ! isDynamic) {
+        leaderboardSizes.push([880,150],[880,170],[880,200],[900,150],[900,250],[970,200],[970,250],[860,250],[980,250]);
+    }
+
+    if (hasPlacement('leaderboard')) {
+        googleSlots['leader_top'] = googletag.defineSlot(unitName, leaderboardSizes, "leader_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    var mpuSizes = [[300,250],[138,108]] ;
+    if (! isAnonHome) {
+        mpuSizes.push([300,600]);
+    }
+
+    var lowerMpuSizes = [[300,250]];
+
+    if (hasPlacement('mpu')) {
+        googleSlots['mpu_top'] = googletag.defineSlot(unitName, mpuSizes, "mpu_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    if (hasPlacement('lowermpu')) {
+        googleSlots['mpu_bottom'] = googletag.defineSlot(unitName, lowerMpuSizes, "mpu_bottom")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "bottom");
+    }
+
+    if (hasPlacement('skin')) {
+        googleSlots['skin'] = googletag.defineSlot(unitName, [1600,1000], "skin")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    if (hasPlacement('interstitial')) {
+        googleSlots['intromercial'] = googletag.defineOutOfPageSlot(unitName, "intromercial")
+        .addService(googletag.pubads());
+    }
+
+    var lowerLeaderboardSizes = [[728,90],[970,90],[860,55],[880,150],[880,170],[880,200],[900,150]];
+    if (hasPlacement('lowerleaderboard')) {
+        googleSlots['leader_bottom'] = googletag.defineSlot(unitName, lowerLeaderboardSizes, "leader_bottom")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "bottom");
+    }
+
+    if (hasPlacement('sky')) {
+        googleSlots['sky_top'] = googletag.defineSlot(unitName, [160,600], "sky_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    // Collapse as soon as display() for the slot is reached and expand only when there is an ad
+    // i.e. no flickering
+    googletag.pubads().collapseEmptyDivs(true);
+
+    if ( ! isVR) {
+        googletag.pubads().enableSingleRequest();    
+
+        if ( ! isDynamic) {
+            googletag.pubads().enableSyncRendering();    
+        }
+    }
+
+    if (screen.width >= 1280) {
+        googletag.pubads().setTargeting("inskin", "yes");
+    }
+
+    
+
+            googletag.pubads().setTargeting("ar", "ledzeppelin,pinkfloyd,thedoors,page&plant,robertplant,blacksabbath,jimihendrix,thejimihendrixexperience,deeppurple,creedenceclearwaterrevival,thewho");
+            googletag.pubads().setTargeting("tag", "classicrock,rock,hardrock,70s,progressiverock,bluesrock,british,blues,ledzeppelin,heavymetal");
+            googletag.pubads().setTargeting("geo", "US");
+            googletag.pubads().setTargeting("lang", "de");
+            googletag.pubads().setTargeting("res", "1394");
+            googletag.pubads().setTargeting("established", "1");
+            googletag.pubads().setTargeting("stationtype", "radiolanding");
+            googletag.pubads().setTargeting("refpath", "");
+    
+    LFM.viewGuid = LFM.viewGuid ? LFM.viewGuid : uuid();
+    googletag.pubads().setTargeting("vguid", LFM.viewGuid);
+
+    googletag.enableServices();
+    
+
+  });
+
+</script>
+</span>
+</div> <div id="LastAd_Refresh"></div>
+<div class="LastAd LastAd_Top adWrapper clearit LastAd--dynamic LastAd--xfp">
+<div class="centerShim">
+<div class="heightShim" id="LastAd_Top_heightShim"></div>
+<iframe allowtransparency="true" data-ad-dynamic="" data-ad-placement="leaderboard" data-ad-xfp-id="leader_top" data-max-width="970" frameborder="0" height="0" id="LastAd_Top" marginheight="0" marginwidth="0" name="LastAd_Top" scrolling="no" src="" width="970"></iframe><div class="google-ad-leaderboard" id="leader_top"></div>
+</div>
+</div>
+<div class="masthead-wrapper">
+<header class="masthead" role="banner">
+<h1>
+<a class="ir lastfm-logo" href="/">
+                Last.fm
+            </a>
+</h1>
+<form action="/search" class=" site-search search-autocomplete search-autocomplete--main " data-open-search-links-in-window="true" data-require="search/sitesearch" data-template="search" data-url="/search/autocomplete" method="get" role="search">
+<fieldset>
+<legend class="rm">Suche auf der Seite</legend>
+<input autocomplete="off" autocorrect="off" class="js-search search-box" name="q" placeholder="Musiksuche" size="26" type="text"/>
+<div class="js-search-progress search-progress ir">Lädt</div>
+<input name="from" type="hidden" value="ac"/>
+<button class="search-submit icon iconleft iconleft--search" title="Suchen" type="submit"></button>
+</fieldset>
+</form>
+<nav role="navigation">
+<ul class="primary-nav remove-bottom-margin">
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/music">Musik</a>
+</li>
+<li class="primary-nav-item" id="listenNav">
+<a class="primary-nav-link" href="/listen">Hören</a>
+</li>
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/events">Events</a>
+</li>
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/charts">Charts</a>
+</li>
+</ul>
+<div class="masthead-right" role="navigation">
+<a class="join" data-analytics-action="SignUpClick" data-analytics-label="Header" href="/join">Registrieren</a>
+<a class="btn btn--small btn--header btn--rounded login" href="/login" id="login-link">Einloggen</a>
+</div>
+</nav>
+</header>
+<link href="//embed.spotify.com/static/css/mediabar/mediabar-lastfm.css" rel="stylesheet" type="text/css"/>
+<div class="persistent-bar">
+<div class="spotify-mediabar-wrapper">
+<div class="spotify-mediabar" data-require="spotify/spotifymediabar" id="spotify-mediabar"></div>
+</div>
+<a class="spotify-mediabar-feedback" data-lab-name="spotifyplayback" data-require="labfeedbackbutton" href="#">
+<span class="beta-badge">Beta</span> Feedback
+    </a>
+</div>
+<div data-require="spotify/signupcompletemodal" id="spotify-signup-complete-modal">
+<div class="sparse-modal js-modal"></div>
+</div>
+</div>
+<div class="clearit" data-require="listen/radiobridge" id="content">
+<aside class="feedback-message">
+        Du verwendest eine <strong>Betaversion</strong> des neuen Last.fm-Players. Mit <a data-lab-name="buggles" data-require="labfeedbackbutton" href="#">deinem Feedback</a> können wir ihn noch besser machen.
+    </aside>
+<div id="lfmPlayerContainer"></div>
+<div id="lfmAPIContainer"></div>
+<div class=" messageBox errorMessage errorMessageBlock " id="requirementsMessage">
+<p>Höre endlose personalisierte Musikstationen auf Basis von Künstlern, Tags, oder gar dem Musikgeschmack eines Freundes!</p>
+<p><img class="transparent_png warning_icon" height="14" src="http://cdn.last.fm/flatness/messageboxes/error.png" style="" width="14"/><span>Der Last.fm- Player benötigt Javascript und mindestens Flash 9. Du kannst <a href="http://get.adobe.com/flashplayer">Adobe Flash von der Adobe-Website</a> herunterladen und installieren.</span></p>
+</div>
+<div id="leftColumn">
+<div id="leftColumnWrapper">
+<div id="webRadioWrapper">
+<div id="webRadio">
+<div class="webRadioPane startPane" id="simpleStarter">
+<div class="webRadioHeader">
+<a class="lfmradio:switchPane btn btn--pane-control pane-control-right btn--pane-control--nowPlaying iconleft iconleft--small iconleft--custom-icon iconleft--playing" href="#webRadioPlayer"><span>Gerade läuft</span></a><a class="lfmradio:switchPane btn btn--pane-control pane-control-right btn--pane-control--nowPaused iconleft iconleft--small iconleft--custom-icon iconleft--paused" href="#webRadioPlayer"><span>Station angehalten</span></a><span class="tuneLoading"></span>
+<h1>
+            Last.fm Player
+            <em class="beta-badge">Beta</em>
+</h1>
+</div>
+<div class="starterContent clearit">
+<div class="tuningErrors"></div>
+<form action="/listen/tune" class="starterForm" method="get" style="padding:50px 0; text-align: center;">
+<input name="type" type="hidden" value="artisttag"/>
+<span id="simpleInput">
+<input class="artistInput stationInput" name="name" placeholder="Künstler oder Genre eingeben" size="30" type="text"/>
+</span>
+<input id="simpleSubmit" title="Spielen" type="submit" value="Spielen"/>
+<p id="sampleStations">Warum versuchst du es nicht mit <a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Arctic%2BMonkeys/similarartists">Arctic Monkeys</a>, <a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Florence%2B%252B%2Bthe%2BMachine/similarartists">Florence + the Machine</a>, <a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/latin">latin</a> oder <a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/metal">metal</a>?</p>
+</form>
+<div class="stationSection clearit">
+<h3>Ausgewählte Stationen</h3>
+<table class="stationTable">
+<tr>
+<td class="odd"><a class="stationbutton stationbuttonLarge stationStart lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Coldplay/similarartists">
+<span class="stationButtonWrapper">
+<strong>Spiele Coldplay und ähnliche</strong>
+<p>
+                                             Mit: Keane, OneRepublic, Snow Patrol, U2 und mehr… 
+                                    </p>
+</span>
+</a></td>
+<td class="even"><a class="stationbutton stationbuttonLarge stationStart lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/blues">
+<span class="stationButtonWrapper">
+<strong>Spiele Blues Tag</strong>
+<p>
+                                             Mit: Tom Waits, Muddy Waters, Eric Clapton, B.B. King und mehr… 
+                                    </p>
+</span>
+</a></td>
+</tr>
+</table>
+</div>
+<div class="stationSection clearit">
+<h3>Kombo-Stationen</h3>
+<ul class="clearit" id="chunkyStations">
+<li>
+<a class="lfmradio:switchPane multiArtist" href="#multiArtistTab">
+<div class="station-starter-icon station-starter-icon--multiArtist"></div>
+<strong>Multi-Künstler</strong>
+<br/>
+                        Mische ähnliche Künstler aus maximal drei deiner Favoriten
+                    </a>
+</li>
+<li>
+<a class="lfmradio:switchPane multiTag" href="#multiTagTab">
+<div class="station-starter-icon station-starter-icon--multiTag"></div>
+<strong>Multi-Tag</strong>
+<br/>
+                        Für eine genauere Kontrolle über was du hörst, bspw. ‘60s jazz’ oder ‘german indie’
+                    </a>
+</li>
+</ul>
+</div>
+<div class="stationSection align-center">
+<h3>Last.fm beitreten</h3>
+<p>Hole dir deine eigenen personalisierten Stationen auf Basis deines Hörverhaltens, speichere deine letzten Stationen und Titel, lass dir Musik empfehlen und vieles mehr.</p>
+<a class="btn btn--brand-blue" href="/join">Melde dich jetzt kostenlos an!</a>
+</div>
+</div>
+</div>
+<div class="webRadioPane starterPane multiStarterPane" id="multiTagTab" style="display: none;">
+<div class="webRadioHeader">
+<a class="lfmradio:switchPane btn btn--pane-control pane-control-left iconleft iconleft--light iconleft--small iconleft--left" href="#simpleStarter">Zurück</a>
+<a class="lfmradio:switchPane btn btn--pane-control pane-control-right btn--pane-control--nowPlaying iconleft iconleft--small iconleft--custom-icon iconleft--playing" href="#webRadioPlayer"><span>Gerade läuft</span></a><a class="lfmradio:switchPane btn btn--pane-control pane-control-right btn--pane-control--nowPaused iconleft iconleft--small iconleft--custom-icon iconleft--paused" href="#webRadioPlayer"><span>Station angehalten</span></a><span class="tuneLoading"></span>
+<h1>Multi-Tag</h1>
+</div>
+<div class="starterContent clearit">
+<div class="tuningErrors"></div>
+<h2>Wähle bis zu drei Tags aus und klicke "spielen"</h2>
+<div class="stationSection clearit">
+<div class="multiTunerContainer">
+<form action="/listen/tune" class="starterForm" id="multiTagSelections" method="get">
+<div class="submit">
+<input name="type" type="hidden" value="tag"/>
+<a class="playCombo lfmradio:multiStart" href="/radio">Kombo-Radio für Tags spielen</a>
+</div>
+</form>
+</div>
+<form action="" id="multiTagInputForm">
+<input class="multiInput stationInput" id="multiTagInput" name="name" placeholder="Suchen" size="30" type="text"/>
+<input class="confirmButton multiSubmit" type="submit" value="Hinzufügen"/>
+<div class="autocomplete" id="multiTagAutocomplete"></div>
+</form>
+<ul class="multiChoices clearit" id="multiTags" odd="1">
+<li class="first odd" id="r32_110_1969161582">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/acoustic">acoustic</a>
+</li><li class="" id="r32_58_996773628">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/ambient">ambient</a>
+</li><li class="odd" id="r32_90_98621496">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/blues">blues</a>
+</li><li class="" id="r32_304_1766534821">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/Classical">classical</a>
+</li><li class="odd" id="r32_83_1483499719">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/country">country</a>
+</li><li class="" id="r32_206_1088857935">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/electronic">electronic</a>
+</li><li class="odd" id="r32_251_1981844152">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/emo">emo</a>
+</li><li class="" id="r32_85_383049099">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/folk">folk</a>
+</li><li class="odd" id="r32_98_1013618591">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/hardcore">hardcore</a>
+</li><li class="" id="r32_192_1021706480">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/hip%20hop">hip hop</a>
+</li><li class="odd" id="r32_111_989515661">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/indie">indie</a>
+</li><li class="" id="r32_27_858744435">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/jazz">jazz</a>
+</li><li class="odd" id="r32_120_1392131922">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/latin">latin</a>
+</li><li class="" id="r32_9_1201848730">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/metal">metal</a>
+</li><li class="odd" id="r32_155_195404046">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/pop">pop</a>
+</li><li class="" id="r32_1905_253953985">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/pop%20punk">pop punk</a>
+</li><li class="odd" id="r32_87_654199832">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/punk">punk</a>
+</li><li class="" id="r32_137_1065459334">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/reggae">reggae</a>
+</li><li class="odd" id="r32_305_944817041">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/rnb">rnb</a>
+</li><li class="" id="r32_13_497905879">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/rock">rock</a>
+</li><li class="odd" id="r32_88_136739994">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/soul">soul</a>
+</li><li class="" id="r32_877_1842994154">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/world">world</a>
+</li><li class="odd" id="r32_719_1736586929">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/60s">60s</a>
+</li><li class="last" id="r32_108_1188356332">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="globaltags" href="/listen/globaltags/70s">70s</a>
+</li>
+</ul> </div>
+<h3>Einige Beispiele für Kombo-Stationen für Tags</h3>
+<table class="stationTable">
+<tr>
+<td class="odd"><a class="stationbutton stationbuttonLarge lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Led%2BZeppelin/similarartists">
+<span class="stationButtonWrapper">
+<strong>60s + rock</strong>
+</span>
+</a></td>
+<td class="even"><a class="stationbutton stationbuttonLarge lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Led%2BZeppelin/similarartists">
+<span class="stationButtonWrapper">
+<strong>80s + hip-hop</strong>
+</span>
+</a></td>
+</tr>
+<tr>
+<td class="odd"><a class="stationbutton stationbuttonLarge lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Led%2BZeppelin/similarartists">
+<span class="stationButtonWrapper">
+<strong>instrumental + soul</strong>
+</span>
+</a></td>
+<td class="even"><a class="stationbutton stationbuttonLarge lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Led%2BZeppelin/similarartists">
+<span class="stationButtonWrapper">
+<strong>british + folk + guitar</strong>
+</span>
+</a></td>
+</tr>
+<tr>
+<td class="odd"><a class="stationbutton stationbuttonLarge lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Led%2BZeppelin/similarartists">
+<span class="stationButtonWrapper">
+<strong>classical + violin</strong>
+</span>
+</a></td>
+<td class="even"><a class="stationbutton stationbuttonLarge lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Led%2BZeppelin/similarartists">
+<span class="stationButtonWrapper">
+<strong>female + vocal + jazz</strong>
+</span>
+</a></td>
+</tr>
+</table>
+</div>
+</div>
+<div class="webRadioPane starterPane multiStarterPane" id="multiArtistTab" style="display: none;">
+<div class="webRadioHeader">
+<a class="lfmradio:switchPane btn btn--pane-control pane-control-left iconleft iconleft--light iconleft--small iconleft--left" href="#simpleStarter">Zurück</a>
+<a class="lfmradio:switchPane btn btn--pane-control pane-control-right btn--pane-control--nowPlaying iconleft iconleft--small iconleft--custom-icon iconleft--playing" href="#webRadioPlayer"><span>Gerade läuft</span></a><a class="lfmradio:switchPane btn btn--pane-control pane-control-right btn--pane-control--nowPaused iconleft iconleft--small iconleft--custom-icon iconleft--paused" href="#webRadioPlayer"><span>Station angehalten</span></a><span class="tuneLoading"></span>
+<h1>Multi-Künstler</h1>
+</div>
+<div class="starterContent clearit">
+<div class="tuningErrors"></div>
+<h2>Wähle bis zu drei Künstler aus und klicke "spielen"</h2>
+<div class="stationSection clearit">
+<div class="multiTunerContainer">
+<form action="/listen/tune" class="starterForm" id="multiArtistSelections" method="get">
+<div class="submit">
+<input name="type" type="hidden" value="artist"/>
+<a class="playCombo lfmradio:multiStart" href="/radio">Kombo-Station für Künstler spielen</a>
+</div>
+<p class="sampleContent" style="display: none;">U.a. mit:<span id="multiArtistSample"></span></p>
+<p class="noSampleContent" style="display: none;">Kein Beispiel-Inhalt</p>
+<p class="sampleContentError" style="display: none;">Ungültige Station</p>
+</form>
+</div>
+<form action="" id="multiArtistInputForm">
+<input class="multiInput stationInput" id="multiArtistInput" name="name" placeholder="Suchen" size="30" type="text"/>
+<input class="confirmButton multiSubmit" type="submit" value="Hinzufügen"/>
+<div class="autocomplete" id="multiArtistAutocomplete"></div>
+</form>
+<ul class="multiChoices clearit" id="multiArtists" odd="1">
+<li class=" first odd" id="r6_1177_1628749225">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Coldplay/similarartists">Coldplay</a>
+</li><li id="r6_16336387_1229641125">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Ed%2BSheeran/similarartists">Ed Sheeran</a>
+</li><li class=" odd" id="r6_1031861_1230197835">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Sia/similarartists">Sia</a>
+</li><li id="r6_50269413_1713222244">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Imagine%2BDragons/similarartists">Imagine Dragons</a>
+</li><li class=" odd" id="r6_1020113_1029306823">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Drake/similarartists">Drake</a>
+</li><li id="r6_6957719_24841245">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Arctic%2BMonkeys/similarartists">Arctic Monkeys</a>
+</li><li class=" odd" id="r6_31868586_975246984">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Ellie%2BGoulding/similarartists">Ellie Goulding</a>
+</li><li id="r6_979_886654252">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Radiohead/similarartists">Radiohead</a>
+</li><li class=" odd" id="r6_1007903_788252517">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Maroon%2B5/similarartists">Maroon 5</a>
+</li><li id="r6_83715978_1278896157">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Hozier/similarartists">Hozier</a>
+</li><li class=" odd" id="r6_57976724_1886473990">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Lana%2BDel%2BRey/similarartists">Lana Del Rey</a>
+</li><li id="r6_6923077_495810072">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Calvin%2BHarris/similarartists">Calvin Harris</a>
+</li><li class=" odd" id="r6_1261311_557483420">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Beyonc%25C3%25A9/similarartists">Beyoncé</a>
+</li><li id="r6_35692377_1517837940">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Florence%2B%252B%2Bthe%2BMachine/similarartists">Florence + the Machine</a>
+</li><li class=" odd" id="r6_530_2103296932">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Daft%2BPunk/similarartists">Daft Punk</a>
+</li><li id="r6_1037970_533443969">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Kanye%2BWest/similarartists">Kanye West</a>
+</li><li class=" odd" id="r6_1188014_1464780952">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Mark%2BRonson/similarartists">Mark Ronson</a>
+</li><li id="r6_11869307_654931367">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Sam%2BSmith/similarartists">Sam Smith</a>
+</li><li class=" odd" id="r6_1274_933250613">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Red%2BHot%2BChili%2BPeppers/similarartists">Red Hot Chili Peppers</a>
+</li><li id="r6_1025225_855412413">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Fall%2BOut%2BBoy/similarartists">Fall Out Boy</a>
+</li><li class=" odd" id="r6_68858067_580323786">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/alt-J/similarartists">alt-J</a>
+</li><li id="r6_1000139_723743578">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Muse/similarartists">Muse</a>
+</li><li class=" odd" id="r6_976_1618792504">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Nirvana/similarartists">Nirvana</a>
+</li><li class=" last" id="r6_82_1610397830">
+<a class="stationbutton lfmradio:stationStartLink" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Pink%2BFloyd/similarartists">Pink Floyd</a>
+</li>
+</ul> </div>
+</div>
+</div>
+<div class="webRadioPane starterPane" id="recentStationsTab" style="display: none;">
+<div class="webRadioHeader">
+<a class="lfmradio:switchPane btn btn--pane-control pane-control-left iconleft iconleft--light iconleft--small iconleft--left" href="#simpleStarter">Zurück</a>
+<a class="lfmradio:switchPane btn btn--pane-control pane-control-right btn--pane-control--nowPlaying iconleft iconleft--small iconleft--custom-icon iconleft--playing" href="#webRadioPlayer"><span>Gerade läuft</span></a><a class="lfmradio:switchPane btn btn--pane-control pane-control-right btn--pane-control--nowPaused iconleft iconleft--small iconleft--custom-icon iconleft--paused" href="#webRadioPlayer"><span>Station angehalten</span></a><span class="tuneLoading"></span>
+<h1>Zuletzt gehörte Stationen</h1>
+</div>
+<div class="starterContent simpleStationList clearit">
+<div class="tuningErrors"></div>
+<div id="fullRecentStationsList">
+</div>
+</div>
+</div>
+<script></script>
+<script>
+LFM.set('Session', {
+    'ERROR_TRIAL_EXPIRED': 18
+});
+</script>
+<div class="webRadioPane playerStationPane widescreen" id="webRadioPlayer">
+<div id="radioPlayer">
+<div class="webRadioHeader" id="radioHeader">
+<h1 id="radioTitle">
+<span title="Led Zeppelin und ähnliche">Led Zeppelin und ähnliche</span>
+</h1>
+<div class="dropdown-btn-wrapper dropdown-btn-wrapper--primary dropdown-btn-wrapper--pane-control needs-js pane-control-right" data-require="dropdownmenu" data-unsupported-station-title="Diese Station kann nicht nach Tag gefiltert werden" id="radioControlSteerToggle">
+<a class=" truncate js-tag-steer btn btn--pane-control dropdown-btn menu-toggle iconright iconright--light iconright--dropdown iconleft iconleft--light iconleft--small iconleft--tag " data-default-label="Nach Tag filtern" href="#">
+                Nach Tag filtern
+            </a>
+<div class="dropdown-btn-menu dropdown-btn-menu--dark dropdown-btn-menu--pane-control hidden-menu">
+<p class="subscription-upsell-margin add-bottom-margin">
+            Abonnieren für zusätzlichen Spielraum mit Tagfiltern
+        </p>
+<p class="subscription-upsell-margin">
+<a class="btn btn--brand btn--block" href="/subscribe">Last.fm abonnieren</a>
+</p>
+</div>
+</div>
+<a class="btn btn--pane-control pane-control-left iconleft iconleft--light iconleft--small iconleft--left lfmradio:switchPane" href="#simpleStarter" id="radioSwitchPaneButton">Neue Station starten</a>
+</div><!-- #radioHeader -->
+<div class="tuningErrors"></div>
+<div class=" messageBox infoMessage infoMessageBlock sponsorMessage" style="display: none;">
+<img class="transparent_png dismiss_trans_icon lfmradio:hideSponsor" height="15" src="http://cdn.last.fm/flatness/listen_v2/dismiss_x_15x15.png" style="" title="Nachricht verwerfen" width="15"/>            Mit freundlicher Unterstützung von <strong class="sponsorLabel"></strong>
+</div> <div id="radioContent">
+<div id="adroll">
+<div id="adroll_swf"></div>
+</div>
+<div id="radioVisualisation">
+<div class="hide-youtube" id="lfmSlideShowWrapper"></div>
+</div><!-- #radioVisualisation -->
+</div><!-- #radioContent -->
+<div id="radioFooter">
+<ul id="radioControls">
+<li class="lfmradio:play" id="radioControlPlay" title="Wiederaufnehmen">
+<a accesskey="r" class="radiocontrol" href="#">Wiederaufnehmen</a>
+</li>
+<li class="lfmradio:pause" id="radioControlPause" title="Pause">
+<a accesskey="p" class="radiocontrol" href="#">Pause</a>
+</li>
+<li class="lfmradio:skip" id="radioControlSkip" title="Titel überspringen">
+<a accesskey="n" class="radiocontrol" href="#">Titel überspringen</a>
+</li>
+<li class="lfmradio:love" id="radioControlLove" title="Titel lieben">
+<a accesskey="l" class="radiocontrol" href="#">Titel lieben</a>
+</li>
+<li class="lfmradio:unlove" id="radioControlUnlove" title="Als Lieblingslied entfernen">
+<a accesskey="d" class="radiocontrol" href="#">Als Lieblingslied entfernen</a>
+</li>
+<li class="lfmradio:ban" id="radioControlBan" title="Titel bannen">
+<a accesskey="b" class="radiocontrol" href="#">Titel bannen</a>
+</li>
+</ul><!-- #radioControls -->
+<div class="empty" id="radioStatus">
+             
+        </div>
+<div class="hide iconleft iconleft--small" data-require="music/videofeedback" data-video-source="6" id="radioFeedback">
+<a class="flag-video js-flag-video" href="#flag-video">Video melden</a> | <a class="js-suggest-video" href="#suggest-video">Schlage ein besseres Video vor</a>
+</div>
+<div class="clearit" id="radioControlVolume">
+<div class="lfmradio:volumemute" id="radioControlVolMute" title="Ton aus"><div class="radiocontrol">Ton aus</div></div>
+<div id="radioControlVolTrack"><div class="radiocontrol track"></div></div>
+<div id="radioControlVolSlider">
+<div class="handle"><div class="radiocontrol"></div></div>
+</div>
+<div class="lfmradio:volumefull" id="radioControlVolFull" title="Volle Lautstärke"><div class="radiocontrol">Volle Lautstärke</div></div>
+</div>
+</div><!-- #radioFooter -->
+<div id="radioTrackMeta" style="display:none;">
+<p class="radio-track-meta-now-playing"><span class="artist"></span> – <span class="track"></span><span class="album">von <span class="title"></span></span></p>
+<p id="trackContext"></p>
+</div><!-- #radioTrackMeta -->
+</div><!-- #radioPlayer -->
+<div id="trackMetaData">
+<div id="stationPlaybackErrors">
+<div id="stationPlaybackConnectionError" style="display: none">
+<p>
+                                        Huch, da gab es ein Verbindungsproblem!</p>
+<p>
+                                        Versuche, <a class="lfmradio:restartStation" href="#">diese Station erneut zu starten »</a> oder <a class="lfmradio:restartWithNew" href="#">starte eine neue Station »</a>
+</p>
+</div>
+<div id="stationPlaybackContentError" style="display: none">
+<p>
+                                        Huch, es gibt keinen Inhalt mehr für diese Station!
+                                        </p>
+<p>
+<a class="lfmradio:switchPane" href="#simpleStarter">Starte eine neue Station »</a>
+</p>
+</div>
+</div>
+<div id="nowPlayingMeta" style="display: none;">
+</div>
+</div>
+</div>
+</div><!-- #webRadio -->
+</div><!-- #webRadioWrapper -->
+</div><!-- #leftColumnWrapper -->
+</div><!-- #leftColumn -->
+<div class="rightCol" id="rightColumn">
+<div id="userMetadata">
+<div class="items tracks loggedOut" id="recentTracks">
+<h2>Deine zuletzt gehörten Titel</h2>
+<div class="itemContent">
+<p class="no-content-message no-content-message--small add-bottom-margin">Keine zuletzt gehörten Titel vorhanden</p>
+</div>
+</div><!-- #recentTracksSource-->
+<p class="memo add-vertical-margins align-center">
+                    Registriere dich jetzt bei Last.fm, um <strong>deinen Hörverlauf zu speichern</strong> und <strong>tolle Musikempfehlungen</strong> zu erhalten!
+                    <br/>
+<a class="btn btn--brand-blue add-top-margin" href="/join/">Profil anlegen</a>
+</p>
+<div class="items stations" id="recentStations">
+<h2>Deine zuletzt gehörten Stationen</h2>
+<div class="itemContent">
+<div id="recentStationsList">
+<p class="no-content-message no-content-message--small add-bottom-margin">Keine zuletzt gehörten Stationen vorhanden. <a class="switchPane" href="#simpleStarter">Starte eine Station</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="LastAd LastAd_TopRight adWrapper clearit LastAd--dynamic LastAd--xfp">
+<div class="centerShim">
+<div class="heightShim" id="LastAd_TopRight_heightShim"></div>
+<iframe allowtransparency="true" data-ad-collapsible="" data-ad-dynamic="" data-ad-placement="mpu" data-ad-xfp-id="mpu_top" data-max-width="300" frameborder="0" height="0" id="LastAd_TopRight" marginheight="0" marginwidth="0" name="LastAd_TopRight" scrolling="no" src="" width="300"></iframe><div class="google-ad-mpu" id="mpu_top"></div>
+</div>
+</div>
+</div><!-- #rightColumn -->
+</div>
+<script>
+
+require(['core/templaterenderer'], function(templateRenderer) {
+
+    var startRadio = function() {
+
+                
+        /**
+         * Setup Tuning Errors
+         */
+
+         var tuningErrors = "                <div class=\" messageBox errorMessage errorMessageBlock starterError starterError24\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Es tut uns leid, aber die Last.fm-Server sind momentan ausgelastet. Versuche es bitte sp\u00e4ter noch einmal. Danke f\u00fcr deine Geduld.\n    \n    <\/div>            <div class=\" messageBox errorMessage errorMessageBlock starterError starterError8\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Diese Station ist nicht verf\u00fcgbar.\n    \n    <\/div>        <div class=\" messageBox errorMessage errorMessageBlock starterError starterError25\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Keine Station gefunden.\n    \n    <\/div>        <div class=\" messageBox errorMessage errorMessageBlock starterError starterError28\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Der Last.fm-Player ist in deinem Land nicht mehr verf\u00fcgbar. <a href=\"\/announcements\/radio2013\">Hier erf\u00e4hrst du mehr \u2026<\/a>\n    \n    <\/div>        <div class=\" messageBox errorMessage errorMessageBlock starterError starterError12\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Du musst <a href=\"\/subscribe\">Abonnent<\/a> sein, um diese Station h\u00f6ren zu k\u00f6nnen.\n        <a href=\"\/subscribe\">Erfahre mehr...<\/a>\n    \n    <\/div>        <div class=\" messageBox errorMessage errorMessageBlock starterError starterError21\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Diese Gruppe hat noch nicht genug Mitglieder f\u00fcr diese Station.\n    \n    <\/div>        <div class=\" messageBox errorMessage errorMessageBlock starterError starterError20\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Diese Station hat nicht gen\u00fcgend Inhalt, der gespielt werden kann. <a href=\"\/help\/faq?category=98#225\" title=\"Warum erhalte ich beim H\u00f6ren von Stationen auf Last.fm einen Fehler namens \u201ekein Inhalt\u201c oder \u201enicht gen\u00fcgend Inhalt\u201c?\" target=\"_blank\">Erfahre mehr in der FAQ<\/a>    \n    <\/div>        <div class=\" messageBox errorMessage errorMessageBlock starterError starterErrorDefault\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Huch, es gab ein Problem beim Starten dieser Station. Bitte versuche es noch einmal.\n    \n    <\/div>    <div class=\" messageBox errorMessage errorMessageBlock starterError starterError27 stationDeprecationError\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Diese Station ist nicht mehr verf\u00fcgbar.\n    \n    <\/div>        <div class=\" messageBox errorMessage errorMessageBlock starterError starterError31\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Nicht unterst\u00fctzte Station\n    \n    <\/div>        <div class=\" messageBox errorMessage errorMessageBlock starterError starterError32\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Muses-Verbindungsfehler\n    \n    <\/div>        <div class=\" messageBox errorMessage errorMessageBlock starterError starterError33\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Generischer Muses-Fehler\n    \n    <\/div>        <div class=\" messageBox errorMessage errorMessageBlock starterError starterError34\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Muses-Clientfehler\n    \n    <\/div>        <div class=\" messageBox errorMessage errorMessageBlock starterError starterError35\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Unbekannter Muses-Fehler\n    \n    <\/div>    <div class=\" messageBox errorMessage errorMessageBlock starterError starterErrorSkip\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Sorry, aber du kannst nicht mehr \u00fcberspringen. <a href=\"\/help\/faq?category=98#1000591\">In unseren FAQ findest du weitere Informationen<\/a>\n    \n    <\/div>    <div class=\" messageBox infoMessage infoMessageBlock skipMessage messageSkipsLeft2\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Du kannst noch 2 Mal \u00fcberspringen.\n    \n    <\/div>    <div class=\" messageBox infoMessage infoMessageBlock skipMessage messageSkipsLeft1\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Du kannst nur noch 1 Mal \u00fcberspringen - m\u00f6chtest du eine <a class=\"js-new-station\" href=\"\/listen\">neue Station ausw\u00e4hlen<\/a>?\n    \n    <\/div>    <div class=\" messageBox infoMessage infoMessageBlock skipMessage messageSkipsLeft0\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Fehlermeldung verwerfen\">Fehlermeldung verwerfen<\/a>\n        Oh oh! Du kannst nicht mehr \u00fcberspringen; <a class=\"js-new-station\" href=\"\/listen\">suche eine andere Station aus<\/a> oder warte einfach noch eine Weile\n    \n    <\/div>    <div class=\" messageBox infoMessage infoMessageBlock tagSteering enable\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Nachricht verwerfen\">Nachricht verwerfen<\/a>\n                Nach diesem Titel h\u00f6rst du nur <a class=\"js-tag\" href=\"\/tag\">I am just a placeholder. The actual value is inserted with Javascript.<\/a>-Musik in dieser Station\n    \n    <\/div>    <div class=\" messageBox infoMessage infoMessageBlock tagSteering disable\" style=\"display: none;\">\n                    <a href=\"#dismiss\" class=\"lfmradio:hideError media-pull-right btn btn--rounded btn--icon-only btn--tiny iconleft iconleft--delete-tiny dismiss\" title=\"Nachricht verwerfen\">Nachricht verwerfen<\/a>\n        Nach diesem Titel h\u00f6rst du die ganze Musik in dieser Station\n    \n    <\/div>";
+         $$('.tuningErrors').invoke('replace', tuningErrors);
+
+                        
+        /**
+         * URLManager
+         */
+        var urlManager = new LFM.Radio.URLManager();
+
+        /**
+         * Player
+         */
+        var radioScrobbler = new LFM.Radio.Scrobbler(LFM.Scrobbler, 'buggles');
+        var player = new LFM.Radio.PlayerYoutube(null, LFM.Session.staticHost, radioScrobbler);
+        player.placeOnPage();
+        player.setScrobble(false);
+
+        /**
+         * Metadata
+         */
+        var recentTracks = new LFM.Radio.RecentTracks('recentTracks');
+        recentTracks.addGUIActionListener('userMetadata');
+        var metadata = new LFM.Radio.Metadata();
+
+        metadata.setTrackInfoElement('nowPlayingMeta');
+        metadata.setWrapperElement('trackMetaData');
+        metadata.setTrackContext('trackContext');
+        metadata.addGUIActionListener('trackMetaData');
+        metadata.setRecentTracks(recentTracks);
+
+                metadata.scrobbleOff();
+        
+        /**
+         * Context
+         */
+
+        var context = new LFM.Radio.Context();
+        context.addGUIActionListener('trackContext');
+
+        
+        /**
+         * Trial
+         */
+         var trial = new LFM.Radio.TrialManager({
+            trialStart:   'trialStart',
+            progressBar:  'trialLeftProgressBar',
+            midTrial:     'midTrial',
+            trialExpired: 'trialExpired'
+         },
+         {
+             fewPlaysLeft : 'trialFewPlaysLeft',
+             playsLeft    : 'trialPlaysLeft',
+             lastPlay     : 'trialLastPlay'
+         });
+         metadata.setTrialManager(trial);
+
+        /**
+         * Controls
+         */
+        var controls = new LFM.Radio.Controls();
+
+        controls.addGUIActionListener('radioPlayer');
+        controls.setPlayerControlsElement('radioControls');
+
+        // instantiate Scriptaculous volume slider control
+        var volumeSlider = $('radioControlVolSlider');
+        var volumeSliderHandler = volumeSlider.down('.handle');
+        var volumeControl = new Control.Slider(volumeSliderHandler, volumeSlider);
+
+        controls.setVolumeControl(volumeControl);
+        controls.setWrapperElement('radioPlayer');
+        controls.setScrobble(false);
+        controls.setSlideshow(true);
+
+        /**
+         * AdsManager
+         */
+                            var adsManager = new LFM.Radio.AdsManagerDummy();
+        
+        /**
+         * API
+         */
+        var api = new LFM.Radio.API();
+
+        api.placeOnPage(LFM.Session.staticHost + '/webclient/buggles/6/apibridge.swf');
+
+        /**
+         * Dialog
+         */
+        var dialog = new LFM.Radio.Dialog({
+            logInTitle: "Logge dich bei Last.fm ein",
+            logInContent: "<a href=\"/login\">Einloggen</a>, um Musik zu deiner Musiksammlung hinzuzufügen.<br><br><strong>Du hast noch kein Last.fm-Konto?</strong><br><a href=\"/join\">Erstelle dir hier eines, es geht ganz schnell.</a>",
+            logInConfirm: "Schließen"
+        });
+
+        /**
+         * Tracker
+         */
+        var analytics = new LFM.Radio.Analytics();
+
+        /**
+         * StationResolver
+         */
+        var stationResolver = new LFM.Radio.StationResolver();
+
+        /**
+         * PaneManager
+         */
+        var paneManager = new LFM.Radio.PaneManager();
+        paneManager.setDefaultTitle("Höre kostenlos Musik mit dem Last.fm-Player");
+        paneManager.setTemplateRenderer(templateRenderer);
+
+        paneManager.setAdLoadingMsg('Warte bitte, während der Last.fm-Player lädt');
+
+        paneManager.addGUIActionListener('webRadio');
+        paneManager.placeOnPage();
+
+        
+        
+        /**
+         * SlideShow
+         */
+        var slideshow = new LFM.Radio.SlideshowDummy();
+        slideshow.setAnimation(true);
+
+                slideshow.setCaption("Foto hinzugef\u00fcgt von <span class=\"author\"><\/span>");
+        slideshow.setHostname('www.lastfm.de');
+
+                
+        /**
+         * StatusBar
+         */
+        var statusBar = new LFM.Radio.YouTubeStatusBar('radioStatus', {
+            buffering: "Wird geladen...",
+            connectionError: "Huch, es gab ein Problem beim Starten dieser Station. Bitte versuche es noch einmal.",
+            loadingTrackInfo: "Titelinformationen werden geladen",
+            logInConfirm: "Schließen",
+            logInContent: "<a href=\"/login\">Einloggen</a>, um Musik zu deiner Musiksammlung hinzuzufügen.<br><br><strong>Du hast noch kein Last.fm-Konto?</strong><br><a href=\"/join\">Erstelle dir hier eines, es geht ganz schnell.</a>",
+            logInTitle: "Logge dich bei Last.fm ein",
+            notEnoughContent: "Diese Station hat nicht gen\u00fcgend Inhalt, der gespielt werden kann. <a href=\"\/help\/faq?category=98#225\" title=\"Warum erhalte ich beim H\u00f6ren von Stationen auf Last.fm einen Fehler namens \u201ekein Inhalt\u201c oder \u201enicht gen\u00fcgend Inhalt\u201c?\" target=\"_blank\">Erfahre mehr in der FAQ<\/a>",
+            radioProblems: "Ups, es gab ein Problem beim Wiedergeben deiner Station ...",
+            scrobblingDisabled: "Scrobbeln deaktiviert",
+            scrobblingEnabled: "Scrobbeln aktiviert",
+            scrobblingHelp: "(<a href=\"\/help\/faq?category=99#201\" title=\"Was ist Scrobbeln?\" target=\"_blank\">Was ist Scrobbeln?<\/a>)",
+            slideshowDisabled: "Diashow deaktiviert",
+            slideshowEnabled: "Diashow aktiviert",
+            stillListening: "Bist du noch da?",
+            trackLoved: "Als Lieblingslied markiert",
+            trackUnloved: "Dieser Titel ist kein Lieblingslied mehr von dir",
+            unknownAlbum:"Unbekanntes Album",
+            unsupportedPlayerVersion:"Du benötigst eine neuere Version von <a href=\"http://get.adobe.com/flashplayer/\">Adobe Flash Player</a>."
+        });
+
+        var feedback = new LFM.Radio.Feedback('radioFeedback', statusBar);
+
+        /**
+         * TrackInfo
+         */
+        var trackInfo = new LFM.Radio.YouTubeTrackInfo('radioTrackMeta', feedback);
+        trackInfo.setHostname('www.lastfm.de');
+
+        /**
+         * Link Handler
+         */
+        var linkHandler = new LFM.Radio.LinkHandler();
+        linkHandler.setRadioNavSelector('#listenNav');
+        linkHandler.addDocumentListener();
+
+        // allow these anchors to be clicked as normal (thus interrupting the radio
+        // since in these cases it's the most logical thing to do)
+        var ignoreSelectors = [
+            '#login-link',
+            '.language-selector a',  // Language selector in footer
+            '.js-search-result',
+            '.feedback-message a'
+        ];
+
+        linkHandler.setIgnoreSelectors(ignoreSelectors);
+
+        /**
+         * InactivityTimer
+         */
+        var inactivityTimer = new LFM.Radio.InactivityTimer();
+
+                    inactivityTimer.setTimeoutDelay(60 * 45);     // 45 mins
+        
+        var tagSteerer = new LFM.Radio.TagSteerer();
+        tagSteerer.setStationResolver(stationResolver);
+        tagSteerer.setPaneManager(paneManager);
+        tagSteerer.setControls(controls);
+        tagSteerer.setPlayer(player);
+        
+        /**
+         * GLOBAL
+         * Radio State Manager
+         */
+        RSM = new LFM.Radio.StateManager();
+
+        RSM.setDefaults({stationURL: "lastfm://artist/Led%2BZeppelin/similarartists"});
+
+        RSM.setAdsManager(adsManager);
+        RSM.setAnalytics(analytics);
+        RSM.setAPI(api);
+        RSM.setControls(controls);
+        RSM.setDialog(dialog);
+        RSM.setInactivityTimer(inactivityTimer);
+        RSM.setLinkHandler(linkHandler);
+        RSM.setMetadata(metadata);
+        RSM.setPaneManager(paneManager);
+        RSM.setPlayer(player);
+        RSM.setSessionData(LFM.Session);
+        RSM.setSlideshow(slideshow);
+        RSM.setStationResolver(stationResolver);
+        RSM.setStatusBar(statusBar);
+        RSM.setTrackInfo(trackInfo);
+        RSM.setURLManager(urlManager);
+        RSM.setTagSteerer(tagSteerer);
+        window.onRsmReady && window.onRsmReady();
+
+        /**
+         * Go!
+         */
+        
+        if (UFO.hasFlashVersion(9)) {
+            if(! player.isPlayerReady()) {
+                player.onPlayerReady = function() {
+                    RSM.start();
+                };
+            } else {
+                RSM.start();
+            }
+        } else {
+            $('requirementsMessage').setStyle({display: 'block'});
+        }
+        
+        
+    };
+
+    
+    if (document.loaded) {
+        startRadio();
+    } else {
+        document.observe('dom:loaded', startRadio);
+    }
+    
+
+});
+</script>
+<div class="LastAd LastAd_Lowerleaderboard adWrapper fullWidth LastAd--dynamic LastAd--xfp">
+<div class="centerShim">
+<div class="heightShim" id="LastAd_Lowerleaderboard_heightShim"></div>
+<iframe allowtransparency="true" data-ad-dynamic="" data-ad-placement="lowerleaderboard" data-ad-xfp-id="leader_bottom" data-max-width="900" frameborder="0" height="0" id="LastAd_Lowerleaderboard" marginheight="0" marginwidth="0" name="LastAd_Lowerleaderboard" scrolling="no" src="" width="900"></iframe><div class="google-ad-lowerleaderboard" id="leader_bottom"></div>
+</div>
+</div>
+</div>
+</div>
+<footer class="site-footer" role="banner">
+<nav class="site-footer-nav">
+<div class="r add-bottom-margin">
+<a class="g call-to-action call-to-action--upload" data-analytics-action="FooterClick" data-analytics-label="Artists and Labels" href="/uploadmusic">
+<h2>Künstler und Labels</h2>
+<p>Verbinde dich mit Fans, indem du Musik in den Music Manager lädst</p>
+</a>
+<a class="g call-to-action call-to-action--download" data-analytics-action="FooterClick" data-analytics-label="Download Desktop App" href="/download">
+<h2>Lade unsere Apps herunter</h2>
+<p>Hole dir die Last.fm-Apps für Desktop und Mobilgeräte und scrobble los</p>
+</a>
+</div>
+<hr class="separator"/>
+<ul class="r add-bottom-margin">
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Unternehmen</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-company">
+<h2 class="iconright iconright--dropdown">Unternehmen</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="About us" href="/about">Über uns</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Contact us" href="/about/contact">Kontakt</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Jobs" href="/about/jobs">Jobs</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Blog" href="http://blog.last.fm">Blog</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Advertise" href="/advertise">Werben auf Last.fm</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Mitmachen</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-join">
+<h2 class="iconright iconright--dropdown">Mitmachen</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="Sign up" href="/join">Registrieren</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Find people" href="/community/users">Benutzersuche</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Find groups" href="/community/groups">Gruppensuche</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Community" href="/community">Community</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Forums" href="/forum">Foren</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Gutes</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-goodies">
+<h2 class="iconright iconright--dropdown">Gutes</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="More apps" href="/hardware">Mehr Apps &amp; Geräte</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Last.fm API" href="/api">Entwickler-API</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Tools, plugins &amp; more" href="http://build.last.fm">Tools &amp; Plugins</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Playground" href="http://playground.last.fm">Playground</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Free music downloads" href="/music/+free-music-downloads">Kostenlose Musikdownloads</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Hilfe</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-help">
+<h2 class="iconright iconright--dropdown">Hilfe</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="Help &amp; support" href="/help">Hilfe &amp; Support</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="System status" href="http://status.last.fm/">Systemstatus</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+<hr class="separator"/>
+<nav class="language-selector clearit toggle-container" data-require="toggle" id="change-language" role="navigation">
+<h2 class="rm">Sprachen:</h2>
+<ul class="inline-items inline-items--dotted">
+<li class="current-language">
+<strong class="current-language-text iconleft iconleft--globe">
+                    Deutsch
+                    <span class="rm">(aktuelle Sprache)</span>
+</strong>
+<a class="iconleft iconleft--globe iconright iconright--dropdown language-toggle js-toggle" href="#show-languages">
+<strong>Deutsch</strong><span class="rm">(aktuelle Sprache) — Sprache ändern</span>
+</a>
+</li>
+<li class="language-options toggle-target">
+<ul class="language-options-group">
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; en" href="http://www.last.fm/listen/artist/Led+Zeppelin/similarartists?setlang=en" hreflang="en" rel="alternate">English</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; es" href="http://www.lastfm.es/listen/artist/Led+Zeppelin/similarartists?setlang=es" hreflang="es" rel="alternate">Español</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; fr" href="http://www.lastfm.fr/listen/artist/Led+Zeppelin/similarartists?setlang=fr" hreflang="fr" rel="alternate">Français</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; it" href="http://www.lastfm.it/listen/artist/Led+Zeppelin/similarartists?setlang=it" hreflang="it" rel="alternate">Italiano</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; jp" href="http://www.lastfm.jp/listen/artist/Led+Zeppelin/similarartists?setlang=jp" hreflang="ja" rel="alternate">日本語</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; pl" href="http://www.lastfm.pl/listen/artist/Led+Zeppelin/similarartists?setlang=pl" hreflang="pl" rel="alternate">Polski</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; pt" href="http://www.lastfm.com.br/listen/artist/Led+Zeppelin/similarartists?setlang=pt" hreflang="pt" rel="alternate">Português</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; ru" href="http://www.lastfm.ru/listen/artist/Led+Zeppelin/similarartists?setlang=ru" hreflang="ru" rel="alternate">Руccкий</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; sv" href="http://www.lastfm.se/listen/artist/Led+Zeppelin/similarartists?setlang=sv" hreflang="sv" rel="alternate">Svenska</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; tr" href="http://www.lastfm.com.tr/listen/artist/Led+Zeppelin/similarartists?setlang=tr" hreflang="tr" rel="alternate">Türkçe</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; zh" href="http://cn.last.fm/listen/artist/Led+Zeppelin/similarartists?setlang=zh" hreflang="zh" rel="alternate">简体中文</a>
+</li>
+</ul>
+</li>
+</ul>
+<hr class="separator"/>
+</nav>
+<div class="site-footer-legalese">
+<blockquote class="site-footer-strapline">“Is It Live, Or Is It Last.fm?”</blockquote>
+<ul class="inline-items inline-items--dotted">
+<li>
+<a href="http://www.cbsinteractive.com">CBS Interactive</a> © 2015 Last.fm Ltd.         </li>
+<li>
+<a data-analytics-action="FooterClick" data-analytics-label="Terms of Use" href="/legal/terms">Nutzungsbedingungen</a>, 
+                    <a data-analytics-action="FooterClick" data-analytics-label="Privacy Policy" href="/legal/privacy">Datenschutzrichtlinie</a> und 
+       <a data-analytics-action="FooterClick" data-analytics-label="Legal" href="/legal">Rechtliches</a> —
+            <span class="date">Aktualisiert am 26. Nov. 2013</span>
+</li>
+<li>
+<a href="http://www.gamespot.com">Gamespot</a>
+</li>
+</ul>
+<p class="wiki-legalese">
+            Manche der von Benutzern bereitgestellten Texte auf dieser Seite unterliegen der Lizenz <a href="http://creativecommons.org/licenses/by-sa/3.0/legalcode">Creative Commons Attribution/Share-Alike License</a>. Texte können zudem der <a href="/help/gfdl">GNU-Lizenz für freie Dokumentation</a> unterstehen.
+        </p>
+</div></footer>
+<div id="multiButtonMenu" style="display: none;">
+<div>
+<ul class="lfmDropDownBody">
+<li class="mAddToLibrary"><a href="#">Zur Musiksammlung hinzufügen</a></li>
+<li class="mAddToFriends"><a href="#">Als Freund hinzufügen</a></li>
+<!-- <li class="save"><a href="#">Lesezeichen hinzufügen</a></li> -->
+<li class="mSend"><a href="#">Weiterleiten</a></li>
+<li class="mLove"><a href="#">Diesen Titel lieben</a></li>
+<li class="mUnlove"><a href="#">Als Lieblingslied entfernen</a></li>
+<li class="mBan"><a href="#">Titel bannen</a></li>
+<li class="mUnban"><a href="#">Titel ent-bannen</a></li>
+<li class="mAddTags"><a href="#">Tags hinzufügen</a></li>
+<li class="mAddToPlaylist"><a href="#">Zur Playlist hinzufügen</a></li>
+<li class="mRemoveFromLibrary"><a href="#">Aus Musiksammlung entfernen</a></li>
+<li class="mBuy"><a href="#">Lied kaufen</a></li>
+<li class="mMessage"><a href="#">Nachricht schreiben</a></li>
+<li class="mEditDetails"><a href="#">Angaben bearbeiten</a></li>
+<li class="mMessageAll"><a href="#">Allen Benutzern eine Nachricht schicken</a></li>
+<li class="mEditPermissions"><a href="#">Genehmigungen bearbeiten</a></li>
+<li class="mAbdicate"><a href="#">Abdanken</a></li>
+<li class="mLeave"><a href="#">Gruppe verlassen</a></li>
+<li class="mLoading"><a href="#"> </a></li>
+</ul>
+</div>
+</div>
+<div style="display: none">
+<script src="//dw.cbsimg.net/js/cbsi/ds.js"></script>
+<script>
+        if (typeof DW === "object") {
+            DW.pageParams = {
+                siteid: '190',
+                ptid: '6676'
+            };
+            DW.tagNielsen = false;
+            DW.clear();
+        }
+    </script>
+<noscript>
+<img src="//dw.cbsimg.net/clear/c.gif?ts=1424760676&amp;sid=190;"/>
+</noscript>
+</div>
+<div class="LastAd ad-tracking inactive" data-ad-collapsible="" data-ad-placement="tracking" data-ad-static="" data-require="ads/staticadslot" id="LastAd_tracking">
+<span>
+<iframe frameborder="0" height="0" name="__bkframe" src="javascript:void(0)" width="0"></iframe>
+<script src="//tags.bkrtx.com/js/bk-coretag.js" type="text/javascript"></script>
+<script type="text/javascript">
+            bk_addPageCtx("ar", "ledzeppelin,pinkfloyd,thedoors,page&plant,robertplant,blacksabbath,jimihendrix,thejimihendrixexperience,deeppurple,creedenceclearwaterrevival,thewho");
+            bk_addPageCtx("tag", "classicrock,rock,hardrock,70s,progressiverock,bluesrock,british,blues,ledzeppelin,heavymetal");
+            bk_addPageCtx("path", "aw-lastfm/listen/listen/station");
+            bk_addPageCtx("site", "ccbsilastfmsite");
+            bk_addPageCtx("ptype", "buggles_station_page");
+        bk_ignore_meta = true;
+    bk_doJSTag(16515, 4);
+</script>
+</span>
+</div>
+<script data-require="omniture">
+    LFM.viewGuid = LFM.viewGuid ? LFM.viewGuid : uuid();
+    var omdata = {
+        context: {
+                                    siteSection: "listen-buggles",
+            pageType: "buggles_station_page",
+            pageViewGuid: LFM.viewGuid
+        }
+    };
+</script>
+<!-- Adobe Marketing Cloud Tag Loader Code-->
+<script type="text/javascript">//<![CDATA[
+var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};
+document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d2/v2/ZDItY2JzaW50ZXJhY3RpdmUtNDgxNC00MTct/amc.js\"></sc"+"ript>");
+//]]></script>
+<!-- End Adobe Marketing Cloud Tag Loader Code -->
+<script>
+LFM.Button.MultiButton.setup();
+LFM.Display.setMinHeight();
+</script>
+<div id="fb-root"></div>
+<script>
+    window.ClickTaleSettings = { XHRWrapper: { Enable: true} };
+    document.write(unescape("%3Cscript%20src='" +
+(document.location.protocol == 'https:' ?
+  'https://clicktalecdn.sslcs.cdngc.net/' :
+  'http://cdn.clicktale.net/') +
+"www09/ptc/220b3951-66a2-4b8e-ac35-fa58bfb30846.js'%3E%3C/script%3E"));
+
+    </script>
+</body>
+</body></body></body></meta></head></html>

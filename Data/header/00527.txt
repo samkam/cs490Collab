@@ -1,0 +1,18 @@
+Server: Apache/2.2.22 (Ubuntu)
+X-Mod-Pagespeed: 1.8.31.5-4307
+Vary: Cookie,Accept-Encoding
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Cache-Control: max-age=0, no-cache
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 24 Feb 2015 06:48:19 GMT
+X-Pingback: http://www.queerty.com/wp/xmlrpc.php
+Link: <http://www.queerty.com/?p=315863>; rel=shortlink
+Keep-Alive: timeout=5, max=98
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: X-Mapping-fjhppofk=346445D2415C508BBD5D4D9437C193E6; path=/
+Set-Cookie: PHPSESSID=u8b295dg584kpg8f8m1dn7kle6; path=/
+X-Powered-By: PHP/5.3.10-1ubuntu3.14
+

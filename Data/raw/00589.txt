@@ -1,0 +1,2511 @@
+
+<!DOCTYPE html>
+
+<html class="no-js lastfm" data-ad-zone="music:artist:overview" lang="de">
+<head>
+<meta charset="utf-8">
+<meta content="IE=edge; chrome=1" http-equiv="X-UA-Compatible"/>
+<link href="http://purl.org/uF/2008/03/" rel="profile"/>
+<!--–[if IE]--><!endif]–>
+
+            <title>Queen — Lieder, Alben und Bilder — Last.fm</title>    
+        <script>(function(e) { e.className = e.className.replace(/\bno-js\b/,'js'); })(document.documentElement)</script>
+
+    <link rel="search" type="application/opensearchdescription+xml" href="http://cdn.last.fm/opensearch.xml" title="Last.fm" />
+            <meta name="description" content="Sieh dir Videos an &amp;amp; höre kostenlos Queen: Bohemian Rhapsody, Don't Stop Me Now und mehr, außerdem 342 Bilder. Queen ist eine 1970 gegründete britische Rockband. Ihre Besetzung mit Freddie Mercury, Brian May, Roger Taylor und dem Anfang 1971 dazugekommenen John Deacon blieb mehr als zwei Jahrzehnte lang unverändert. Queens Karriere war kontinuierlich international erfolgreich: Sämtliche nach ihrem Durchbruch im Jahr 1974 veröffentlichten Studioalben erreichten in zumindest einem Land Platz eins der Charts. Mit über 300 Millionen[1] verkauften Tonträgern ist Queen eine der weltweit kommerziell erfolgreichsten Bands. In ihrer Heimat Großbritannien wurde allein ihr erstes Greatest-Hits-Album mehr als fünf Millionen Mal verkauft, was dort bislang unübertroffen ist.[2] Die Band trat mehr als 700-mal live auf. Entdecke mehr Musik, Konzerte, Videos und Bilder mit dem größten Musikkatalog online bei Last.fm."/>
+
+
+            <meta name="robots" content="NOODP" />
+
+        
+                <meta property="og:site_name" content="Last.fm" />
+<meta property="fb:app_id" content="192959324047861" />
+
+            
+                        
+    <meta property="og:title" content="Queen" />
+    <meta property="og:url" content="http://www.lastfm.de/music/Queen" />
+    <meta property="og:image" content="http://userserve-ak.last.fm/serve/126/45625545.png" />
+
+    
+            <meta property="og:type" content="band" />    
+                <link rel="shortcut icon" href="http://cdn.last.fm/flatness/favicon.2.ico" />
+        <link rel="apple-touch-icon" href="http://cdn.last.fm/flatness/apple-touch-icon.png" />
+    
+        <meta name="msapplication-TileImage" content="http://cdn.last.fm/flatness/lastfm_win8_tile_144.png" />
+    <meta name="msapplication-TileColor" content="#d51007" />
+    
+        <meta name="apple-itunes-app" content="app-id=585235199">
+
+    
+    
+            <link rev="canonical" href="http://lastfm.de/+aMA" />
+    <link rel="shortlink" href="http://lastfm.de/+aMA" />
+    
+                <link rel="alternate" hreflang="en" href="http://www.last.fm/music/Queen" />
+    
+                    <link rel="alternate" hreflang="es" href="http://www.lastfm.es/music/Queen" />
+                <link rel="alternate" hreflang="fr" href="http://www.lastfm.fr/music/Queen" />
+                <link rel="alternate" hreflang="it" href="http://www.lastfm.it/music/Queen" />
+                <link rel="alternate" hreflang="ja" href="http://www.lastfm.jp/music/Queen" />
+                <link rel="alternate" hreflang="pl" href="http://www.lastfm.pl/music/Queen" />
+                <link rel="alternate" hreflang="pt" href="http://www.lastfm.com.br/music/Queen" />
+                <link rel="alternate" hreflang="ru" href="http://www.lastfm.ru/music/Queen" />
+                <link rel="alternate" hreflang="sv" href="http://www.lastfm.se/music/Queen" />
+                <link rel="alternate" hreflang="tr" href="http://www.lastfm.com.tr/music/Queen" />
+                <link rel="alternate" hreflang="zh" href="http://cn.last.fm/music/Queen" />
+        
+    
+        <style>html {zoom: 1;}</style>    <script>
+
+        if(top !== self && top.location.domain !== self.location.domain) {
+            (function(d, s) {
+                if(s && s.insertRule) {
+                    s.insertRule('body { display: none !important }', 0);
+                } else if(s && s.addRule) {
+                    s.addRule('body', 'display: none !important');
+                }
+                top.location.replace(d.location.href);
+            })(document, document.styleSheets[0]);
+        }
+</script>
+
+                                        <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/themes/whittle.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/music/artist/overview.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/master.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/video/module.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/events/module.css" />
+                        
+        
+<!--[if lt IE 9!>
+<script>
+
+        window.html5 = {
+            shivCSS: false
+        }
+</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/html5shiv.js"></script>
+<!endif]-->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>$.noConflict();</script>
+<script src="//ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
+<script>
+    if(typeof Prototype === 'undefined') {
+        document.write(unescape("%3Cscript src='http://cdn.last.fm/javascript/javascript/232025/lib/prototype.js'%3E%3C/script%3E"));
+    }
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/scriptaculous.js"></script>
+<script>
+    if(typeof Scriptaculous === 'undefined') {
+        document.write(unescape("%3Cscript src='http://cdn.last.fm/javascript/javascript/232025/lib/scriptaculous/scriptaculous.js'%3E%3C/script%3E"));
+    }
+</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/mustache-min.js"></script>
+
+<script>SM2_DEFER = true;</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/sm2-min.js"></script>
+
+<script src="http://cdn.last.fm/javascript/javascript/232025/LFM.js"></script>
+
+<script>
+    LFM.set("ParentResource", {"id":"1270","type":6,"name":"Queen","url":"\/music\/Queen","image":{"small":"http:\/\/userserve-ak.last.fm\/serve\/34\/45625545.png","smallsquare":"http:\/\/userserve-ak.last.fm\/serve\/34s\/45625545.png","medium":"http:\/\/userserve-ak.last.fm\/serve\/64\/45625545.png","mediumsquare":"http:\/\/userserve-ak.last.fm\/serve\/64s\/45625545.png","large":"http:\/\/userserve-ak.last.fm\/serve\/126\/45625545.png","largesquare":"http:\/\/userserve-ak.last.fm\/serve\/126s\/45625545.png","mega":"http:\/\/userserve-ak.last.fm\/serve\/252\/45625545.png","original":"http:\/\/userserve-ak.last.fm\/serve\/_\/45625545\/Queen+PNG.png"}});
+    LFM.Adserver.showAds = true;
+    LFM.set("Session", {"cookieHost":".lastfm.de","host":"www.lastfm.de","staticHost":"http:\/\/cdn.last.fm","wsHost":"ws.audioscrobbler.com","userserveHost":"http:\/\/userserve-ak.last.fm","wsKey":"ceec2bb03d4c5929f0d6667fc266dc75","formtoken":"2bcd67b944b9e63a7fd1b2c0c95a8d55947c66b3","location":"us","language":"de","ajaxhost":"ajax.last.fm","templatePath":"\/templates\/231606","jsPath":"http:\/\/cdn.last.fm\/javascript\/javascript\/232025","cssPath":"http:\/\/cdn.last.fm\/css\/css\/231990","loggedIn":false});
+    LFM.set("resTypes", {
+        EVENT: 29,
+        ARTIST: 6,
+        ALBUM: 8,
+        TRACK: 9,
+        GROUP: 20,
+        TAG: 32,
+        USER: 4,
+        LABEL: 10
+    });
+    LFM.set("resTypeLookup", {
+        29: "Event",
+        6: "Artist",
+        8: "Album",
+        9: "Track",
+        20: "Group",
+        32: "Tag",
+        4: "User",
+        10: "Label"
+    });
+
+    LFM.set("String", {okText: "OK",cancelText: "Abbrechen",clickToEditText: "Zum Bearbeiten hier klicken",savingText: "Speichern...",loadingText: "Wird geladen...",deletingText: "Lösche...",thereWasAnError: "Es gab einen Fehler.",dialogLoadError: "Beim Laden dieses Dialogs ist ein Fehler aufgetreten.",fileTooBig: "Die Datei ist leider zu groß.",noFile: "Bitte wähle eine Datei aus.",uploadCancelled: "Upload abgebrochen.",deleteMessageTitle: "Nachricht löschen",deleteMessagePrompt: "Bist du sicher, dass du diese Nachricht löschen möchtest?",deleteFriendPrompt: "Bist du sicher, dass du die Freundschaft mit dieser Person beenden möchtest?",deleteImage: "Bist du sicher, dass du dieses Bild löschen möchtest?",deleteButtonText: "Löschen",done: "Fertig",backText: "Zurück",yesText: "Ja",noText: "Nein",saveText: "Speichern",saveTitle: "Zum Profil hinzufügen",sendText: "Senden",sendTitle: "An Freunde weiterleiten",addTitle: "Zu Musiksammlung hinzufügen",tagTitle: "Tags hinzufügen",playlistTitle: "Zur Playlist hinzufügen",befriendTitle: "Einen Freund hinzufügen",labsfeedbackTitle: "Gib uns dein Feedback",joinTitle: "Gruppe beitreten",loved: "Geliebt",RemoveFromLibraryTitle: "Aus deiner Musiksammlung löschen",uploadImageTitle: "Bild hochladen",uploadVideoTitle: "Video hochladen",usernoteTitle: "Add a note",cleanupBioTitle: "Cleanup Bio",flageventTitle: "Zur Überprüfung melden",setLocationTitle: "Standort festlegen",newWindowTooltip: "Dieser Link wird ein neues Fenster öffnen",unloadWarningMessage: "Dies stoppt die Wiedergabe",trackLoved: "Als Lieblingslied markiert",playbackStopped: "Wiedergabe gestoppt",loadingTrackInfo: "Titelinformationen werden geladen",errorLoadingTrackInfo: "Fehler beim Laden der Titelinformationen",emailLineup: "Per E-Mail senden",uploadMessages: {mayTakeLonger: "Dies kann leider ein bisschen länger dauern als gewöhnlich. Bitte warte ein paar Sekunden.",uploading: "Lade hoch...",endUploading: "Fertig",progressDisplay: "PERCENTUPLOADED% komplett (TRANSFERRATE kb/s) – TIMEREMAINING verbleibende Sekunden",progressComplete: "100% komplett",failedRetrying: "Konnte Upload nicht noch einmal versuchen.",processingMedia: "Processing media…",unsupportedFormat: "Sorry, the file you uploaded isn’t encoded in a supported format. Please try again.",uploadError: "There was an error uploading your video, please verify that the file you are uploading is not too large or of an incorrect format and try again."},shortMonths: {'1': "Jan",'2': "Feb",'3': "Mär",'4': "Apr",'5': "Mai",'6': "Jun",'7': "Jul",'8': "Aug",'9': "Sep",'10': "Okt",'11': "Nov",'12': "Dez"},resTypePlural: {29: "Events",6: "Künstler",8: "Alben",9: "Titel",20: "Gruppen",32: "Tags",4: "Benutzer","friends":   "Freunde",10: "Labels"}});LFM.set("Element", {icon_loved_indicator: "<img class=\"icon loved_indicator_icon\" width=\"11\" height=\"9\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_tag: "<img class=\"icon tag_icon\" width=\"14\" height=\"14\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_dismiss: "<img class=\"icon dismiss_icon\" width=\"16\" height=\"16\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_play: "<img class=\"transparent_png play_icon\" width=\"13\" height=\"13\" alt=\"Spielen\" src=\"http:\/\/cdn.last.fm\/flatness\/preview\/play_indicator.png\" style=\"\" \/>"});
+        LFM.AdPlacements = ["beacon","interstitial","skin","leaderboard","mpu","widerelatedcontent","middleleaderboard","lowermpu","lowerleaderboard"];
+</script>
+
+
+<script data-main="http://cdn.last.fm/javascript/javascript/232025/modules-built/init" src="http://cdn.last.fm/javascript/javascript/232025/lib/requirejs/require-min.js"></script>
+
+    <script src="http://cdn.last.fm/javascript/javascript/232025/components.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/dialog.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/form/typeahead.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/lib/uuid.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/lib/modernizr.js"></script>
+
+<script>
+
+LFM.Page.Tracker = new LFM.Analytics.Tracker('Music/Artist/Overview', window.location.host);
+
+document.observe('dom:loaded', function() {
+
+    LFM.Page.Tracker.bindOutboundLinkListener();
+    LFM.Page.Tracker.bindEventListener();
+
+});
+
+</script>
+
+
+    
+    <script>document.observe("dom:loaded", function () { if (typeof ieHover !== 'undefined') ieHover.setUp(); });</script>
+
+    <script data-require="googleanalytics">LFM.Analytics = LFM.Analytics || {};LFM.Analytics.Helpers = {webhost:"www.lastfm.de",registrationStatus:"LoggedOut",visitorStatus: "Anonymous",artistNameString:"Queen",transformedUrl:"music/artist/overview"}</script></head>
+
+
+
+<!--[if lt IE 7 !> <body class="r-artist a-overview lfmRed lang-de theme-whittle ie ie6"> <!endif]-->
+<!--[if IE 7 !> <body class="r-artist a-overview lfmRed lang-de theme-whittle ie ie7"> <!endif]-->
+<!--[if IE 8 !> <body class="r-artist a-overview lfmRed lang-de theme-whittle ie ie8"> <!endif]-->
+<!--[if IE 9 !> <body class="r-artist a-overview lfmRed lang-de theme-whittle ie ie9"> <!endif]-->
+<!--[if (gt IE 9)|!(IE)!><!--> <body class="r-artist a-overview lfmRed  lang-de theme-whittle" > <!--<![endif]-->
+<script>var WRInitTime = +new Date();</script>
+<div class="page-hack" id="page"></div> <div class=" page-wrapper">
+<div class="LastAd ad-beacon inactive" data-ad-collapsible="" data-ad-placement="beacon" data-ad-static="" data-require="ads/staticadslot" id="LastAd_beacon">
+<span>
+<script>
+
+
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+(function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+
+</script>
+<script>
+    
+    var googleSlots = { };
+    var googleDisplayed = false;
+    
+
+    googletag.cmd.push(function() {
+        var unitName = "/8264/aw-lastfm/music/artist/overview",
+            isVR = false,
+            isDynamic = false,
+            isAnonHome = false;
+    
+
+    function hasPlacement(placement) {
+        return LFM.AdPlacements.indexOf(placement) >= 0;
+    };
+
+    var leaderboardSizes = [[728,90],[970,66],[970,90],[860,55]];
+    // The leaderboard slot height is fixed at 90px when using dynamic ads,
+    // showing a taller leaderboard would cause the page to jump, so we don't request them
+    if ( ! isDynamic) {
+        leaderboardSizes.push([880,150],[880,170],[880,200],[900,150],[900,250],[970,200],[970,250],[860,250],[980,250]);
+    }
+
+    if (hasPlacement('leaderboard')) {
+        googleSlots['leader_top'] = googletag.defineSlot(unitName, leaderboardSizes, "leader_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    var mpuSizes = [[300,250],[138,108]] ;
+    if (! isAnonHome) {
+        mpuSizes.push([300,600]);
+    }
+
+    var lowerMpuSizes = [[300,250]];
+
+    if (hasPlacement('mpu')) {
+        googleSlots['mpu_top'] = googletag.defineSlot(unitName, mpuSizes, "mpu_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    if (hasPlacement('lowermpu')) {
+        googleSlots['mpu_bottom'] = googletag.defineSlot(unitName, lowerMpuSizes, "mpu_bottom")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "bottom");
+    }
+
+    if (hasPlacement('skin')) {
+        googleSlots['skin'] = googletag.defineSlot(unitName, [1600,1000], "skin")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    if (hasPlacement('interstitial')) {
+        googleSlots['intromercial'] = googletag.defineOutOfPageSlot(unitName, "intromercial")
+        .addService(googletag.pubads());
+    }
+
+    var lowerLeaderboardSizes = [[728,90],[970,90],[860,55],[880,150],[880,170],[880,200],[900,150]];
+    if (hasPlacement('lowerleaderboard')) {
+        googleSlots['leader_bottom'] = googletag.defineSlot(unitName, lowerLeaderboardSizes, "leader_bottom")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "bottom");
+    }
+
+    if (hasPlacement('sky')) {
+        googleSlots['sky_top'] = googletag.defineSlot(unitName, [160,600], "sky_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    // Collapse as soon as display() for the slot is reached and expand only when there is an ad
+    // i.e. no flickering
+    googletag.pubads().collapseEmptyDivs(true);
+
+    if ( ! isVR) {
+        googletag.pubads().enableSingleRequest();    
+
+        if ( ! isDynamic) {
+            googletag.pubads().enableSyncRendering();    
+        }
+    }
+
+    if (screen.width >= 1280) {
+        googletag.pubads().setTargeting("inskin", "yes");
+    }
+
+    
+
+            googletag.pubads().setTargeting("ar", "queen,freddiemercury,brianmay,rogertaylor,queen+paulrodgers,freddiemercury&montserratcaballé,thecross,pinkfloyd,deeppurple,scorpions,ledzeppelin");
+            googletag.pubads().setTargeting("tag", "classicrock,rock,80s,hardrock,glamrock,british,queen,70s,pop,progressiverock");
+            googletag.pubads().setTargeting("geo", "US");
+            googletag.pubads().setTargeting("lang", "de");
+            googletag.pubads().setTargeting("res", "1270");
+            googletag.pubads().setTargeting("established", "1");
+            googletag.pubads().setTargeting("fdl", "1");
+    
+    LFM.viewGuid = LFM.viewGuid ? LFM.viewGuid : uuid();
+    googletag.pubads().setTargeting("vguid", LFM.viewGuid);
+
+    googletag.enableServices();
+    
+
+  });
+
+</script>
+</span>
+</div>
+<div class="LastAd ad-interstitial inactive" data-ad-collapsible="" data-ad-placement="interstitial" data-ad-static="" data-require="ads/staticadslot" id="LastAd_interstitial">
+<span>
+<div id="intromercial">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("intromercial"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<div class="LastAd ad-skin inactive" data-ad-collapsible="" data-ad-placement="skin" data-ad-static="" data-require="ads/staticadslot" id="LastAd_skin">
+<span>
+<div id="skin">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("skin"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<div class="LastAd ad-leaderboard inactive" data-ad-collapsible="" data-ad-placement="leaderboard" data-ad-static="" data-require="ads/staticadslot" id="LastAd_leaderboard">
+<span>
+<div id="leader_top">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("leader_top"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<div class="masthead-wrapper">
+<header class="masthead" role="banner">
+<h1>
+<a class="ir lastfm-logo" href="/">
+                Last.fm
+            </a>
+</h1>
+<form action="/search" class=" site-search search-autocomplete search-autocomplete--main " data-require="search/sitesearch" data-template="search" data-url="/search/autocomplete" method="get" role="search">
+<fieldset>
+<legend class="rm">Suche auf der Seite</legend>
+<input autocomplete="off" autocorrect="off" class="js-search search-box" name="q" placeholder="Musiksuche" size="26" type="text"/>
+<div class="js-search-progress search-progress ir">Lädt</div>
+<input name="from" type="hidden" value="ac"/>
+<button class="search-submit icon iconleft iconleft--search" title="Suchen" type="submit"></button>
+</fieldset>
+</form>
+<nav role="navigation">
+<ul class="primary-nav remove-bottom-margin">
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/music">Musik</a>
+</li>
+<li class="primary-nav-item" id="listenNav">
+<a class="primary-nav-link" href="/listen">Hören</a>
+</li>
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/events">Events</a>
+</li>
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/charts">Charts</a>
+</li>
+</ul>
+<div class="masthead-right" role="navigation">
+<a class="join" data-analytics-action="SignUpClick" data-analytics-label="Header" href="/join">Registrieren</a>
+<a class="btn btn--small btn--header btn--rounded login" href="/login" id="login-link">Einloggen</a>
+</div>
+</nav>
+</header>
+<link href="//embed.spotify.com/static/css/mediabar/mediabar-lastfm.css" rel="stylesheet" type="text/css"/>
+<div class="persistent-bar">
+<div class="spotify-mediabar-wrapper">
+<div class="spotify-mediabar" data-require="spotify/spotifymediabar" id="spotify-mediabar"></div>
+</div>
+<a class="spotify-mediabar-feedback" data-lab-name="spotifyplayback" data-require="labfeedbackbutton" href="#">
+<span class="beta-badge">Beta</span> Feedback
+    </a>
+</div>
+<div data-require="spotify/signupcompletemodal" id="spotify-signup-complete-modal">
+<div class="sparse-modal js-modal"></div>
+</div>
+<div class="needs-js" data-modal-open="" data-require="start/modal">
+<div class="sparse-modal js-modal" data-require="autodismissanoncta">
+<div class="sparse-modal-scroll">
+<div class="sparse-modal-content anon-cta anon-cta--bold anon-cta--popup align-center">
+<h2>Entdecke neue Musik</h2>
+<p class="add-bottom-margin">Last.fm ist ein Service zum Entdecken neuer Musik, der dir personalisierte Empfehlungen auf Basis deiner gespielten Musik gibt.</p>
+<a class="anon-cta-button anon-cta-button--big" href="/join">Starte dein Last.fm-Profil</a>
+<a class=" sparse-modal-close js-close btn btn--rounded btn--icon-only btn--small iconleft iconleft--delete " href="#close">Fenster schließen</a>
+</div>
+</div>
+</div>
+</div> </div>
+<article class="content artist-overview" data-require="music/artistpage" itemscope="" itemtype="http://schema.org/MusicGroup">
+<header class=" page-head without-crumbtrail without-image clearit ">
+<h1 itemprop="name">
+        Queen    </h1>
+<nav class="secondary-nav" data-require="secondarynav" role="navigation">
+<ul class="visible-menu">
+<li class=" first "><a href="/music/Queen/+tracks">Titel</a></li> <li><a href="/music/Queen/+albums">Alben</a></li>
+<li><a href="/music/Queen/+images">Bilder</a></li>
+<li><a href="/music/Queen/+videos">Videos</a></li>
+<li><a href="/music/Queen/+events">Events</a></li>
+<li><a href="/music/Queen/+wiki">Biografie</a></li>
+<li><a href="/music/Queen/+similar">Ähnliche Künstler</a></li> <li><a href="/music/Queen/+charts">Charts</a></li> <li><a href="/music/Queen/+tags">Tags</a></li> <li><a href="/music/Queen/+listeners">Hörer</a></li> <li><a href="/music/Queen/+journal">Blog</a></li> <li><a href="/music/Queen/+news">News</a></li> <li><a href="/music/Queen/+groups">Gruppen</a></li>
+</ul> <div class="drop-down-menu more">
+<a class="menu-toggle" href="#">Mehr…</a>
+<ul class="hidden-menu"></ul>
+</div></nav></header>
+<div class="r artist-header">
+<section class="g8 artist-images">
+<div class="widget widget-music/heroimage" data-require="music/heroimage" data-template="resourceimages/herosidekick_images" data-url="/music/Queen/+modules/herosidekickimages"> <div class="resource-images">
+<h2 class="rm">Bilder</h2>
+<a class="hero-image hero-image--landscape" href="/music/Queen/+images/45625545" style="background-image: url(http://userserve-ak.last.fm/serve/500/45625545/Queen+PNG.png)">
+<img alt="PNG" itemprop="image" src="http://userserve-ak.last.fm/serve/500/45625545/Queen+PNG.png"/>
+</a>
+<ul class="remove-bottom-margin sidekick-images">
+<li class="sidekick-wrapper primary-sidekick">
+<a class="sidekick-image sidekick-image--landscape" href="/music/Queen/+images/40909" style="background-image: url(http://userserve-ak.last.fm/serve/252/40909.jpg)" title="Bild hochgeladen von FunerallFog">
+<img alt="" src="http://userserve-ak.last.fm/serve/252/40909.jpg"/>
+</a>
+</li>
+<li class="sidekick-wrapper secondary-sidekick">
+<a class="sidekick-image sidekick-image--landscape" href="/music/Queen/+images/13317479" style="background-image: url(http://userserve-ak.last.fm/serve/252/13317479.jpg)" title="Bild hochgeladen von davekg">
+<img alt="queen-lm" src="http://userserve-ak.last.fm/serve/252/13317479.jpg"/>
+</a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--landscape" data-image-alt="queen-gh-abtd" data-image-src="http://userserve-ak.last.fm/serve/252/13317453.jpg" href="/music/Queen/+images/13317453" title="Bild hochgeladen von davekg"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="queen56" data-image-src="http://userserve-ak.last.fm/serve/252/3593040.jpg" href="/music/Queen/+images/3593040"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--landscape" data-image-alt="queen" data-image-src="http://userserve-ak.last.fm/serve/252/3237752.jpg" href="/music/Queen/+images/3237752" title="Bild hochgeladen von julianabotelho"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="" data-image-src="http://userserve-ak.last.fm/serve/252/331011.jpg" href="/music/Queen/+images/331011" title="Bild hochgeladen von ivanafromars"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--landscape" data-image-alt="" data-image-src="http://userserve-ak.last.fm/serve/252/255297.jpg" href="/music/Queen/+images/255297"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--landscape" data-image-alt="queen-sc5" data-image-src="http://userserve-ak.last.fm/serve/252/13462535.jpg" href="/music/Queen/+images/13462535" title="Bild hochgeladen von davekg"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--landscape" data-image-alt="Made In Heaven" data-image-src="http://userserve-ak.last.fm/serve/252/36097983.jpg" href="/music/Queen/+images/36097983" title="Bild hochgeladen von mateus_k"></a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+<section class="g4 artist-actions remove-bottom-margin">
+<div class="r r--reverse">
+<div class="g4 artist-action-area">
+<h2 class="rm">Anhören, kaufen oder teilen</h2>
+<div class=" user-actions with-station-button" data-require="music/actionarea">
+<div class="user-actions-btn-wrap user-actions-btn-wrap--add">
+<button class=" btn btn--icon-only btn--primary iconleft iconleft--add js-add " title="Zu Musiksammlung hinzufügen">
+                Zu Musiksammlung hinzufügen
+            </button>
+</div>
+<div class="user-actions-btn-wrap user-actions--play">
+<a class="stationbutton btn iconleft iconleft--play btn--primary" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Queen/similarartists">Ähnliche Künstler</a>
+</div>
+</div>
+<section class="ecommerce-actions">
+<h3 class="rm">Kaufen</h3>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--primary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Artist|DirectDownload" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn iconleft iconleft--ecommerce has-retailer-icon " data-analytics-action="Buy|Direct" data-analytics-label="Artist|Amazon" href="http://www.lastfm.de/affiliate/byid/6/1270/44/artist-overview-top-callout" rel="nofollow">
+                
+    
+                    Bei Amazon kaufen
+        
+        
+                    <img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+</img></a>
+<a class=" needs-js btn dropdown-btn btn--icon-only menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Artist|Amazon" href="http://www.lastfm.de/affiliate/byid/6/1270/44/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Artist|7digital" href="http://www.lastfm.de/affiliate/byid/6/1270/13/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Artist|Juno" href="http://www.lastfm.de/affiliate/byid/6/1270/128/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Juno" class="ecommerce-icon" src="http://cdn.last.fm/favicons/juno.gif">
+                                    
+                                                                            Juno
+                                                                    </img></span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Artist|iTunes" href="http://www.lastfm.de/affiliate/byid/6/1270/24/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Artist|Amazon" href="http://www.lastfm.de/affiliate/byid/6/1270/1/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Artist|eBay" href="http://www.lastfm.de/affiliate/byid/6/1270/90/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </section>
+<section class="share-wrapper">
+<h3 class="rm">Weiterleiten</h3>
+<div class="dropdown-btn-wrapper needs-js" data-dropdownmenu-analytics-action="ShareShowOptions" data-require="dropdownmenu">
+<a class="btn iconleft iconleft--share dropdown-btn menu-toggle iconright iconright--dropdown" href="#share">
+        Weiterleiten
+        <div class="social-icons-wrapper">
+<span class="social-btn social-btn--facebook"></span>
+<span class="social-btn social-btn--twitter"></span>
+<span class="social-btn social-btn--google"></span>
+</div>
+</a>
+<ul class="hidden-menu dropdown-btn-menu">
+<li>
+<a class="dropdown-btn-menu-item social-btn social-btn--facebook" data-analytics-redirect="false" data-analytics-social-action="post" data-analytics-social-network="facebook" data-analytics-social-restype="Artist" data-height="400" data-require="newwindow" data-width="580" data-window-url="https://www.facebook.com/dialog/feed?app_id=192959324047861&amp;link=http%3A%2F%2Fwww.lastfm.de%2Fmusic%2FQueen&amp;ref=facebooklink&amp;redirect_uri=http://www.last.fm/facebook/share_popup_close&amp;display=popup" href="https://www.facebook.com/dialog/feed?app_id=192959324047861&amp;link=http%3A%2F%2Fwww.lastfm.de%2Fmusic%2FQueen&amp;ref=facebooklink&amp;redirect_uri=http%3A%2F%2Fwww.last.fm%2Fredirect%2Fbnc%3Fbackto%3Dhttp%253A%252F%252Fwww.lastfm.de%252Fmusic%252FQueen%26bnc_sig%3D3d3d3235d37d7eb1a901a2d820b630cf" target="_blank">
+    Facebook</a> </li>
+<li>
+<a class="dropdown-btn-menu-item social-btn social-btn--twitter" data-analytics-redirect="false" data-analytics-social-action="tweet" data-analytics-social-network="twitter" data-analytics-social-restype="Artist" data-height="253" data-require="newwindow" data-width="580" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.lastfm.de%2Fmusic%2FQueen&amp;text=Sieh%20dir%20Queen%20an&amp;via=lastfm&amp;lang=de" target="_blank">
+    Twitter</a> </li>
+<li>
+<a class="dropdown-btn-menu-item social-btn social-btn--google" data-analytics-redirect="false" data-analytics-social-action="post" data-analytics-social-network="google" data-analytics-social-restype="Artist" data-height="400" data-require="newwindow" data-width="580" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.lastfm.de%2Fmusic%2FQueen&amp;gpsrc=frameless" target="_blank">
+    Google+</a> </li>
+<li>
+<a class="dropdown-btn-menu-item social-btn social-btn--email" data-require="sendbutton" href="/music/Queen">
+    E-Mail</a>
+</li>
+</ul>
+</div> </section> </div>
+<div class="g4 artist-stats-area">
+<div class="media media--overflow-visible music-resource-stats" data-require="music/artiststatsarea">
+<meta content="UserPlays:150686945" itemprop="interactionCount"/>
+<ul class="media-body">
+<li class="scrobbles">
+<b data-count="150686945">150.686.945</b>
+<div class="lite">Scrobbels</div>
+</li>
+<li class="listeners">
+<b data-count="3597672" id="listenerCount">3.597.672</b> <div class="lite">Hörer</div>
+</li>
+</ul>
+<section class="memo listener-details listener-details--listening-now remove-bottom-margin ">
+<ul>
+<li class="media remove-bottom-margin listener-details-user">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/joe23amdg" title=""> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <img capture="clienticon" class="icon ss-spotify_icon ss_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/><span class="source"><a href="http://www.spotify.com/">Spotify</a></span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/joe23amdg" title="">joe23amdg</a> hört
+                                          <em>
+<a href="/music/Queen">Queen</a> – <a href="/music/Queen/_/Princes+of+the+Universe">Princes of the Universe</a> </em>
+</span>
+</li>
+<li class="media remove-bottom-margin listener-details-user" style="display:none;">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/Identitet" title="Ina, 31, Schweden"> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/102093165.jpg" width="64"/></span> </a> <span class="media-body">
+<a class="media-link-reference" href="/user/Identitet" title="Ina, 31, Schweden">Identitet</a> hört
+                                          <em>
+<a href="/music/Queen">Queen</a> – <a href="/music/Queen/_/The+March+of+the+Black+Queen">The March of the Black Queen</a> </em>
+</span>
+</li>
+<li class="media remove-bottom-margin listener-details-user" style="display:none;">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/startafire7" title="Bas, 29, Männlich, Niederlande"> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/52010259.png" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <span class="source">Android Last.fm</span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/startafire7" title="Bas, 29, Männlich, Niederlande">startafire7</a> hört
+                                          <em>
+<a href="/music/Queen">Queen</a> – <a href="/music/Queen/_/The+March+of+the+Black+Queen">The March of the Black Queen</a> </em>
+</span>
+</li>
+<li class="media remove-bottom-margin listener-details-user" style="display:none;">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/Wernachien" title="Weiblich, Polen"> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/6917261.gif" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <img capture="clienticon" class="icon ss-lfm_icon ss_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/><span class="source">foobar2000</span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/Wernachien" title="Weiblich, Polen">Wernachien</a> hört
+                                          <em>
+<a href="/music/Queen">Queen</a> – <a href="/music/Queen/_/Don%27t+Stop+Me+Now">Don't Stop Me Now</a> </em>
+</span>
+</li>
+<li class="media remove-bottom-margin listener-details-user" style="display:none;">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/KrubixCube" title="25, Männlich, Japan"> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/63138751.jpg" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <img capture="clienticon" class="icon ss-itunes_icon ss_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/><span class="source"><a href="/download">iTunes</a></span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/KrubixCube" title="25, Männlich, Japan">KrubixCube</a> hört
+                                          <em>
+<a href="/music/Queen">Queen</a> – <a href="/music/Queen/_/Friends+Will+Be+Friends">Friends Will Be Friends</a> </em>
+</span>
+</li>
+</ul>
+</section>
+</div> </div>
+</div>
+</section>
+</div>
+<div class="r">
+<div class="g8">
+<section>
+<h2 class="rm">Tags</h2>
+<section class="global-tags">
+<h3 class="rm">Die Tags von allen</h3>
+<ul class="tags ">
+<li>
+<a href="/tag/classic%20rock" rel="tag">classic rock</a></li> <li><a href="/tag/rock" rel="tag">rock</a></li> <li><a href="/tag/80s" rel="tag">80s</a></li> <li><a href="/tag/hard%20rock" rel="tag">hard rock</a></li> <li><a href="/tag/glam%20rock" rel="tag">glam rock</a> </li>
+</ul>
+<button class=" btn btn--brand-blue btn--small iconleft iconleft--tag btn--icon-only add-tag needs-js " data-require="tagbutton" title="Queen taggen">Queen taggen</button>
+<a class="more-tags" href="/music/Queen/+tags">Mehr Tags</a>
+</section>
+</section>
+<section class="artist-wiki">
+<header>
+<hgroup>
+<h2 class="rm">Biografie</h2>
+</hgroup>
+</header>
+<div class="wiki">
+<div class="wiki-abstract" data-require="music/wiki" id="wikiAbstract">
+<div class="wiki-text">
+ Queen ist eine 1970 gegründete britische Rockband. Ihre Besetzung mit Freddie Mercury, Brian May, Roger Taylor und dem Anfang 1971 dazugekommenen John Deacon blieb mehr als zwei Jahrzehnte lang unverändert. Queens Karriere war kontinuierlich international erfolgreich: Sämtliche nach ihrem Durchbruch im Jahr 1974 veröffentlichten Studioalben erreichten in zumindest einem Land Platz eins der Charts.
+ <span class="hide"> Mit über 300 Millionen[1] verkauften Tonträgern ist Queen eine der weltweit kommerziell erfolgreichsten Bands. In ihrer Heimat Großbritannien wurde allein ihr erstes Greatest-Hits-Album mehr als fünf Millionen Mal verkauft, was dort bislang unübertroffen ist.[2] Die Band trat mehr als 700-mal live auf.<br/>
+Die Musik der Gruppe ist durch große stilistische Vielfalt gekennzeichnet; alle vier Bandmitglieder waren wesentlich am Songwriting beteiligt. Zu Queens bekanntesten Liedern zählen das von Freddie Mercury komponierte We Are the Champions, Brian Mays We Will Rock You, John Deacons Another One Bites the Dust und Roger Taylors Radio Ga Ga. Die Mercury-Komposition Bohemian Rhapsody belegte sowohl 1975 als auch 1991 viele Wochen lang die Spitze der britischen Singlecharts. Für diesen Titel, der Ballade und operettenhaft überzeichnete Gesangskapriolen sowie Hardrock in einem Song vereint, produzierte die Band eines der frühesten erfolgreichen und stilprägenden Musikvideos.
+ </span> </div>
+<div class="wiki-options">
+<a class="wiki-read-more" href="/music/Queen/+wiki"> <span data-read-all="Alles lesen"> Erfahre mehr...
+ </span> </a> <a class="hide" href="/music/Queen/+wiki/edit">Biografie bearbeiten</a> </div>
+</div>
+</div>
+</section>
+<section class="featured-tracks">
+<h2 class="rm">
+                    Von diesem Künstler ausgewählte Titel
+            </h2>
+<ul class="featured-tracks-list remove-bottom-margin">
+<li class=" first last featured-track" data-track-id="512940906">
+<h3 class="featured-track-cell featured-track-cell--title">
+<a href="/music/Queen/_/Im+Stuntin+(feat.+Shavon)">                            Im Stuntin (feat. Shavon)                        </a> </h3>
+<div class="featured-track-cell featured-track-cell--type">
+<a class="featured-type featured-type--free-download" href="http://freedownloads.last.fm/download/512940906/Im%2BStuntin%2B%2528feat.%2BShavon%2529.mp3" title="Kostenlose MP3 herunterladen: Queen - Im Stuntin (feat. Shavon) (2.6 MB)">
+                    Gratis-Download
+                </a>
+</div>
+<div class="featured-track-cell featured-track-cell--play">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:3RCuTQwfPmCtJ308uEhMxE"></span> </div>
+<div class="featured-track-cell featured-track-cell--duration ">
+            2:49
+        </div>
+</li>
+</ul> <div class="featured-addendum">
+            Von diesem Künstler ausgewählte Titel
+        </div>
+</section>
+<section class="needs-js">
+<h2><a class="rm" data-analytics-action="VideoHeadingLink" href="/music/Queen/+videos">Videos</a></h2>
+<div class="hero-video videos-on-dark" data-require="music/herovideo" id="hero-video">
+<div class="video">
+<div class="needs-js">
+<div class="clearit source-muzu" id="video-12196">
+<div data-require="video/muzu" data-video-src="//player.muzu.tv/player/getPlayer/i/5176/?vidId=2265759&amp;allowshare=n&amp;nl=y&amp;lfma=y&amp;partnerId=lf111&amp;jse=y&amp;sk=dontscrobble">
+<div class="wrapper" style="width: 620px; height: 355px;"></div>
+<div class="hero-video-info"><h3><a href="/music/Queen/_/Another+One+Bites+the+Dust">Another One Bites the Dust</a></h3><p>aus dem Album <a href="/music/Queen/Greatest+Hits">Greatest Hits</a></p><a class="hero-video-more-videos" href="/music/Queen/+videos">Mehr Videos</a></div>
+</div></div><script>new LFM.Video.FullWidth('video-12196');</script> </div>
+</div>
+<ul class="clearit videos video-list" restypeclass="">
+<li class="source-muzu external first">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-1" href="/music/Queen/_/Somebody+to+Love/+videos/+7-2258961" title="Somebody to Love"> <img class="rounded" height="79" src="http://static2.muzu.tv/media/images/002/258/961/0001/2258961-thb5.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Somebody to Love    </a>
+</li><li class="source-muzu external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-2" href="/music/Queen/_/Tie+Your+Mother+Down/+videos/+7-2260608" title="Tie Your Mother Down"> <img class="rounded" height="79" src="http://static2.muzu.tv/media/images/002/260/608/0001/2260608-thb5.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Tie Your Mother…    </a>
+</li><li class="source-muzu external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-3" href="/music/Queen/_/Stone+Cold+Crazy/+videos/+7-2260607" title="Stone Cold Crazy"> <img class="rounded" height="79" src="http://static2.muzu.tv/media/images/002/260/607/0001/2260607-thb5.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Stone Cold Crazy    </a>
+</li><li class="source-muzu external last">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-4" href="/music/Queen/_/Good+Old+Fashioned+Lover+Boy+(Top+Of+The+Pops+1977)/+videos/+7-2258588" title="Good Old Fashioned Lover Boy (Top Of The Pops 1977)"> <img class="rounded" height="79" src="http://static2.muzu.tv/media/images/002/258/588/0001/2258588-thb5.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Good Old…    </a>
+</li>
+</ul></div>
+</section>
+</div>
+<div class="g4 g--padded artist-bio-sidebar">
+<div class="artist-ad-wrapper">
+<div class="LastAd ad-mpu inactive" data-ad-collapsible="" data-ad-placement="mpu" data-ad-static="" data-require="ads/staticadslot" id="LastAd_mpu">
+<span>
+<div id="mpu_top">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("mpu_top"); 
+        });
+    </script>
+</div>
+</span>
+</div> </div>
+<section class="artist-similar-sidebar">
+<aside class="similar-artists">
+<h2><a href="/music/Queen/+similar">Ähnliche Künstler</a></h2>
+<ul class="r">
+<li class=" first g2 g--padded">
+<a class="similar-artist" href="/music/Freddie+Mercury"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/68601956.png');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/68601956.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Freddie Mercury</span>
+</div>
+</div> </a>
+</li><li class=" g2 g--padded">
+<a class="similar-artist" href="/music/Brian+May"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/8397009.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/8397009.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Brian May</span>
+</div>
+</div> </a>
+</li><li class=" g2 g--padded">
+<a class="similar-artist" href="/music/Roger+Taylor"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/100211.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/100211.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Roger Taylor</span>
+</div>
+</div> </a>
+</li><li class=" g2 g--padded">
+<a class="similar-artist" href="/music/Queen+%252B+Paul+Rodgers"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/143367.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/143367.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Queen + Paul Rodgers</span>
+</div>
+</div> </a>
+</li><li class=" g2 g--padded">
+<a class="similar-artist" href="/music/Freddie+Mercury+&amp;+Montserrat+Caball%C3%A9"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/36648649.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/36648649.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Freddie Mercury &amp; Montserrat Caballé</span>
+</div>
+</div> </a>
+</li><li class=" last g2 g--padded">
+<a class="similar-artist" href="/music/The+Cross"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/105390.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/105390.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">The Cross</span>
+</div>
+</div> </a>
+</li>
+</ul> </aside>
+</section>
+</div>
+</div>
+<section class="artist-top-tracks" id="artist-top-tracks">
+<div class="module modulecharts modulechartstracks" data-placement="artist" data-require="affiliation/multiaffiliationarea" id="switcher988181">
+<h2 class="heading"><span class="h2Wrapper"><a href="/music/Queen/+charts"> Top-Titel
+ </a></span></h2>
+<div class="horizontalOptions clearit">
+<ul>
+<li class=" current first chartweek"><a href="/music/Queen/+charts?rangetype=week&amp;subtype=tracks"> Letzte Woche
+ </a></li> <li class="chart6month"><a href="/music/Queen/+charts?rangetype=6month&amp;subtype=tracks">Letzte 6 Monate</a></li>
+</ul>
+</div><!-- .horizontalOptions -->
+<div class="module-body chart chartweek current" id="charts503368">
+<table class="candyStriped chart" odd="1">
+<tbody>
+<tr class="first odd" data-track-id="12198" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 1
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:12O6hUWA4gddhveDcapchm"></span>
+<meta content="PT5M55S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Bohemian Rhapsody, 7.056 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Queen/_/Bohemian+Rhapsody" itemprop="url">
+<meta content="A Night at the Opera" itemprop="inAlbum">
+<meta content="UserPlays:7.987.089" itemprop="interactionCount">
+<a href="/music/Queen/_/Bohemian+Rhapsody"><span itemprop="name">Bohemian Rhapsody</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Queen/_/Bohemian+Rhapsody"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:100%;"><span>7.056</span></div> </td>
+</tr><tr class="" data-track-id="12200" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 2
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0LfRzQCe2RxMwAZrI3bMgn"></span>
+<meta content="PT3M30S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Don't Stop Me Now, 5.874 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Queen/_/Don%27t+Stop+Me+Now" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:6.455.867" itemprop="interactionCount">
+<a href="/music/Queen/_/Don%27t+Stop+Me+Now"><span itemprop="name">Don't Stop Me Now</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Queen/_/Don%27t+Stop+Me+Now"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:83%;"><span>5.874</span></div> </td>
+</tr><tr class="odd" data-track-id="12196" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 3
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0Y7djS9puF1EYBngMFHkNz"></span>
+<meta content="PT3M36S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Another One Bites the Dust, 4.975 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Queen/_/Another+One+Bites+the+Dust" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:4.943.995" itemprop="interactionCount">
+<a href="/music/Queen/_/Another+One+Bites+the+Dust"><span itemprop="name">Another One Bites the Dust</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Queen/_/Another+One+Bites+the+Dust"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:71%;"><span>4.975</span></div> </td>
+</tr><tr class="" data-track-id="12211" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 4
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:06RkX74HmMen8Bj3qHArkD"></span>
+<meta content="PT2M2S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="We Will Rock You, 3.979 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Queen/_/We+Will+Rock+You" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:4.825.095" itemprop="interactionCount">
+<a href="/music/Queen/_/We+Will+Rock+You"><span itemprop="name">We Will Rock You</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Queen/_/We+Will+Rock+You"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:56%;"><span>3.979</span></div> </td>
+</tr><tr class="odd" data-track-id="1008491" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 5
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0xr7XkX2Z7vvST4G88k5ws"></span>
+<meta content="PT3M57S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Under Pressure, 3.546 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Queen/_/Under+Pressure" itemprop="url">
+<meta content="Greatest Hits II" itemprop="inAlbum">
+<meta content="UserPlays:3.548.313" itemprop="interactionCount">
+<a href="/music/Queen/_/Under+Pressure"><span itemprop="name">Under Pressure</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Queen/_/Under+Pressure"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:50%;"><span>3.546</span></div> </td>
+</tr><tr class="" data-track-id="12210" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 6
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0BtR4Per0HkJnzyFgcf65E"></span>
+<meta content="PT3M0S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="We Are the Champions, 3.035 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Queen/_/We+Are+the+Champions" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:4.075.578" itemprop="interactionCount">
+<a href="/music/Queen/_/We+Are+the+Champions"><span itemprop="name">We Are the Champions</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Queen/_/We+Are+the+Champions"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:43%;"><span>3.035</span></div> </td>
+</tr><tr class="odd" data-track-id="12209" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 7
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0Tdnczks5uOYWcAf66BV11"></span>
+<meta content="PT4M57S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Somebody to Love, 2.848 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Queen/_/Somebody+to+Love" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:3.769.090" itemprop="interactionCount">
+<a href="/music/Queen/_/Somebody+to+Love"><span itemprop="name">Somebody to Love</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Queen/_/Somebody+to+Love"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:40%;"><span>2.848</span></div> </td>
+</tr><tr class="" data-track-id="11493" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 8
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0gQRiR0sfUQe9bZ57CgGin"></span>
+<meta content="PT3M0S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Killer Queen, 2.724 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Queen/_/Killer+Queen" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:4.474.674" itemprop="interactionCount">
+<a href="/music/Queen/_/Killer+Queen"><span itemprop="name">Killer Queen</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Queen/_/Killer+Queen"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:39%;"><span>2.724</span></div> </td>
+</tr><tr class="odd" data-track-id="12199" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 9
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0V6RKAb63jRtSGEBljIWdX"></span>
+<meta content="PT2M43S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Crazy Little Thing Called Love, 2.691 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Queen/_/Crazy+Little+Thing+Called+Love" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:3.587.027" itemprop="interactionCount">
+<a href="/music/Queen/_/Crazy+Little+Thing+Called+Love"><span itemprop="name">Crazy Little Thing Called Love</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Queen/_/Crazy+Little+Thing+Called+Love"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:38%;"><span>2.691</span></div> </td>
+</tr><tr class="" data-track-id="1008444" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 10
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:2RGivKC0y5qbY2veZSrp4O"></span>
+<meta content="PT4M22S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="I Want to Break Free, 2.679 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Queen/_/I+Want+to+Break+Free" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:3.403.775" itemprop="interactionCount">
+<a href="/music/Queen/_/I+Want+to+Break+Free"><span itemprop="name">I Want to Break Free</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Queen/_/I+Want+to+Break+Free"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:38%;"><span>2.679</span></div> </td>
+</tr><tr class="odd" data-track-id="12212" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 11
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0WMmdTiZrDkObaABU7mylW"></span>
+<meta content="PT2M51S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="You're My Best Friend, 2.307 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Queen/_/You%27re+My+Best+Friend" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:2.853.092" itemprop="interactionCount">
+<a href="/music/Queen/_/You%27re+My+Best+Friend"><span itemprop="name">You're My Best Friend</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Queen/_/You%27re+My+Best+Friend"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:33%;"><span>2.307</span></div> </td>
+</tr><tr class="" data-track-id="1008488" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 12
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0Qzw4hfh7lK6IAz4yxYqdL"></span>
+<meta content="PT4M32S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="The Show Must Go On, 2.269 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Queen/_/The+Show+Must+Go+On" itemprop="url">
+<meta content="Greatest Hits II" itemprop="inAlbum">
+<meta content="UserPlays:3.666.906" itemprop="interactionCount">
+<a href="/music/Queen/_/The+Show+Must+Go+On"><span itemprop="name">The Show Must Go On</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Queen/_/The+Show+Must+Go+On"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:32%;"><span>2.269</span></div> </td>
+</tr><tr class="odd" data-track-id="746591991" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 13
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:2aSFLiDPreOVP6KHiWk4lF"></span>
+<meta content="PT4M8S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Under Pressure - Remastered 2011, 2.160 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Queen/_/Under+Pressure+-+Remastered+2011" itemprop="url">
+<meta content="UserPlays:40.932" itemprop="interactionCount">
+<a href="/music/Queen/_/Under+Pressure+-+Remastered+2011"><span itemprop="name">Under Pressure - Remastered 2011</span></a>
+</meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Queen/_/Under+Pressure+-+Remastered+2011"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:31%;"><span>2.160</span></div> </td>
+</tr><tr class="" data-track-id="12201" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 14
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:02dLhFAFRG5vkRsCGvIdx0"></span>
+<meta content="PT4M16S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Fat Bottomed Girls, 2.026 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Queen/_/Fat+Bottomed+Girls" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:2.747.093" itemprop="interactionCount">
+<a href="/music/Queen/_/Fat+Bottomed+Girls"><span itemprop="name">Fat Bottomed Girls</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Queen/_/Fat+Bottomed+Girls"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:29%;"><span>2.026</span></div> </td>
+</tr><tr class="last odd" data-track-id="1005653" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 15
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0410SN1x5F0DeO93XlLNhX"></span>
+<meta content="PT5M44S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Radio Ga Ga, 1.916 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Queen/_/Radio+Ga+Ga" itemprop="url">
+<meta content="Greatest Hits II" itemprop="inAlbum">
+<meta content="UserPlays:2.429.079" itemprop="interactionCount">
+<a href="/music/Queen/_/Radio+Ga+Ga"><span itemprop="name">Radio Ga Ga</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Queen/_/Radio+Ga+Ga"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:27%;"><span>1.916</span></div> </td>
+</tr>
+</tbody>
+</table> <div class="moduleOptions">
+<a class="btn iconleft iconleft--ecommerce btn--small needs-js js-multi-affiliation-button add-bottom-margin" data-target-id="charts503368" href="#buyall">
+ Alle Titel bei Amazon MP3 kaufen
+ </a>
+<a href="/music/Queen/+charts?rangetype=week&amp;subtype=tracks">Mehr anzeigen</a> </div>
+</div>
+</div><!-- #chartsswitcher988181 -->
+<script>
+ if (!LFM.Page || !LFM.Page.ChartSwitchers) LFM.set("Page", {ChartSwitchers: {}});
+ LFM.Page.ChartSwitchers["switcher988181"] = new LFM.Charts.Switch("switcher988181", {
+ restype: 6,
+ resid: 1270,
+ name: 'charts',
+ type: 'tracks'
+ });
+</script>
+</section>
+<section class="artist-top-albums">
+<h2><a href="/music/Queen/+albums">Top-Alben</a></h2>
+<ul class="albums r album-list album-list--compact" nthchildren="1">
+<li class=" first item-1 item-2n-plus-1 item-3n-plus-1 item-4n-plus-1 g3 album-list-item ">
+<section class="r album-item " itemscope="" itemtype="http://schema.org/MusicAlbum">
+<meta content="Greatest Hits" itemprop="name"/>
+<meta content="http://userserve-ak.last.fm/serve/300x300/95148003.png" itemprop="image"/>
+<a class="g3 album-item-cover link-hook" href="/music/Queen/Greatest+Hits" itemprop="url"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/300x300/95148003.png');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/300x300/95148003.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Greatest Hits</span>
+<br/>
+<span class="text-over-image-text text-over-image-text--secondary">1.525.656 Hörer</span>
+</div>
+</div> </a> <div class="g3 album-item-details link-reference-container">
+<div class="album-item-detail-wrapper">
+<span itemprop="numTracks">17</span> Titel                    <br/>
+<span class="rm">Veröffentlicht am: </span><time datetime="2007-05-14">14 Mai 2007</time>
+<br/>
+</div>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--secondary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Album|DirectDownload" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn btn--small iconleft iconleft--ecommerce " data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/1831/44/artist-overview-album-callout" rel="nofollow">
+                
+    
+                    Amazon MP3
+        
+        
+            
+            </a>
+<a class=" needs-js btn dropdown-btn btn--icon-only btn--small menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu dropdown-btn-menu--small hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/1831/44/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon MP3" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon MP3
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $10.49
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|7digital" href="http://www.lastfm.de/affiliate/byid/8/1831/13/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $10.99
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|iTunes" href="http://www.lastfm.de/affiliate/byid/8/1831/24/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $6.99
+                                                                            </span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon" href="http://www.lastfm.de/affiliate/byid/8/1831/1/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $10.27
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|eBay" href="http://www.lastfm.de/affiliate/byid/8/1831/90/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </div>
+</section>
+</li><li class=" item-2 g3 album-list-item ">
+<section class="r album-item " itemscope="" itemtype="http://schema.org/MusicAlbum">
+<meta content="A Night at the Opera" itemprop="name"/>
+<meta content="http://userserve-ak.last.fm/serve/300x300/88044381.png" itemprop="image"/>
+<a class="g3 album-item-cover link-hook" href="/music/Queen/A+Night+at+the+Opera" itemprop="url"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/300x300/88044381.png');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/300x300/88044381.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">A Night at the Opera</span>
+<br/>
+<span class="text-over-image-text text-over-image-text--secondary">549.839 Hörer</span>
+</div>
+</div> </a> <div class="g3 album-item-details link-reference-container">
+<div class="album-item-detail-wrapper">
+<span itemprop="numTracks">18</span> Titel                    <br/>
+<span class="rm">Veröffentlicht am: </span><time datetime="2011-05-17">17 Mai 2011</time>
+<br/>
+</div>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--secondary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Album|DirectDownload" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn btn--small iconleft iconleft--ecommerce " data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/1417234/44/artist-overview-album-callout" rel="nofollow">
+                
+    
+                    Amazon MP3
+        
+        
+            
+            </a>
+<a class=" needs-js btn dropdown-btn btn--icon-only btn--small menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu dropdown-btn-menu--small hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/1417234/44/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon MP3" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon MP3
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $9.49
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|7digital" href="http://www.lastfm.de/affiliate/byid/8/1417234/13/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $11.99
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|iTunes" href="http://www.lastfm.de/affiliate/byid/8/1417234/24/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $6.99
+                                                                            </span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon" href="http://www.lastfm.de/affiliate/byid/8/1417234/1/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $7.13
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|eBay" href="http://www.lastfm.de/affiliate/byid/8/1417234/90/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </div>
+</section>
+</li><li class=" item-3 item-2n-plus-1 g3 album-list-item ">
+<section class="r album-item " itemscope="" itemtype="http://schema.org/MusicAlbum">
+<meta content="Greatest Hits II" itemprop="name"/>
+<meta content="http://userserve-ak.last.fm/serve/300x300/92633831.png" itemprop="image"/>
+<a class="g3 album-item-cover link-hook" href="/music/Queen/Greatest+Hits+II" itemprop="url"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/300x300/92633831.png');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/300x300/92633831.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Greatest Hits II</span>
+<br/>
+<span class="text-over-image-text text-over-image-text--secondary">897.669 Hörer</span>
+</div>
+</div> </a> <div class="g3 album-item-details link-reference-container">
+<div class="album-item-detail-wrapper">
+<span itemprop="numTracks">17</span> Titel                    <br/>
+<span class="rm">Veröffentlicht am: </span><time datetime="2011-04-19">19 April 2011</time>
+<br/>
+</div>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--secondary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Album|DirectDownload" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn btn--small iconleft iconleft--ecommerce " data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/2024264/44/artist-overview-album-callout" rel="nofollow">
+                
+    
+                    Amazon MP3
+        
+        
+            
+            </a>
+<a class=" needs-js btn dropdown-btn btn--icon-only btn--small menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu dropdown-btn-menu--small hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/2024264/44/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon MP3" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon MP3
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|7digital" href="http://www.lastfm.de/affiliate/byid/8/2024264/13/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|iTunes" href="http://www.lastfm.de/affiliate/byid/8/2024264/24/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $10.99
+                                                                            </span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon" href="http://www.lastfm.de/affiliate/byid/8/2024264/1/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|eBay" href="http://www.lastfm.de/affiliate/byid/8/2024264/90/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </div>
+</section>
+</li><li class=" last item-4 item-3n-plus-1 g3 album-list-item ">
+<section class="r album-item " itemscope="" itemtype="http://schema.org/MusicAlbum">
+<meta content="Queen 40 Limited Edition Collector's Box Set" itemprop="name"/>
+<meta content="http://userserve-ak.last.fm/serve/300x300/89168591.png" itemprop="image"/>
+<a class="g3 album-item-cover link-hook" href="/music/Queen/Queen+40+Limited+Edition+Collector%27s+Box+Set" itemprop="url"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/300x300/89168591.png');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/300x300/89168591.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Queen 40 Limited Edition Collector's Box Set</span>
+<br/>
+<span class="text-over-image-text text-over-image-text--secondary">112.090 Hörer</span>
+</div>
+</div> </a> <div class="g3 album-item-details link-reference-container">
+<div class="album-item-detail-wrapper">
+<span itemprop="numTracks">83</span> Titel                    <br/>
+<span class="rm">Veröffentlicht am: </span><time datetime="2011-05-17">17 Mai 2011</time>
+<br/>
+</div>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--secondary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Album|SearchOnly" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn btn--small iconleft iconleft--ecommerce " data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/283301001/44/artist-overview-album-callout" rel="nofollow">
+                
+    
+                    Amazon MP3
+        
+        
+            
+            </a>
+<a class=" needs-js btn dropdown-btn btn--icon-only btn--small menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu dropdown-btn-menu--small hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/283301001/44/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon MP3" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon MP3
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|7digital" href="http://www.lastfm.de/affiliate/byid/8/283301001/13/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|iTunes" href="http://www.lastfm.de/affiliate/byid/8/283301001/24/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon" href="http://www.lastfm.de/affiliate/byid/8/283301001/1/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|eBay" href="http://www.lastfm.de/affiliate/byid/8/283301001/90/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </div>
+</section>
+</li>
+</ul> </section>
+<section class="artist-events">
+<h2><a href="/music/Queen/+events">Events</a></h2>
+<ul class="events-catalogue-pages">
+<li class="gig first past hasposter event">
+<div class="r">
+<div class="g5 media">
+<a class="media-pull-left media-link-hook" href="/event/3966744+Queen+-+Adam+Lambert" title="Queen + Adam Lambert in O2 Arena"> <span class="calSheet calSheetBig">
+<time datetime="2015-02-17">
+<abbr class="dtstart" title="Dienstag, 17. Februar 2015"> <span title="Queen + Adam Lambert">
+<span class="month">Feb</span>
+<span class="day">17</span>
+</span>
+</abbr> </time>
+</span> </a> <div class="media-body">
+<strong><a class="media-link-reference" href="/event/3966744+Queen+-+Adam+Lambert" title="Queen + Adam Lambert in O2 Arena">Queen + Adam Lambert</a></strong>
+<div class="time">Dienstag, 17. Februar 2015</div>
+<div class="lite"> Queen und 2 andere
+ </div> </div>
+</div>
+<div class="g3 media venue">
+<a class="media-pull-left media-link-hook" href="/venue/8913157+O2+Arena"> <img class="transparent_png map_icon" height="32" src="http://cdn.last.fm/flatness/location_icon_32.png" style="" width="32"/> </a> <div class="media-body">
+<div class="name">
+<strong><a class="media-link-reference" href="/venue/8913157+O2+Arena">O2 Arena</a></strong>
+</div>
+<div class="address"><span class="locality">Praha</span>, <span class="country-name">Tschechische Republik</span></div>
+</div>
+</div>
+<div class="g4 going">
+<strong>37</strong> waren dort
+ 
+ <ul class="attendance-list">
+<li class="first user-going user">
+<a href="/user/v%210" title="35, Männlich, Tschechische Republik"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/88358071.png" width="34"/></span></a>
+</li><li class="user-going user">
+<a href="/user/khack" title="Honza Kadlec, 29, Männlich, Tschechische Republik"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/1429469.png" width="34"/></span></a>
+</li><li class="user-going user">
+<a href="/user/MrOcek" title="Daniel Mrocek, 25, Männlich, Tschechische Republik"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/787756.jpg" width="34"/></span></a>
+</li><li class="user-going user">
+<a href="/user/garden666" title='Aleš "Garden", 23, Männlich, Tschechische Republik'><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/96538353.jpg" width="34"/></span></a>
+</li><li class="last user-going user">
+<a href="/user/queenny_queenex" title="Julia, 25, Weiblich, Russische Föderation"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/96868289.jpg" width="34"/></span></a>
+</li>
+</ul> </div>
+</div>
+</li><li class="gig past hasposter event">
+<div class="r">
+<div class="g5 media">
+<a class="media-pull-left media-link-hook" href="/event/3996086+Queen+-+Adam+Lambert" title="Queen + Adam Lambert in Kraków Arena"> <span class="calSheet calSheetBig">
+<time datetime="2015-02-21">
+<abbr class="dtstart" title="Samstag, 21. Februar 2015"> <span title="Queen + Adam Lambert">
+<span class="month">Feb</span>
+<span class="day">21</span>
+</span>
+</abbr> </time>
+</span> </a> <div class="media-body">
+<strong><a class="media-link-reference" href="/event/3996086+Queen+-+Adam+Lambert" title="Queen + Adam Lambert in Kraków Arena">Queen + Adam Lambert</a></strong>
+<div class="time">Samstag, 21. Februar 2015</div>
+<div class="lite"> Queen und 1 anderer
+ </div> </div>
+</div>
+<div class="g3 media venue">
+<a class="media-pull-left media-link-hook" href="/venue/10338257+Krak%C3%B3w+Arena"> <img class="transparent_png map_icon" height="32" src="http://cdn.last.fm/flatness/location_icon_32.png" style="" width="32"/> </a> <div class="media-body">
+<div class="name">
+<strong><a class="media-link-reference" href="/venue/10338257+Krak%C3%B3w+Arena">Kraków Arena</a></strong>
+</div>
+<div class="address">Kraków, <span class="locality">Krakau</span>, <span class="country-name">Polen</span></div>
+</div>
+</div>
+<div class="g4 going">
+<strong>175</strong> waren dort
+ 
+ <ul class="attendance-list">
+<li class="first user-going user">
+<a href="/user/GBreal" title="Grzesiek, 26, Männlich, Polen"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/59952749.jpg" width="34"/></span></a>
+</li><li class="user-going user">
+<a href="/user/MateuszJ89" title="25, Männlich, Polen"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/55327553.jpg" width="34"/></span></a>
+</li><li class="user-going user">
+<a href="/user/lucassus" title="Łukasz, Männlich, Polen"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/86410847.jpg" width="34"/></span></a>
+</li><li class="user-going user">
+<a href="/user/Tommy88c" title="Tommy, 26, Männlich"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/29588917.jpg" width="34"/></span></a>
+</li><li class="last user-going user">
+<a href="/user/rudeboy89" title="cinek, 25, Männlich, Polen"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/26931391.png" width="34"/></span></a>
+</li>
+</ul> </div>
+</div>
+</li><li class="gig last past event">
+<div class="r">
+<div class="g5 media">
+<a class="media-pull-left media-link-hook" href="/event/4059961+Queen+at+Wembley+Arena+on+23+February+2015" title="Queen in Wembley Arena"> <span class="calSheet calSheetBig">
+<time datetime="2015-02-23">
+<abbr class="dtstart" title="Montag, 23. Februar 2015"> <span title="Queen">
+<span class="month">Feb</span>
+<span class="day">23</span>
+</span>
+</abbr> </time>
+</span> </a> <div class="media-body">
+<strong><a class="media-link-reference" href="/event/4059961+Queen+at+Wembley+Arena+on+23+February+2015" title="Queen in Wembley Arena">Queen</a></strong>
+<div class="time">Montag, 23. Februar 2015</div>
+</div>
+</div>
+<div class="g3 media venue">
+<a class="media-pull-left media-link-hook" href="/venue/8777082+Wembley+Arena"> <img class="transparent_png map_icon" height="32" src="http://cdn.last.fm/flatness/location_icon_32.png" style="" width="32"/> </a> <div class="media-body">
+<div class="name">
+<strong><a class="media-link-reference" href="/venue/8777082+Wembley+Arena">Wembley Arena</a></strong>
+</div>
+<div class="address"><span class="locality">London</span>, <span class="country-name">Vereinigtes Königreich</span></div>
+</div>
+</div>
+<div class="g4 going">
+<strong>1</strong> war dort
+ 
+ <ul class="attendance-list">
+<li class="first last user-going user">
+<a href="/user/therealsteavis" title="Steve Mascord, 46, Männlich, Australien"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/16544749.jpg" width="34"/></span></a>
+</li>
+</ul> </div>
+</div>
+</li>
+</ul>
+<a class="btn iconleft iconleft--add btn--small" href="/events/add?artistNames[]=Queen">Event hinzufügen</a>
+</section>
+<section class="r">
+<div class="g8 artist-listening-trend">
+<h2>Hörtrend</h2>
+<script src='https://www.google.com/jsapi?autoload={"modules":[{"name":"visualization","version":"1","packages":["corechart"]}]}'></script>
+<div class="catalogue-scrobble-graph needs-js" data-require="music/scrobblegraph" data-source="scrobblegraph">
+<div class="catalogue-scrobble-graph-top-data">
+<strong>3.597.672</strong><span class="lite">Hörer insgesamt</span>
+</div>
+<div class="catalogue-scrobble-graph-top-data">
+<strong>150.686.945</strong><span class="lite">Scrobbels insgesamt</span>
+</div>
+<div class="catalogue-scrobble-graph-top-data">
+<a href="/charts/artists/top/place/all?limit=50"> <strong>#27</strong>
+</a> <span class="lite">in den Charts der letzten Woche</span>
+</div>
+<div class="catalogue-scrobble-graph-inner-wrapper">
+<div class="catalogue-scrobble-graph-title">Aktueller Hörtrend:</div>
+<div class="catalogue-scrobble-graph-container"></div>
+</div>
+<script>
+                (function() {
+
+            LFM.Data = LFM.Data || {};
+            LFM.Data.scrobblegraph = [
+                              [
+                  new Date(1424001600*1000),
+                  45753,
+                  45753,
+                  'So., 15. Feb. - So., 22. Feb.\u000D\u000A45.753 Hörer'
+                ]
+                ,                              [
+                  new Date(1423396800*1000),
+                  45986,
+                  45986,
+                  'So., 8. Feb. - So., 15. Feb.\u000D\u000A45.986 Hörer'
+                ]
+                ,                              [
+                  new Date(1422792000*1000),
+                  47631,
+                  47631,
+                  'So., 1. Feb. - So., 8. Feb.\u000D\u000A47.631 Hörer'
+                ]
+                ,                              [
+                  new Date(1422187200*1000),
+                  47304,
+                  47304,
+                  'So., 25. Jan. - So., 1. Feb.\u000D\u000A47.304 Hörer'
+                ]
+                ,                              [
+                  new Date(1421582400*1000),
+                  47665,
+                  47665,
+                  'So., 18. Jan. - So., 25. Jan.\u000D\u000A47.665 Hörer'
+                ]
+                ,                              [
+                  new Date(1420977600*1000),
+                  46701,
+                  46701,
+                  'So., 11. Jan. - So., 18. Jan.\u000D\u000A46.701 Hörer'
+                ]
+                ,                              [
+                  new Date(1420372800*1000),
+                  46239,
+                  46239,
+                  'So., 4. Jan. - So., 11. Jan.\u000D\u000A46.239 Hörer'
+                ]
+                ,                              [
+                  new Date(1419768000*1000),
+                  48094,
+                  48094,
+                  'So., 28. Dez. - So., 4. Jan.\u000D\u000A48.094 Hörer'
+                ]
+                ,                              [
+                  new Date(1419163200*1000),
+                  49921,
+                  49921,
+                  'So., 21. Dez. - So., 28. Dez.\u000D\u000A49.921 Hörer'
+                ]
+                ,                              [
+                  new Date(1418558400*1000),
+                  50774,
+                  50774,
+                  'So., 14. Dez. - So., 21. Dez.\u000D\u000A50.774 Hörer'
+                ]
+                ,                              [
+                  new Date(1417953600*1000),
+                  50580,
+                  50580,
+                  'So., 7. Dez. - So., 14. Dez.\u000D\u000A50.580 Hörer'
+                ]
+                ,                              [
+                  new Date(1417348800*1000),
+                  50246,
+                  50246,
+                  'So., 30. Nov. - So., 7. Dez.\u000D\u000A50.246 Hörer'
+                ]
+                ,                              [
+                  new Date(1416744000*1000),
+                  49668,
+                  49668,
+                  'So., 23. Nov. - So., 30. Nov.\u000D\u000A49.668 Hörer'
+                ]
+                ,                              [
+                  new Date(1416139200*1000),
+                  49621,
+                  49621,
+                  'So., 16. Nov. - So., 23. Nov.\u000D\u000A49.621 Hörer'
+                ]
+                ,                              [
+                  new Date(1415534400*1000),
+                  47774,
+                  47774,
+                  'So., 9. Nov. - So., 16. Nov.\u000D\u000A47.774 Hörer'
+                ]
+                ,                              [
+                  new Date(1414929600*1000),
+                  47359,
+                  47359,
+                  'So., 2. Nov. - So., 9. Nov.\u000D\u000A47.359 Hörer'
+                ]
+                ,                              [
+                  new Date(1414324800*1000),
+                  47024,
+                  47024,
+                  'So., 26. Okt. - So., 2. Nov.\u000D\u000A47.024 Hörer'
+                ]
+                ,                              [
+                  new Date(1413720000*1000),
+                  47584,
+                  47584,
+                  'So., 19. Okt. - So., 26. Okt.\u000D\u000A47.584 Hörer'
+                ]
+                ,                              [
+                  new Date(1413115200*1000),
+                  47596,
+                  47596,
+                  'So., 12. Okt. - So., 19. Okt.\u000D\u000A47.596 Hörer'
+                ]
+                ,                              [
+                  new Date(1412510400*1000),
+                  47002,
+                  47002,
+                  'So., 5. Okt. - So., 12. Okt.\u000D\u000A47.002 Hörer'
+                ]
+                ,                              [
+                  new Date(1411905600*1000),
+                  46579,
+                  46579,
+                  'So., 28. Sep. - So., 5. Okt.\u000D\u000A46.579 Hörer'
+                ]
+                ,                              [
+                  new Date(1411300800*1000),
+                  47729,
+                  47729,
+                  'So., 21. Sep. - So., 28. Sep.\u000D\u000A47.729 Hörer'
+                ]
+                ,                              [
+                  new Date(1410696000*1000),
+                  48050,
+                  48050,
+                  'So., 14. Sep. - So., 21. Sep.\u000D\u000A48.050 Hörer'
+                ]
+                ,                              [
+                  new Date(1410091200*1000),
+                  48432,
+                  48432,
+                  'So., 7. Sep. - So., 14. Sep.\u000D\u000A48.432 Hörer'
+                ]
+                ,                              [
+                  new Date(1409486400*1000),
+                  46953,
+                  46953,
+                  'So., 31. Aug. - So., 7. Sep.\u000D\u000A46.953 Hörer'
+                ]
+                ,                              [
+                  new Date(1408881600*1000),
+                  46631,
+                  46631,
+                  'So., 24. Aug. - So., 31. Aug.\u000D\u000A46.631 Hörer'
+                ]
+                                          ];
+        })();
+</script>
+</div> </div>
+<div class="g4">
+<h2>Beginne mit dem Scrobbeln und baue deinen Hörverlauf auf</h2>
+<p>Last.fm-Benutzer <abbr>scrobbeln</abbr> die Musik, die sie in iTunes, Spotify, Rdio und mehr als <a href="/group/Does+it+Scrobble">200 anderen Musikplayern</a> spielen.</p>
+<a class="btn btn--block" href="/join">Erstelle ein Last.fm-Profil</a>
+</div>
+</section>
+<div class="LastAd ad-widerelatedcontent inactive" data-ad-collapsible="" data-ad-placement="widerelatedcontent" data-ad-static="" data-require="ads/staticadslot" id="LastAd_widerelatedcontent">
+<span>
+</span>
+</div>
+<div class="LastAd ad-middleleaderboard inactive" data-ad-collapsible="" data-ad-placement="middleleaderboard" data-ad-static="" data-require="ads/staticadslot" id="LastAd_middleleaderboard">
+<span>
+</span>
+</div>
+<div class="catalogue-social r r--full-bleed">
+<section class="g8 artist-shouts">
+<a name="shoutbox"></a>
+<div class="widget widget-lazy/shoutbox" data-require="lazy/shoutbox" data-template="shoutbox" data-url="/music/Queen/+shoutbox"><h2 class="heading">
+<span class="h2Wrapper">
+<a href="/music/Queen/+shoutbox">Shoutbox</a>
+</span>
+</h2>
+<div class="shoutboxContainer artist-shoutbox">
+<div class="memo">
+<strong>Sage etwas.</strong>
+<a href="/login/">Logge dich bei Last.fm ein</a> oder <a href="/join/">registriere dich</a>.
+        </div>
+<ul class="shouts">
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/Francisco__">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/101524173.jpg" width="64"/>
+</span>
+    Francisco__
+</a>
+</h3>
+<p>
+                        Queen will never be forgotten.
+                                    </p>
+<div class="meta">
+<span class="date">vor 3 Stunden</span>
+<a class="shoutbox-reply" href="/user/Francisco__#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/jannyxfraria">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/102334045.gif" width="64"/>
+</span>
+    jannyxfraria
+</a>
+</h3>
+<p>
+                        The Band Forever. [4] ♚ ♥
+                                    </p>
+<div class="meta">
+<span class="date">Gestern um 21:40</span>
+<a class="shoutbox-reply" href="/user/jannyxfraria#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/janaplein">
+<span class="userImage">
+<img class="avatar " src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/>
+</span>
+    janaplein
+</a>
+</h3>
+<p>
+                        Love it
+                                    </p>
+<div class="meta">
+<span class="date">22. Feb., 11:01</span>
+<a class="shoutbox-reply" href="/user/janaplein#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/jkralovich">
+<span class="userImage">
+<img class="avatar " src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/>
+</span>
+    jkralovich
+</a>
+</h3>
+<p>
+                        Don't Stop Them Now!
+<a href="http://wp.me/p4m5lT-CR" rel="nofollow">http://wp.me/p4m5lT-CR</a>
+</p>
+<div class="meta">
+<span class="date">22. Feb., 2:31</span>
+<a class="shoutbox-reply" href="/user/jkralovich#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/JuniorWaldorf">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103336343.png" width="64"/>
+</span>
+    JuniorWaldorf
+</a>
+</h3>
+<p>
+                        love love love
+                                    </p>
+<div class="meta">
+<span class="date">21. Feb., 23:04</span>
+<a class="shoutbox-reply" href="/user/JuniorWaldorf#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/StupidCupcake">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103563645.jpg" width="64"/>
+</span>
+    StupidCupcake
+</a>
+</h3>
+<p>
+                        Don't Stop Me Now. ♥
+                                    </p>
+<div class="meta">
+<span class="date">21. Feb., 17:19</span>
+<a class="shoutbox-reply" href="/user/StupidCupcake#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/Midnight-Mover">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103112683.gif" width="64"/>
+</span>
+    Midnight-Mover
+</a>
+</h3>
+<p>
+                        Best Band ever!
+                                    </p>
+<div class="meta">
+<span class="date">16. Feb., 18:43</span>
+<a class="shoutbox-reply" href="/user/Midnight-Mover#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/leneheart">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/101312325.jpg" width="64"/>
+</span>
+    leneheart
+</a>
+</h3>
+<p>
+                        ♥
+                                    </p>
+<div class="meta">
+<span class="date">14. Feb., 21:28</span>
+<a class="shoutbox-reply" href="/user/leneheart#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/cultvrewhre">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103501979.jpg" width="64"/>
+</span>
+    cultvrewhre
+</a>
+</h3>
+<p>
+                        make a tea.
+                                    </p>
+<div class="meta">
+<span class="date">13. Feb., 9:35</span>
+<a class="shoutbox-reply" href="/user/cultvrewhre#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/TheWhiteMage">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103420001.gif" width="64"/>
+</span>
+    TheWhiteMage
+</a>
+</h3>
+<p>
+                        How many accounts did you make, dad?
+                                    </p>
+<div class="meta">
+<span class="date">12. Feb., 4:13</span>
+<a class="shoutbox-reply" href="/user/TheWhiteMage#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/vals81">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/6669431.jpg" width="64"/>
+</span>
+    vals81
+</a>
+</h3>
+<p>
+                        Here some pics of the Berlin show: <a href="http://itsonlymusicbutlive.com/2015/02/05/queen-with-adam-lambert-foto-report-o2-world-berlin/" rel="nofollow">http://itsonlymusicbutlive.com/2015/02/05/queen-with-adam-lambert-foto-report-o2-world-berlin/</a>
+</p>
+<div class="meta">
+<span class="date">5. Feb., 11:16</span>
+<a class="shoutbox-reply" href="/user/vals81#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/DevilDave59">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/93883409.jpg" width="64"/>
+</span>
+    DevilDave59
+</a>
+</h3>
+<p>
+                        Great music never dies or becomes unfashionable.
+                                    </p>
+<div class="meta">
+<span class="date">4. Feb., 21:41</span>
+<a class="shoutbox-reply" href="/user/DevilDave59#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/orange_kiss">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103595127.png" width="64"/>
+</span>
+    orange_kiss
+</a>
+</h3>
+<p>
+                        ♥ ♥ ♥ ♥ ♥
+                                    </p>
+<div class="meta">
+<span class="date">4. Feb., 18:04</span>
+<a class="shoutbox-reply" href="/user/orange_kiss#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/SuomiKolli665">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/99706449.jpg" width="64"/>
+</span>
+    SuomiKolli665
+</a>
+</h3>
+<p>
+                        "jb and pitbull and jason deRulo beats shit out of this anyday." Ummm, nope. If anything, Queen beats the shit out of those douchebags.
+                                    </p>
+<div class="meta">
+<span class="date">3. Feb., 8:40</span>
+<a class="shoutbox-reply" href="/user/SuomiKolli665#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/hanelli">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/99888207.png" width="64"/>
+</span>
+    hanelli
+</a>
+</h3>
+<p>
+                        rogerina
+                                    </p>
+<div class="meta">
+<span class="date">2. Feb., 12:35</span>
+<a class="shoutbox-reply" href="/user/hanelli#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/Schander">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/85615573.png" width="64"/>
+</span>
+    Schander
+</a>
+</h3>
+<p>
+                        The Band Forever. [3]
+                                    </p>
+<div class="meta">
+<span class="date">31. Jan., 22:53</span>
+<a class="shoutbox-reply" href="/user/Schander#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/ToiletFromNepal">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/99600071.png" width="64"/>
+</span>
+    ToiletFromNepal
+</a>
+</h3>
+<p>
+                        what is this all about?!? my clasmate listens to this all day...jb and pitbull and jason deRulo beats shit out of this anyday. -.-
+                                    </p>
+<div class="meta">
+<span class="date">31. Jan., 20:48</span>
+<a class="shoutbox-reply" href="/user/ToiletFromNepal#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/PFdark">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/98782263.jpg" width="64"/>
+</span>
+    PFdark
+</a>
+</h3>
+<p>
+                        beautiful and cant be better .
+                                    </p>
+<div class="meta">
+<span class="date">30. Jan., 13:40</span>
+<a class="shoutbox-reply" href="/user/PFdark#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/lear_4">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/102101107.jpg" width="64"/>
+</span>
+    lear_4
+</a>
+</h3>
+<p>
+                        The Band Forever. [2]
+                                    </p>
+<div class="meta">
+<span class="date">30. Jan., 8:23</span>
+<a class="shoutbox-reply" href="/user/lear_4#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/Darkestf">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/101058043.jpg" width="64"/>
+</span>
+    Darkestf
+</a>
+</h3>
+<p>
+                        The band of the real rock!
+                                    </p>
+<div class="meta">
+<span class="date">28. Jan., 15:31</span>
+<a class="shoutbox-reply" href="/user/Darkestf#shoutbox">Antworten</a>
+</div>
+</li>
+<span class="moduleOptions">
+<a href="/music/Queen/+shoutbox">Alle 11217 Shouts</a>
+</span>
+</ul>
+</div>
+</div>
+</section>
+<div class="g4">
+<aside>
+<a class="promo-unit promo-unit--client add-vertical-margins" data-analytics-action="PromoUnitClick" data-analytics-label="ClientPromoUnit" href="/download">
+<h2>Lade den neuen Last.fm-Scrobbler herunter</h2>
+<div class="media">
+<img alt="Symbol für den Last.fm-Scrobbler" class="media-pull-left" src="http://cdn.last.fm/flatness/client/lastfm_icon_60.png">
+<div class="media-body">
+        Der Scrobbler fügt von dir wiedergegebene Titel automatisch deinem Last.fm-Profil hinzu.
+        <br>
+<span class="promo-unit-fake-link">Downloads</span>
+</br></div>
+</img></div> </a>
+</aside>
+<section class="artist-listeners">
+<section>
+<h2><a href="/music/Queen/+listeners">Aktuelle Hörer</a></h2>
+<ul odd="1">
+<li class="first media media--overflow-visible odd user">
+<a class="media-pull-left media-link-hook" href="/user/joe23amdg" title=""><span class="userImage"><img alt="" class=" rounded" height="64" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><img class="transparent_png playingnow_icon" height="12" src="http://cdn.last.fm/flatness/global/icon_eq.gif" style="" width="12"/> <a class="media-link-reference" href="/user/joe23amdg" title="">joe23amdg</a></h3>
+<div class="scrobblesource">Scrobbelt gerade von <span class="source"><a href="http://www.spotify.com/">Spotify</a></span></div>
+<a href="/music/Queen">Queen</a> – <a href="/music/Queen/_/Princes+of+the+Universe">Princes of the Universe</a>
+</div>
+</li><li class="last media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/kate-kate-kate" title="Kate Kruglova, 21, Weiblich, Russische Föderation"><span class="userImage"><img alt="" class=" rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/68956362.gif" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><img class="transparent_png playingnow_icon" height="12" src="http://cdn.last.fm/flatness/global/icon_eq.gif" style="" width="12"/> <a class="media-link-reference" href="/user/kate-kate-kate" title="Kate Kruglova, 21, Weiblich, Russische Föderation">kate-kate-kate</a></h3>
+<div class="scrobblesource">Scrobbelt gerade von <span class="source"><a href="http://chrome.google.com/extensions/detail/bbncpldmanoknoahidbgmkgobgmhnafh">Last.fm free music player</a></span></div>
+<a href="/music/Queen">Queen</a> – <a href="/music/Queen/_/Somebody+to+Love">Somebody to Love</a>
+</div>
+</li>
+</ul></section>
+<section>
+<h2><a href="/music/Queen/+listeners">Top-Hörer</a></h2>
+<ul>
+<li class="first media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/SomethingPinata" title="22, Vereinigtes Königreich"><span class="userImage"><img alt="" class=" rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/61800357.jpg" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><a class="media-link-reference" href="/user/SomethingPinata" title="22, Vereinigtes Königreich">SomethingPinata</a></h3>
+ Top-Hörer
+ </div>
+</li><li class="media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/paulinall" title="paulina, 24, Weiblich, Polen"><span class="userImage"><img alt="" class=" rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/62427777.jpg" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><a class="media-link-reference" href="/user/paulinall" title="paulina, 24, Weiblich, Polen">paulinall</a></h3>
+ Top-Hörer
+ </div>
+</li><li class="media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/justdelegard" title=""><span class="userImage"><img alt="" class=" rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/60577217.jpg" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><a class="media-link-reference" href="/user/justdelegard" title="">justdelegard</a></h3>
+ Top-Hörer
+ </div>
+</li><li class="last media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/jessi_poo" title="Jessi, 25, Weiblich, Vereinigte Staaten"><span class="userImage"><img alt="" class=" rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/22473839.jpg" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><a class="media-link-reference" href="/user/jessi_poo" title="Jessi, 25, Weiblich, Vereinigte Staaten">jessi_poo</a></h3>
+ Top-Hörer
+ </div>
+</li>
+</ul></section>
+</section>
+<div class="LastAd ad-lowermpu inactive" data-ad-collapsible="" data-ad-placement="lowermpu" data-ad-static="" data-require="ads/staticadslot" id="LastAd_lowermpu">
+<span>
+<div id="mpu_bottom">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("mpu_bottom"); 
+        });
+    </script>
+</div>
+</span>
+</div> </div>
+</div>
+</article>
+<div class="LastAd ad-lowerleaderboard inactive" data-ad-collapsible="" data-ad-placement="lowerleaderboard" data-ad-static="" data-require="ads/staticadslot" id="LastAd_lowerleaderboard">
+<span>
+<div id="leader_bottom">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("leader_bottom"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<footer class="site-footer" role="banner">
+<nav class="site-footer-nav">
+<div class="r add-bottom-margin">
+<a class="g call-to-action call-to-action--upload" data-analytics-action="FooterClick" data-analytics-label="Artists and Labels" href="/uploadmusic">
+<h2>Künstler und Labels</h2>
+<p>Verbinde dich mit Fans, indem du Musik in den Music Manager lädst</p>
+</a>
+<a class="g call-to-action call-to-action--download" data-analytics-action="FooterClick" data-analytics-label="Download Desktop App" href="/download">
+<h2>Lade unsere Apps herunter</h2>
+<p>Hole dir die Last.fm-Apps für Desktop und Mobilgeräte und scrobble los</p>
+</a>
+</div>
+<hr class="separator"/>
+<ul class="r add-bottom-margin">
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Unternehmen</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-company">
+<h2 class="iconright iconright--dropdown">Unternehmen</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="About us" href="/about">Über uns</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Contact us" href="/about/contact">Kontakt</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Jobs" href="/about/jobs">Jobs</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Blog" href="http://blog.last.fm">Blog</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Advertise" href="/advertise">Werben auf Last.fm</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Mitmachen</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-join">
+<h2 class="iconright iconright--dropdown">Mitmachen</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="Sign up" href="/join">Registrieren</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Find people" href="/community/users">Benutzersuche</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Find groups" href="/community/groups">Gruppensuche</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Community" href="/community">Community</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Forums" href="/forum">Foren</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Gutes</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-goodies">
+<h2 class="iconright iconright--dropdown">Gutes</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="More apps" href="/hardware">Mehr Apps &amp; Geräte</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Last.fm API" href="/api">Entwickler-API</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Tools, plugins &amp; more" href="http://build.last.fm">Tools &amp; Plugins</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Playground" href="http://playground.last.fm">Playground</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Free music downloads" href="/music/+free-music-downloads">Kostenlose Musikdownloads</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Hilfe</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-help">
+<h2 class="iconright iconright--dropdown">Hilfe</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="Help &amp; support" href="/help">Hilfe &amp; Support</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="System status" href="http://status.last.fm/">Systemstatus</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+<hr class="separator"/>
+<nav class="language-selector clearit toggle-container" data-require="toggle" id="change-language" role="navigation">
+<h2 class="rm">Sprachen:</h2>
+<ul class="inline-items inline-items--dotted">
+<li class="current-language">
+<strong class="current-language-text iconleft iconleft--globe">
+                    Deutsch
+                    <span class="rm">(aktuelle Sprache)</span>
+</strong>
+<a class="iconleft iconleft--globe iconright iconright--dropdown language-toggle js-toggle" href="#show-languages">
+<strong>Deutsch</strong><span class="rm">(aktuelle Sprache) — Sprache ändern</span>
+</a>
+</li>
+<li class="language-options toggle-target">
+<ul class="language-options-group">
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; en" href="http://www.last.fm/music/Queen?setlang=en" hreflang="en" rel="alternate">English</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; es" href="http://www.lastfm.es/music/Queen?setlang=es" hreflang="es" rel="alternate">Español</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; fr" href="http://www.lastfm.fr/music/Queen?setlang=fr" hreflang="fr" rel="alternate">Français</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; it" href="http://www.lastfm.it/music/Queen?setlang=it" hreflang="it" rel="alternate">Italiano</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; jp" href="http://www.lastfm.jp/music/Queen?setlang=jp" hreflang="ja" rel="alternate">日本語</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; pl" href="http://www.lastfm.pl/music/Queen?setlang=pl" hreflang="pl" rel="alternate">Polski</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; pt" href="http://www.lastfm.com.br/music/Queen?setlang=pt" hreflang="pt" rel="alternate">Português</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; ru" href="http://www.lastfm.ru/music/Queen?setlang=ru" hreflang="ru" rel="alternate">Руccкий</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; sv" href="http://www.lastfm.se/music/Queen?setlang=sv" hreflang="sv" rel="alternate">Svenska</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; tr" href="http://www.lastfm.com.tr/music/Queen?setlang=tr" hreflang="tr" rel="alternate">Türkçe</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; zh" href="http://cn.last.fm/music/Queen?setlang=zh" hreflang="zh" rel="alternate">简体中文</a>
+</li>
+</ul>
+</li>
+</ul>
+<hr class="separator"/>
+</nav>
+<div class="site-footer-legalese">
+<blockquote class="site-footer-strapline">“I Saw Last.fm and I Thought of You.”</blockquote>
+<ul class="inline-items inline-items--dotted">
+<li>
+<a href="http://www.cbsinteractive.com">CBS Interactive</a> © 2015 Last.fm Ltd.         </li>
+<li>
+<a data-analytics-action="FooterClick" data-analytics-label="Terms of Use" href="/legal/terms">Nutzungsbedingungen</a>, 
+                    <a data-analytics-action="FooterClick" data-analytics-label="Privacy Policy" href="/legal/privacy">Datenschutzrichtlinie</a> und 
+       <a data-analytics-action="FooterClick" data-analytics-label="Legal" href="/legal">Rechtliches</a> —
+            <span class="date">Aktualisiert am 26. Nov. 2013</span>
+</li>
+<li>
+<a href="http://www.gamespot.com">Gamespot</a>
+</li>
+</ul>
+<p class="wiki-legalese">
+            Manche der von Benutzern bereitgestellten Texte auf dieser Seite unterliegen der Lizenz <a href="http://creativecommons.org/licenses/by-sa/3.0/legalcode">Creative Commons Attribution/Share-Alike License</a>. Texte können zudem der <a href="/help/gfdl">GNU-Lizenz für freie Dokumentation</a> unterstehen.
+        </p>
+</div></footer> </div>
+<div id="multiButtonMenu" style="display: none;">
+<div>
+<ul class="lfmDropDownBody">
+<li class="mAddToLibrary"><a href="#">Zur Musiksammlung hinzufügen</a></li>
+<li class="mAddToFriends"><a href="#">Als Freund hinzufügen</a></li>
+<!-- <li class="save"><a href="#">Lesezeichen hinzufügen</a></li> -->
+<li class="mSend"><a href="#">Weiterleiten</a></li>
+<li class="mLove"><a href="#">Diesen Titel lieben</a></li>
+<li class="mUnlove"><a href="#">Als Lieblingslied entfernen</a></li>
+<li class="mBan"><a href="#">Titel bannen</a></li>
+<li class="mUnban"><a href="#">Titel ent-bannen</a></li>
+<li class="mAddTags"><a href="#">Tags hinzufügen</a></li>
+<li class="mAddToPlaylist"><a href="#">Zur Playlist hinzufügen</a></li>
+<li class="mRemoveFromLibrary"><a href="#">Aus Musiksammlung entfernen</a></li>
+<li class="mBuy"><a href="#">Lied kaufen</a></li>
+<li class="mMessage"><a href="#">Nachricht schreiben</a></li>
+<li class="mEditDetails"><a href="#">Angaben bearbeiten</a></li>
+<li class="mMessageAll"><a href="#">Allen Benutzern eine Nachricht schicken</a></li>
+<li class="mEditPermissions"><a href="#">Genehmigungen bearbeiten</a></li>
+<li class="mAbdicate"><a href="#">Abdanken</a></li>
+<li class="mLeave"><a href="#">Gruppe verlassen</a></li>
+<li class="mLoading"><a href="#"> </a></li>
+</ul>
+</div>
+</div>
+<div style="display: none">
+<script src="//dw.cbsimg.net/js/cbsi/ds.js"></script>
+<script>
+        if (typeof DW === "object") {
+            DW.pageParams = {
+                siteid: '190',
+                ptid: '6650'
+            };
+            DW.tagNielsen = false;
+            DW.clear();
+        }
+    </script>
+<noscript>
+<img src="//dw.cbsimg.net/clear/c.gif?ts=1424760760&amp;sid=190;"/>
+</noscript>
+</div>
+<div class="LastAd ad-tracking inactive" data-ad-collapsible="" data-ad-placement="tracking" data-ad-static="" data-require="ads/staticadslot" id="LastAd_tracking">
+<span>
+<iframe frameborder="0" height="0" name="__bkframe" src="javascript:void(0)" width="0"></iframe>
+<script src="//tags.bkrtx.com/js/bk-coretag.js" type="text/javascript"></script>
+<script type="text/javascript">
+            bk_addPageCtx("ar", "queen,freddiemercury,brianmay,rogertaylor,queen+paulrodgers,freddiemercury&montserratcaballé,thecross,pinkfloyd,deeppurple,scorpions,ledzeppelin");
+            bk_addPageCtx("tag", "classicrock,rock,80s,hardrock,glamrock,british,queen,70s,pop,progressiverock");
+            bk_addPageCtx("path", "aw-lastfm/music/artist/overview");
+            bk_addPageCtx("site", "ccbsilastfmsite");
+            bk_addPageCtx("ptype", "artist_door");
+        bk_ignore_meta = true;
+    bk_doJSTag(16515, 4);
+</script>
+</span>
+</div>
+<script data-require="omniture">
+    LFM.viewGuid = LFM.viewGuid ? LFM.viewGuid : uuid();
+    var omdata = {
+        context: {
+                        musicArtistId: "lfm-artist-1270",
+                                    siteSection: "music",
+            pageType: "artist_door",
+            pageViewGuid: LFM.viewGuid
+        }
+    };
+</script>
+<!-- Adobe Marketing Cloud Tag Loader Code-->
+<script type="text/javascript">//<![CDATA[
+var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};
+document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d2/v2/ZDItY2JzaW50ZXJhY3RpdmUtNDgxNC00MTct/amc.js\"></sc"+"ript>");
+//]]></script>
+<!-- End Adobe Marketing Cloud Tag Loader Code -->
+<script>
+LFM.Button.MultiButton.setup();
+LFM.Display.setMinHeight();
+</script>
+<div id="fb-root"></div>
+<script src="http://cn.cbsimg.net/cnwk.1d/Aud/javascript/last/apex.js"></script>
+<script>
+        var cbsiApexGlobal = {
+                    'SITE' : '190',
+                    'PTYPE' : '2000'
+                  };
+        if (typeof cbsiRunApexTargets === "function") {
+            cbsiRunApexTargets(cbsiApexGlobal, 1000);
+        }
+    </script>
+<script>
+    window.ClickTaleSettings = { XHRWrapper: { Enable: true} };
+    document.write(unescape("%3Cscript%20src='" +
+(document.location.protocol == 'https:' ?
+  'https://clicktalecdn.sslcs.cdngc.net/' :
+  'http://cdn.clicktale.net/') +
+"www09/ptc/220b3951-66a2-4b8e-ac35-fa58bfb30846.js'%3E%3C/script%3E"));
+
+    </script>
+</body>
+</body></body></body></meta></head></html>

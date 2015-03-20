@@ -1,0 +1,278 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>Pirates of the Caribbean - Dead Man’s Chest - Movie Trailers - iTunes</title>
+<meta content='(pics-1.1 "http://www.icra.org/ratingsv02.html" l gen true for "http://www.apple.com" r (cz 1 lz 1 nz 1 oz 1 vz 1) "http://www.rsac.org/ratingsv01.html" l gen true for "http://www.apple.com" r (n 0 s 0 v 0 l 0))' http-equiv="pics-label">
+<meta content="Fri, 26 Mar 1999 23:59:59 GMT" http-equiv="Expires">
+<meta content="Apple Inc." name="Author">
+<meta content="downloads,trailers" name="Category">
+<script charset="utf-8" type="text/javascript">
+		/* if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i)) {
+	  		window.location.replace('/trailers/iphone/disney/piratesofthecaribbeandeadmanschest/');
+	  	} */
+	</script>
+<meta content="Johnny Depp, Orlando Bloom and Keira Knightley reunite in Walt Disney Pictures’, in association with Jerry Bruckheimer Films, PIRATES OF THE CARIBBEAN: DEAD MAN’S CHEST, an all new epic tale chronicling the further mis-adventures of Captain Jack Sparrow." name="Description">
+<meta content="Trailers - Share" name="TrackingDescription">
+<meta content="width=device-height" name="viewport"/>
+<script charset="utf-8" src="http://trailers.apple.com/global/scripts/lib/prototype.js" type="text/javascript"></script>
+<script charset="utf-8" src="http://trailers.apple.com/global/scripts/lib/scriptaculous.js" type="text/javascript"></script>
+<script charset="utf-8" src="http://trailers.apple.com/global/scripts/browserdetect.js" type="text/javascript"></script>
+<script charset="utf-8" src="http://trailers.apple.com/global/scripts/apple_core.js" type="text/javascript"></script>
+<script charset="utf-8" src="http://trailers.apple.com/global/scripts/search_decorator.js" type="text/javascript"></script>
+<script charset="utf-8" src="http://trailers.apple.com/global/scripts/swap_view.js" type="text/javascript"></script>
+<script charset="utf-8" src="http://trailers.apple.com/trailers/global/scripts/bootstrapper.js" type="text/javascript"></script>
+<script type="text/javascript">
+	// Bootstrap includes based on device/browser
+	AC.bootstrap = new AC.bootstrapper({
+		calls: [
+			'globalfooter',
+			'productheaders'
+		],
+
+		includes: {
+			globalfooter: {
+				container: 'globalfooter',
+				paths: {
+					'ipad': '/trailers/global/includes/globalfooter_ipad.inc',
+					'else': '/global/nav/includes/globalfooter.inc'
+				}
+			},
+			productheaders: {
+				container: 'productheader',
+				paths: {
+					'ipad': '/trailers/global/includes/productheader_ipad.inc',
+					'else': '/trailers/global/includes/productheader.inc'
+				}
+			},
+			playlists: {
+				container: '.hud',
+				paths: {
+					'ipad': 'includes/playlists/ipad.inc',
+					'else': 'includes/playlists/web.inc'
+				}
+			},
+			scripts: {
+				container: 'head',
+				paths: {
+					'ipad': '/trailers/global/wp/includes/scripts_ipad.inc',
+					'else': '/trailers/global/wp/includes/generic_scripts.inc'
+				}
+			}
+		}
+	});
+</script>
+<script charset="utf-8" src="http://trailers.apple.com/trailers/global/wp/scripts/lib/validation.js" type="text/javascript"></script>
+<script charset="utf-8" src="http://trailers.apple.com/trailers/global/wp/scripts/content_swap.js" type="text/javascript"></script>
+<script charset="utf-8" src="http://trailers.apple.com/trailers/global/wp/scripts/ac_quicktime.js" type="text/javascript"></script>
+<script charset="utf-8" src="http://trailers.apple.com/trailers/global/wp/scripts/share.js" type="text/javascript"></script>
+<script charset="utf-8" src="http://trailers.apple.com/trailers/global/wp/scripts/trailer.js" type="text/javascript"></script>
+<script charset="utf-8" src="http://trailers.apple.com/trailers/global/wp/scripts/trailer_generic.js" type="text/javascript"></script>
+<script charset="utf-8" src="http://trailers.apple.com/trailers/global/scripts/promotruncate.js" type="text/javascript"></script>
+<script charset="utf-8" src="http://trailers.apple.com/trailers/global/scripts/sendtoafriend.js" type="text/javascript"></script>
+<script charset="utf-8" src="http://trailers.apple.com/trailers/global/scripts/readmore.js" type="text/javascript"></script>
+<link charset="utf-8" href="http://trailers.apple.com/global/styles/base.css" rel="stylesheet" type="text/css"/>
+<link charset="utf-8" href="http://trailers.apple.com/trailers/global/wp/styles/trailer.css" rel="stylesheet" type="text/css"/>
+<link charset="utf-8" href="http://trailers.apple.com/trailers/global/wp/styles/trailer_generic.css" rel="stylesheet" type="text/css"/>
+<link charset="utf-8" href="http://trailers.apple.com/trailers/global/wp/styles/ipad_white.css" rel="stylesheet" type="text/css"/>
+<script charset="utf-8" type="text/javascript">
+		var hudContrast = 'light';
+		var hudArrowContrast = 'light';
+		var TrailerOverlayitunesLink = 'http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewMovie?id=192846080&s=143441&partnerId=30&siteID=KcYgFL4xzJU&name=trailers&v0=WWW-NAUS-ITMS-TRAILERS-AVAILABLE';
+
+		document.observe('bootstrap:finished', function() {
+			new STAF('Pirates of the Caribbean - Dead Man&#x2019;s Chest', '/trailers/disney/piratesofthecaribbeandeadmanschest/', 'http://trailers.apple.com/trailers/disney/images/piratesofthecaribbeandeadmanschest_200606071022.jpg');
+
+			new PosterPopup('http://trailers.apple.com/trailers/disney/images/piratesofthecaribbeandeadmanschest_l200606071022.jpg');
+
+			/* Force truncated promos' titles to fit on 2 lines */
+			var truncH4 = (AC && AC.Detector && AC.Detector._isIpad) ? 50 : 50;
+			var truncA = (AC && AC.Detector && AC.Detector._isIpad) ? 20 : 23;
+			promoTruncate('#promofooter-980 .column.truncate h4', truncH4);
+			promoTruncate('#promofooter-980 .column li.truncate a', truncA);
+			if(AC && AC.Detector && AC.Detector._isIpad) promoTruncate('#promofooter-980 .column ol li a strong', truncA);
+		});
+	</script>
+</meta></meta></meta></meta></meta></meta></meta></head>
+<body class="trailers" id="default">
+<noscript><div id="nojs">Please enable JavaScript to view this page properly.</div></noscript>
+<div id="noqt" style="display:none;">Get the <a href="http://www.apple.com/quicktime/download/">latest version of QuickTime</a> to view movie trailers.</div>
+<div id="productheader">
+</div><!--/productheader-->
+<script charset="utf-8" type="text/javascript">var searchSection = 'downloads';</script>
+<div id="top">
+<!-- SiteCatalyst code version: H.8. Copyright 1997-2006 Omniture, Inc. -->
+<script type="text/javascript">
+/* RSID: */
+var s_account="appleglobal,appleustrailers"
+</script>
+<script src="http://images.apple.com/global/metrics/js/s_code_h.js" type="text/javascript"></script>
+<script type="text/javascript">
+s.pageName=AC.Tracking.pageName()+" (US)";
+s.server=""
+s.channel="www.us.trailers"
+s.pageType=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4=document.URL;
+s.prop5=""
+
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+
+s.linkInternalFilters="javascript:,apple.com"
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)</script>
+<!-- End SiteCatalyst code version: H.8. -->
+</div>
+<div id="container">
+<div id="main">
+<div class="" id="content">
+<div class="clearfix" id="header">
+<h1>Pirates of the Caribbean - Dead Man’s Chest</h1>
+<strong class="pg-13">In theaters: July 7th, 2006 </strong>
+<span>Copyright ©  </span>
+</div>
+<div class="grid3col" id="trailer">
+<div class="column first">
+<div id="poster">
+<span class="enlarge"></span>
+<img alt="Pirates of the Caribbean - Dead Man’s Chest Poster" class="left" height="193" src="http://trailers.apple.com/trailers/disney/images/piratesofthecaribbeandeadmanschest_200606071022.jpg" width="134">
+</img></div>
+</div>
+<div class="column second">
+<div id="movie-description" style="height:12em"><p>Johnny Depp, Orlando Bloom and Keira Knightley reunite in Walt Disney Pictures’, in association with Jerry Bruckheimer Films, PIRATES OF THE CARIBBEAN: DEAD MAN’S CHEST, an all new epic tale chronicling the further mis-adventures of Captain Jack Sparrow.</p></div>
+<span id="toggle"><a class="arrow down" href="#" id="movie-description-toggle">More</a></span>
+<ul class="details clearfix">
+<li><strong>Genre:</strong><span><a href="/trailers/genres/action_and_adventure/">Action and Adventure</a></span></li>
+<li><strong>Director:</strong><span>Gore Verbinski</span></li>
+<!-- switch cast on -->
+<li><strong>Cast:</strong><span>Johnny Depp, Orlando Bloom, Keira Knightley, Stellan Skarsgard, Bill Nighy</span></li>
+<!-- switch cast off -->
+</ul>
+<!--	<a id="tellafriend-trigger" href="#">Send to a friend</a> -->
+</div>
+<div class="column last">
+<div class="hud light">
+</div><!-- /hud -->
+</div>
+</div>
+<div id="tellafriend" style="display:none;">
+<!-- share container -->
+<div class="sharetoggle" id="sharecontainer">
+<h1><span>Send to a friend</span></h1>
+<div class="top"></div>
+<div class="grid2col">
+<div class="column first" id="shareformbox">
+<h2><img alt="Personalize your message." height="20" src="http://trailers.apple.com/trailers/images/generic/tellafriend_title_personalize.gif" width="236"/></h2>
+<form accept-charset="utf-8" action="submit_to_url" enctype="multipart/form-data" id="shareform" method="post">
+<ul>
+<li class="shareformitem" id="sharernameitem">
+<label for="sharername">To: </label>
+<input class="required validate-email default" id="shareremail" maxlength="320" name="remail" type="text" value="Email address">
+</input></li>
+<li class="shareformitem" id="shareremailitem">
+<input class="default" id="sharername" maxlength="40" name="rname" type="text" value="Name">
+</input></li>
+<li class="shareformitem" id="sharesnameitem">
+<label for="sharesname">From: </label>
+<input class="required validate-email default" id="sharesemail" maxlength="320" name="semail" type="text" value="Email address">
+</input></li>
+<li class="shareformitem" id="sharesemailitem">
+<input class="default" id="sharesname" maxlength="40" name="sname" type="text" value="Name">
+</input></li>
+<li class="shareformitem" id="sharecopyreqitem">
+<input id="sharecopyreq" name="copyreq" type="checkbox">
+<label class="normal" for="sharecopyreq"> Send me a copy</label>
+</input></li>
+<li class="shareformitem" id="sharemessageitem">
+<label for="sharemessage">Message: </label>
+<div id="sharecharcontainer">
+<span id="sharecharcount">82</span> characters left
+						</div>
+<textarea cols="25" id="sharemessage" name="message" onkeypress="return (event.which == 8) || ((this.value.length &lt; 250) &amp;&amp; (this.value.length &gt;= 0));" rows="8"></textarea>
+</li>
+<li class="shareformitem" id="sharesubmititem">
+<input id="sendformsubmit" name="submit" type="submit" value="Submit">
+<div id="sendingbtn" style="display: none" title="Sending..."></div>
+</input></li>
+</ul>
+</form>
+<div id="shareconfirmation" style="display:none;">
+<p><strong>Thank you.</strong></p>
+<a href="#sharecontainer" id="sharesendagain" title="Send to another friend">Send to another friend</a><br>
+</br></div>
+</div><!-- /formbox -->
+<div class="column last" id="sharepreview">
+<h2><img alt="Message preview." height="20" src="http://trailers.apple.com/trailers/images/generic/tellafriend_title_preview.gif" width="161"/></h2>
+<img alt="" id="movie-poster" src="">
+<h3 id="movie-title">Dynamite Warrior</h3>
+<h4>Watch the trailer at apple.com/trailers</h4>
+<ul>
+<li>
+<label for="sharername">To: </label>
+<span id="rnametext"></span>
+</li>
+<li>
+<label for="sharesname">From: </label>
+<span id="snametext"></span>
+</li>
+<li>
+<div id="sharepreviewmessage"></div>
+</li>
+</ul>
+</img></div><!-- /messagebox -->
+</div>
+<div class="bottom"></div>
+</div>
+<div id="backtovideo"><a href="#" id="trailer-trigger">Back to the trailer</a></div>
+<!-- end share container -->
+<span id="defaultShareMessage">Did you see this movie trailer on apple.com? The film stars Johnny Depp and Orlando Bloom, and it's available in iTunes. Watch it and tell me what you think.</span>
+</div><!-- /tellafriend -->
+</div><!--/content-->
+<div id="hd-qt"></div>
+</div><!--/main-->
+</div><!--/container-->
+<div id="promofooter-980">
+<ul class="grid5col">
+<!--googleoff: all--><li class="column first truncate"><h4>Pirates of the Caribbean: Dead Man's Chest</h4><span>Movie</span><a class="block two-col" href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewMovie?id=192846080&amp;s=143441&amp;partnerId=30&amp;siteID=KcYgFL4xzJU&amp;name=trailers">
+<img alt="Pirates of the Caribbean: Dead Man's Chest" class="reflect left soundtrack" src="http://a1.mzstatic.com/us/r10/Features/35/3b/ca/dj.yndvljyb.200x200-75.jpg"/>
+<em class="more">Get in iTunes</em>
+</a></li><li class="column truncate"><h4>Pirates of the Caribbean: The Curse of the Black Pearl</h4><span>Movie</span><a class="block two-col" href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewMovie?id=187698805&amp;s=143441&amp;partnerId=30&amp;siteID=KcYgFL4xzJU&amp;name=trailers">
+<img alt="Pirates of the Caribbean: The Curse of the Black Pearl" class="reflect left soundtrack" src="http://a1.mzstatic.com/r10/Music/dc/39/55/dj.jvjvflku.200x200-75.jpg"/>
+<em class="more">Get in iTunes</em>
+</a></li><li class="column truncate"><h4>Pirates of the Caribbean: At World's End</h4><span>Movie</span><a class="block two-col" href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMovie?id=266229473&amp;s=143441&amp;uo=4&amp;partnerId=30&amp;siteID=KcYgFL4xzJU&amp;name=trailers">
+<img alt="Pirates of the Caribbean: At World's End" class="reflect left soundtrack" src="http://a1.mzstatic.com/us/r1000/002/Music/f8/bc/d9/dj.exrcbvuc.200x200-75.jpg"/>
+<em class="more">Get in iTunes</em>
+</a></li><li class="column truncate"><ul class="related square"><li class="title">Other Movies by <br/> Walt Disney Pictures</li><li class="truncate"><a href="/trailers/disney/bears">Bears</a></li><li class="truncate"><a href="/trailers/disney/savingmrbanks">Saving Mr. Banks</a></li><li class="truncate"><a href="/trailers/disney/deliveryman">Delivery Man</a></li><li class="truncate"><a href="/trailers/disney/planes">Planes</a></li><li class="truncate"><a href="/trailers/disney/theloneranger">The Lone Ranger</a></li></ul></li><li class="column last"><h4>Top 5 Movies</h4><ol class="square"><li><a href="https://itunes.apple.com/us/movie/hobbit-desolation-smaug/id767757443?uo=2&amp;partnerId=30&amp;SiteID=KcYgFL4xzJU&amp;name=trailers"><strong>The Hobbit: The Deso…</strong><br/><span>Action &amp; Adventure</span></a></li>
+<li><a href="https://itunes.apple.com/us/movie/the-wolf-of-wall-street/id774084884?uo=2&amp;partnerId=30&amp;SiteID=KcYgFL4xzJU&amp;name=trailers"><strong>The Wolf of Wall Str…</strong><br/><span>Drama</span></a></li>
+<li><a href="https://itunes.apple.com/us/movie/frozen/id741238771?uo=2&amp;partnerId=30&amp;SiteID=KcYgFL4xzJU&amp;name=trailers"><strong>Frozen</strong><br/><span>Kids &amp; Family</span></a></li>
+<li><a href="https://itunes.apple.com/us/movie/august-osage-county/id786413813?uo=2&amp;partnerId=30&amp;SiteID=KcYgFL4xzJU&amp;name=trailers"><strong>August: Osage County</strong><br/><span>Comedy</span></a></li>
+<li><a href="https://itunes.apple.com/us/movie/blue-jasmine/id764259828?uo=2&amp;partnerId=30&amp;SiteID=KcYgFL4xzJU&amp;name=trailers"><strong>Blue Jasmine</strong><br/><span>Drama</span></a></li>
+</ol></li><!--googleon: all-->
+</ul>
+</div><!--/promofooter-->
+<div class="gf-980" id="globalfooter">
+<div id="breadcrumbs">
+<a class="home" href="http://www.apple.com/">Home</a>
+<span>&gt;</span>
+<a href="/">iTunes Movie Trailers</a>
+<span>&gt;</span>
+			Pirates of the Caribbean - Dead Man’s Chest
+		</div><!--/breadcrumbs-->
+</div><!--/globalfooter-->
+</body>
+</html>

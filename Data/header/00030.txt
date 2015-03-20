@@ -1,0 +1,16 @@
+Server: Apache
+Content-Type: text/html; charset=ISO-8859-1
+P3P: policyref="/w3c/p3p.xml", CP="CAO PSA OUR"
+X-venda-hitid: 8f982454
+Vary: User-Agent
+Vary: Accept-Encoding
+Expires: Tue, 24 Feb 2015 06:25:39 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 24 Feb 2015 06:25:39 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: SID=950bf845b5614c7f17444fae35b55408; domain=store.metmuseum.org; path=/; expires=Wed, 24-Feb-2016 06:25:38 GMT
+Set-Cookie: device=desktop; domain=store.metmuseum.org; path=/
+

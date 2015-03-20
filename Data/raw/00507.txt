@@ -1,0 +1,2411 @@
+
+<!DOCTYPE html>
+
+<html class="no-js lastfm" data-ad-zone="music:artist:overview" lang="de">
+<head>
+<meta charset="utf-8">
+<meta content="IE=edge; chrome=1" http-equiv="X-UA-Compatible"/>
+<link href="http://purl.org/uF/2008/03/" rel="profile"/>
+<!--–[if IE]--><!endif]–>
+
+            <title>Elvis Presley – Hören, Videos, Konzerte, Statistiken und Bilder kostenlos bei Last.fm</title>    
+        <script>(function(e) { e.className = e.className.replace(/\bno-js\b/,'js'); })(document.documentElement)</script>
+
+    <link rel="search" type="application/opensearchdescription+xml" href="http://cdn.last.fm/opensearch.xml" title="Last.fm" />
+            <meta name="description" content="Sieh dir Videos an &amp;amp; höre kostenlos Elvis Presley: Blue Christmas, Jailhouse Rock und mehr, außerdem 854 Bilder. Elvis Presley (* 8. Januar 1935 in Tupelo, Mississippi, Vereinigte Staaten; † 16. August 1977 in Memphis, Tennessee, USA; gebürtig Elvis Aron Presley später Elvis Aaron Presley) war ein US-amerikanischer Sänger und Schauspieler, der aufgrund seines immensen und dauerhaften Erfolges den Beinamen „King“ bzw. &quot;King of Rock ’n’ Roll&quot; erhielt. Kindheit Elvis Presley wurde am 8. Januar 1935 in East Tupelo, Mississippi, unter dem Namen Elvis Aron Presley geboren und ist das einzige überlebende Kind von Vernon Presley (* 19. April 1916; † 26. Juni 1979) und Gladys Love Presley (geb. Smith * 25. April 1912; † 14. August 1958). Entdecke mehr Musik, Konzerte, Videos und Bilder mit dem größten Musikkatalog online bei Last.fm."/>
+
+
+            <meta name="robots" content="NOODP" />
+
+        
+                <meta property="og:site_name" content="Last.fm" />
+<meta property="fb:app_id" content="192959324047861" />
+
+            
+                        
+    <meta property="og:title" content="Elvis Presley" />
+    <meta property="og:url" content="http://www.lastfm.de/music/Elvis+Presley" />
+    <meta property="og:image" content="http://userserve-ak.last.fm/serve/126/48133595.png" />
+
+    
+            <meta property="og:type" content="band" />    
+                <link rel="shortcut icon" href="http://cdn.last.fm/flatness/favicon.2.ico" />
+        <link rel="apple-touch-icon" href="http://cdn.last.fm/flatness/apple-touch-icon.png" />
+    
+        <meta name="msapplication-TileImage" content="http://cdn.last.fm/flatness/lastfm_win8_tile_144.png" />
+    <meta name="msapplication-TileColor" content="#d51007" />
+    
+        <meta name="apple-itunes-app" content="app-id=585235199">
+
+    
+    
+            <link rev="canonical" href="http://lastfm.de/+aKw" />
+    <link rel="shortlink" href="http://lastfm.de/+aKw" />
+    
+                <link rel="alternate" hreflang="en" href="http://www.last.fm/music/Elvis+Presley" />
+    
+                    <link rel="alternate" hreflang="es" href="http://www.lastfm.es/music/Elvis+Presley" />
+                <link rel="alternate" hreflang="fr" href="http://www.lastfm.fr/music/Elvis+Presley" />
+                <link rel="alternate" hreflang="it" href="http://www.lastfm.it/music/Elvis+Presley" />
+                <link rel="alternate" hreflang="ja" href="http://www.lastfm.jp/music/Elvis+Presley" />
+                <link rel="alternate" hreflang="pl" href="http://www.lastfm.pl/music/Elvis+Presley" />
+                <link rel="alternate" hreflang="pt" href="http://www.lastfm.com.br/music/Elvis+Presley" />
+                <link rel="alternate" hreflang="ru" href="http://www.lastfm.ru/music/Elvis+Presley" />
+                <link rel="alternate" hreflang="sv" href="http://www.lastfm.se/music/Elvis+Presley" />
+                <link rel="alternate" hreflang="tr" href="http://www.lastfm.com.tr/music/Elvis+Presley" />
+                <link rel="alternate" hreflang="zh" href="http://cn.last.fm/music/Elvis+Presley" />
+        
+    
+        <style>html {zoom: 1;}</style>    <script>
+
+        if(top !== self && top.location.domain !== self.location.domain) {
+            (function(d, s) {
+                if(s && s.insertRule) {
+                    s.insertRule('body { display: none !important }', 0);
+                } else if(s && s.addRule) {
+                    s.addRule('body', 'display: none !important');
+                }
+                top.location.replace(d.location.href);
+            })(document, document.styleSheets[0]);
+        }
+</script>
+
+                                        <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/themes/whittle.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/music/artist/overview.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/master.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/video/module.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/events/module.css" />
+                        
+        
+<!--[if lt IE 9!>
+<script>
+
+        window.html5 = {
+            shivCSS: false
+        }
+</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/html5shiv.js"></script>
+<!endif]-->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>$.noConflict();</script>
+<script src="//ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
+<script>
+    if(typeof Prototype === 'undefined') {
+        document.write(unescape("%3Cscript src='http://cdn.last.fm/javascript/javascript/232025/lib/prototype.js'%3E%3C/script%3E"));
+    }
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/scriptaculous.js"></script>
+<script>
+    if(typeof Scriptaculous === 'undefined') {
+        document.write(unescape("%3Cscript src='http://cdn.last.fm/javascript/javascript/232025/lib/scriptaculous/scriptaculous.js'%3E%3C/script%3E"));
+    }
+</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/mustache-min.js"></script>
+
+<script>SM2_DEFER = true;</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/sm2-min.js"></script>
+
+<script src="http://cdn.last.fm/javascript/javascript/232025/LFM.js"></script>
+
+<script>
+    LFM.set("ParentResource", {"id":"1196","type":6,"name":"Elvis Presley","url":"\/music\/Elvis+Presley","image":{"small":"http:\/\/userserve-ak.last.fm\/serve\/34\/48133595.png","smallsquare":"http:\/\/userserve-ak.last.fm\/serve\/34s\/48133595.png","medium":"http:\/\/userserve-ak.last.fm\/serve\/64\/48133595.png","mediumsquare":"http:\/\/userserve-ak.last.fm\/serve\/64s\/48133595.png","large":"http:\/\/userserve-ak.last.fm\/serve\/126\/48133595.png","largesquare":"http:\/\/userserve-ak.last.fm\/serve\/126s\/48133595.png","mega":"http:\/\/userserve-ak.last.fm\/serve\/252\/48133595.png","original":"http:\/\/userserve-ak.last.fm\/serve\/_\/48133595\/Elvis+Presley+png+version.png"}});
+    LFM.Adserver.showAds = true;
+    LFM.set("Session", {"cookieHost":".lastfm.de","host":"www.lastfm.de","staticHost":"http:\/\/cdn.last.fm","wsHost":"ws.audioscrobbler.com","userserveHost":"http:\/\/userserve-ak.last.fm","wsKey":"ceec2bb03d4c5929f0d6667fc266dc75","formtoken":"2bcd67b944b9e63a7fd1b2c0c95a8d55947c66b3","location":"us","language":"de","ajaxhost":"ajax.last.fm","templatePath":"\/templates\/231606","jsPath":"http:\/\/cdn.last.fm\/javascript\/javascript\/232025","cssPath":"http:\/\/cdn.last.fm\/css\/css\/231990","loggedIn":false});
+    LFM.set("resTypes", {
+        EVENT: 29,
+        ARTIST: 6,
+        ALBUM: 8,
+        TRACK: 9,
+        GROUP: 20,
+        TAG: 32,
+        USER: 4,
+        LABEL: 10
+    });
+    LFM.set("resTypeLookup", {
+        29: "Event",
+        6: "Artist",
+        8: "Album",
+        9: "Track",
+        20: "Group",
+        32: "Tag",
+        4: "User",
+        10: "Label"
+    });
+
+    LFM.set("String", {okText: "OK",cancelText: "Abbrechen",clickToEditText: "Zum Bearbeiten hier klicken",savingText: "Speichern...",loadingText: "Wird geladen...",deletingText: "Lösche...",thereWasAnError: "Es gab einen Fehler.",dialogLoadError: "Beim Laden dieses Dialogs ist ein Fehler aufgetreten.",fileTooBig: "Die Datei ist leider zu groß.",noFile: "Bitte wähle eine Datei aus.",uploadCancelled: "Upload abgebrochen.",deleteMessageTitle: "Nachricht löschen",deleteMessagePrompt: "Bist du sicher, dass du diese Nachricht löschen möchtest?",deleteFriendPrompt: "Bist du sicher, dass du die Freundschaft mit dieser Person beenden möchtest?",deleteImage: "Bist du sicher, dass du dieses Bild löschen möchtest?",deleteButtonText: "Löschen",done: "Fertig",backText: "Zurück",yesText: "Ja",noText: "Nein",saveText: "Speichern",saveTitle: "Zum Profil hinzufügen",sendText: "Senden",sendTitle: "An Freunde weiterleiten",addTitle: "Zu Musiksammlung hinzufügen",tagTitle: "Tags hinzufügen",playlistTitle: "Zur Playlist hinzufügen",befriendTitle: "Einen Freund hinzufügen",labsfeedbackTitle: "Gib uns dein Feedback",joinTitle: "Gruppe beitreten",loved: "Geliebt",RemoveFromLibraryTitle: "Aus deiner Musiksammlung löschen",uploadImageTitle: "Bild hochladen",uploadVideoTitle: "Video hochladen",usernoteTitle: "Add a note",cleanupBioTitle: "Cleanup Bio",flageventTitle: "Zur Überprüfung melden",setLocationTitle: "Standort festlegen",newWindowTooltip: "Dieser Link wird ein neues Fenster öffnen",unloadWarningMessage: "Dies stoppt die Wiedergabe",trackLoved: "Als Lieblingslied markiert",playbackStopped: "Wiedergabe gestoppt",loadingTrackInfo: "Titelinformationen werden geladen",errorLoadingTrackInfo: "Fehler beim Laden der Titelinformationen",emailLineup: "Per E-Mail senden",uploadMessages: {mayTakeLonger: "Dies kann leider ein bisschen länger dauern als gewöhnlich. Bitte warte ein paar Sekunden.",uploading: "Lade hoch...",endUploading: "Fertig",progressDisplay: "PERCENTUPLOADED% komplett (TRANSFERRATE kb/s) – TIMEREMAINING verbleibende Sekunden",progressComplete: "100% komplett",failedRetrying: "Konnte Upload nicht noch einmal versuchen.",processingMedia: "Processing media…",unsupportedFormat: "Sorry, the file you uploaded isn’t encoded in a supported format. Please try again.",uploadError: "There was an error uploading your video, please verify that the file you are uploading is not too large or of an incorrect format and try again."},shortMonths: {'1': "Jan",'2': "Feb",'3': "Mär",'4': "Apr",'5': "Mai",'6': "Jun",'7': "Jul",'8': "Aug",'9': "Sep",'10': "Okt",'11': "Nov",'12': "Dez"},resTypePlural: {29: "Events",6: "Künstler",8: "Alben",9: "Titel",20: "Gruppen",32: "Tags",4: "Benutzer","friends":   "Freunde",10: "Labels"}});LFM.set("Element", {icon_loved_indicator: "<img class=\"icon loved_indicator_icon\" width=\"11\" height=\"9\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_tag: "<img class=\"icon tag_icon\" width=\"14\" height=\"14\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_dismiss: "<img class=\"icon dismiss_icon\" width=\"16\" height=\"16\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_play: "<img class=\"transparent_png play_icon\" width=\"13\" height=\"13\" alt=\"Spielen\" src=\"http:\/\/cdn.last.fm\/flatness\/preview\/play_indicator.png\" style=\"\" \/>"});
+        LFM.AdPlacements = ["beacon","interstitial","skin","leaderboard","mpu","widerelatedcontent","middleleaderboard","lowermpu","lowerleaderboard"];
+</script>
+
+
+<script data-main="http://cdn.last.fm/javascript/javascript/232025/modules-built/init" src="http://cdn.last.fm/javascript/javascript/232025/lib/requirejs/require-min.js"></script>
+
+    <script src="http://cdn.last.fm/javascript/javascript/232025/components.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/dialog.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/form/typeahead.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/lib/uuid.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/lib/modernizr.js"></script>
+
+<script>
+
+LFM.Page.Tracker = new LFM.Analytics.Tracker('Music/Artist/Overview', window.location.host);
+
+document.observe('dom:loaded', function() {
+
+    LFM.Page.Tracker.bindOutboundLinkListener();
+    LFM.Page.Tracker.bindEventListener();
+
+});
+
+</script>
+
+
+    
+    <script>document.observe("dom:loaded", function () { if (typeof ieHover !== 'undefined') ieHover.setUp(); });</script>
+
+    <script data-require="googleanalytics">LFM.Analytics = LFM.Analytics || {};LFM.Analytics.Helpers = {webhost:"www.lastfm.de",registrationStatus:"LoggedOut",visitorStatus: "Anonymous",artistNameString:"Elvis Presley",transformedUrl:"music/artist/overview"}</script></head>
+
+
+
+<!--[if lt IE 7 !> <body class="r-artist a-overview lfmRed lang-de theme-whittle ie ie6"> <!endif]-->
+<!--[if IE 7 !> <body class="r-artist a-overview lfmRed lang-de theme-whittle ie ie7"> <!endif]-->
+<!--[if IE 8 !> <body class="r-artist a-overview lfmRed lang-de theme-whittle ie ie8"> <!endif]-->
+<!--[if IE 9 !> <body class="r-artist a-overview lfmRed lang-de theme-whittle ie ie9"> <!endif]-->
+<!--[if (gt IE 9)|!(IE)!><!--> <body class="r-artist a-overview lfmRed  lang-de theme-whittle" > <!--<![endif]-->
+<script>var WRInitTime = +new Date();</script>
+<div class="page-hack" id="page"></div> <div class=" page-wrapper">
+<div class="LastAd ad-beacon inactive" data-ad-collapsible="" data-ad-placement="beacon" data-ad-static="" data-require="ads/staticadslot" id="LastAd_beacon">
+<span>
+<script>
+
+
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+(function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+
+</script>
+<script>
+    
+    var googleSlots = { };
+    var googleDisplayed = false;
+    
+
+    googletag.cmd.push(function() {
+        var unitName = "/8264/aw-lastfm/music/artist/overview",
+            isVR = false,
+            isDynamic = false,
+            isAnonHome = false;
+    
+
+    function hasPlacement(placement) {
+        return LFM.AdPlacements.indexOf(placement) >= 0;
+    };
+
+    var leaderboardSizes = [[728,90],[970,66],[970,90],[860,55]];
+    // The leaderboard slot height is fixed at 90px when using dynamic ads,
+    // showing a taller leaderboard would cause the page to jump, so we don't request them
+    if ( ! isDynamic) {
+        leaderboardSizes.push([880,150],[880,170],[880,200],[900,150],[900,250],[970,200],[970,250],[860,250],[980,250]);
+    }
+
+    if (hasPlacement('leaderboard')) {
+        googleSlots['leader_top'] = googletag.defineSlot(unitName, leaderboardSizes, "leader_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    var mpuSizes = [[300,250],[138,108]] ;
+    if (! isAnonHome) {
+        mpuSizes.push([300,600]);
+    }
+
+    var lowerMpuSizes = [[300,250]];
+
+    if (hasPlacement('mpu')) {
+        googleSlots['mpu_top'] = googletag.defineSlot(unitName, mpuSizes, "mpu_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    if (hasPlacement('lowermpu')) {
+        googleSlots['mpu_bottom'] = googletag.defineSlot(unitName, lowerMpuSizes, "mpu_bottom")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "bottom");
+    }
+
+    if (hasPlacement('skin')) {
+        googleSlots['skin'] = googletag.defineSlot(unitName, [1600,1000], "skin")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    if (hasPlacement('interstitial')) {
+        googleSlots['intromercial'] = googletag.defineOutOfPageSlot(unitName, "intromercial")
+        .addService(googletag.pubads());
+    }
+
+    var lowerLeaderboardSizes = [[728,90],[970,90],[860,55],[880,150],[880,170],[880,200],[900,150]];
+    if (hasPlacement('lowerleaderboard')) {
+        googleSlots['leader_bottom'] = googletag.defineSlot(unitName, lowerLeaderboardSizes, "leader_bottom")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "bottom");
+    }
+
+    if (hasPlacement('sky')) {
+        googleSlots['sky_top'] = googletag.defineSlot(unitName, [160,600], "sky_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    // Collapse as soon as display() for the slot is reached and expand only when there is an ad
+    // i.e. no flickering
+    googletag.pubads().collapseEmptyDivs(true);
+
+    if ( ! isVR) {
+        googletag.pubads().enableSingleRequest();    
+
+        if ( ! isDynamic) {
+            googletag.pubads().enableSyncRendering();    
+        }
+    }
+
+    if (screen.width >= 1280) {
+        googletag.pubads().setTargeting("inskin", "yes");
+    }
+
+    
+
+            googletag.pubads().setTargeting("ar", "elvispresley,jerryleelewis,johnnycash,shakin\'stevens,chuckberry,carlperkins,eddiecochran,royorbison,buddyholly,fatsdomino,theeverlybrothers");
+            googletag.pubads().setTargeting("tag", "rocknroll,classicrock,rock,oldies,rockandroll,rockabilly,50s,60s,country,pop");
+            googletag.pubads().setTargeting("geo", "US");
+            googletag.pubads().setTargeting("lang", "de");
+            googletag.pubads().setTargeting("res", "1196");
+            googletag.pubads().setTargeting("established", "1");
+    
+    LFM.viewGuid = LFM.viewGuid ? LFM.viewGuid : uuid();
+    googletag.pubads().setTargeting("vguid", LFM.viewGuid);
+
+    googletag.enableServices();
+    
+
+  });
+
+</script>
+</span>
+</div>
+<div class="LastAd ad-interstitial inactive" data-ad-collapsible="" data-ad-placement="interstitial" data-ad-static="" data-require="ads/staticadslot" id="LastAd_interstitial">
+<span>
+<div id="intromercial">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("intromercial"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<div class="LastAd ad-skin inactive" data-ad-collapsible="" data-ad-placement="skin" data-ad-static="" data-require="ads/staticadslot" id="LastAd_skin">
+<span>
+<div id="skin">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("skin"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<div class="LastAd ad-leaderboard inactive" data-ad-collapsible="" data-ad-placement="leaderboard" data-ad-static="" data-require="ads/staticadslot" id="LastAd_leaderboard">
+<span>
+<div id="leader_top">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("leader_top"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<div class="masthead-wrapper">
+<header class="masthead" role="banner">
+<h1>
+<a class="ir lastfm-logo" href="/">
+                Last.fm
+            </a>
+</h1>
+<form action="/search" class=" site-search search-autocomplete search-autocomplete--main " data-require="search/sitesearch" data-template="search" data-url="/search/autocomplete" method="get" role="search">
+<fieldset>
+<legend class="rm">Suche auf der Seite</legend>
+<input autocomplete="off" autocorrect="off" class="js-search search-box" name="q" placeholder="Musiksuche" size="26" type="text"/>
+<div class="js-search-progress search-progress ir">Lädt</div>
+<input name="from" type="hidden" value="ac"/>
+<button class="search-submit icon iconleft iconleft--search" title="Suchen" type="submit"></button>
+</fieldset>
+</form>
+<nav role="navigation">
+<ul class="primary-nav remove-bottom-margin">
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/music">Musik</a>
+</li>
+<li class="primary-nav-item" id="listenNav">
+<a class="primary-nav-link" href="/listen">Hören</a>
+</li>
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/events">Events</a>
+</li>
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/charts">Charts</a>
+</li>
+</ul>
+<div class="masthead-right" role="navigation">
+<a class="join" data-analytics-action="SignUpClick" data-analytics-label="Header" href="/join">Registrieren</a>
+<a class="btn btn--small btn--header btn--rounded login" href="/login" id="login-link">Einloggen</a>
+</div>
+</nav>
+</header>
+<link href="//embed.spotify.com/static/css/mediabar/mediabar-lastfm.css" rel="stylesheet" type="text/css"/>
+<div class="persistent-bar">
+<div class="spotify-mediabar-wrapper">
+<div class="spotify-mediabar" data-require="spotify/spotifymediabar" id="spotify-mediabar"></div>
+</div>
+<a class="spotify-mediabar-feedback" data-lab-name="spotifyplayback" data-require="labfeedbackbutton" href="#">
+<span class="beta-badge">Beta</span> Feedback
+    </a>
+</div>
+<div data-require="spotify/signupcompletemodal" id="spotify-signup-complete-modal">
+<div class="sparse-modal js-modal"></div>
+</div>
+<div class="needs-js" data-modal-open="" data-require="start/modal">
+<div class="sparse-modal js-modal" data-require="autodismissanoncta">
+<div class="sparse-modal-scroll">
+<div class="sparse-modal-content anon-cta anon-cta--bold anon-cta--popup align-center">
+<h2>Entdecke neue Musik</h2>
+<p class="add-bottom-margin">Last.fm ist ein Service zum Entdecken neuer Musik, der dir personalisierte Empfehlungen auf Basis deiner gespielten Musik gibt.</p>
+<a class="anon-cta-button anon-cta-button--big" href="/join">Starte dein Last.fm-Profil</a>
+<a class=" sparse-modal-close js-close btn btn--rounded btn--icon-only btn--small iconleft iconleft--delete " href="#close">Fenster schließen</a>
+</div>
+</div>
+</div>
+</div> </div>
+<article class="content artist-overview" data-require="music/artistpage" itemscope="" itemtype="http://schema.org/MusicGroup">
+<header class=" page-head without-crumbtrail without-image clearit ">
+<h1 itemprop="name">
+        Elvis Presley    </h1>
+<nav class="secondary-nav" data-require="secondarynav" role="navigation">
+<ul class="visible-menu">
+<li class=" first "><a href="/music/Elvis+Presley/+tracks">Titel</a></li> <li><a href="/music/Elvis+Presley/+albums">Alben</a></li>
+<li><a href="/music/Elvis+Presley/+images">Bilder</a></li>
+<li><a href="/music/Elvis+Presley/+videos">Videos</a></li>
+<li><a href="/music/Elvis+Presley/+events">Events</a></li>
+<li><a href="/music/Elvis+Presley/+wiki">Biografie</a></li>
+<li><a href="/music/Elvis+Presley/+similar">Ähnliche Künstler</a></li> <li><a href="/music/Elvis+Presley/+charts">Charts</a></li> <li><a href="/music/Elvis+Presley/+tags">Tags</a></li> <li><a href="/music/Elvis+Presley/+listeners">Hörer</a></li> <li><a href="/music/Elvis+Presley/+journal">Blog</a></li> <li><a href="/music/Elvis+Presley/+news">News</a></li> <li><a href="/music/Elvis+Presley/+groups">Gruppen</a></li>
+</ul> <div class="drop-down-menu more">
+<a class="menu-toggle" href="#">Mehr…</a>
+<ul class="hidden-menu"></ul>
+</div></nav></header>
+<div class="r artist-header">
+<section class="g8 artist-images">
+<div class="widget widget-music/heroimage" data-require="music/heroimage" data-template="resourceimages/herosidekick_images" data-url="/music/Elvis+Presley/+modules/herosidekickimages"> <div class="resource-images">
+<h2 class="rm">Bilder</h2>
+<a class="hero-image hero-image--profile" href="/music/Elvis+Presley/+images/48133595" style="background-image: url(http://userserve-ak.last.fm/serve/500/48133595/Elvis+Presley+png+version.png)" title="Bild hochgeladen von babs100">
+<img alt="png version" itemprop="image" src="http://userserve-ak.last.fm/serve/500/48133595/Elvis+Presley+png+version.png"/>
+</a>
+<ul class="remove-bottom-margin sidekick-images">
+<li class="sidekick-wrapper primary-sidekick">
+<a class="sidekick-image sidekick-image--landscape" href="/music/Elvis+Presley/+images/2352968" style="background-image: url(http://userserve-ak.last.fm/serve/252/2352968.jpg)" title="Bild hochgeladen von HeyHoLou">
+<img alt="elvis" src="http://userserve-ak.last.fm/serve/252/2352968.jpg"/>
+</a>
+</li>
+<li class="sidekick-wrapper secondary-sidekick">
+<a class="sidekick-image sidekick-image--profile" href="/music/Elvis+Presley/+images/36569" style="background-image: url(http://userserve-ak.last.fm/serve/252/36569.jpg)">
+<img alt="" src="http://userserve-ak.last.fm/serve/252/36569.jpg"/>
+</a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="" data-image-src="http://userserve-ak.last.fm/serve/252/405291.jpg" href="/music/Elvis+Presley/+images/405291" title="Bild hochgeladen von SillyMusicLover"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="" data-image-src="http://userserve-ak.last.fm/serve/252/141032.jpg" href="/music/Elvis+Presley/+images/141032" title="Bild hochgeladen von Dee8"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="elvis presley" data-image-src="http://userserve-ak.last.fm/serve/252/20048511.jpg" href="/music/Elvis+Presley/+images/20048511" title="Bild hochgeladen von Ege97"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="folder" data-image-src="http://userserve-ak.last.fm/serve/252/2926012.jpg" href="/music/Elvis+Presley/+images/2926012"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="Elvis" data-image-src="http://userserve-ak.last.fm/serve/252/7337335.jpg" href="/music/Elvis+Presley/+images/7337335" title="Bild hochgeladen von arybela"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="" data-image-src="http://userserve-ak.last.fm/serve/252/778167.jpg" href="/music/Elvis+Presley/+images/778167" title="Bild hochgeladen von Arkelao"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--landscape" data-image-alt="" data-image-src="http://userserve-ak.last.fm/serve/252/83578.jpg" href="/music/Elvis+Presley/+images/83578" title="Bild hochgeladen von Depechist"></a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+<section class="g4 artist-actions remove-bottom-margin">
+<div class="r r--reverse">
+<div class="g4 artist-action-area">
+<h2 class="rm">Anhören, kaufen oder teilen</h2>
+<div class=" user-actions with-station-button" data-require="music/actionarea">
+<div class="user-actions-btn-wrap user-actions-btn-wrap--add">
+<button class=" btn btn--icon-only btn--primary iconleft iconleft--add js-add " title="Zu Musiksammlung hinzufügen">
+                Zu Musiksammlung hinzufügen
+            </button>
+</div>
+<div class="user-actions-btn-wrap user-actions--play">
+<a class="stationbutton btn iconleft iconleft--play btn--primary" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Elvis%2BPresley/similarartists">Ähnliche Künstler</a>
+</div>
+</div>
+<section class="ecommerce-actions">
+<h3 class="rm">Kaufen</h3>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--primary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Artist|DirectDownload" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn iconleft iconleft--ecommerce has-retailer-icon " data-analytics-action="Buy|Direct" data-analytics-label="Artist|Amazon" href="http://www.lastfm.de/affiliate/byid/6/1196/44/artist-overview-top-callout" rel="nofollow">
+                
+    
+                    Bei Amazon kaufen
+        
+        
+                    <img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+</img></a>
+<a class=" needs-js btn dropdown-btn btn--icon-only menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Artist|Amazon" href="http://www.lastfm.de/affiliate/byid/6/1196/44/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Artist|7digital" href="http://www.lastfm.de/affiliate/byid/6/1196/13/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Artist|iTunes" href="http://www.lastfm.de/affiliate/byid/6/1196/24/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Artist|Amazon" href="http://www.lastfm.de/affiliate/byid/6/1196/1/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Artist|eBay" href="http://www.lastfm.de/affiliate/byid/6/1196/90/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </section>
+<section class="share-wrapper">
+<h3 class="rm">Weiterleiten</h3>
+<div class="dropdown-btn-wrapper needs-js" data-dropdownmenu-analytics-action="ShareShowOptions" data-require="dropdownmenu">
+<a class="btn iconleft iconleft--share dropdown-btn menu-toggle iconright iconright--dropdown" href="#share">
+        Weiterleiten
+        <div class="social-icons-wrapper">
+<span class="social-btn social-btn--facebook"></span>
+<span class="social-btn social-btn--twitter"></span>
+<span class="social-btn social-btn--google"></span>
+</div>
+</a>
+<ul class="hidden-menu dropdown-btn-menu">
+<li>
+<a class="dropdown-btn-menu-item social-btn social-btn--facebook" data-analytics-redirect="false" data-analytics-social-action="post" data-analytics-social-network="facebook" data-analytics-social-restype="Artist" data-height="400" data-require="newwindow" data-width="580" data-window-url="https://www.facebook.com/dialog/feed?app_id=192959324047861&amp;link=http%3A%2F%2Fwww.lastfm.de%2Fmusic%2FElvis%2BPresley&amp;ref=facebooklink&amp;redirect_uri=http://www.last.fm/facebook/share_popup_close&amp;display=popup" href="https://www.facebook.com/dialog/feed?app_id=192959324047861&amp;link=http%3A%2F%2Fwww.lastfm.de%2Fmusic%2FElvis%2BPresley&amp;ref=facebooklink&amp;redirect_uri=http%3A%2F%2Fwww.last.fm%2Fredirect%2Fbnc%3Fbackto%3Dhttp%253A%252F%252Fwww.lastfm.de%252Fmusic%252FElvis%252BPresley%26bnc_sig%3Da9b867a57ac7b8ee95e5d7bcc1f8ea4e" target="_blank">
+    Facebook</a> </li>
+<li>
+<a class="dropdown-btn-menu-item social-btn social-btn--twitter" data-analytics-redirect="false" data-analytics-social-action="tweet" data-analytics-social-network="twitter" data-analytics-social-restype="Artist" data-height="253" data-require="newwindow" data-width="580" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.lastfm.de%2Fmusic%2FElvis%2BPresley&amp;text=Sieh%20dir%20Elvis%20Presley%20an&amp;via=lastfm&amp;lang=de" target="_blank">
+    Twitter</a> </li>
+<li>
+<a class="dropdown-btn-menu-item social-btn social-btn--google" data-analytics-redirect="false" data-analytics-social-action="post" data-analytics-social-network="google" data-analytics-social-restype="Artist" data-height="400" data-require="newwindow" data-width="580" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.lastfm.de%2Fmusic%2FElvis%2BPresley&amp;gpsrc=frameless" target="_blank">
+    Google+</a> </li>
+<li>
+<a class="dropdown-btn-menu-item social-btn social-btn--email" data-require="sendbutton" href="/music/Elvis+Presley">
+    E-Mail</a>
+</li>
+</ul>
+</div> </section> </div>
+<div class="g4 artist-stats-area">
+<div class="media media--overflow-visible music-resource-stats" data-require="music/artiststatsarea">
+<meta content="UserPlays:57638701" itemprop="interactionCount"/>
+<ul class="media-body">
+<li class="scrobbles">
+<b data-count="57638701">57.638.701</b>
+<div class="lite">Scrobbels</div>
+</li>
+<li class="listeners">
+<b data-count="2122958" id="listenerCount">2.122.958</b> <div class="lite">Hörer</div>
+</li>
+</ul>
+<section class="memo listener-details listener-details--listening-now remove-bottom-margin ">
+<ul>
+<li class="media remove-bottom-margin listener-details-user">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/Slipcat" title="Bahus, 19, Männlich, Kasachstan"> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <img capture="clienticon" class="icon ss-lfm_icon ss_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/><span class="source"><a href="/download#content_desktop">Last.fm-Scrobbler</a></span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/Slipcat" title="Bahus, 19, Männlich, Kasachstan">Slipcat</a> hört
+                                          <em>
+<a href="/music/Elvis+Presley">Elvis Presley</a> – <a href="/music/Elvis+Presley/_/I+Got+Stung">I Got Stung</a> </em>
+</span>
+</li>
+<li class="media remove-bottom-margin listener-details-user" style="display:none;">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/Olafkonings" title=""> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <span class="source"><a href="http://www.last.fm/group/Sonos+Multi-Room+Music+System">Sonos Multi-Room Music System</a></span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/Olafkonings" title="">Olafkonings</a> hört
+                                          <em>
+<a href="/music/Elvis+Presley">Elvis Presley</a> – <a href="/music/Elvis+Presley/_/Always+on+My+Mind+-+Remastered">Always on My Mind - Remastered</a> </em>
+</span>
+</li>
+<li class="media remove-bottom-margin listener-details-user" style="display:none;">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/ArgusGdl" title="Argus, 39, Weiblich, Mexiko"> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/38167281.jpg" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <img capture="clienticon" class="icon ss-spotify_icon ss_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/><span class="source"><a href="http://www.spotify.com/">Spotify</a></span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/ArgusGdl" title="Argus, 39, Weiblich, Mexiko">ArgusGdl</a> hört
+                                          <em>
+<a href="/music/Elvis+Presley">Elvis Presley</a> – <a href="/music/Elvis+Presley/_/Can%27t+Help+Falling+in+Love">Can't Help Falling in Love</a> </em>
+</span>
+</li>
+<li class="media remove-bottom-margin listener-details-user" style="display:none;">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/Pamperit0" title="Javier Luis Casco, 43, Männlich, Argentinien"> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/88816469.jpg" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <img capture="clienticon" class="icon ss-wmp_icon ss_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/><span class="source"><a href="/download?for=wmp">Windows Media Player</a></span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/Pamperit0" title="Javier Luis Casco, 43, Männlich, Argentinien">Pamperit0</a> hört
+                                          <em>
+<a href="/music/Elvis+Presley">Elvis Presley</a> – <a href="/music/Elvis+Presley/_/Too+Much">Too Much</a> </em>
+</span>
+</li>
+<li class="media remove-bottom-margin listener-details-user" style="display:none;">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/joshuaozersky" title=""> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <img capture="clienticon" class="icon ss-spotify_icon ss_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/><span class="source"><a href="http://www.spotify.com/">Spotify</a></span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/joshuaozersky" title="">joshuaozersky</a> hört
+                                          <em>
+<a href="/music/Elvis+Presley">Elvis Presley</a> – <a href="/music/Elvis+Presley/_/I%27ve+Got+A+Thing+About+You+Baby">I've Got A Thing About You Baby</a> </em>
+</span>
+</li>
+</ul>
+</section>
+</div> </div>
+</div>
+</section>
+</div>
+<div class="r">
+<div class="g8">
+<section>
+<h2 class="rm">Tags</h2>
+<section class="global-tags">
+<h3 class="rm">Die Tags von allen</h3>
+<ul class="tags ">
+<li>
+<a href="/tag/rock%20n%20roll" rel="tag">rock n roll</a></li> <li><a href="/tag/classic%20rock" rel="tag">classic rock</a></li> <li><a href="/tag/rock" rel="tag">rock</a></li> <li><a href="/tag/oldies" rel="tag">oldies</a></li> <li><a href="/tag/rock%20and%20roll" rel="tag">rock and roll</a> </li>
+</ul>
+<button class=" btn btn--brand-blue btn--small iconleft iconleft--tag btn--icon-only add-tag needs-js " data-require="tagbutton" title="Elvis Presley taggen">Elvis Presley taggen</button>
+<a class="more-tags" href="/music/Elvis+Presley/+tags">Mehr Tags</a>
+</section>
+</section>
+<section class="artist-wiki">
+<header>
+<hgroup>
+<h2 class="rm">Biografie</h2>
+</hgroup>
+</header>
+<div class="wiki">
+<div class="wiki-abstract" data-require="music/wiki" id="wikiAbstract">
+<div class="wiki-text">
+ Elvis Presley (* 8. Januar 1935 in Tupelo, Mississippi, Vereinigte Staaten; † 16. August 1977 in Memphis, Tennessee, USA; gebürtig Elvis Aron Presley später <a class="bbcode_artist" href="http://www.lastfm.de/music/+noredirect/Elvis+Aaron+Presley">Elvis Aaron Presley</a>) war ein US-amerikanischer Sänger und Schauspieler, der aufgrund seines immensen und dauerhaften Erfolges den Beinamen „<a class="bbcode_artist" href="http://www.lastfm.de/music/King">King</a>“ bzw. „<span class="bbcode_unknown" title="Unknown artist">King of Rock ’n’ Roll</span>“ erhielt.<br/>
+<br/>
+Kindheit
+ <span class="hide"> <br/><br/> Elvis Presley wurde am 8. Januar 1935 in East Tupelo, Mississippi, unter dem Namen Elvis Aron Presley geboren und ist das einzige überlebende Kind von <a class="bbcode_artist" href="http://www.lastfm.de/music/Vernon+Presley">Vernon Presley</a> (* 19. April 1916; † 26. Juni 1979) und <span class="bbcode_unknown" title="Unknown artist">Gladys Love Presley</span> (geb. Smith * 25. April 1912; † 14. August 1958). Sein Zwillingsbruder (Jesse Garon, der etwa eine halbe Stunde vor Elvis geboren wurde) war bereits bei der Entbindung tot. Gladys konnte nach der schweren Geburt keine weiteren Kinder mehr bekommen. Da Elvis der einzige Überlebende der Zwillinge war, wählte seine Mutter Gladys, die nur die Buchstaben von „lives“ (lebt) vertauschte, den Namen Elvis.<br/>
+<br/>
+Vernon Presley und <a class="bbcode_artist" href="http://www.lastfm.de/music/Gladys+Smith">Gladys Smith</a> wuchsen gemeinsam auf und heirateten am 17. Juni 1933. Vernon arbeitete, wie auch schon sein Vater vor ihm, als Landarbeiter, Gladys als Akkordarbeiterin in einer Textilfabrik, dem Tupelo Garment Center. Als Gladys 1934 schwanger wurde, verlor sie ihren Job.
+ </span> </div>
+<div class="wiki-options">
+<a class="wiki-read-more" href="/music/Elvis+Presley/+wiki"> <span data-read-all="Alles lesen"> Erfahre mehr...
+ </span> </a> <a class="hide" href="/music/Elvis+Presley/+wiki/edit">Biografie bearbeiten</a> </div>
+</div>
+</div>
+</section>
+<section class="needs-js">
+<h2><a class="rm" data-analytics-action="VideoHeadingLink" href="/music/Elvis+Presley/+videos">Videos</a></h2>
+<div class="hero-video videos-on-dark" data-require="music/herovideo" id="hero-video">
+<div class="video">
+<div class="needs-js">
+<div class="clearit source-muzu" id="video-1243846">
+<div data-require="video/muzu" data-video-src="//player.muzu.tv/player/getPlayer/i/14721/?vidId=179235&amp;allowshare=n&amp;nl=y&amp;lfma=y&amp;partnerId=lf111&amp;jse=y&amp;sk=dontscrobble">
+<div class="wrapper" style="width: 620px; height: 355px;"></div>
+<div class="hero-video-info"><h3><a href="/music/Elvis+Presley/_/Blue+Moon">Blue Moon</a></h3><p>aus dem Album <a href="/music/Elvis+Presley/Elvis+Presley">Elvis Presley</a></p><a class="hero-video-more-videos" href="/music/Elvis+Presley/+videos">Mehr Videos</a></div>
+</div></div><script>new LFM.Video.FullWidth('video-1243846');</script> </div>
+</div>
+<ul class="clearit videos video-list" restypeclass="">
+<li class="source-vevo external first">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-1" href="/music/Elvis+Presley/_/Blue+Christmas/+videos/+3-USRV81000052" title="Blue Christmas"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/119D189DACFB11711BA7F7EDF2967B44.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Blue Christmas    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-2" href="/music/Elvis+Presley/_/(There%27ll+Be)+Peace+in+the+Valley+(For+Me)/+videos/+3-USRV81000056" title="(There'll Be) Peace in the Valley (For Me)"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/437FD971D9993572778F04815EA6B71B.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                (There'll Be)…    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-3" href="/music/Elvis+Presley/_/Bossa+Nova+Baby+(Viva+Elvis)/+videos/+3-USRV81400234" title="Bossa Nova Baby (Viva Elvis)"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/A1EFDFC6E36E8D9AB8D4D6F4EAD5BC06201420522256901.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Bossa Nova Baby…    </a>
+</li><li class="source-vevo external last">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-4" href="/music/Elvis+Presley/_/Santa+Claus+Is+Back+in+Town/+videos/+3-USRV81000048" title="Santa Claus Is Back in Town"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/119D189DACFB11711BA7F7EDF2967B44.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                Santa Claus Is…    </a>
+</li>
+</ul></div>
+</section>
+</div>
+<div class="g4 g--padded artist-bio-sidebar">
+<div class="artist-ad-wrapper">
+<div class="LastAd ad-mpu inactive" data-ad-collapsible="" data-ad-placement="mpu" data-ad-static="" data-require="ads/staticadslot" id="LastAd_mpu">
+<span>
+<div id="mpu_top">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("mpu_top"); 
+        });
+    </script>
+</div>
+</span>
+</div> </div>
+<section class="artist-similar-sidebar">
+<aside class="similar-artists">
+<h2><a href="/music/Elvis+Presley/+similar">Ähnliche Künstler</a></h2>
+<ul class="r">
+<li class=" first g2 g--padded">
+<a class="similar-artist" href="/music/Jerry+Lee+Lewis"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/472116.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/472116.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Jerry Lee Lewis</span>
+</div>
+</div> </a>
+</li><li class=" g2 g--padded">
+<a class="similar-artist" href="/music/Johnny+Cash"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/167556.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/167556.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Johnny Cash</span>
+</div>
+</div> </a>
+</li><li class=" g2 g--padded">
+<a class="similar-artist" href="/music/Shakin%27+Stevens"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/86539285.png');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/86539285.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Shakin' Stevens</span>
+</div>
+</div> </a>
+</li><li class=" g2 g--padded">
+<a class="similar-artist" href="/music/Chuck+Berry"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/882756.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/882756.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Chuck Berry</span>
+</div>
+</div> </a>
+</li><li class=" g2 g--padded">
+<a class="similar-artist" href="/music/Carl+Perkins"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/509873.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/509873.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Carl Perkins</span>
+</div>
+</div> </a>
+</li><li class=" last g2 g--padded">
+<a class="similar-artist" href="/music/Eddie+Cochran"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/37239603.png');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/37239603.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Eddie Cochran</span>
+</div>
+</div> </a>
+</li>
+</ul> </aside>
+</section>
+</div>
+</div>
+<section class="artist-top-tracks" id="artist-top-tracks">
+<div class="module modulecharts modulechartstracks" data-placement="artist" data-require="affiliation/multiaffiliationarea" id="switcher617346">
+<h2 class="heading"><span class="h2Wrapper"><a href="/music/Elvis+Presley/+charts"> Top-Titel
+ </a></span></h2>
+<div class="horizontalOptions clearit">
+<ul>
+<li class=" current first chartweek"><a href="/music/Elvis+Presley/+charts?rangetype=week&amp;subtype=tracks"> Letzte Woche
+ </a></li> <li class="chart6month"><a href="/music/Elvis+Presley/+charts?rangetype=6month&amp;subtype=tracks">Letzte 6 Monate</a></li>
+</ul>
+</div><!-- .horizontalOptions -->
+<div class="module-body chart chartweek current" id="charts331634">
+<table class="candyStriped chart" odd="1">
+<tbody>
+<tr class="first odd" data-track-id="10811" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 1
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:03o6RarQ4sbr9cl2JS2ya3"></span>
+<meta content="PT4M29S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Suspicious Minds, 2.500 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elvis+Presley/_/Suspicious+Minds" itemprop="url">
+<meta content="Elvis: 30 #1 Hits" itemprop="inAlbum">
+<meta content="UserPlays:1.828.733" itemprop="interactionCount">
+<a href="/music/Elvis+Presley/_/Suspicious+Minds"><span itemprop="name">Suspicious Minds</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elvis+Presley/_/Suspicious+Minds"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:100%;"><span>2.500</span></div> </td>
+</tr><tr class="" data-track-id="10796" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 2
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:014kDCk1c1PBMbuSxyczXx"></span>
+<meta content="PT2M28S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Jailhouse Rock, 2.356 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elvis+Presley/_/Jailhouse+Rock" itemprop="url">
+<meta content="Elvis: 30 #1 Hits" itemprop="inAlbum">
+<meta content="UserPlays:2.094.645" itemprop="interactionCount">
+<a href="/music/Elvis+Presley/_/Jailhouse+Rock"><span itemprop="name">Jailhouse Rock</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elvis+Presley/_/Jailhouse+Rock"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:94%;"><span>2.356</span></div> </td>
+</tr><tr class="odd" data-track-id="10782" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 3
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:02U55xUureoIoS1nsMmWaB"></span>
+<meta content="PT3M2S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Can't Help Falling in Love, 2.177 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elvis+Presley/_/Can%27t+Help+Falling+in+Love" itemprop="url">
+<meta content="Elvis: 30 #1 Hits" itemprop="inAlbum">
+<meta content="UserPlays:1.513.453" itemprop="interactionCount">
+<a href="/music/Elvis+Presley/_/Can%27t+Help+Falling+in+Love"><span itemprop="name">Can't Help Falling in Love</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elvis+Presley/_/Can%27t+Help+Falling+in+Love"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:87%;"><span>2.177</span></div> </td>
+</tr><tr class="" data-track-id="10790" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 4
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:02kRTp6dKXZqhR14Nw9vWk"></span>
+<meta content="PT2M6S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Hound Dog, 1.741 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elvis+Presley/_/Hound+Dog" itemprop="url">
+<meta content="Elvis: 30 #1 Hits" itemprop="inAlbum">
+<meta content="UserPlays:1.797.384" itemprop="interactionCount">
+<a href="/music/Elvis+Presley/_/Hound+Dog"><span itemprop="name">Hound Dog</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elvis+Presley/_/Hound+Dog"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:70%;"><span>1.741</span></div> </td>
+</tr><tr class="odd" data-track-id="10793" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 5
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:00JwUzmXoMVCDVZykaTN86"></span>
+<meta content="PT2M55S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="In the Ghetto, 1.251 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elvis+Presley/_/In+the+Ghetto" itemprop="url">
+<meta content="Elvis: 30 #1 Hits" itemprop="inAlbum">
+<meta content="UserPlays:1.218.169" itemprop="interactionCount">
+<a href="/music/Elvis+Presley/_/In+the+Ghetto"><span itemprop="name">In the Ghetto</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elvis+Presley/_/In+the+Ghetto"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:50%;"><span>1.251</span></div> </td>
+</tr><tr class="" data-track-id="10788" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 6
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:016CB80etzLMRi5UBCrDLp"></span>
+<meta content="PT2M9S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Heartbreak Hotel, 1.161 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elvis+Presley/_/Heartbreak+Hotel" itemprop="url">
+<meta content="Elvis: 30 #1 Hits" itemprop="inAlbum">
+<meta content="UserPlays:1.392.166" itemprop="interactionCount">
+<a href="/music/Elvis+Presley/_/Heartbreak+Hotel"><span itemprop="name">Heartbreak Hotel</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elvis+Presley/_/Heartbreak+Hotel"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:46%;"><span>1.161</span></div> </td>
+</tr><tr class="odd" data-track-id="10781" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 7
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0AZaCnB0L8NR959YCSd9hy"></span>
+<meta content="PT2M56S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Burning Love, 1.090 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elvis+Presley/_/Burning+Love" itemprop="url">
+<meta content="Elvis: 30 #1 Hits" itemprop="inAlbum">
+<meta content="UserPlays:951.254" itemprop="interactionCount">
+<a href="/music/Elvis+Presley/_/Burning+Love"><span itemprop="name">Burning Love</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elvis+Presley/_/Burning+Love"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:44%;"><span>1.090</span></div> </td>
+</tr><tr class="" data-track-id="1109392" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 8
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:01Ah0f0HRb9iZ6dBL0nKOd"></span>
+<meta content="PT3M33S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="A Little Less Conversation (JXL radio edit remix), 1.055 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elvis+Presley/_/A+Little+Less+Conversation+(JXL+radio+edit+remix)" itemprop="url">
+<meta content="Elvis: 30 #1 Hits" itemprop="inAlbum">
+<meta content="UserPlays:378.379" itemprop="interactionCount">
+<a href="/music/Elvis+Presley/_/A+Little+Less+Conversation+(JXL+radio+edit+remix)"><span itemprop="name">A Little Less Conversation (JXL radio edit remix)</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elvis+Presley/_/A+Little+Less+Conversation+(JXL+radio+edit+remix)"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:42%;"><span>1.055</span></div> </td>
+</tr><tr class="odd" data-track-id="10799" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 9
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:014CH3G5y0RphfPIR1sUrx"></span>
+<meta content="PT2M43S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Love Me Tender, 1.008 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elvis+Presley/_/Love+Me+Tender" itemprop="url">
+<meta content="Elvis: 30 #1 Hits" itemprop="inAlbum">
+<meta content="UserPlays:1.282.220" itemprop="interactionCount">
+<a href="/music/Elvis+Presley/_/Love+Me+Tender"><span itemprop="name">Love Me Tender</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elvis+Presley/_/Love+Me+Tender"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:40%;"><span>1.008</span></div> </td>
+</tr><tr class="" data-track-id="40218" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 10
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:01u6AEzGbGbQyYVdxajxqk"></span>
+<meta content="PT1M42S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Don't Be Cruel, 963 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elvis+Presley/_/Don%27t+Be+Cruel" itemprop="url">
+<meta content="Elvis: 30 #1 Hits" itemprop="inAlbum">
+<meta content="UserPlays:1.108.318" itemprop="interactionCount">
+<a href="/music/Elvis+Presley/_/Don%27t+Be+Cruel"><span itemprop="name">Don't Be Cruel</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elvis+Presley/_/Don%27t+Be+Cruel"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:39%;"><span>963</span></div> </td>
+</tr><tr class="odd" data-track-id="10776" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 11
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:008PLMswxhIEET7sukSeHC"></span>
+<meta content="PT1M57S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="All Shook Up, 960 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elvis+Presley/_/All+Shook+Up" itemprop="url">
+<meta content="Elvis: 30 #1 Hits" itemprop="inAlbum">
+<meta content="UserPlays:1.239.879" itemprop="interactionCount">
+<a href="/music/Elvis+Presley/_/All+Shook+Up"><span itemprop="name">All Shook Up</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elvis+Presley/_/All+Shook+Up"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:38%;"><span>960</span></div> </td>
+</tr><tr class="" data-track-id="40215" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 12
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:06czQb5Wpzl4AYfZ0faTz6"></span>
+<meta content="PT2M4S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Blue Suede Shoes, 959 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elvis+Presley/_/Blue+Suede+Shoes" itemprop="url">
+<meta content="Elvis Presley" itemprop="inAlbum">
+<meta content="UserPlays:1.215.845" itemprop="interactionCount">
+<a href="/music/Elvis+Presley/_/Blue+Suede+Shoes"><span itemprop="name">Blue Suede Shoes</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elvis+Presley/_/Blue+Suede+Shoes"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:38%;"><span>959</span></div> </td>
+</tr><tr class="odd" data-track-id="10773" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 13
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:05OXnNY27W0fu3p7Fza6Pb"></span>
+<meta content="PT2M19S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="(You're The) Devil in Disguise, 667 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elvis+Presley/_/(You%27re+The)+Devil+in+Disguise" itemprop="url">
+<meta content="Elvis: 30 #1 Hits" itemprop="inAlbum">
+<meta content="UserPlays:561.624" itemprop="interactionCount">
+<a href="/music/Elvis+Presley/_/(You%27re+The)+Devil+in+Disguise"><span itemprop="name">(You're The) Devil in Disguise</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elvis+Presley/_/(You%27re+The)+Devil+in+Disguise"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:27%;"><span>667</span></div> </td>
+</tr><tr class="" data-track-id="10794" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 14
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:01cUUT0Uv1etSAtqZsEbur"></span>
+<meta content="PT3M17S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="It's Now or Never, 632 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elvis+Presley/_/It%27s+Now+or+Never" itemprop="url">
+<meta content="Elvis: 30 #1 Hits" itemprop="inAlbum">
+<meta content="UserPlays:681.995" itemprop="interactionCount">
+<a href="/music/Elvis+Presley/_/It%27s+Now+or+Never"><span itemprop="name">It's Now or Never</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elvis+Presley/_/It%27s+Now+or+Never"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:25%;"><span>632</span></div> </td>
+</tr><tr class="last odd" data-track-id="40209" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 15
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0CvGr24mMfyIn0Kjig5pnK"></span>
+<meta content="PT2M10S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="A Little Less Conversation, 582 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elvis+Presley/_/A+Little+Less+Conversation" itemprop="url">
+<meta content="Elvis 30 #1 Hits" itemprop="inAlbum">
+<meta content="UserPlays:790.797" itemprop="interactionCount">
+<a href="/music/Elvis+Presley/_/A+Little+Less+Conversation"><span itemprop="name">A Little Less Conversation</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elvis+Presley/_/A+Little+Less+Conversation"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:23%;"><span>582</span></div> </td>
+</tr>
+</tbody>
+</table> <div class="moduleOptions">
+<a class="btn iconleft iconleft--ecommerce btn--small needs-js js-multi-affiliation-button add-bottom-margin" data-target-id="charts331634" href="#buyall">
+ Alle Titel bei Amazon MP3 kaufen
+ </a>
+<a href="/music/Elvis+Presley/+charts?rangetype=week&amp;subtype=tracks">Mehr anzeigen</a> </div>
+</div>
+</div><!-- #chartsswitcher617346 -->
+<script>
+ if (!LFM.Page || !LFM.Page.ChartSwitchers) LFM.set("Page", {ChartSwitchers: {}});
+ LFM.Page.ChartSwitchers["switcher617346"] = new LFM.Charts.Switch("switcher617346", {
+ restype: 6,
+ resid: 1196,
+ name: 'charts',
+ type: 'tracks'
+ });
+</script>
+</section>
+<section class="artist-top-albums">
+<h2><a href="/music/Elvis+Presley/+albums">Top-Alben</a></h2>
+<ul class="albums r album-list album-list--compact" nthchildren="1">
+<li class=" first item-1 item-2n-plus-1 item-3n-plus-1 item-4n-plus-1 g3 album-list-item ">
+<section class="r album-item " itemscope="" itemtype="http://schema.org/MusicAlbum">
+<meta content="Sensational Hits from Past" itemprop="name"/>
+<meta content="http://cdn.last.fm/flatness/responsive/2/noimage/default_album_300_g4.png" itemprop="image"/>
+<a class="g3 album-item-cover link-hook" href="/music/Elvis+Presley/Sensational+Hits+from+Past" itemprop="url"> <div class="cover-image cover-image--no-content" style="background-image: url('http://cdn.last.fm/flatness/responsive/2/noimage/default_album_300_g4.png');">
+<img alt="" class="cover-image-image" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_album_300_g4.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Sensational Hits from Past</span>
+<br/>
+<span class="text-over-image-text text-over-image-text--secondary">77 Hörer</span>
+</div>
+</div> </a> <div class="g3 album-item-details link-reference-container">
+<div class="album-item-detail-wrapper">
+<span itemprop="numTracks">56</span> Titel                    <br/>
+<mark>Neue Veröffentlichung</mark>
+<br/>
+<span class="rm">Veröffentlicht am: </span><time datetime="2015-01-15">15 Januar 2015</time>
+<br/>
+</div>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--secondary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Album|SearchOnly" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn btn--small iconleft iconleft--ecommerce " data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/377031834/44/artist-overview-album-callout" rel="nofollow">
+                
+    
+                    Amazon MP3
+        
+        
+            
+            </a>
+<a class=" needs-js btn dropdown-btn btn--icon-only btn--small menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu dropdown-btn-menu--small hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/377031834/44/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon MP3" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon MP3
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|7digital" href="http://www.lastfm.de/affiliate/byid/8/377031834/13/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|iTunes" href="http://www.lastfm.de/affiliate/byid/8/377031834/24/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon" href="http://www.lastfm.de/affiliate/byid/8/377031834/1/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|eBay" href="http://www.lastfm.de/affiliate/byid/8/377031834/90/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </div>
+</section>
+</li><li class=" item-2 g3 album-list-item ">
+<section class="r album-item " itemscope="" itemtype="http://schema.org/MusicAlbum">
+<meta content="Elvis 75 - Good Rockin' Tonight" itemprop="name"/>
+<meta content="http://userserve-ak.last.fm/serve/300x300/99890521.png" itemprop="image"/>
+<a class="g3 album-item-cover link-hook" href="/music/Elvis+Presley/Elvis+75+-+Good+Rockin%27+Tonight" itemprop="url"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/300x300/99890521.png');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/300x300/99890521.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Elvis 75 - Good Rockin' Tonight</span>
+<br/>
+<span class="text-over-image-text text-over-image-text--secondary">64.740 Hörer</span>
+</div>
+</div> </a> <div class="g3 album-item-details link-reference-container">
+<div class="album-item-detail-wrapper">
+<span itemprop="numTracks">105</span> Titel                    <br/>
+</div>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--secondary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Album|DirectDownload" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn btn--small iconleft iconleft--ecommerce " data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/211395308/44/artist-overview-album-callout" rel="nofollow">
+                
+    
+                    Amazon MP3
+        
+        
+            
+            </a>
+<a class=" needs-js btn dropdown-btn btn--icon-only btn--small menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu dropdown-btn-menu--small hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/211395308/44/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon MP3" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon MP3
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $29.99
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|7digital" href="http://www.lastfm.de/affiliate/byid/8/211395308/13/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $29.99
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|iTunes" href="http://www.lastfm.de/affiliate/byid/8/211395308/24/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $39.99
+                                                                            </span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon" href="http://www.lastfm.de/affiliate/byid/8/211395308/1/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|eBay" href="http://www.lastfm.de/affiliate/byid/8/211395308/90/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </div>
+</section>
+</li><li class=" item-3 item-2n-plus-1 g3 album-list-item ">
+<section class="r album-item " itemscope="" itemtype="http://schema.org/MusicAlbum">
+<meta content="Elvis 30 #1 Hits" itemprop="name"/>
+<meta content="http://userserve-ak.last.fm/serve/300x300/75457510.png" itemprop="image"/>
+<a class="g3 album-item-cover link-hook" href="/music/Elvis+Presley/Elvis+30+%231+Hits" itemprop="url"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/300x300/75457510.png');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/300x300/75457510.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Elvis 30 #1 Hits</span>
+<br/>
+<span class="text-over-image-text text-over-image-text--secondary">106.928 Hörer</span>
+</div>
+</div> </a> <div class="g3 album-item-details link-reference-container">
+<div class="album-item-detail-wrapper">
+<span itemprop="numTracks">40</span> Titel                    <br/>
+</div>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--secondary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Album|DirectDownload" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn btn--small iconleft iconleft--ecommerce " data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/2037744/44/artist-overview-album-callout" rel="nofollow">
+                
+    
+                    Amazon MP3
+        
+        
+            
+            </a>
+<a class=" needs-js btn dropdown-btn btn--icon-only btn--small menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu dropdown-btn-menu--small hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/2037744/44/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon MP3" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon MP3
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $12.99
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|7digital" href="http://www.lastfm.de/affiliate/byid/8/2037744/13/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $12.99
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|iTunes" href="http://www.lastfm.de/affiliate/byid/8/2037744/24/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $7.99
+                                                                            </span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon" href="http://www.lastfm.de/affiliate/byid/8/2037744/1/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|eBay" href="http://www.lastfm.de/affiliate/byid/8/2037744/90/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </div>
+</section>
+</li><li class=" last item-4 item-3n-plus-1 g3 album-list-item ">
+<section class="r album-item " itemscope="" itemtype="http://schema.org/MusicAlbum">
+<meta content="Elvis' Christmas Album" itemprop="name"/>
+<meta content="http://userserve-ak.last.fm/serve/300x300/85232889.png" itemprop="image"/>
+<a class="g3 album-item-cover link-hook" href="/music/Elvis+Presley/Elvis%27+Christmas+Album" itemprop="url"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/300x300/85232889.png');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/300x300/85232889.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Elvis' Christmas Album</span>
+<br/>
+<span class="text-over-image-text text-over-image-text--secondary">248.071 Hörer</span>
+</div>
+</div> </a> <div class="g3 album-item-details link-reference-container">
+<div class="album-item-detail-wrapper">
+<span itemprop="numTracks">13</span> Titel                    <br/>
+<span class="rm">Veröffentlicht am: </span><time datetime="2012-03-08">8 März 2012</time>
+<br/>
+</div>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--secondary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Album|DirectDownload" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn btn--small iconleft iconleft--ecommerce " data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/2225492/44/artist-overview-album-callout" rel="nofollow">
+                
+    
+                    Amazon MP3
+        
+        
+            
+            </a>
+<a class=" needs-js btn dropdown-btn btn--icon-only btn--small menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu dropdown-btn-menu--small hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/2225492/44/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon MP3" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon MP3
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $6.99
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|7digital" href="http://www.lastfm.de/affiliate/byid/8/2225492/13/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $9.99
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|iTunes" href="http://www.lastfm.de/affiliate/byid/8/2225492/24/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $9.99
+                                                                            </span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon" href="http://www.lastfm.de/affiliate/byid/8/2225492/1/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $0.01
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|eBay" href="http://www.lastfm.de/affiliate/byid/8/2225492/90/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </div>
+</section>
+</li>
+</ul> </section>
+<section class="artist-events">
+<h2><a href="/music/Elvis+Presley/+events">Events</a></h2>
+<ul class="events-catalogue-pages">
+<li class="gig first last future event">
+<div class="r">
+<div class="g5 media">
+<a class="media-pull-left media-link-hook" href="/event/3890665+Elvis" title="Elvis in Parkstad Limburg Theaters"> <span class="calSheet calSheetBig">
+<time datetime="2015-03-04">
+<abbr class="dtstart" title="Mittwoch, 4. März 2015"> <span title="Elvis">
+<span class="month">Mär</span>
+<span class="day">4</span>
+</span>
+</abbr> </time>
+</span> </a> <div class="media-body">
+<strong><a class="media-link-reference" href="/event/3890665+Elvis" title="Elvis in Parkstad Limburg Theaters">Elvis</a></strong>
+<div class="time">Mittwoch, 4. März 2015</div>
+<div class="lite"> Elvis Presley
+ </div> </div>
+</div>
+<div class="g3 media venue">
+<a class="media-pull-left media-link-hook" href="/venue/8975262+Parkstad+Limburg+Theaters"> <img class="transparent_png map_icon" height="32" src="http://cdn.last.fm/flatness/location_icon_32.png" style="" width="32"/> </a> <div class="media-body">
+<div class="name">
+<strong><a class="media-link-reference" href="/venue/8975262+Parkstad+Limburg+Theaters">Parkstad Limburg Theaters</a></strong>
+</div>
+<div class="address"><span class="locality">Heerlen</span>, <span class="country-name">Niederlande</span></div>
+</div>
+</div>
+<div class="g4 going">
+<strong>10</strong> gehen hin
+ 
+ <ul class="attendance-list">
+<li class="first user-going user">
+<a href="/user/Ton87" title="Ton, 27, Männlich, Niederlande"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/1151765.jpg" width="34"/></span></a>
+</li><li class="user-going user">
+<a href="/user/kinderesser" title="already taken, 27, Männlich, Deutschland"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/85813267.gif" width="34"/></span></a>
+</li><li class="user-going user">
+<a href="/user/you_know_why" title="Laura, 24, Weiblich, Niederlande"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/99930097.jpg" width="34"/></span></a>
+</li><li class="user-going user">
+<a href="/user/ObscureFrance" title="Юлия, 20, Weiblich, Russische Föderation"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/102329961.gif" width="34"/></span></a>
+</li><li class="last user-going user">
+<a href="/user/stas1974100" title="Sergey Petrov, 43, Männlich"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/99434289.jpg" width="34"/></span></a>
+</li>
+</ul> </div>
+</div>
+</li>
+</ul>
+<a class="btn iconleft iconleft--add btn--small" href="/events/add?artistNames[]=Elvis+Presley">Event hinzufügen</a>
+</section>
+<section class="r">
+<div class="g8 artist-listening-trend">
+<h2>Hörtrend</h2>
+<script src='https://www.google.com/jsapi?autoload={"modules":[{"name":"visualization","version":"1","packages":["corechart"]}]}'></script>
+<div class="catalogue-scrobble-graph needs-js" data-require="music/scrobblegraph" data-source="scrobblegraph">
+<div class="catalogue-scrobble-graph-top-data">
+<strong>2.122.958</strong><span class="lite">Hörer insgesamt</span>
+</div>
+<div class="catalogue-scrobble-graph-top-data">
+<strong>57.638.701</strong><span class="lite">Scrobbels insgesamt</span>
+</div>
+<div class="catalogue-scrobble-graph-top-data">
+<strong>#213</strong>
+<span class="lite">in den Charts der letzten Woche</span>
+</div>
+<div class="catalogue-scrobble-graph-inner-wrapper">
+<div class="catalogue-scrobble-graph-title">Aktueller Hörtrend:</div>
+<div class="catalogue-scrobble-graph-container"></div>
+</div>
+<script>
+                (function() {
+
+            LFM.Data = LFM.Data || {};
+            LFM.Data.scrobblegraph = [
+                              [
+                  new Date(1424001600*1000),
+                  18487,
+                  18487,
+                  'So., 15. Feb. - So., 22. Feb.\u000D\u000A18.487 Hörer'
+                ]
+                ,                              [
+                  new Date(1423396800*1000),
+                  17407,
+                  17407,
+                  'So., 8. Feb. - So., 15. Feb.\u000D\u000A17.407 Hörer'
+                ]
+                ,                              [
+                  new Date(1422792000*1000),
+                  17907,
+                  17907,
+                  'So., 1. Feb. - So., 8. Feb.\u000D\u000A17.907 Hörer'
+                ]
+                ,                              [
+                  new Date(1422187200*1000),
+                  19038,
+                  19038,
+                  'So., 25. Jan. - So., 1. Feb.\u000D\u000A19.038 Hörer'
+                ]
+                ,                              [
+                  new Date(1421582400*1000),
+                  19614,
+                  19614,
+                  'So., 18. Jan. - So., 25. Jan.\u000D\u000A19.614 Hörer'
+                ]
+                ,                              [
+                  new Date(1420977600*1000),
+                  20930,
+                  20930,
+                  'So., 11. Jan. - So., 18. Jan.\u000D\u000A20.930 Hörer'
+                ]
+                ,                              [
+                  new Date(1420372800*1000),
+                  20645,
+                  20645,
+                  'So., 4. Jan. - So., 11. Jan.\u000D\u000A20.645 Hörer'
+                ]
+                ,                              [
+                  new Date(1419768000*1000),
+                  46284,
+                  46284,
+                  'So., 28. Dez. - So., 4. Jan.\u000D\u000A46.284 Hörer'
+                ]
+                ,                              [
+                  new Date(1419163200*1000),
+                  35720,
+                  35720,
+                  'So., 21. Dez. - So., 28. Dez.\u000D\u000A35.720 Hörer'
+                ]
+                ,                              [
+                  new Date(1418558400*1000),
+                  32970,
+                  32970,
+                  'So., 14. Dez. - So., 21. Dez.\u000D\u000A32.970 Hörer'
+                ]
+                ,                              [
+                  new Date(1417953600*1000),
+                  29488,
+                  29488,
+                  'So., 7. Dez. - So., 14. Dez.\u000D\u000A29.488 Hörer'
+                ]
+                ,                              [
+                  new Date(1417348800*1000),
+                  23045,
+                  23045,
+                  'So., 30. Nov. - So., 7. Dez.\u000D\u000A23.045 Hörer'
+                ]
+                ,                              [
+                  new Date(1416744000*1000),
+                  19083,
+                  19083,
+                  'So., 23. Nov. - So., 30. Nov.\u000D\u000A19.083 Hörer'
+                ]
+                ,                              [
+                  new Date(1416139200*1000),
+                  19089,
+                  19089,
+                  'So., 16. Nov. - So., 23. Nov.\u000D\u000A19.089 Hörer'
+                ]
+                ,                              [
+                  new Date(1415534400*1000),
+                  18983,
+                  18983,
+                  'So., 9. Nov. - So., 16. Nov.\u000D\u000A18.983 Hörer'
+                ]
+                ,                              [
+                  new Date(1414929600*1000),
+                  17989,
+                  17989,
+                  'So., 2. Nov. - So., 9. Nov.\u000D\u000A17.989 Hörer'
+                ]
+                ,                              [
+                  new Date(1414324800*1000),
+                  18121,
+                  18121,
+                  'So., 26. Okt. - So., 2. Nov.\u000D\u000A18.121 Hörer'
+                ]
+                ,                              [
+                  new Date(1413720000*1000),
+                  17663,
+                  17663,
+                  'So., 19. Okt. - So., 26. Okt.\u000D\u000A17.663 Hörer'
+                ]
+                ,                              [
+                  new Date(1413115200*1000),
+                  17579,
+                  17579,
+                  'So., 12. Okt. - So., 19. Okt.\u000D\u000A17.579 Hörer'
+                ]
+                ,                              [
+                  new Date(1412510400*1000),
+                  17649,
+                  17649,
+                  'So., 5. Okt. - So., 12. Okt.\u000D\u000A17.649 Hörer'
+                ]
+                ,                              [
+                  new Date(1411905600*1000),
+                  17532,
+                  17532,
+                  'So., 28. Sep. - So., 5. Okt.\u000D\u000A17.532 Hörer'
+                ]
+                ,                              [
+                  new Date(1411300800*1000),
+                  17638,
+                  17638,
+                  'So., 21. Sep. - So., 28. Sep.\u000D\u000A17.638 Hörer'
+                ]
+                ,                              [
+                  new Date(1410696000*1000),
+                  17660,
+                  17660,
+                  'So., 14. Sep. - So., 21. Sep.\u000D\u000A17.660 Hörer'
+                ]
+                ,                              [
+                  new Date(1410091200*1000),
+                  17815,
+                  17815,
+                  'So., 7. Sep. - So., 14. Sep.\u000D\u000A17.815 Hörer'
+                ]
+                ,                              [
+                  new Date(1409486400*1000),
+                  18057,
+                  18057,
+                  'So., 31. Aug. - So., 7. Sep.\u000D\u000A18.057 Hörer'
+                ]
+                ,                              [
+                  new Date(1408881600*1000),
+                  18024,
+                  18024,
+                  'So., 24. Aug. - So., 31. Aug.\u000D\u000A18.024 Hörer'
+                ]
+                                          ];
+        })();
+</script>
+</div> </div>
+<div class="g4">
+<h2>Beginne mit dem Scrobbeln und baue deinen Hörverlauf auf</h2>
+<p>Last.fm-Benutzer <abbr>scrobbeln</abbr> die Musik, die sie in iTunes, Spotify, Rdio und mehr als <a href="/group/Does+it+Scrobble">200 anderen Musikplayern</a> spielen.</p>
+<a class="btn btn--block" href="/join">Erstelle ein Last.fm-Profil</a>
+</div>
+</section>
+<div class="LastAd ad-widerelatedcontent inactive" data-ad-collapsible="" data-ad-placement="widerelatedcontent" data-ad-static="" data-require="ads/staticadslot" id="LastAd_widerelatedcontent">
+<span>
+</span>
+</div>
+<div class="LastAd ad-middleleaderboard inactive" data-ad-collapsible="" data-ad-placement="middleleaderboard" data-ad-static="" data-require="ads/staticadslot" id="LastAd_middleleaderboard">
+<span>
+</span>
+</div>
+<div class="catalogue-social r r--full-bleed">
+<section class="g8 artist-shouts">
+<a name="shoutbox"></a>
+<div class="widget widget-lazy/shoutbox" data-require="lazy/shoutbox" data-template="shoutbox" data-url="/music/Elvis+Presley/+shoutbox"><h2 class="heading">
+<span class="h2Wrapper">
+<a href="/music/Elvis+Presley/+shoutbox">Shoutbox</a>
+</span>
+</h2>
+<div class="shoutboxContainer artist-shoutbox">
+<div class="memo">
+<strong>Sage etwas.</strong>
+<a href="/login/">Logge dich bei Last.fm ein</a> oder <a href="/join/">registriere dich</a>.
+        </div>
+<ul class="shouts">
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/GhostHaunted">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103265001.jpg" width="64"/>
+</span>
+    GhostHaunted
+</a>
+</h3>
+<p>
+                        Заслуженный Король! Правда, когда запевает баллады - начинает в сон клонить. А уж религиозные темы, так вообще фейл, моё имхо. И по-моему, их слишком много.
+                                    </p>
+<div class="meta">
+<span class="date">21. Feb., 10:14</span>
+<a class="shoutbox-reply" href="/user/GhostHaunted#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/wayrams">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103604615.jpg" width="64"/>
+</span>
+    wayrams
+</a>
+</h3>
+<p>
+                        Maravilhoso
+                                    </p>
+<div class="meta">
+<span class="date">15. Feb., 0:07</span>
+<a class="shoutbox-reply" href="/user/wayrams#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/leneheart">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/101312325.jpg" width="64"/>
+</span>
+    leneheart
+</a>
+</h3>
+<p>
+                        ♥
+                                    </p>
+<div class="meta">
+<span class="date">14. Feb., 21:06</span>
+<a class="shoutbox-reply" href="/user/leneheart#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/Mii85">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/59815399.jpg" width="64"/>
+</span>
+    Mii85
+</a>
+</h3>
+<p>
+                        The king
+                                    </p>
+<div class="meta">
+<span class="date">14. Feb., 19:00</span>
+<a class="shoutbox-reply" href="/user/Mii85#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/Moonlight_Dawn">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/102976039.jpg" width="64"/>
+</span>
+    Moonlight_Dawn
+</a>
+</h3>
+<p>
+                        scrobbles are going up dramaticly around christmas [2] ---&gt; yes many of love enjoy his holiday music.... BUT it seems to me on this Valentine's Day the scrobbles should rise due to his many love songs...... Of course Elvis is great anytime of the year. &lt;3
+                                    </p>
+<div class="meta">
+<span class="date">14. Feb., 13:00</span>
+<a class="shoutbox-reply" href="/user/Moonlight_Dawn#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/ChristFollower3">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/58291005.jpg" width="64"/>
+</span>
+    ChristFollower3
+</a>
+</h3>
+<p>
+                        “Jesus Christ the same yesterday, and to day, and for ever.” –Hebrews 13:8
+                                    </p>
+<div class="meta">
+<span class="date">12. Feb., 20:37</span>
+<a class="shoutbox-reply" href="/user/ChristFollower3#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/zalaminhu">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103322601.gif" width="64"/>
+</span>
+    zalaminhu
+</a>
+</h3>
+<p>
+                        elvis is my daddy
+                                    </p>
+<div class="meta">
+<span class="date">5. Feb., 22:34</span>
+<a class="shoutbox-reply" href="/user/zalaminhu#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/maskeraddanne">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103057019.jpg" width="64"/>
+</span>
+    maskeraddanne
+</a>
+</h3>
+<p>
+                        scrobbles are going up dramaticly around christmas
+                                    </p>
+<div class="meta">
+<span class="date">3. Feb., 16:34</span>
+<a class="shoutbox-reply" href="/user/maskeraddanne#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/henrikfelix">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/102817519.jpg" width="64"/>
+</span>
+    henrikfelix
+</a>
+</h3>
+<p>
+                        Meu rei.
+                                    </p>
+<div class="meta">
+<span class="date">30. Jan., 11:45</span>
+<a class="shoutbox-reply" href="/user/henrikfelix#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author subscriber">
+<a href="/user/bAzTNM">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/77398776.jpg" width="64"/>
+<img class="icon subscriber_icon" height="6" src="http://static.lst.fm/flatness/clear.gif" width="6"/>
+</span>
+    bAzTNM
+</a>
+</h3>
+<p>
+                        The Man.
+                                    </p>
+<div class="meta">
+<span class="date">25. Jan., 8:23</span>
+<a class="shoutbox-reply" href="/user/bAzTNM#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/eltonjohnny">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103367851.gif" width="64"/>
+</span>
+    eltonjohnny
+</a>
+</h3>
+<p>
+                        O rei maravilhoso
+                                    </p>
+<div class="meta">
+<span class="date">11. Jan., 21:41</span>
+<a class="shoutbox-reply" href="/user/eltonjohnny#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/yeahmacca">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/101507861.jpg" width="64"/>
+</span>
+    yeahmacca
+</a>
+</h3>
+<p>
+                        REI
+                                    </p>
+<div class="meta">
+<span class="date">11. Jan., 13:37</span>
+<a class="shoutbox-reply" href="/user/yeahmacca#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/yeahmacca">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/101507861.jpg" width="64"/>
+</span>
+    yeahmacca
+</a>
+</h3>
+<p>
+                        LINDOOOOOOOOOOOO
+                                    </p>
+<div class="meta">
+<span class="date">11. Jan., 13:37</span>
+<a class="shoutbox-reply" href="/user/yeahmacca#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/WitchUp">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103537609.gif" width="64"/>
+</span>
+    WitchUp
+</a>
+</h3>
+<p>
+                        Happy Birthday Elvis! ♥
+                                    </p>
+<div class="meta">
+<span class="date">9. Jan., 23:09</span>
+<a class="shoutbox-reply" href="/user/WitchUp#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/johnnybdanger">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/57154865.jpg" width="64"/>
+</span>
+    johnnybdanger
+</a>
+</h3>
+<p>
+                        Uh-huh happy birthday King!
+                                    </p>
+<div class="meta">
+<span class="date">8. Jan., 20:14</span>
+<a class="shoutbox-reply" href="/user/johnnybdanger#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/zephirlp">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/102666981.jpg" width="64"/>
+</span>
+    zephirlp
+</a>
+</h3>
+<p>
+                        Happy Birthday! ♥
+                                    </p>
+<div class="meta">
+<span class="date">8. Jan., 20:06</span>
+<a class="shoutbox-reply" href="/user/zephirlp#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/Perla_Negra">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103469501.jpg" width="64"/>
+</span>
+    Perla_Negra
+</a>
+</h3>
+<p>
+                        ELVIS PRESLEY - one  &amp; only King of Rock'n'Roll!!! Timeless ARTIST &amp; timeless music! Happy Birthday, The King!
+                                    </p>
+<div class="meta">
+<span class="date">8. Jan., 20:04</span>
+<a class="shoutbox-reply" href="/user/Perla_Negra#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/forever_angel">
+<span class="userImage">
+<img class="avatar " src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/>
+</span>
+    forever_angel
+</a>
+</h3>
+<p>
+                        Happy Birthday King!
+                                    </p>
+<div class="meta">
+<span class="date">8. Jan., 18:50</span>
+<a class="shoutbox-reply" href="/user/forever_angel#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author subscriber">
+<a href="/user/ASummerKiss">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103603677.gif" width="64"/>
+<img class="icon subscriber_icon" height="6" src="http://static.lst.fm/flatness/clear.gif" width="6"/>
+</span>
+    ASummerKiss
+</a>
+</h3>
+<p>
+                        Happy 80th Birthday! ♫
+                                    </p>
+<div class="meta">
+<span class="date">8. Jan., 18:35</span>
+<a class="shoutbox-reply" href="/user/ASummerKiss#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/ebisu">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/102392957.jpg" width="64"/>
+</span>
+    ebisu
+</a>
+</h3>
+<p>
+                        Happy Birthday to the King! 1935 - Forever
+                                    </p>
+<div class="meta">
+<span class="date">8. Jan., 18:19</span>
+<a class="shoutbox-reply" href="/user/ebisu#shoutbox">Antworten</a>
+</div>
+</li>
+<span class="moduleOptions">
+<a href="/music/Elvis+Presley/+shoutbox">Alle 4844 Shouts</a>
+</span>
+</ul>
+</div>
+</div>
+</section>
+<div class="g4">
+<aside>
+<a class="promo-unit promo-unit--twitter add-vertical-margins" data-analytics-action="PromoUnitClick" data-analytics-label="TwitterPromoUnit" href="http://twitter.com/lastfm">
+<h2>Folge uns auf Twitter</h2>
+<div class="media">
+<img alt="@lastfm" class="media-pull-left" src="http://cdn.last.fm/flatness/promo/promounits/twitter.png">
+<div class="media-body">
+        Erhalte die neuesten Aktualisierungen und Ankündigungen von <b>@lastfm</b>
+<br>
+<span class="promo-unit-fake-link">Folge uns</span>
+</br></div>
+</img></div> </a>
+</aside>
+<section class="artist-listeners">
+<section>
+<h2><a href="/music/Elvis+Presley/+listeners">Aktuelle Hörer</a></h2>
+<ul odd="1">
+<li class="first media media--overflow-visible odd user">
+<a class="media-pull-left media-link-hook" href="/user/Slipcat" title="Bahus, 19, Männlich, Kasachstan"><span class="userImage"><img alt="" class=" rounded" height="64" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><img class="transparent_png playingnow_icon" height="12" src="http://cdn.last.fm/flatness/global/icon_eq.gif" style="" width="12"/> <a class="media-link-reference" href="/user/Slipcat" title="Bahus, 19, Männlich, Kasachstan">Slipcat</a></h3>
+<div class="scrobblesource">Scrobbelt gerade von <span class="source"><a href="/download#content_desktop">Last.fm-Scrobbler</a></span></div>
+<a href="/music/Elvis+Presley">Elvis Presley</a> – <a href="/music/Elvis+Presley/_/I+Got+Stung">I Got Stung</a>
+</div>
+</li><li class="last media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/lukyean" title="Männlich"><span class="userImage"><img alt="" class=" rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/55381913.jpg" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><img class="transparent_png playingnow_icon" height="12" src="http://cdn.last.fm/flatness/global/icon_eq.gif" style="" width="12"/> <a class="media-link-reference" href="/user/lukyean" title="Männlich">lukyean</a></h3>
+<div class="scrobblesource">Scrobbelt gerade von <span class="source"><a href="/download">iTunes</a></span></div>
+<a href="/music/Elvis+Presley">Elvis Presley</a> – <a href="/music/Elvis+Presley/_/Blue+Suede+Shoes">Blue Suede Shoes</a>
+</div>
+</li>
+</ul></section>
+<section>
+<h2><a href="/music/Elvis+Presley/+listeners">Top-Hörer</a></h2>
+<ul>
+<li class="first media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/ali_in_black" title="Ali Ahmadi, 18, Männlich, Iran"><span class="userImage"><img alt="" class=" rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/100957589.jpg" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><a class="media-link-reference" href="/user/ali_in_black" title="Ali Ahmadi, 18, Männlich, Iran">ali_in_black</a></h3>
+ Top-Hörer
+ </div>
+</li><li class="media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/elvisinlove38" title="Petra Ep, Weiblich, Deutschland"><span class="userImage"><img alt="" class=" rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/71391762.jpg" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><a class="media-link-reference" href="/user/elvisinlove38" title="Petra Ep, Weiblich, Deutschland">elvisinlove38</a></h3>
+ Top-Hörer
+ </div>
+</li><li class="media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/Olafkonings" title=""><span class="userImage"><img alt="" class=" rounded" height="64" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><a class="media-link-reference" href="/user/Olafkonings" title="">Olafkonings</a></h3>
+ Top-Hörer
+ </div>
+</li><li class="last media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/Yzack-Charmel" title="Yzack-Charmel, Frankreich"><span class="userImage"><img alt="" class=" rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/103565813.jpg" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><a class="media-link-reference" href="/user/Yzack-Charmel" title="Yzack-Charmel, Frankreich">Yzack-Charmel</a></h3>
+ Top-Hörer
+ </div>
+</li>
+</ul></section>
+</section>
+<div class="LastAd ad-lowermpu inactive" data-ad-collapsible="" data-ad-placement="lowermpu" data-ad-static="" data-require="ads/staticadslot" id="LastAd_lowermpu">
+<span>
+<div id="mpu_bottom">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("mpu_bottom"); 
+        });
+    </script>
+</div>
+</span>
+</div> </div>
+</div>
+</article>
+<div class="LastAd ad-lowerleaderboard inactive" data-ad-collapsible="" data-ad-placement="lowerleaderboard" data-ad-static="" data-require="ads/staticadslot" id="LastAd_lowerleaderboard">
+<span>
+<div id="leader_bottom">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("leader_bottom"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<footer class="site-footer" role="banner">
+<nav class="site-footer-nav">
+<div class="r add-bottom-margin">
+<a class="g call-to-action call-to-action--upload" data-analytics-action="FooterClick" data-analytics-label="Artists and Labels" href="/uploadmusic">
+<h2>Künstler und Labels</h2>
+<p>Verbinde dich mit Fans, indem du Musik in den Music Manager lädst</p>
+</a>
+<a class="g call-to-action call-to-action--download" data-analytics-action="FooterClick" data-analytics-label="Download Desktop App" href="/download">
+<h2>Lade unsere Apps herunter</h2>
+<p>Hole dir die Last.fm-Apps für Desktop und Mobilgeräte und scrobble los</p>
+</a>
+</div>
+<hr class="separator"/>
+<ul class="r add-bottom-margin">
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Unternehmen</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-company">
+<h2 class="iconright iconright--dropdown">Unternehmen</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="About us" href="/about">Über uns</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Contact us" href="/about/contact">Kontakt</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Jobs" href="/about/jobs">Jobs</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Blog" href="http://blog.last.fm">Blog</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Advertise" href="/advertise">Werben auf Last.fm</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Mitmachen</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-join">
+<h2 class="iconright iconright--dropdown">Mitmachen</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="Sign up" href="/join">Registrieren</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Find people" href="/community/users">Benutzersuche</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Find groups" href="/community/groups">Gruppensuche</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Community" href="/community">Community</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Forums" href="/forum">Foren</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Gutes</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-goodies">
+<h2 class="iconright iconright--dropdown">Gutes</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="More apps" href="/hardware">Mehr Apps &amp; Geräte</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Last.fm API" href="/api">Entwickler-API</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Tools, plugins &amp; more" href="http://build.last.fm">Tools &amp; Plugins</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Playground" href="http://playground.last.fm">Playground</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Free music downloads" href="/music/+free-music-downloads">Kostenlose Musikdownloads</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Hilfe</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-help">
+<h2 class="iconright iconright--dropdown">Hilfe</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="Help &amp; support" href="/help">Hilfe &amp; Support</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="System status" href="http://status.last.fm/">Systemstatus</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+<hr class="separator"/>
+<nav class="language-selector clearit toggle-container" data-require="toggle" id="change-language" role="navigation">
+<h2 class="rm">Sprachen:</h2>
+<ul class="inline-items inline-items--dotted">
+<li class="current-language">
+<strong class="current-language-text iconleft iconleft--globe">
+                    Deutsch
+                    <span class="rm">(aktuelle Sprache)</span>
+</strong>
+<a class="iconleft iconleft--globe iconright iconright--dropdown language-toggle js-toggle" href="#show-languages">
+<strong>Deutsch</strong><span class="rm">(aktuelle Sprache) — Sprache ändern</span>
+</a>
+</li>
+<li class="language-options toggle-target">
+<ul class="language-options-group">
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; en" href="http://www.last.fm/music/Elvis+Presley?setlang=en" hreflang="en" rel="alternate">English</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; es" href="http://www.lastfm.es/music/Elvis+Presley?setlang=es" hreflang="es" rel="alternate">Español</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; fr" href="http://www.lastfm.fr/music/Elvis+Presley?setlang=fr" hreflang="fr" rel="alternate">Français</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; it" href="http://www.lastfm.it/music/Elvis+Presley?setlang=it" hreflang="it" rel="alternate">Italiano</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; jp" href="http://www.lastfm.jp/music/Elvis+Presley?setlang=jp" hreflang="ja" rel="alternate">日本語</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; pl" href="http://www.lastfm.pl/music/Elvis+Presley?setlang=pl" hreflang="pl" rel="alternate">Polski</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; pt" href="http://www.lastfm.com.br/music/Elvis+Presley?setlang=pt" hreflang="pt" rel="alternate">Português</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; ru" href="http://www.lastfm.ru/music/Elvis+Presley?setlang=ru" hreflang="ru" rel="alternate">Руccкий</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; sv" href="http://www.lastfm.se/music/Elvis+Presley?setlang=sv" hreflang="sv" rel="alternate">Svenska</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; tr" href="http://www.lastfm.com.tr/music/Elvis+Presley?setlang=tr" hreflang="tr" rel="alternate">Türkçe</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; zh" href="http://cn.last.fm/music/Elvis+Presley?setlang=zh" hreflang="zh" rel="alternate">简体中文</a>
+</li>
+</ul>
+</li>
+</ul>
+<hr class="separator"/>
+</nav>
+<div class="site-footer-legalese">
+<blockquote class="site-footer-strapline">“Made To Make Your Last.fm Water.”</blockquote>
+<ul class="inline-items inline-items--dotted">
+<li>
+<a href="http://www.cbsinteractive.com">CBS Interactive</a> © 2015 Last.fm Ltd.         </li>
+<li>
+<a data-analytics-action="FooterClick" data-analytics-label="Terms of Use" href="/legal/terms">Nutzungsbedingungen</a>, 
+                    <a data-analytics-action="FooterClick" data-analytics-label="Privacy Policy" href="/legal/privacy">Datenschutzrichtlinie</a> und 
+       <a data-analytics-action="FooterClick" data-analytics-label="Legal" href="/legal">Rechtliches</a> —
+            <span class="date">Aktualisiert am 26. Nov. 2013</span>
+</li>
+<li>
+<a href="http://www.gamespot.com">Gamespot</a>
+</li>
+</ul>
+<p class="wiki-legalese">
+            Manche der von Benutzern bereitgestellten Texte auf dieser Seite unterliegen der Lizenz <a href="http://creativecommons.org/licenses/by-sa/3.0/legalcode">Creative Commons Attribution/Share-Alike License</a>. Texte können zudem der <a href="/help/gfdl">GNU-Lizenz für freie Dokumentation</a> unterstehen.
+        </p>
+</div></footer> </div>
+<div id="multiButtonMenu" style="display: none;">
+<div>
+<ul class="lfmDropDownBody">
+<li class="mAddToLibrary"><a href="#">Zur Musiksammlung hinzufügen</a></li>
+<li class="mAddToFriends"><a href="#">Als Freund hinzufügen</a></li>
+<!-- <li class="save"><a href="#">Lesezeichen hinzufügen</a></li> -->
+<li class="mSend"><a href="#">Weiterleiten</a></li>
+<li class="mLove"><a href="#">Diesen Titel lieben</a></li>
+<li class="mUnlove"><a href="#">Als Lieblingslied entfernen</a></li>
+<li class="mBan"><a href="#">Titel bannen</a></li>
+<li class="mUnban"><a href="#">Titel ent-bannen</a></li>
+<li class="mAddTags"><a href="#">Tags hinzufügen</a></li>
+<li class="mAddToPlaylist"><a href="#">Zur Playlist hinzufügen</a></li>
+<li class="mRemoveFromLibrary"><a href="#">Aus Musiksammlung entfernen</a></li>
+<li class="mBuy"><a href="#">Lied kaufen</a></li>
+<li class="mMessage"><a href="#">Nachricht schreiben</a></li>
+<li class="mEditDetails"><a href="#">Angaben bearbeiten</a></li>
+<li class="mMessageAll"><a href="#">Allen Benutzern eine Nachricht schicken</a></li>
+<li class="mEditPermissions"><a href="#">Genehmigungen bearbeiten</a></li>
+<li class="mAbdicate"><a href="#">Abdanken</a></li>
+<li class="mLeave"><a href="#">Gruppe verlassen</a></li>
+<li class="mLoading"><a href="#"> </a></li>
+</ul>
+</div>
+</div>
+<div style="display: none">
+<script src="//dw.cbsimg.net/js/cbsi/ds.js"></script>
+<script>
+        if (typeof DW === "object") {
+            DW.pageParams = {
+                siteid: '190',
+                ptid: '6650'
+            };
+            DW.tagNielsen = false;
+            DW.clear();
+        }
+    </script>
+<noscript>
+<img src="//dw.cbsimg.net/clear/c.gif?ts=1424760420&amp;sid=190;"/>
+</noscript>
+</div>
+<div class="LastAd ad-tracking inactive" data-ad-collapsible="" data-ad-placement="tracking" data-ad-static="" data-require="ads/staticadslot" id="LastAd_tracking">
+<span>
+<iframe frameborder="0" height="0" name="__bkframe" src="javascript:void(0)" width="0"></iframe>
+<script src="//tags.bkrtx.com/js/bk-coretag.js" type="text/javascript"></script>
+<script type="text/javascript">
+            bk_addPageCtx("ar", "elvispresley,jerryleelewis,johnnycash,shakin\'stevens,chuckberry,carlperkins,eddiecochran,royorbison,buddyholly,fatsdomino,theeverlybrothers");
+            bk_addPageCtx("tag", "rocknroll,classicrock,rock,oldies,rockandroll,rockabilly,50s,60s,country,pop");
+            bk_addPageCtx("path", "aw-lastfm/music/artist/overview");
+            bk_addPageCtx("site", "ccbsilastfmsite");
+            bk_addPageCtx("ptype", "artist_door");
+        bk_ignore_meta = true;
+    bk_doJSTag(16515, 4);
+</script>
+</span>
+</div>
+<script data-require="omniture">
+    LFM.viewGuid = LFM.viewGuid ? LFM.viewGuid : uuid();
+    var omdata = {
+        context: {
+                        musicArtistId: "lfm-artist-1196",
+                                    siteSection: "music",
+            pageType: "artist_door",
+            pageViewGuid: LFM.viewGuid
+        }
+    };
+</script>
+<!-- Adobe Marketing Cloud Tag Loader Code-->
+<script type="text/javascript">//<![CDATA[
+var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};
+document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d2/v2/ZDItY2JzaW50ZXJhY3RpdmUtNDgxNC00MTct/amc.js\"></sc"+"ript>");
+//]]></script>
+<!-- End Adobe Marketing Cloud Tag Loader Code -->
+<script>
+LFM.Button.MultiButton.setup();
+LFM.Display.setMinHeight();
+</script>
+<div id="fb-root"></div>
+<script src="http://cn.cbsimg.net/cnwk.1d/Aud/javascript/last/apex.js"></script>
+<script>
+        var cbsiApexGlobal = {
+                    'SITE' : '190',
+                    'PTYPE' : '2000'
+                  };
+        if (typeof cbsiRunApexTargets === "function") {
+            cbsiRunApexTargets(cbsiApexGlobal, 1000);
+        }
+    </script>
+<script>
+    window.ClickTaleSettings = { XHRWrapper: { Enable: true} };
+    document.write(unescape("%3Cscript%20src='" +
+(document.location.protocol == 'https:' ?
+  'https://clicktalecdn.sslcs.cdngc.net/' :
+  'http://cdn.clicktale.net/') +
+"www09/ptc/220b3951-66a2-4b8e-ac35-fa58bfb30846.js'%3E%3C/script%3E"));
+
+    </script>
+</body>
+</body></body></body></meta></head></html>

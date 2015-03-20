@@ -1,0 +1,1394 @@
+<!DOCTYPE HTML>
+
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+<script type="text/javascript">
+if (window.console && typeof(window.console.log) == 'function') {
+  console.log('Come here often? 8tracks is hiring. http://8tracks.com/jobs')
+}
+</script>
+<head>
+<script>
+    var now=function() { return new Date().getTime();};
+    var headTimestamp=now();
+  </script>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<meta content="no" http-equiv="imagetoolbar"/>
+<meta content="chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="8tracks" property="og:site_name"/>
+<meta content="166738216681933" property="fb:app_id"/>
+<meta content="500734952" property="fb:admins"/>
+<meta content="notranslate" name="google"/>
+<title> 9,000+ Free Elton John music playlists | 8tracks internet radio </title>
+<meta content=" elton john radio, rock music, pop playlist, classic rock " name="keywords"/>
+<meta content="8tracks radio. Online, everywhere. - stream 9,000+ elton john playlists including rock, pop, and classic rock music from your desktop or mobile device." name="description"/>
+<meta content="app" property="twitter:card"/>
+<meta content="8tracks Radio provides the best music for any taste, time &amp; place." property="twitter:description"/>
+<meta content="8tracks app" property="twitter:app:name:iphone"/>
+<meta content="346194763" property="twitter:app:id:iphone"/>
+<meta content="346194763" property="twitter:app:id:ipad"/>
+<meta content="eighttracks:// " property="twitter:app:url:iphone"/>
+<meta content="eighttracks:// " property="twitter:app:url:ipad"/>
+<meta content="8tracks Radio" property="twitter:app:name:googleplay"/>
+<meta content="com.e8tracks" property="twitter:app:id:googleplay"/>
+<link href="http://8tracks.com/explore/elton_john/hot" rel="canonical"/>
+<link href="http://8tracks.com/explore/elton_john/hot" rel="twitter:url"/>
+<meta content="index,follow" name="robots"/>
+<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+<link href="/images/brand/favicon-144.png" rel="apple-touch-icon-precomposed" sizes="144x144">
+<link href="/images/brand/favicon-114.png" rel="apple-touch-icon-precomposed" sizes="114x114">
+<link href="/images/brand/favicon-72.png" rel="apple-touch-icon-precomposed" sizes="72x72">
+<link href="/images/brand/favicon-57.png" rel="apple-touch-icon-precomposed">
+<link href="http://8tracks.com/opensearch.xml" rel="search" title="8tracks" type="application/opensearchdescription+xml"/>
+<link href="//dmuuhinfkryqs.cloudfront.net/assets/application-32ece9836ca8a3d89e8684132d3c93ae.css" media="screen" rel="stylesheet" type="text/css"/>
+<meta content="bd4e0544263cc36b5f9aae7840920ca2" name="p:domain_verify"/>
+</link></link></link></link></head>
+<body>
+<script type="text/javascript">
+//<![CDATA[
+    PAGE = {}; // used for legacy code
+
+    SOUNDCLOUD_CLIENT_ID = '3904229f42df3999df223f6ebf39a8fe';
+    GOOGLE_CLIENT_ID = '745447711784.apps.googleusercontent.com';
+    FMA_API_KEY = 'P412SCI2RWQJ5DMF';
+    ECHONEST_SEARCH_API_KEY = '1DVESWHASHV4OXKEY';
+    CHROMECAST_APP_ID = 'BEAF7BA5';
+    CHROMECAST_MSG_NS = 'urn:x-cast:com.e8tracks.cast';
+    MIXPANEL_API_KEY = 'dadf933344ddfcca08de04377cbaf811';
+    PREROLL_ENABLED  = true;
+    MASTHEAD_ENABLED = true;
+    IMGIX_PREFERRED_SIZES =  [56, 100, 200, 320, 400, 640, 750, 960, 1024, 1280, 1536, 2048]
+
+    App = {
+      Collections : {},
+      Models      : {},
+      models      : {},
+      Views       : {},
+      views       : {},
+      currentPage : 'browse',
+      env         : 'production',
+      subdomain   : '',
+      isMobileWeb : false
+    };
+
+
+
+  //window.devicePixelRatio = 2;
+  window.dpr = window.devicePixelRatio;
+
+  if (window.dpr <= 1) {
+    window.dpr = 1;
+  } else if (window.dpr <= 2) {
+    window.dpr = 2;
+  } else if (window.dpr > 2) {
+    window.dpr = 3;
+  } else {
+    window.dpr = 1;
+  }
+
+  imgix_img = function(src, class_attr, name, onload, max_size) {
+    if (src.match('imgix') && (window.dpr == 2 || window.dpr == 3)) {
+      var preferred_sizes =  IMGIX_PREFERRED_SIZES; // TODO use different sizes for avatars and last.fm images
+      var w = src.match(/w=(\d+)/i);
+
+      if (w) {
+        var w_dpr = w[1] * window.dpr;
+        var i = 0;
+        while (i < IMGIX_PREFERRED_SIZES.length) {
+          if ( IMGIX_PREFERRED_SIZES[i] >= w_dpr || (i == IMGIX_PREFERRED_SIZES.length - 1) ){
+            w_dpr = IMGIX_PREFERRED_SIZES[i];
+            break;
+          }
+          i += 1;
+        }
+
+        if (max_size && (w_dpr > max_size)) {
+          //show original if we're requesting something larger
+          src = src.replace('w='+w[1], '').replace('h='+w[1], '');
+        } else {
+          //use smallest preferred size at least as big as DPR'd image size
+          src = src.replace('w='+w[1], 'w='+w_dpr).replace('h='+w[1], 'h='+w_dpr);
+        }
+      }
+    }
+
+    var os = (onload ? ' onload="' + onload + '"' : '');
+    return '<img src="' + src + '" class="' + class_attr + '" alt="' + name + '"' + os + '/>';
+  };
+
+  external_image_url = function(src, size){
+    if (src.match('last.fm')) { //LAST.FM
+      var sizes = [50, 64, 85, 126, 252, 500];
+      var i = 0;
+      var lfmsize = 50;
+      while (sizes[i]) {
+        lfmsize = sizes[i];
+        if (lfmsize >= size) break;
+        i++;
+      }
+      src = src.replace(new RegExp('\/([0-9]+|_)\/'), '/'+lfmsize+'/');
+
+    } else if (src.match('fbcdn.net')) { // FACEBOOK
+      src = src.replace(/\/s[0-9]*x[0-9]*\//, '/s'+size+'x'+size+'/');
+
+    } else if (src.match('wikipedia.org')) { // WIKIPEDIA
+      if (src.match('/commons')) {
+        src = src.replace('/commons/', '/commons/thumb/');
+        src += '/' + size + 'px-' + src.split('/').slice(-1);
+      }
+    }
+
+    return src;
+  };
+
+  // This is to prevent elements hidden in an A/B test from flashing in and out during page load.
+  if (window.navigator.userAgent.match(/googlebot/i) === null) {
+    document.write('<style id="initial_a_b_test_styles" type="text/css">'    +
+                      '.a_b_test_initially_hidden { visibility: hidden; }'   +
+                      '.a_b_test_initially_not_displayed { display: none; }' +
+                    '</style>');
+  }
+
+ 
+//]]>
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="http://dmuuhinfkryqs.cloudfront.net/assets/libs-be88353155b154ae6a69fcec7677bb91.js" type="text/javascript"></script>
+<script>
+  // Defines the configuration options, these must be set before you load
+  // the plusone.js file.
+  window.___gcfg = {
+    lang: 'en-US',
+    parsetags: 'explicit',
+    isSignedOut: true,
+    include_granted_scopes: true
+  }
+
+  function firstGooglePlusLoad() {
+    //loads the +1 button for 8tracks.com
+    $(document).ready(function() {
+      if (window.gapi) {
+        gapi.plusone.go();  
+      }
+    });
+  }
+</script>
+<script src="//apis.google.com/js/client:plusone.js?onload=firstGooglePlusLoad"></script>
+<script>var require = {"baseUrl":"/assets","paths":{"global_trax":"http://dmuuhinfkryqs.cloudfront.net/assets/global_trax-5cc5948de94b73bc7a408e757aaf4a5b","initializer":"http://dmuuhinfkryqs.cloudfront.net/assets/initializer-b316c295617026cca1818ddd54f15410","pages/favorite_tracks":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/favorite_tracks-0af892de6ff1ee2fdb5e7e71b2be07ca","pages/reviews":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/reviews-c602568b0517698e8075c59f810882d0","pages/follows_users":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/follows_users-cb208d33e781de56be1999d55531bd5b","pages/home_first_time":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/home_first_time-174be1da041c2bc00b567135fcc5910b","pages/home_returning":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/home_returning-66abf8df3745060ae4f2ec7579143f8e","pages/home_logged_in":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/home_logged_in-cd32c3f0c1d9228a9d419920177ae046","pages/mixes_index":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_index-80d8ddb1fe55d8aabe82da6fd3066def","pages/mixes_show":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_show-08fb4c4025a9540689f23d2e5af8fe7f","pages/mixes_stats":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_stats-fe7aca2b59ef7b2c6fb4547a19181eee","pages/collection_edit":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/collection_edit-8cea840a62ad285d4b1a4afb492dbae5","pages/users_edit":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/users_edit-a1d8a686be18fa4043964269a39ef92b","pages/users_show":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/users_show-711403961035a85b8aeebf52b62eea05","pages/iphone":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/iphone-275469cb8ad5ed9fccaea4f2ee20df0a","pages/android":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/android-6cefcf3b947ef511d1841aa92a8954fc","pages/track":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/track-bd9329e8554062a2f5b9d64704401649","pages/player":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/player-37f6c870e5b611b1e22f89924e70a1e6","pages/news_feed":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/news_feed-dcc07b6d8a12c48e95505369b3957b99","pages/notifications":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/notifications-ba6c61b2fca7e3edaa3a4c36300621ba","pages/sonos_house_party":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/sonos_house_party-cd047dacf9078e31215376510a3c51e5","pages/search_results":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/search_results-e75ce9e4cb20a55050d6d0cdfb334b3f","pages/mixmadness":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixmadness-65adc3c6fdab46fb35aeab7fb454e425","pages/mobile_tips":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mobile_tips-153bd691ebcd7ed710463db01df391bd","pages/mix_set_debug":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mix_set_debug-56d7ea19749c2ae15e5157c891c4f38b","views/moderator_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/moderator_view-89d73585c01a543c697d6c8b474e4929","views/mix_edit_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/mix_edit_view-3e326849829c500c8fbf4f95ac6127b5","views/embed_mix_lightbox_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/embed_mix_lightbox_view-b7046e1ff6d5dcd69d28ee3196894491","views/faq_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/faq_view-02cd2cad264db73376937cc0358ff697","views/signup_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/signup_view-13f7e089b0c33e987095bdf6562cf40f","views/troubleshoot_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/troubleshoot_view-767346411b0766c56fbbb22d5c970792","views/basic_upload_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/basic_upload_view-8d96ce7da0a9a534248617f7510e5bf4","views/google_plus_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/google_plus_view-c935ddc537aa389e4dc376eb8b09b59a","views/mix_recommend_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/mix_recommend_view-84b213ed1f7c09831d8bdfcc4e292150","views/preroll_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/preroll_view-3e2aaafb5321232de224371a60d18fdb","views/autocomplete_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/autocomplete_view-0c735aff8ee5edccb1926be2de2efe1a","views/mix_stats_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/mix_stats_view-054b44c03d4ac4537be09ad4ebef645c","views/8888_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/8888_view-189fc4644157bd972c1f679fc84c34c0","views/admin/users_admin_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/users_admin_view-70c192c0382e74eefa59b355bfd5f47d","views/admin/admin_tag_searches_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_tag_searches_view-a30cc6769539cb379c046ec6eba702e8","views/admin/admin_tag_mappings_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_tag_mappings_view-fd6995d2976eb02eacbb1b0d8bffd71c","views/admin/explore_filters_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/explore_filters_view-cbb64d32531b37b809d9846ab615a48d","views/admin/admin_identified_tracks_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_identified_tracks_view-eaa358e468f88ad4cc8483bf4241a6c2","views/admin/reviews_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/reviews_view-a0975cb40bda47df2ac9ddde7ef37a03","views/admin/translations_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/translations_view-52329e2ae873c926fc82a7147626f214","views/admin/faq_edit_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/faq_edit_view-72c8277bb51b0c744c5bca7fd3d92bb7","views/admin/reports_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/reports_view-36bbdfb1a0cd6327407a0d75198900aa","views/admin/orders_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/orders_view-9dc270a4d1039cd46288569bb46db7b8","views/admin/page_optimizations_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/page_optimizations_view-ac77dfd6339fa7d4bd912a3a30cad6b1","views/admin/soundcloud_identifier_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/soundcloud_identifier_view-be55aa0d82fe96aed40cc7b285b3a7bf","views/nsfw_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/nsfw_view-a3c40945b8a2d1fa88c53e9963fffd06","views/next_mix_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/next_mix_view-132ff32d239d22f02ad6506277db234f","views/tshirt_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/tshirt_view-c06b9fe873ebc8f8d0d13d381ed8cf02","views/checkout_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/checkout_view-d7494461b7bb1ea1df28ee4c399f7bf4","views/fb_player_iframe_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/fb_player_iframe_view-1efd650f625863d275f8aa93020c17f3","ima":"https://s0.2mdn.net/instream/html5/ima3"},"shim":{"jquery_ui":{"deps":["vendor/jquery/jquery-migrate-1.0.0.min","jquery_ui_easing"]},"jquery_ui_interactions":{"deps":["jquery_ui"]},"jquery.textboxlist.autocomplete":{"deps":["jquery.class"]},"jquery.class":{"exports":"window.Class"},"facebox":{"exports":"jQuery.facebox"},"select2":{"exports":"jQuery.select2"},"highcharts":{"exports":"Highcharts"},"vendor/soundcloud":{"exports":"SC"}},"waitSeconds":60};</script>
+<script src="http://dmuuhinfkryqs.cloudfront.net/assets/require-b72e6df48e8869231a56b0d5e767bb74.js"></script>
+<div id="body_container">
+<div id="belly_container">
+<div id="superheader" style="display: none;"></div>
+<!-- thin search header -->
+<div id="thin_header">
+<div class="wrapper" id="header_content">
+<div class="navlinks" id="main_links">
+<a class="home-link default" href="/" rel="home" title="8tracks | Refreshingly human playlists.">
+<span class="i logo_small_8"></span><span> Home</span>
+</a>
+<a class="p p_logged_in off feed-link" href="/news-feed" title="Feed">
+<span class="i i-feed"></span> Feed
+        </a>
+<a class="explore-link" href="/explore" title="Explore">
+<span class="i i-explore-large"></span> Explore
+        </a>
+<div id="loading" style="display: none;"><div class="loader"></div></div>
+</div>
+<div id="header_middle">
+</div>
+<div id="header_right">
+<div class="searchbox header_item" id="search">
+<form accept-charset="UTF-8" action="/search" class="search" method="get">
+<input autocomplete="off" class="text q" id="q" name="q" placeholder="Search" type="text">
+<input class="search_submit" type="submit" value=" "/>
+</input></form>
+<span class="i i-search"></span>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+      if(!document.cookie.match(/_ga/)){ // || App.env == 'staging' || App.env == 'development') { //!document.cookie.match('8tracks')) {
+        document.write('<div id="page_description"><div class="wrapper clearfix">'+
+          '<div class=\"content\">\n<p>\n\n\nWelcome to <strong>8tracks radio<\/strong> - Free music streaming for any time place or mood. \n\n    Click play to start listening for free to\n    9,000+\n    <strong>elton john<\/strong>\n    playlists\n\n\n\n\n    tagged with\n\n  <strong>rock, pop, and classic rock<\/strong>.\n\n\nYou can also download one of our <strong><a href=\"/apps\">free apps<\/a><\/strong> and enjoy internet radio on your favorite device.\n<\/p>\n<\/div>\n\n<div class=\"sidebar\">\n<a class=\"turquoise_bt large_bt\" rel=\"play_page\" href=\"#\"><span class=\"i-play\"><\/span> Play <strong>elton john music<\/strong><\/a>\n\n<a rel=\"signup_required\" href=\"/signup\" style=\"float: right;\">Sign up&rarr;<\/a>\n<\/div>'+
+          '</div></div>');
+      }
+      </script>
+</div><!-- thin_header -->
+<div id="interstitial_container"></div>
+<div class="wrapper">
+<div id="headerboard" style="display: none;"></div>
+<div class="video_masthead" id="video_masthead" style="display: none;"></div>
+<div id="sm2-container"></div>
+</div>
+<div id="wrapper">
+<div class="clear" id="belly">
+<div class="content" id="content">
+<div class="flash_container">
+</div>
+<div id="explore">
+<h1 class="center" id="splash_title">
+<a class="selected_tag" href="#" title="elton john">Elton john music</a>
+</h1>
+<div class="video_masthead" id="browse_video_masthead" style="display: none;"></div>
+<div class="large-spinner" id="collections-spinner" style="display: none;"></div>
+<div id="filters">
+<div id="artist_info">
+</div>
+<div class="clear" id="related_tags">
+<a class="next_page page_horizontal" href="#"><span class="i-chevron-right"></span></a>
+<a class="prev_page page_horizontal disabled" href="#"><span class="i-chevron-left"></span></a>
+<div class="explore_tags">
+<div class="tags_pages">
+<div class="tag_page">
+<a class="tag" href="/explore/elton__john+rock" title="rock"><span>rock</span></a>
+<a class="tag" href="/explore/elton__john+pop" title="pop"><span>pop</span></a>
+<a class="tag" href="/explore/classic_rock+elton__john" title="classic rock"><span>classic rock</span></a>
+<a class="tag" href="/explore/disney+elton__john" title="disney"><span>disney</span></a>
+<a class="tag" href="/explore/elton__john+love" title="love"><span>love</span></a>
+<a class="tag" href="/explore/elton__john+oldies" title="oldies"><span>oldies</span></a>
+<a class="tag" href="/explore/elton__john+soundtrack" title="soundtrack"><span>soundtrack</span></a>
+<a class="tag" href="/explore/alternative_rock+elton__john" title="alternative rock"><span>alternative rock</span></a>
+<a class="tag" href="/explore/elton__john+happy" title="happy"><span>happy</span></a>
+<a class="tag" href="/explore/70s+elton__john" title="70s"><span>70s</span></a>
+<a class="tag" href="/explore/elton__john+indie_rock" title="indie rock"><span>indie rock</span></a>
+<a class="tag" href="/explore/elton__john+the_beatles" title="the beatles"><span>the beatles</span></a>
+<a class="tag" href="/explore/chill+elton__john" title="chill"><span>chill</span></a>
+<a class="tag" href="/explore/elton__john+indie" title="indie"><span>indie</span></a>
+<a class="tag" href="/explore/alternative+elton__john" title="alternative"><span>alternative</span></a>
+<a class="tag" href="/explore/elton__john+sad" title="sad"><span>sad</span></a>
+<a class="tag" href="/explore/christmas+elton__john" title="christmas"><span>christmas</span></a>
+<a class="tag" href="/explore/elton__john+folk" title="folk"><span>folk</span></a>
+<a class="tag" href="/explore/disney_soundtrack+elton__john" title="disney soundtrack"><span>disney soundtrack</span></a>
+<a class="tag" href="/explore/childhood+elton__john" title="childhood"><span>childhood</span></a>
+<a class="tag" href="/explore/80s+elton__john" title="80s"><span>80s</span></a>
+</div>
+</div>
+</div>
+</div>
+<div id="big_search_container">
+<div class="searchbox clearfix" id="big_search">
+<form accept-charset="UTF-8" action="/search" class="search" method="get">
+<span class="i-plus"></span>
+<input autocomplete="off" class="text q" id="splash_q" name="q" placeholder="Enter any artist, genre, activity, or mood" type="text">
+<input class="search_submit" type="submit" value=" "/>
+</input></form>
+</div>
+</div>
+</div>
+<div id="collections">
+<div class="mix_set gridview" data-smart_id="tags:elton_john:safe">
+<div class="collection_title hot clear tooltip_container">
+<!--a rel="play_page" class="play_all turquoise" href="#"><span class="i-play"></span-->
+<strong class="mixset_entries">9,925
+	  	elton john
+	  	playlists</strong>
+<!--/a-->
+<a class="turquoise" href="#" id="remove_preset" style="display:none">- Remove from home</a>
+<a class="turquoise" href="#" id="add_preset">+ Add to home</a>
+<div class="right">
+<div class="spin" id="mix_set-spinner"><span style="display:none"> </span></div>
+<a class="use_grid" href="#"><span class="i-grid"></span></a>
+<a class="use_list" href="#"><span class="i-list"></span></a>
+<span class="pipe">|</span>
+
+		  	Filter by:
+		  	<a href="#" id="selected_sort">Trending <span class="i-triangle-down"></span></a>
+<div id="sort_select" style="display: none;">
+<a data-sort_key="hot" data-sort_name="Trending" href="/explore/elton_john"><span class="collecticon i-hot"></span>Trending</a>
+<a data-sort_key="recent" data-sort_name="Newest" href="/explore/elton_john/recent"><span class="collecticon i-recent"></span>Newest</a>
+<a data-sort_key="popular" data-sort_name="Popular" href="/explore/elton_john/popular"><span class="collecticon i-popular"></span>Popular</a>
+</div>
+</div>
+</div>
+<div class="mixes ">
+<div class="mix " data-id="5678240" data-nsfw="false">
+<div class="mix_element">
+<div class="grid_square tooltip_container">
+<a class="mix_url" href="/mitchc/erratic-swami#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/614/196/cat-5965.jpg?rect=100,0,499,499&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'Erratic Swami', false, '499'));
+        </script>
+<noscript>
+<img alt="Erratic Swami" class="cover" src="http://8tracks.imgix.net/i/008/614/196/cat-5965.jpg?rect=100,0,499,499&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/mitchc/erratic-swami#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-miniplay"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5678240" data-mix_name="Erratic Swami" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+<div class="text">
+<a class="mix_name" href="/mitchc/erratic-swami#smart_id=tags:elton_john:safe">
+<strong class="propername">Erratic Swami</strong>
+</a>
+</div>
+<a class="dj" href="/mitchc">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/005/824/244/47628.original-1267.jpg?rect=457,0,2097,2097&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=56&h=56', 'avatar', 'MitchC', false, '2097'));
+        </script>
+<noscript>
+<img alt="MitchC" class="avatar" src="http://8tracks.imgix.net/i/005/824/244/47628.original-1267.jpg?rect=457,0,2097,2097&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=56&amp;h=56"/>
+</noscript>
+       MitchC
+    </a>
+<div class="grid_details">
+<div class="grid_tags tags">
+<a class="tag" href="/explore/the_black_keys" title="the black keys">the black keys</a> <a class="tag" href="/explore/elton_john" title="elton john">elton john</a> <a class="tag" href="/explore/beatles" title="beatles">beatles</a> <a class="tag" href="/explore/rock" title="rock">rock</a> <a class="tag" href="/explore/david_bowie" title="david bowie">david bowie</a>
+</div>
+<div class="mix-stats">
+<span class="numbers">
+<span class="plays_count i-miniplay" title="Number of plays">
+            402
+          </span>
+           
+          <span class="likes_count i-miniheart" title="Number of likes">
+           22
+          </span>
+</span>
+<span class="length">2hr 54min
+          (37 tracks)
+        </span>
+</div>
+</div>
+<div class="description">
+      Songs that make you randy.
+    </div>
+<span class="date">
+<abbr class="timeago" title="1422730443">January 31, 2015</abbr>
+</span>
+<a class="mix_url" href="/mitchc/erratic-swami#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/614/196/cat-5965.jpg?rect=100,0,499,499&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'Erratic Swami', false, '499'));
+        </script>
+<noscript>
+<img alt="Erratic Swami" class="cover" src="http://8tracks.imgix.net/i/008/614/196/cat-5965.jpg?rect=100,0,499,499&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/mitchc/erratic-swami#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-play"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5678240" data-mix_name="Erratic Swami" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="mix " data-id="5818775" data-nsfw="false">
+<div class="mix_element">
+<div class="grid_square tooltip_container">
+<a class="mix_url" href="/hydriades/antiva-city#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/712/011/antiva_city-2042.png?rect=0,0,500,500&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'antiva city', false, '500'));
+        </script>
+<noscript>
+<img alt="antiva city" class="cover" src="http://8tracks.imgix.net/i/008/712/011/antiva_city-2042.png?rect=0,0,500,500&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/hydriades/antiva-city#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-miniplay"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5818775" data-mix_name="antiva city" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+<div class="text">
+<a class="mix_name" href="/hydriades/antiva-city#smart_id=tags:elton_john:safe">
+<strong class="propername">antiva city</strong>
+</a>
+</div>
+<a class="dj" href="/hydriades">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/007/053/553/r-8280.png?rect=0,1,240,240&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=56&h=56', 'avatar', 'hydriades', false, '240'));
+        </script>
+<noscript>
+<img alt="hydriades" class="avatar" src="http://8tracks.imgix.net/i/007/053/553/r-8280.png?rect=0,1,240,240&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=56&amp;h=56"/>
+</noscript>
+       hydriades
+    </a>
+<div class="grid_details">
+<div class="grid_tags tags">
+<a class="tag" href="/explore/dragon_age" title="dragon age">dragon age</a> <a class="tag" href="/explore/antiva" title="antiva">antiva</a> <a class="tag" href="/explore/antivan_crows" title="antivan crows">antivan crows</a> <a class="tag" href="/explore/thedas" title="thedas">thedas</a> <a class="tag" href="/explore/cities_of_thedas" title="cities of thedas">cities of thedas</a>
+</div>
+<div class="mix-stats">
+<span class="numbers">
+<span class="plays_count i-miniplay" title="Number of plays">
+            0
+          </span>
+           
+          <span class="likes_count i-miniheart" title="Number of likes">
+           3
+          </span>
+</span>
+<span class="length">56min
+          (20 tracks)
+        </span>
+</div>
+</div>
+<div class="description">
+      Antiva City is both beautiful and deadly, much like many of its denizens.
+    </div>
+<span class="date">
+<abbr class="timeago" title="1424638561">February 22, 2015</abbr>
+</span>
+<a class="mix_url" href="/hydriades/antiva-city#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/712/011/antiva_city-2042.png?rect=0,0,500,500&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'antiva city', false, '500'));
+        </script>
+<noscript>
+<img alt="antiva city" class="cover" src="http://8tracks.imgix.net/i/008/712/011/antiva_city-2042.png?rect=0,0,500,500&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/hydriades/antiva-city#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-play"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5818775" data-mix_name="antiva city" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="mix " data-id="5786527" data-nsfw="false">
+<div class="mix_element">
+<div class="grid_square tooltip_container">
+<a class="mix_url" href="/kittenlover888/space-cat-couple#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/689/776/_5658B23C51BB6C12D60CAA38BCFD24AB6BE3E914EDCD408FCE_pimgpsh_fullsize_distr-637.jpg?rect=0,37,450,450&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'Space Cat Couple', false, '450'));
+        </script>
+<noscript>
+<img alt="Space Cat Couple" class="cover" src="http://8tracks.imgix.net/i/008/689/776/_5658B23C51BB6C12D60CAA38BCFD24AB6BE3E914EDCD408FCE_pimgpsh_fullsize_distr-637.jpg?rect=0,37,450,450&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/kittenlover888/space-cat-couple#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-miniplay"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5786527" data-mix_name="Space Cat Couple" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+<div class="text">
+<a class="mix_name" href="/kittenlover888/space-cat-couple#smart_id=tags:elton_john:safe">
+<strong class="propername">Space Cat Couple</strong>
+</a>
+</div>
+<a class="dj" href="/kittenlover888">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/007/369/441/46033.original-7191.jpg?rect=0,30,500,500&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=56&h=56', 'avatar', 'KittenLover888', false, '500'));
+        </script>
+<noscript>
+<img alt="KittenLover888" class="avatar" src="http://8tracks.imgix.net/i/007/369/441/46033.original-7191.jpg?rect=0,30,500,500&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=56&amp;h=56"/>
+</noscript>
+       KittenLover888
+    </a>
+<div class="grid_details">
+<div class="grid_tags tags">
+<a class="tag" href="/explore/notagoddamnrobot" title="notagoddamnrobot">notagoddamnrobot</a> <a class="tag" href="/explore/relationship" title="relationship">relationship</a> <a class="tag" href="/explore/gay" title="gay">gay</a>
+</div>
+<div class="mix-stats">
+<span class="numbers">
+<span class="plays_count i-miniplay" title="Number of plays">
+            42
+          </span>
+           
+          <span class="likes_count i-miniheart" title="Number of likes">
+           5
+          </span>
+</span>
+<span class="length">1hr 21min
+          (22 tracks)
+        </span>
+</div>
+</div>
+<div class="description">
+      This is a playlist for Mark and I for being gay.
+    </div>
+<span class="date">
+<abbr class="timeago" title="1424125825">February 16, 2015</abbr>
+</span>
+<a class="mix_url" href="/kittenlover888/space-cat-couple#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/689/776/_5658B23C51BB6C12D60CAA38BCFD24AB6BE3E914EDCD408FCE_pimgpsh_fullsize_distr-637.jpg?rect=0,37,450,450&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'Space Cat Couple', false, '450'));
+        </script>
+<noscript>
+<img alt="Space Cat Couple" class="cover" src="http://8tracks.imgix.net/i/008/689/776/_5658B23C51BB6C12D60CAA38BCFD24AB6BE3E914EDCD408FCE_pimgpsh_fullsize_distr-637.jpg?rect=0,37,450,450&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/kittenlover888/space-cat-couple#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-play"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5786527" data-mix_name="Space Cat Couple" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="mix " data-id="5765535" data-nsfw="false">
+<div class="mix_element">
+<div class="grid_square tooltip_container">
+<a class="mix_url" href="/zuul/lunchtime-in-gay-hell#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/674/932/Untitled-1-8135.png?rect=0,0,500,500&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'lunchtime in gay hell', false, '500'));
+        </script>
+<noscript>
+<img alt="lunchtime in gay hell" class="cover" src="http://8tracks.imgix.net/i/008/674/932/Untitled-1-8135.png?rect=0,0,500,500&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/zuul/lunchtime-in-gay-hell#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-miniplay"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5765535" data-mix_name="lunchtime in gay hell" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+<div class="text">
+<a class="mix_name" href="/zuul/lunchtime-in-gay-hell#smart_id=tags:elton_john:safe">
+<strong class="propername">lunchtime in gay hell</strong>
+</a>
+</div>
+<a class="dj" href="/zuul">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/002/947/718/95628.original-4284.png?rect=0,0,340,340&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=56&h=56', 'avatar', 'zuul', false, '340'));
+        </script>
+<noscript>
+<img alt="zuul" class="avatar" src="http://8tracks.imgix.net/i/002/947/718/95628.original-4284.png?rect=0,0,340,340&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=56&amp;h=56"/>
+</noscript>
+       zuul
+    </a>
+<div class="grid_details">
+<div class="grid_tags tags">
+<a class="tag" href="/explore/gotham" title="gotham">gotham</a> <a class="tag" href="/explore/oldies" title="oldies">oldies</a> <a class="tag" href="/explore/classic_rock" title="classic rock">classic rock</a> <a class="tag" href="/explore/love" title="love">love</a>
+</div>
+<div class="mix-stats">
+<span class="numbers">
+<span class="plays_count i-miniplay" title="Number of plays">
+            81
+          </span>
+           
+          <span class="likes_count i-miniheart" title="Number of likes">
+           10
+          </span>
+</span>
+<span class="length">47min
+          (13 tracks)
+        </span>
+</div>
+</div>
+<div class="description">
+</div>
+<span class="date">
+<abbr class="timeago" title="1423874881">February 14, 2015</abbr>
+</span>
+<a class="mix_url" href="/zuul/lunchtime-in-gay-hell#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/674/932/Untitled-1-8135.png?rect=0,0,500,500&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'lunchtime in gay hell', false, '500'));
+        </script>
+<noscript>
+<img alt="lunchtime in gay hell" class="cover" src="http://8tracks.imgix.net/i/008/674/932/Untitled-1-8135.png?rect=0,0,500,500&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/zuul/lunchtime-in-gay-hell#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-play"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5765535" data-mix_name="lunchtime in gay hell" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="mix " data-id="5807682" data-nsfw="false">
+<div class="mix_element">
+<div class="grid_square tooltip_container">
+<a class="mix_url" href="/liskabadabiska/e-i-don-t-know#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/703/984/FullSizeRender-9605.jpg?rect=0,0,2448,2448&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'E. I don&#39;t know', false, '2448'));
+        </script>
+<noscript>
+<img alt="E. I don't know" class="cover" src="http://8tracks.imgix.net/i/008/703/984/FullSizeRender-9605.jpg?rect=0,0,2448,2448&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/liskabadabiska/e-i-don-t-know#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-miniplay"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5807682" data-mix_name="E. I don't know" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+<div class="text">
+<a class="mix_name" href="/liskabadabiska/e-i-don-t-know#smart_id=tags:elton_john:safe">
+<strong class="propername">E. I don't know</strong>
+</a>
+</div>
+<a class="dj" href="/liskabadabiska">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/003/819/890/44141.original-864.jpg?rect=70,0,361,361&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=56&h=56', 'avatar', 'liskabadabiska', false, '361'));
+        </script>
+<noscript>
+<img alt="liskabadabiska" class="avatar" src="http://8tracks.imgix.net/i/003/819/890/44141.original-864.jpg?rect=70,0,361,361&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=56&amp;h=56"/>
+</noscript>
+       liskabadabiska
+    </a>
+<div class="grid_details">
+<div class="grid_tags tags">
+<a class="tag" href="/explore/instrumental" title="instrumental">instrumental</a> <a class="tag" href="/explore/soundtrack" title="soundtrack">soundtrack</a> <a class="tag" href="/explore/study" title="study">study</a> <a class="tag" href="/explore/relax" title="relax">relax</a> <a class="tag" href="/explore/calm" title="calm">calm</a>
+</div>
+<div class="mix-stats">
+<span class="numbers">
+<span class="plays_count i-miniplay" title="Number of plays">
+            29
+          </span>
+           
+          <span class="likes_count i-miniheart" title="Number of likes">
+           4
+          </span>
+</span>
+<span class="length">3hr 0min
+          (42 tracks)
+        </span>
+</div>
+</div>
+<div class="description">
+      Finals week #stuggle 
+
+Some instrumental strength for your study cram sesh.
+    </div>
+<span class="date">
+<abbr class="timeago" title="1424406977">February 20, 2015</abbr>
+</span>
+<a class="mix_url" href="/liskabadabiska/e-i-don-t-know#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/703/984/FullSizeRender-9605.jpg?rect=0,0,2448,2448&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'E. I don&#39;t know', false, '2448'));
+        </script>
+<noscript>
+<img alt="E. I don't know" class="cover" src="http://8tracks.imgix.net/i/008/703/984/FullSizeRender-9605.jpg?rect=0,0,2448,2448&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/liskabadabiska/e-i-don-t-know#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-play"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5807682" data-mix_name="E. I don't know" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="mix " data-id="5689450" data-nsfw="false">
+<div class="mix_element">
+<div class="grid_square tooltip_container">
+<a class="mix_url" href="/maddienellie/eraser-crumbs#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/622/089/Eraser-24.jpg?rect=307,0,1200,1200&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'eraser crumbs', false, '1200'));
+        </script>
+<noscript>
+<img alt="eraser crumbs" class="cover" src="http://8tracks.imgix.net/i/008/622/089/Eraser-24.jpg?rect=307,0,1200,1200&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/maddienellie/eraser-crumbs#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-miniplay"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5689450" data-mix_name="eraser crumbs" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+<div class="text">
+<a class="mix_name" href="/maddienellie/eraser-crumbs#smart_id=tags:elton_john:safe">
+<strong class="propername">eraser crumbs</strong>
+</a>
+</div>
+<a class="dj" href="/maddienellie">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/004/966/634/avatar-9861.jpg?rect=0,1,748,748&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=56&h=56', 'avatar', 'maddienellie', false, '748'));
+        </script>
+<noscript>
+<img alt="maddienellie" class="avatar" src="http://8tracks.imgix.net/i/004/966/634/avatar-9861.jpg?rect=0,1,748,748&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=56&amp;h=56"/>
+</noscript>
+       maddienellie
+    </a>
+<div class="grid_details">
+<div class="grid_tags tags">
+<a class="tag" href="/explore/alternative" title="alternative">alternative</a> <a class="tag" href="/explore/alternative_rock" title="alternative rock">alternative rock</a> <a class="tag" href="/explore/pop_punk" title="pop punk">pop punk</a> <a class="tag" href="/explore/rock" title="rock">rock</a> <a class="tag" href="/explore/indie_rock" title="indie rock">indie rock</a>
+</div>
+<div class="mix-stats">
+<span class="numbers">
+<span class="plays_count i-miniplay" title="Number of plays">
+            56
+          </span>
+           
+          <span class="likes_count i-miniheart" title="Number of likes">
+           7
+          </span>
+</span>
+<span class="length">36min
+          (9 tracks)
+        </span>
+</div>
+</div>
+<div class="description">
+      you are what you love, not who loves you (ft.
+    </div>
+<span class="date">
+<abbr class="timeago" title="1422843116">February 02, 2015</abbr>
+</span>
+<a class="mix_url" href="/maddienellie/eraser-crumbs#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/622/089/Eraser-24.jpg?rect=307,0,1200,1200&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'eraser crumbs', false, '1200'));
+        </script>
+<noscript>
+<img alt="eraser crumbs" class="cover" src="http://8tracks.imgix.net/i/008/622/089/Eraser-24.jpg?rect=307,0,1200,1200&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/maddienellie/eraser-crumbs#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-play"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5689450" data-mix_name="eraser crumbs" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="mix " data-id="5649317" data-nsfw="false">
+<div class="mix_element">
+<div class="grid_square tooltip_container">
+<a class="mix_url" href="/cuddlyclifford/songs-i-really-think-you-should-listen-to#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/593/818/cover2-372.jpg?rect=0,0,500,500&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'songs i really think you should listen to', false, '500'));
+        </script>
+<noscript>
+<img alt="songs i really think you should listen to" class="cover" src="http://8tracks.imgix.net/i/008/593/818/cover2-372.jpg?rect=0,0,500,500&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/cuddlyclifford/songs-i-really-think-you-should-listen-to#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-miniplay"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5649317" data-mix_name="songs i really think you should listen to" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+<div class="text">
+<a class="mix_name" href="/cuddlyclifford/songs-i-really-think-you-should-listen-to#smart_id=tags:elton_john:safe">
+<strong class="propername">songs i really think you should listen to</strong>
+</a>
+</div>
+<a class="dj" href="/cuddlyclifford">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/005/571/049/46630.original-4871.jpg?rect=0,0,640,640&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=56&h=56', 'avatar', 'cuddlyclifford', false, '640'));
+        </script>
+<noscript>
+<img alt="cuddlyclifford" class="avatar" src="http://8tracks.imgix.net/i/005/571/049/46630.original-4871.jpg?rect=0,0,640,640&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=56&amp;h=56"/>
+</noscript>
+       cuddlyclifford
+    </a>
+<div class="grid_details">
+<div class="grid_tags tags">
+<a class="tag" href="/explore/good_music" title="good music">good music</a> <a class="tag" href="/explore/favorites" title="favorites">favorites</a> <a class="tag" href="/explore/idk_man_just_listen" title="idk man just listen">idk man just listen</a>
+</div>
+<div class="mix-stats">
+<span class="numbers">
+<span class="plays_count i-miniplay" title="Number of plays">
+            285
+          </span>
+           
+          <span class="likes_count i-miniheart" title="Number of likes">
+           16
+          </span>
+</span>
+<span class="length">38min
+          (9 tracks)
+        </span>
+</div>
+</div>
+<div class="description">
+      JUST LISTEN TO IT OKAY.
+    </div>
+<span class="date">
+<abbr class="timeago" title="1422316197">January 26, 2015</abbr>
+</span>
+<a class="mix_url" href="/cuddlyclifford/songs-i-really-think-you-should-listen-to#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/593/818/cover2-372.jpg?rect=0,0,500,500&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'songs i really think you should listen to', false, '500'));
+        </script>
+<noscript>
+<img alt="songs i really think you should listen to" class="cover" src="http://8tracks.imgix.net/i/008/593/818/cover2-372.jpg?rect=0,0,500,500&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/cuddlyclifford/songs-i-really-think-you-should-listen-to#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-play"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5649317" data-mix_name="songs i really think you should listen to" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="mix " data-id="5687730" data-nsfw="false">
+<div class="mix_element">
+<div class="grid_square tooltip_container">
+<a class="mix_url" href="/claricezarry/songs-to-jam-with-harry#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/620/898/tumblr_mzcwuuO9ws1sl8mgro1_500-2617.jpg?rect=0,100,500,500&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'songs to jam with harry!!', false, '500'));
+        </script>
+<noscript>
+<img alt="songs to jam with harry!!" class="cover" src="http://8tracks.imgix.net/i/008/620/898/tumblr_mzcwuuO9ws1sl8mgro1_500-2617.jpg?rect=0,100,500,500&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/claricezarry/songs-to-jam-with-harry#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-miniplay"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5687730" data-mix_name="songs to jam with harry!!" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+<div class="text">
+<a class="mix_name" href="/claricezarry/songs-to-jam-with-harry#smart_id=tags:elton_john:safe">
+<strong class="propername">songs to jam with harry!!</strong>
+</a>
+</div>
+<a class="dj" href="/claricezarry">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/003/226/249/IMG_3272-8096.jpg?rect=0,160,640,640&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=56&h=56', 'avatar', 'claricezarry', false, '640'));
+        </script>
+<noscript>
+<img alt="claricezarry" class="avatar" src="http://8tracks.imgix.net/i/003/226/249/IMG_3272-8096.jpg?rect=0,160,640,640&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=56&amp;h=56"/>
+</noscript>
+       claricezarry
+    </a>
+<div class="grid_details">
+<div class="grid_tags tags">
+<a class="tag" href="/explore/fun_songs" title="fun songs">fun songs</a> <a class="tag" href="/explore/pop" title="pop">pop</a> <a class="tag" href="/explore/rock" title="rock">rock</a> <a class="tag" href="/explore/alternative" title="alternative">alternative</a> <a class="tag" href="/explore/harry_styles" title="harry styles">harry styles</a>
+</div>
+<div class="mix-stats">
+<span class="numbers">
+<span class="plays_count i-miniplay" title="Number of plays">
+            114
+          </span>
+           
+          <span class="likes_count i-miniheart" title="Number of likes">
+           13
+          </span>
+</span>
+<span class="length">31min
+          (13 tracks)
+        </span>
+</div>
+</div>
+<div class="description">
+      drunk harry seems like a really fun guy to hang around with especially dancing to fun songs.
+    </div>
+<span class="date">
+<abbr class="timeago" title="1422828431">February 01, 2015</abbr>
+</span>
+<a class="mix_url" href="/claricezarry/songs-to-jam-with-harry#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/620/898/tumblr_mzcwuuO9ws1sl8mgro1_500-2617.jpg?rect=0,100,500,500&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'songs to jam with harry!!', false, '500'));
+        </script>
+<noscript>
+<img alt="songs to jam with harry!!" class="cover" src="http://8tracks.imgix.net/i/008/620/898/tumblr_mzcwuuO9ws1sl8mgro1_500-2617.jpg?rect=0,100,500,500&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/claricezarry/songs-to-jam-with-harry#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-play"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5687730" data-mix_name="songs to jam with harry!!" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="mix " data-id="5637745" data-nsfw="false">
+<div class="mix_element">
+<div class="grid_square tooltip_container">
+<a class="mix_url" href="/maniacalcurls/batgirl-of-burnside#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/585/634/Batgirl35-1-1128.jpg?rect=0,0,645,645&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'Batgirl of Burnside', false, '645'));
+        </script>
+<noscript>
+<img alt="Batgirl of Burnside" class="cover" src="http://8tracks.imgix.net/i/008/585/634/Batgirl35-1-1128.jpg?rect=0,0,645,645&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/maniacalcurls/batgirl-of-burnside#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-miniplay"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5637745" data-mix_name="Batgirl of Burnside" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+<div class="text">
+<a class="mix_name" href="/maniacalcurls/batgirl-of-burnside#smart_id=tags:elton_john:safe">
+<strong class="propername">Batgirl of Burnside</strong>
+</a>
+</div>
+<a class="dj" href="/maniacalcurls">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/556/446/tattooed_by_crystal2blue-d4p9uxl-7794.jpg?rect=0,14,656,656&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=56&h=56', 'avatar', 'ManiacalCurls', false, '656'));
+        </script>
+<noscript>
+<img alt="ManiacalCurls" class="avatar" src="http://8tracks.imgix.net/i/008/556/446/tattooed_by_crystal2blue-d4p9uxl-7794.jpg?rect=0,14,656,656&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=56&amp;h=56"/>
+</noscript>
+       ManiacalCurls
+    </a>
+<div class="grid_details">
+<div class="grid_tags tags">
+<a class="tag" href="/explore/batgirl" title="batgirl">batgirl</a> <a class="tag" href="/explore/batgirl_of_burnside" title="batgirl of burnside">batgirl of burnside</a> <a class="tag" href="/explore/gotham_city" title="gotham city">gotham city</a> <a class="tag" href="/explore/dc_comics" title="dc comics">dc comics</a>
+</div>
+<div class="mix-stats">
+<span class="numbers">
+<span class="plays_count i-miniplay" title="Number of plays">
+            184
+          </span>
+           
+          <span class="likes_count i-miniheart" title="Number of likes">
+           15
+          </span>
+</span>
+<span class="length">43min
+          (15 tracks)
+        </span>
+</div>
+</div>
+<div class="description">
+      When you're patrolling the town, you need some sweet tunes.
+    </div>
+<span class="date">
+<abbr class="timeago" title="1422168564">January 25, 2015</abbr>
+</span>
+<a class="mix_url" href="/maniacalcurls/batgirl-of-burnside#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/585/634/Batgirl35-1-1128.jpg?rect=0,0,645,645&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'Batgirl of Burnside', false, '645'));
+        </script>
+<noscript>
+<img alt="Batgirl of Burnside" class="cover" src="http://8tracks.imgix.net/i/008/585/634/Batgirl35-1-1128.jpg?rect=0,0,645,645&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/maniacalcurls/batgirl-of-burnside#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-play"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5637745" data-mix_name="Batgirl of Burnside" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="mix " data-id="5649064" data-nsfw="false">
+<div class="mix_element">
+<div class="grid_square tooltip_container">
+<a class="mix_url" href="/melodramatic-lover/58-greatest-love-songs#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/593/596/6ef635344e5efb2f6c3816ead7075e21-838.jpg?rect=0,0,500,500&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', '58 Greatest Love Songs', false, '500'));
+        </script>
+<noscript>
+<img alt="58 Greatest Love Songs" class="cover" src="http://8tracks.imgix.net/i/008/593/596/6ef635344e5efb2f6c3816ead7075e21-838.jpg?rect=0,0,500,500&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/melodramatic-lover/58-greatest-love-songs#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-miniplay"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5649064" data-mix_name="58 Greatest Love Songs" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+<div class="text">
+<a class="mix_name" href="/melodramatic-lover/58-greatest-love-songs#smart_id=tags:elton_john:safe">
+<strong class="propername">58 Greatest Love Songs</strong>
+</a>
+</div>
+<a class="dj" href="/melodramatic-lover">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/007/307/495/986.original.-8256.jpg?rect=105,0,270,270&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=56&h=56', 'avatar', 'Melodramatic lover', false, '270'));
+        </script>
+<noscript>
+<img alt="Melodramatic lover" class="avatar" src="http://8tracks.imgix.net/i/007/307/495/986.original.-8256.jpg?rect=105,0,270,270&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=56&amp;h=56"/>
+</noscript>
+       Melodramatic lover
+    </a>
+<div class="grid_details">
+<div class="grid_tags tags">
+<a class="tag" href="/explore/valentines" title="valentines">valentines</a> <a class="tag" href="/explore/love_songs" title="love songs">love songs</a> <a class="tag" href="/explore/james_blunt" title="james blunt">james blunt</a> <a class="tag" href="/explore/maroon_5" title="maroon 5">maroon 5</a> <a class="tag" href="/explore/love" title="love">love</a>
+</div>
+<div class="mix-stats">
+<span class="numbers">
+<span class="plays_count i-miniplay" title="Number of plays">
+            605
+          </span>
+           
+          <span class="likes_count i-miniheart" title="Number of likes">
+           35
+          </span>
+</span>
+<span class="length">3hr 44min
+          (58 tracks)
+        </span>
+</div>
+</div>
+<div class="description">
+      Playlist of greatest love songs of all time.
+    </div>
+<span class="date">
+<abbr class="timeago" title="1422318353">January 27, 2015</abbr>
+</span>
+<a class="mix_url" href="/melodramatic-lover/58-greatest-love-songs#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/593/596/6ef635344e5efb2f6c3816ead7075e21-838.jpg?rect=0,0,500,500&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', '58 Greatest Love Songs', false, '500'));
+        </script>
+<noscript>
+<img alt="58 Greatest Love Songs" class="cover" src="http://8tracks.imgix.net/i/008/593/596/6ef635344e5efb2f6c3816ead7075e21-838.jpg?rect=0,0,500,500&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/melodramatic-lover/58-greatest-love-songs#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-play"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5649064" data-mix_name="58 Greatest Love Songs" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="mix " data-id="5673307" data-nsfw="false">
+<div class="mix_element">
+<div class="grid_square tooltip_container">
+<a class="mix_url" href="/coulthard-lucas/is-this-love#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/610/462/article-0-1560C45E000005DC-832_634x945-3858.jpg?rect=0,155,634,634&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'Is This Love?', false, '634'));
+        </script>
+<noscript>
+<img alt="Is This Love?" class="cover" src="http://8tracks.imgix.net/i/008/610/462/article-0-1560C45E000005DC-832_634x945-3858.jpg?rect=0,155,634,634&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/coulthard-lucas/is-this-love#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-miniplay"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5673307" data-mix_name="Is This Love?" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+<div class="text">
+<a class="mix_name" href="/coulthard-lucas/is-this-love#smart_id=tags:elton_john:safe">
+<strong class="propername">Is This Love?</strong>
+</a>
+</div>
+<a class="dj" href="/coulthard-lucas">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/492/985/Lucas_Coulthard_1-9652.jpg?rect=0,160,960,960&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=56&h=56', 'avatar', 'Coulthard, Lucas', false, '960'));
+        </script>
+<noscript>
+<img alt="Coulthard, Lucas" class="avatar" src="http://8tracks.imgix.net/i/008/492/985/Lucas_Coulthard_1-9652.jpg?rect=0,160,960,960&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=56&amp;h=56"/>
+</noscript>
+       Coulthard, Lucas
+    </a>
+<div class="grid_details">
+<div class="grid_tags tags">
+<a class="tag" href="/explore/love_songs" title="love songs">love songs</a> <a class="tag" href="/explore/the_beatles" title="the beatles">the beatles</a> <a class="tag" href="/explore/whitesnake" title="whitesnake">whitesnake</a> <a class="tag" href="/explore/the_eagles" title="the eagles">the eagles</a> <a class="tag" href="/explore/elton_john" title="elton john">elton john</a>
+</div>
+<div class="mix-stats">
+<span class="numbers">
+<span class="plays_count i-miniplay" title="Number of plays">
+            371
+          </span>
+           
+          <span class="likes_count i-miniheart" title="Number of likes">
+           19
+          </span>
+</span>
+<span class="length">29min
+          (8 tracks)
+        </span>
+</div>
+</div>
+<div class="description">
+</div>
+<span class="date">
+<abbr class="timeago" title="1422658665">January 30, 2015</abbr>
+</span>
+<a class="mix_url" href="/coulthard-lucas/is-this-love#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/610/462/article-0-1560C45E000005DC-832_634x945-3858.jpg?rect=0,155,634,634&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'Is This Love?', false, '634'));
+        </script>
+<noscript>
+<img alt="Is This Love?" class="cover" src="http://8tracks.imgix.net/i/008/610/462/article-0-1560C45E000005DC-832_634x945-3858.jpg?rect=0,155,634,634&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/coulthard-lucas/is-this-love#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-play"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5673307" data-mix_name="Is This Love?" href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="mix " data-id="5770621" data-nsfw="false">
+<div class="mix_element">
+<div class="grid_square tooltip_container">
+<a class="mix_url" href="/kenm-a/not-for-me#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/678/286/tumblr_n1l3p4b5gn1sohz2fo1_400-9379.png?rect=0,100,400,400&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'Not for me ', false, '400'));
+        </script>
+<noscript>
+<img alt="Not for me " class="cover" src="http://8tracks.imgix.net/i/008/678/286/tumblr_n1l3p4b5gn1sohz2fo1_400-9379.png?rect=0,100,400,400&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/kenm-a/not-for-me#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-miniplay"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5770621" data-mix_name="Not for me " href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+<div class="text">
+<a class="mix_name" href="/kenm-a/not-for-me#smart_id=tags:elton_john:safe">
+<strong class="propername">Not for me </strong>
+</a>
+</div>
+<a class="dj" href="/kenm-a">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/006/153/826/tumblr_mwoizrLnyv1s4ofb0o8_500-9319.png?rect=0,0,500,500&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=56&h=56', 'avatar', 'kenm-a', false, '500'));
+        </script>
+<noscript>
+<img alt="kenm-a" class="avatar" src="http://8tracks.imgix.net/i/006/153/826/tumblr_mwoizrLnyv1s4ofb0o8_500-9319.png?rect=0,0,500,500&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=56&amp;h=56"/>
+</noscript>
+       kenm-a
+    </a>
+<div class="grid_details">
+<div class="grid_tags tags">
+<a class="tag" href="/explore/valentine%27s_day" title="valentine's day">valentine's day</a> <a class="tag" href="/explore/jazz" title="jazz">jazz</a> <a class="tag" href="/explore/%5E%5E%5Ey_kinda_jazzy_lmao" title="...y kinda jazzy lmao">...y kinda jazzy lmao</a>
+</div>
+<div class="mix-stats">
+<span class="numbers">
+<span class="plays_count i-miniplay" title="Number of plays">
+            15
+          </span>
+           
+          <span class="likes_count i-miniheart" title="Number of likes">
+           1
+          </span>
+</span>
+<span class="length">16min
+          (8 tracks)
+        </span>
+</div>
+</div>
+<div class="description">
+      Not a great fan of Valentine's.
+    </div>
+<span class="date">
+<abbr class="timeago" title="1423947675">February 14, 2015</abbr>
+</span>
+<a class="mix_url" href="/kenm-a/not-for-me#smart_id=tags:elton_john:safe">
+<script>
+          document.write(imgix_img('http://8tracks.imgix.net/i/008/678/286/tumblr_n1l3p4b5gn1sohz2fo1_400-9379.png?rect=0,100,400,400&q=65&sharp=15&vib=10&fm=jpg&fit=max&w=200&h=200', 'cover', 'Not for me ', false, '400'));
+        </script>
+<noscript>
+<img alt="Not for me " class="cover" src="http://8tracks.imgix.net/i/008/678/286/tumblr_n1l3p4b5gn1sohz2fo1_400-9379.png?rect=0,100,400,400&amp;q=65&amp;sharp=15&amp;vib=10&amp;fm=jpg&amp;fit=max&amp;w=200&amp;h=200"/>
+</noscript>
+</a>
+<div class="quick_actions">
+<a class="quick_play" href="/kenm-a/not-for-me#smart_id=tags:elton_john:safe&amp;play=1" title="play"><span class="i-play"></span></a>
+<span class="pipe"></span>
+<a class="quick_add" data-mix_id="5770621" data-mix_name="Not for me " href="#" title="Add to collection"><span class="i-plus"></span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="new_pagination clear"><div class="pages_after"><a class="next_page white_button" href="/explore/elton_john/hot/2">Next page  <span class="i-arrow-right"></span></a><a class="white_button" href="/explore/elton_john/hot/4">4</a><a class="white_button" href="/explore/elton_john/hot/3">3</a><a class="white_button" href="/explore/elton_john/hot/2">2</a></div><div class="page_counter">1 of 828</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="sidebar" id="sidebar">
+<div class="sidebar_ad_wrapper">
+<div id="sidebar_ad">
+</div>
+<div class="plus_cta">
+<span id="plus_cta" style="display: none;"><a href="/plus">Remove ads</a></span>
+<span class="p p_admin off"> | <a href="#" onclick="App.views.dfpView.showAdCode('#sidebar_ad');">Show ad code</a></span>
+</div>
+</div>
+<br/>
+<div id="top_artists">
+</div>
+<div class="mobile_apps">
+<img alt="Windows logo" src="/assets/logo/logo.windows.mini.png" style="float: left; margin: 1px 3px 5px 0;"/>
+<img alt="iOS logo" src="/assets/logo/logo.apple.mini.gray.png" style="float: left; margin: -3px 5px 0 3px;"/>
+<img alt="Android logo" src="/assets/logo/logo.android.mini.png" style="float: left; margin: 0px 10px 5px 0;"/>
+<strong>Mobile apps</strong>
+<br class="clear">Download one of our free music apps for <a href="/iphone" title="8tracks Radio for iPhone and iPod Touch">iOS</a>, <a href="/android" title="8tracks Radio for Android phones and tablets">Android</a>, <a href="/windows8" title="8tracks Radio for Windows 8 phones, tablets and PCs">Windows 8</a> or <a href="https://appworld.blackberry.com/webstore/content/23695872" title="8tracks Radio for Blackberry smartphones and tabtlets">Blackberry</a>.
+</br></div>
+</div>
+</div>
+</div>
+</div>
+<div id="fb-root"></div>
+<div id="preroll_container"></div>
+<div class="displaymode" id="player_container">
+<div id="you_tube_player" style="display: none;"></div>
+<div id="player_box" style="display: none;">
+<div class="collapsed" id="player_artist_details">
+</div>
+<div class="wrapper">
+<div id="player"></div>
+<div id="dialog"></div>
+</div>
+</div>
+<div id="player_prop"></div>
+</div>
+<div id="footer">
+<div class="wrapper">
+<div id="footerboard"></div>
+<div class="topfooter container">
+<div class="disabled" id="safe_browse_container">
+<div class="icon-link" id="safe_browse">
+<span class="i-flag"></span>
+				Safe browse: <strong><span class="enabled">On</span><span class="disabled">Off</span></strong>
+</div>
+<div class="black_tooltip black_tooltip_up black_tooltip_solid">
+<span class="disabled">Turn on safe browse to hide content that has been flagged by the community as not safe for work.</span>
+<span class="enabled">Turn off safe browse to show content that has been flagged by the community as not safe for work.</span>
+</div>
+</div>
+<div class="mobile_links">
+<a class="apple_appstore" href="https://itunes.apple.com/app/id346194763?mt=8" rel="external" target="_blank" title="iPhone app"></a>
+<a class="android_appstore" href="https://play.google.com/store/apps/details?id=com.e8tracks&amp;referrer=utm_source%3D8tracks.com%26utm_medium%3Dreferral%26utm_content%3Dfooter-v1-official-button%26utm_campaign%3Dapp-promo-android" rel="external" target="_blank" title="Get our Android app on Google Play"></a>
+<a class="windows_appstore" href="http://apps.microsoft.com/windows/en-US/app/8tracks-radio/956c13b6-fd21-419e-98a6-be86500523a8" rel="external" target="_blank" title="Available on the Windows Store"></a>
+</div>
+<div class="facebook_like">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2F8tracks&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=132228608291"></iframe>
+<div class="g-plusone" data-href="http://8tracks.com/" data-size="medium"></div>
+</div>
+</div>
+<div class="container clearfix">
+<ul class="toe">
+<li class="label">Extras</li>
+<li><a href="/apps">Apps</a></li>
+<li><a href="/plus">Ad free</a></li>
+<li><a href="/store">Merchandise</a></li>
+<li><a href="/developers">Developer API</a></li>
+<li><a href="/tags">Tag map</a></li>
+<li class="p p_admin off"><a href="/settings/1">[Admin]</a></li>
+</ul>
+<ul class="toe">
+<li class="label">Company</li>
+<li><a href="/about">About</a></li>
+<li><a href="/team">Team</a></li>
+<li><a href="/advertising">Advertising</a></li>
+<li><a href="/media">Media</a></li>
+<li><a href="http://blog.8tracks.com/">Blog</a></li>
+<li><a href="/jobs">Jobs</a></li>
+</ul>
+<ul class="toe">
+<li class="label">Help</li>
+<li><a href="/contact_us">Contact us</a></li>
+<li><a href="/faq">FAQ</a></li>
+<li><a href="/troubleshoot" target="_blank">Troubleshoot</a></li>
+<li><a href="/create_playlist" target="_blank">Create a playlist</a></li>
+</ul>
+<ul class="toe">
+<li class="label">Legal</li>
+<li><a href="/licensing">Licensing</a></li>
+<li><a href="/copyright">Copyright</a></li>
+<li><a href="/terms">Terms</a></li>
+<li><a href="/privacy">Privacy</a></li>
+</ul>
+<ul class="toe">
+<li class="label">Social</li>
+<li><a href="http://facebook.com/8tracks" target="_blank" title="Like us on FB">Facebook</a></li>
+<li><a href="http://twitter.com/8tracks" target="_blank" title="Follow @8tracks">Twitter</a></li>
+<li><a href="https://plus.google.com/117113324186866439402" rel="publisher" target="_blank" title="+1 us on Google">Google plus</a></li>
+<li><a href="http://8tracks.tumblr.com/" target="_blank" title="Reblog us on Tumblr">Tumblr</a></li>
+<li><a href="http://instagram.com/8tracks" target="_blank" title="Follow us on Instagram">Instagram</a></li>
+</ul>
+</div>
+<div class="clear" id="tagline">
+		Listen to handcrafted internet radio. Share your own playlist online.
+		©8tracks Inc. 2015
+
+		<div id="quote">
+<a href="https://www.youtube.com/watch?v=kTn0li1q1O0" target="_blank">hang on the block with my platinum voice</a>
+</div>
+<div class="afs_ads"> </div>
+</div>
+</div><!--.wrapper -->
+</div>
+<script type="text/javascript">
+//<![CDATA[
+
+
+
+    PAGE.tags = ["elton john"]
+  PAGE.q_artist = null
+
+
+    var _gaq = _gaq || [];
+    var mixpanel = mixpanel || [];
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    var _kiq = _kiq || [];
+    window.optimizely = window.optimizely || [];
+    var _vis_opt_queue = window._vis_opt_queue || [];
+
+    require(['initializer']);
+
+    PAGE.serverRendered = true;
+  require(['pages/mixes_index']);
+
+//]]
+</script>
+<script>
+  ga_universal = true;
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+</script>
+<script src="//www.gstatic.com/cv/js/sender/v1/cast_sender.js" type="text/javascript"></script>
+<script>
+  window.__onGCastApiAvailable = function (loaded, errorInfo) {
+    if (!App.cast) {
+      var args = arguments;
+      setTimeout(function() { return args.callee(loaded, errorInfo)}, 1000);
+      return;
+    }
+
+    if (loaded) {
+      var sessionRequest = new chrome.cast.SessionRequest(CHROMECAST_APP_ID);
+      var apiConfig = new chrome.cast.ApiConfig(sessionRequest,
+                                                App.cast.sessionListener,
+                                                App.cast.receiverListener);
+      chrome.cast.initialize(apiConfig, App.cast.onInitSuccess, App.cast.onInitError);
+    } else {
+      console.log(errorInfo);
+    }
+  }
+</script>
+<script>
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+<script>
+  try {
+    COMSCORE.beacon({
+      c1:2,
+      c2:7545734,
+      c3:"",
+      c4:"",
+      c5:"",
+      c6:"",
+      c15:""
+    });
+  } catch (e) { }
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=7545734&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1"/>
+</noscript>
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-9fuIIK5ZReik6"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img alt="Quantcast" height="1" src="//pixel.quantserve.com/pixel/p-9fuIIK5ZReik6.gif" style="border:0" width="1"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- Quantcast tag for SPIN -->
+<div style="display:none;">
+<img alt="Quantcast" height="1" src="//pixel.quantserve.com/pixel/p-6cSRYUZSmTQbc.gif" style="border:0" width="1"/>
+</div>
+<!-- Webengage survey -->
+<script id="_webengage_script_tag" type="text/javascript">
+  var _weq = _weq || {};
+  _weq['webengage.licenseCode'] = '~71681296';
+  _weq['webengage.widgetVersion'] = "4.0";
+  
+  (function(d){
+    var _we = d.createElement('script');
+    _we.type = 'text/javascript';
+    _we.async = true;
+    _we.src = (d.location.protocol == 'https:' ? "https://ssl.widgets.webengage.com" : "http://cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-4.0.js";
+    var _sNode = d.getElementById('_webengage_script_tag');
+    _sNode.parentNode.insertBefore(_we, _sNode);
+  })(document);
+</script>
+<script type="text/javascript">
+  //<![CDATA[
+  
+  //]]>
+</script>
+</div>
+</body>
+</html>

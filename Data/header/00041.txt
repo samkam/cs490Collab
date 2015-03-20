@@ -1,0 +1,24 @@
+Server: Apache
+Content-Length: 82520
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: ev_sid=54ec1970e4b0947ffbc75d89; expires=Sun, 24-Feb-2019 06:25:52 GMT; path=/
+Access-Control-Allow-Origin: *
+Vary: Accept-Encoding
+X-XSS-Protection: 1; mode=block
+X-Varnish: 2192102 2413981
+X-Type: post
+X-Section: page-turner
+X-Id: 1590811
+X-Format: 
+X-Cacheable: YES
+X-Author: adam gopnik
+X-Access: n
+Varnish-X-Cache-Hits: 6
+Varnish-X-Cache: HIT
+Link: <http://www.newyorker.com/?p=1590811>; rel=shortlink
+Expires: Tue, 24 Feb 2015 06:25:52 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 24 Feb 2015 06:25:52 GMT
+Connection: close
+

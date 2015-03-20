@@ -3,6 +3,7 @@ import collections
 import WebDB
 from nltk import stem
 import os
+import pickle
 import math
 class Index:
     def __init__(self, dbfile ="Data/cache.db" ):
@@ -14,21 +15,26 @@ class Index:
         temp = filename.rstrip(".txt")
         return int(temp)
     def populate(self):
-        print("in populate")
-        list1 = os.walk("Data/clean")
-        #os walk is a generator, and returns a tuple. Weird shit
-        list2 = []
-        for i in list1:
-            list2 = i[2]
-        self.total_count = len(list2)
-        for DocID, filename in enumerate(list2):
-            #this is running under the assumption  that walk itemizes files in ascii order
-            with open("./Data/clean/"+filename, 'r') as f:
-                #print("size of f.readlines: {}".format(len(f.readlines())))
-                for position, token in enumerate(f.readlines()):
-                    stripped_token = token.rstrip("\n")
-                    self._addToken(stripped_token,DocID+1,position)
-        print("population complete")
+        if os.path.exists("data/index.p"):
+            print("pickle found")
+            self.index = pickle.load(open("data/index.p", "rb"))
+        else:
+            print("making pickle")
+            list1 = os.walk("Data/clean")
+            #os walk is a generator, and returns a tuple. Weird shit
+            list2 = []
+            for i in list1:
+                list2 = i[2]
+            self.total_count = len(list2)
+            for DocID, filename in enumerate(list2):
+                #this is running under the assumption  that walk itemizes files in ascii order
+                with open("./Data/clean/"+filename, 'r') as f:
+                    #print("size of f.readlines: {}".format(len(f.readlines())))
+                    for position, token in enumerate(f.readlines()):
+                        stripped_token = token.rstrip("\n")
+                        self._addToken(stripped_token,DocID+1,position)
+            print("population complete")
+            pickle.dump(self.index, open("data/index.p", "wb"))
     def nnn_query(self, query_string):
         terms = []
         for term in query_string.split():

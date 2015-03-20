@@ -1,0 +1,12 @@
+Server: Apache
+Content-Type: text/html
+Set-Cookie: country=de; expires =Mon, 25 May 2015 06:35:23 GMT; path=/; domain=.buzzfeed.com;
+X-BuzzFeed: webdr04
+Vary: Accept-Encoding
+X-Akamai-Transformed: 9 579080 0 pmb=mRUM,1
+Cache-Control: max-age=29
+Date: Tue, 24 Feb 2015 06:35:23 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+

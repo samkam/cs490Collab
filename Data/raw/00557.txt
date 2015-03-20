@@ -1,0 +1,2476 @@
+
+<!DOCTYPE html>
+
+<html class="no-js lastfm" data-ad-zone="music:artist:overview" lang="de">
+<head>
+<meta charset="utf-8">
+<meta content="IE=edge; chrome=1" http-equiv="X-UA-Compatible"/>
+<link href="http://purl.org/uF/2008/03/" rel="profile"/>
+<!--–[if IE]--><!endif]–>
+
+            <title>Elton John – Hören, Videos, Konzerte, Statistiken und Bilder kostenlos bei Last.fm</title>    
+        <script>(function(e) { e.className = e.className.replace(/\bno-js\b/,'js'); })(document.documentElement)</script>
+
+    <link rel="search" type="application/opensearchdescription+xml" href="http://cdn.last.fm/opensearch.xml" title="Last.fm" />
+            <meta name="description" content="Sieh dir Videos an &amp;amp; höre kostenlos Elton John: Tiny Dancer, Your Song und mehr, außerdem 176 Bilder. Sir Elton Hercules John, CBE (* 25. März 1947 in Pinner (London), Middlesex; geboren als Reginald Kenneth Dwight) ist ein britischer Sänger, Komponist und Pianist. Mit 640 Millionen verkauften Tonträgern (ca. 450 Mio Alben und 200 Mio Singles) zählt er seit den frühen 70er Jahren zu den erfolgreichsten Musikern aller Zeiten. Seine Kompositionen intoniert er, sich selbst auf dem Klavier begleitend, mit Blues-Falsett. Sein Repertoire reicht von Balladen über Rock- und Rock-’n’-Roll-Titel bis hin zu gospelartigen Blues- und Boogie-Nummern. Elton John hat vier Halbbrüder von väterlicher Seite. Leben Entdecke mehr Musik, Konzerte, Videos und Bilder mit dem größten Musikkatalog online bei Last.fm."/>
+
+
+            <meta name="robots" content="NOODP" />
+
+        
+                <meta property="og:site_name" content="Last.fm" />
+<meta property="fb:app_id" content="192959324047861" />
+
+            
+                        
+    <meta property="og:title" content="Elton John" />
+    <meta property="og:url" content="http://www.lastfm.de/music/Elton+John" />
+    <meta property="og:image" content="http://userserve-ak.last.fm/serve/126/10589331.jpg" />
+
+    
+            <meta property="og:type" content="band" />    
+                <link rel="shortcut icon" href="http://cdn.last.fm/flatness/favicon.2.ico" />
+        <link rel="apple-touch-icon" href="http://cdn.last.fm/flatness/apple-touch-icon.png" />
+    
+        <meta name="msapplication-TileImage" content="http://cdn.last.fm/flatness/lastfm_win8_tile_144.png" />
+    <meta name="msapplication-TileColor" content="#d51007" />
+    
+        <meta name="apple-itunes-app" content="app-id=585235199">
+
+    
+    
+            <link rev="canonical" href="http://lastfm.de/+a4dTq" />
+    <link rel="shortlink" href="http://lastfm.de/+a4dTq" />
+    
+                <link rel="alternate" hreflang="en" href="http://www.last.fm/music/Elton+John" />
+    
+                    <link rel="alternate" hreflang="es" href="http://www.lastfm.es/music/Elton+John" />
+                <link rel="alternate" hreflang="fr" href="http://www.lastfm.fr/music/Elton+John" />
+                <link rel="alternate" hreflang="it" href="http://www.lastfm.it/music/Elton+John" />
+                <link rel="alternate" hreflang="ja" href="http://www.lastfm.jp/music/Elton+John" />
+                <link rel="alternate" hreflang="pl" href="http://www.lastfm.pl/music/Elton+John" />
+                <link rel="alternate" hreflang="pt" href="http://www.lastfm.com.br/music/Elton+John" />
+                <link rel="alternate" hreflang="ru" href="http://www.lastfm.ru/music/Elton+John" />
+                <link rel="alternate" hreflang="sv" href="http://www.lastfm.se/music/Elton+John" />
+                <link rel="alternate" hreflang="tr" href="http://www.lastfm.com.tr/music/Elton+John" />
+                <link rel="alternate" hreflang="zh" href="http://cn.last.fm/music/Elton+John" />
+        
+    
+        <style>html {zoom: 1;}</style>    <script>
+
+        if(top !== self && top.location.domain !== self.location.domain) {
+            (function(d, s) {
+                if(s && s.insertRule) {
+                    s.insertRule('body { display: none !important }', 0);
+                } else if(s && s.addRule) {
+                    s.addRule('body', 'display: none !important');
+                }
+                top.location.replace(d.location.href);
+            })(document, document.styleSheets[0]);
+        }
+</script>
+
+                                        <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/themes/whittle.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/music/artist/overview.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/master.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/video/module.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/events/module.css" />
+                        
+        
+<!--[if lt IE 9!>
+<script>
+
+        window.html5 = {
+            shivCSS: false
+        }
+</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/html5shiv.js"></script>
+<!endif]-->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>$.noConflict();</script>
+<script src="//ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
+<script>
+    if(typeof Prototype === 'undefined') {
+        document.write(unescape("%3Cscript src='http://cdn.last.fm/javascript/javascript/232025/lib/prototype.js'%3E%3C/script%3E"));
+    }
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/scriptaculous.js"></script>
+<script>
+    if(typeof Scriptaculous === 'undefined') {
+        document.write(unescape("%3Cscript src='http://cdn.last.fm/javascript/javascript/232025/lib/scriptaculous/scriptaculous.js'%3E%3C/script%3E"));
+    }
+</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/mustache-min.js"></script>
+
+<script>SM2_DEFER = true;</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/sm2-min.js"></script>
+
+<script src="http://cdn.last.fm/javascript/javascript/232025/LFM.js"></script>
+
+<script>
+    LFM.set("ParentResource", {"id":"1002470","type":6,"name":"Elton John","url":"\/music\/Elton+John","image":{"small":"http:\/\/userserve-ak.last.fm\/serve\/34\/10589331.jpg","smallsquare":"http:\/\/userserve-ak.last.fm\/serve\/34s\/10589331.jpg","medium":"http:\/\/userserve-ak.last.fm\/serve\/64\/10589331.jpg","mediumsquare":"http:\/\/userserve-ak.last.fm\/serve\/64s\/10589331.jpg","large":"http:\/\/userserve-ak.last.fm\/serve\/126\/10589331.jpg","largesquare":"http:\/\/userserve-ak.last.fm\/serve\/126s\/10589331.jpg","mega":"http:\/\/userserve-ak.last.fm\/serve\/252\/10589331.jpg","original":"http:\/\/userserve-ak.last.fm\/serve\/_\/10589331\/Elton+John+ej19.jpg"}});
+    LFM.Adserver.showAds = true;
+    LFM.set("Session", {"cookieHost":".lastfm.de","host":"www.lastfm.de","staticHost":"http:\/\/cdn.last.fm","wsHost":"ws.audioscrobbler.com","userserveHost":"http:\/\/userserve-ak.last.fm","wsKey":"ceec2bb03d4c5929f0d6667fc266dc75","formtoken":"2bcd67b944b9e63a7fd1b2c0c95a8d55947c66b3","location":"us","language":"de","ajaxhost":"ajax.last.fm","templatePath":"\/templates\/231606","jsPath":"http:\/\/cdn.last.fm\/javascript\/javascript\/232025","cssPath":"http:\/\/cdn.last.fm\/css\/css\/231990","loggedIn":false});
+    LFM.set("resTypes", {
+        EVENT: 29,
+        ARTIST: 6,
+        ALBUM: 8,
+        TRACK: 9,
+        GROUP: 20,
+        TAG: 32,
+        USER: 4,
+        LABEL: 10
+    });
+    LFM.set("resTypeLookup", {
+        29: "Event",
+        6: "Artist",
+        8: "Album",
+        9: "Track",
+        20: "Group",
+        32: "Tag",
+        4: "User",
+        10: "Label"
+    });
+
+    LFM.set("String", {okText: "OK",cancelText: "Abbrechen",clickToEditText: "Zum Bearbeiten hier klicken",savingText: "Speichern...",loadingText: "Wird geladen...",deletingText: "Lösche...",thereWasAnError: "Es gab einen Fehler.",dialogLoadError: "Beim Laden dieses Dialogs ist ein Fehler aufgetreten.",fileTooBig: "Die Datei ist leider zu groß.",noFile: "Bitte wähle eine Datei aus.",uploadCancelled: "Upload abgebrochen.",deleteMessageTitle: "Nachricht löschen",deleteMessagePrompt: "Bist du sicher, dass du diese Nachricht löschen möchtest?",deleteFriendPrompt: "Bist du sicher, dass du die Freundschaft mit dieser Person beenden möchtest?",deleteImage: "Bist du sicher, dass du dieses Bild löschen möchtest?",deleteButtonText: "Löschen",done: "Fertig",backText: "Zurück",yesText: "Ja",noText: "Nein",saveText: "Speichern",saveTitle: "Zum Profil hinzufügen",sendText: "Senden",sendTitle: "An Freunde weiterleiten",addTitle: "Zu Musiksammlung hinzufügen",tagTitle: "Tags hinzufügen",playlistTitle: "Zur Playlist hinzufügen",befriendTitle: "Einen Freund hinzufügen",labsfeedbackTitle: "Gib uns dein Feedback",joinTitle: "Gruppe beitreten",loved: "Geliebt",RemoveFromLibraryTitle: "Aus deiner Musiksammlung löschen",uploadImageTitle: "Bild hochladen",uploadVideoTitle: "Video hochladen",usernoteTitle: "Add a note",cleanupBioTitle: "Cleanup Bio",flageventTitle: "Zur Überprüfung melden",setLocationTitle: "Standort festlegen",newWindowTooltip: "Dieser Link wird ein neues Fenster öffnen",unloadWarningMessage: "Dies stoppt die Wiedergabe",trackLoved: "Als Lieblingslied markiert",playbackStopped: "Wiedergabe gestoppt",loadingTrackInfo: "Titelinformationen werden geladen",errorLoadingTrackInfo: "Fehler beim Laden der Titelinformationen",emailLineup: "Per E-Mail senden",uploadMessages: {mayTakeLonger: "Dies kann leider ein bisschen länger dauern als gewöhnlich. Bitte warte ein paar Sekunden.",uploading: "Lade hoch...",endUploading: "Fertig",progressDisplay: "PERCENTUPLOADED% komplett (TRANSFERRATE kb/s) – TIMEREMAINING verbleibende Sekunden",progressComplete: "100% komplett",failedRetrying: "Konnte Upload nicht noch einmal versuchen.",processingMedia: "Processing media…",unsupportedFormat: "Sorry, the file you uploaded isn’t encoded in a supported format. Please try again.",uploadError: "There was an error uploading your video, please verify that the file you are uploading is not too large or of an incorrect format and try again."},shortMonths: {'1': "Jan",'2': "Feb",'3': "Mär",'4': "Apr",'5': "Mai",'6': "Jun",'7': "Jul",'8': "Aug",'9': "Sep",'10': "Okt",'11': "Nov",'12': "Dez"},resTypePlural: {29: "Events",6: "Künstler",8: "Alben",9: "Titel",20: "Gruppen",32: "Tags",4: "Benutzer","friends":   "Freunde",10: "Labels"}});LFM.set("Element", {icon_loved_indicator: "<img class=\"icon loved_indicator_icon\" width=\"11\" height=\"9\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_tag: "<img class=\"icon tag_icon\" width=\"14\" height=\"14\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_dismiss: "<img class=\"icon dismiss_icon\" width=\"16\" height=\"16\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_play: "<img class=\"transparent_png play_icon\" width=\"13\" height=\"13\" alt=\"Spielen\" src=\"http:\/\/cdn.last.fm\/flatness\/preview\/play_indicator.png\" style=\"\" \/>"});
+        LFM.AdPlacements = ["beacon","interstitial","skin","leaderboard","mpu","widerelatedcontent","middleleaderboard","lowermpu","lowerleaderboard"];
+</script>
+
+
+<script data-main="http://cdn.last.fm/javascript/javascript/232025/modules-built/init" src="http://cdn.last.fm/javascript/javascript/232025/lib/requirejs/require-min.js"></script>
+
+    <script src="http://cdn.last.fm/javascript/javascript/232025/components.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/dialog.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/form/typeahead.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/lib/uuid.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/lib/modernizr.js"></script>
+
+<script>
+
+LFM.Page.Tracker = new LFM.Analytics.Tracker('Music/Artist/Overview', window.location.host);
+
+document.observe('dom:loaded', function() {
+
+    LFM.Page.Tracker.bindOutboundLinkListener();
+    LFM.Page.Tracker.bindEventListener();
+
+});
+
+</script>
+
+
+    
+    <script>document.observe("dom:loaded", function () { if (typeof ieHover !== 'undefined') ieHover.setUp(); });</script>
+
+    <script data-require="googleanalytics">LFM.Analytics = LFM.Analytics || {};LFM.Analytics.Helpers = {webhost:"www.lastfm.de",registrationStatus:"LoggedOut",visitorStatus: "Anonymous",artistNameString:"Elton John",transformedUrl:"music/artist/overview"}</script></head>
+
+
+
+<!--[if lt IE 7 !> <body class="r-artist a-overview lfmRed lang-de theme-whittle ie ie6"> <!endif]-->
+<!--[if IE 7 !> <body class="r-artist a-overview lfmRed lang-de theme-whittle ie ie7"> <!endif]-->
+<!--[if IE 8 !> <body class="r-artist a-overview lfmRed lang-de theme-whittle ie ie8"> <!endif]-->
+<!--[if IE 9 !> <body class="r-artist a-overview lfmRed lang-de theme-whittle ie ie9"> <!endif]-->
+<!--[if (gt IE 9)|!(IE)!><!--> <body class="r-artist a-overview lfmRed  lang-de theme-whittle" > <!--<![endif]-->
+<script>var WRInitTime = +new Date();</script>
+<div class="page-hack" id="page"></div> <div class=" page-wrapper">
+<div class="LastAd ad-beacon inactive" data-ad-collapsible="" data-ad-placement="beacon" data-ad-static="" data-require="ads/staticadslot" id="LastAd_beacon">
+<span>
+<script>
+
+
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+(function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+
+</script>
+<script>
+    
+    var googleSlots = { };
+    var googleDisplayed = false;
+    
+
+    googletag.cmd.push(function() {
+        var unitName = "/8264/aw-lastfm/music/artist/overview",
+            isVR = false,
+            isDynamic = false,
+            isAnonHome = false;
+    
+
+    function hasPlacement(placement) {
+        return LFM.AdPlacements.indexOf(placement) >= 0;
+    };
+
+    var leaderboardSizes = [[728,90],[970,66],[970,90],[860,55]];
+    // The leaderboard slot height is fixed at 90px when using dynamic ads,
+    // showing a taller leaderboard would cause the page to jump, so we don't request them
+    if ( ! isDynamic) {
+        leaderboardSizes.push([880,150],[880,170],[880,200],[900,150],[900,250],[970,200],[970,250],[860,250],[980,250]);
+    }
+
+    if (hasPlacement('leaderboard')) {
+        googleSlots['leader_top'] = googletag.defineSlot(unitName, leaderboardSizes, "leader_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    var mpuSizes = [[300,250],[138,108]] ;
+    if (! isAnonHome) {
+        mpuSizes.push([300,600]);
+    }
+
+    var lowerMpuSizes = [[300,250]];
+
+    if (hasPlacement('mpu')) {
+        googleSlots['mpu_top'] = googletag.defineSlot(unitName, mpuSizes, "mpu_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    if (hasPlacement('lowermpu')) {
+        googleSlots['mpu_bottom'] = googletag.defineSlot(unitName, lowerMpuSizes, "mpu_bottom")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "bottom");
+    }
+
+    if (hasPlacement('skin')) {
+        googleSlots['skin'] = googletag.defineSlot(unitName, [1600,1000], "skin")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    if (hasPlacement('interstitial')) {
+        googleSlots['intromercial'] = googletag.defineOutOfPageSlot(unitName, "intromercial")
+        .addService(googletag.pubads());
+    }
+
+    var lowerLeaderboardSizes = [[728,90],[970,90],[860,55],[880,150],[880,170],[880,200],[900,150]];
+    if (hasPlacement('lowerleaderboard')) {
+        googleSlots['leader_bottom'] = googletag.defineSlot(unitName, lowerLeaderboardSizes, "leader_bottom")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "bottom");
+    }
+
+    if (hasPlacement('sky')) {
+        googleSlots['sky_top'] = googletag.defineSlot(unitName, [160,600], "sky_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    // Collapse as soon as display() for the slot is reached and expand only when there is an ad
+    // i.e. no flickering
+    googletag.pubads().collapseEmptyDivs(true);
+
+    if ( ! isVR) {
+        googletag.pubads().enableSingleRequest();    
+
+        if ( ! isDynamic) {
+            googletag.pubads().enableSyncRendering();    
+        }
+    }
+
+    if (screen.width >= 1280) {
+        googletag.pubads().setTargeting("inskin", "yes");
+    }
+
+    
+
+            googletag.pubads().setTargeting("ar", "eltonjohn,eltonjohn&leonrussell,billyjoel,threedognight,rodstewart,beegees,ringostarr,eagles,paulmccartney,wings,paulmccartney&wings");
+            googletag.pubads().setTargeting("tag", "pop,classicrock,singer-songwriter,rock,piano,british,80s,70s,eltonjohn,malevocalists");
+            googletag.pubads().setTargeting("geo", "US");
+            googletag.pubads().setTargeting("lang", "de");
+            googletag.pubads().setTargeting("res", "1002470");
+            googletag.pubads().setTargeting("ontour", "1");
+            googletag.pubads().setTargeting("ontourinusercountry", "1");
+            googletag.pubads().setTargeting("established", "1");
+    
+    LFM.viewGuid = LFM.viewGuid ? LFM.viewGuid : uuid();
+    googletag.pubads().setTargeting("vguid", LFM.viewGuid);
+
+    googletag.enableServices();
+    
+
+  });
+
+</script>
+</span>
+</div>
+<div class="LastAd ad-interstitial inactive" data-ad-collapsible="" data-ad-placement="interstitial" data-ad-static="" data-require="ads/staticadslot" id="LastAd_interstitial">
+<span>
+<div id="intromercial">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("intromercial"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<div class="LastAd ad-skin inactive" data-ad-collapsible="" data-ad-placement="skin" data-ad-static="" data-require="ads/staticadslot" id="LastAd_skin">
+<span>
+<div id="skin">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("skin"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<div class="LastAd ad-leaderboard inactive" data-ad-collapsible="" data-ad-placement="leaderboard" data-ad-static="" data-require="ads/staticadslot" id="LastAd_leaderboard">
+<span>
+<div id="leader_top">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("leader_top"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<div class="masthead-wrapper">
+<header class="masthead" role="banner">
+<h1>
+<a class="ir lastfm-logo" href="/">
+                Last.fm
+            </a>
+</h1>
+<form action="/search" class=" site-search search-autocomplete search-autocomplete--main " data-require="search/sitesearch" data-template="search" data-url="/search/autocomplete" method="get" role="search">
+<fieldset>
+<legend class="rm">Suche auf der Seite</legend>
+<input autocomplete="off" autocorrect="off" class="js-search search-box" name="q" placeholder="Musiksuche" size="26" type="text"/>
+<div class="js-search-progress search-progress ir">Lädt</div>
+<input name="from" type="hidden" value="ac"/>
+<button class="search-submit icon iconleft iconleft--search" title="Suchen" type="submit"></button>
+</fieldset>
+</form>
+<nav role="navigation">
+<ul class="primary-nav remove-bottom-margin">
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/music">Musik</a>
+</li>
+<li class="primary-nav-item" id="listenNav">
+<a class="primary-nav-link" href="/listen">Hören</a>
+</li>
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/events">Events</a>
+</li>
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/charts">Charts</a>
+</li>
+</ul>
+<div class="masthead-right" role="navigation">
+<a class="join" data-analytics-action="SignUpClick" data-analytics-label="Header" href="/join">Registrieren</a>
+<a class="btn btn--small btn--header btn--rounded login" href="/login" id="login-link">Einloggen</a>
+</div>
+</nav>
+</header>
+<link href="//embed.spotify.com/static/css/mediabar/mediabar-lastfm.css" rel="stylesheet" type="text/css"/>
+<div class="persistent-bar">
+<div class="spotify-mediabar-wrapper">
+<div class="spotify-mediabar" data-require="spotify/spotifymediabar" id="spotify-mediabar"></div>
+</div>
+<a class="spotify-mediabar-feedback" data-lab-name="spotifyplayback" data-require="labfeedbackbutton" href="#">
+<span class="beta-badge">Beta</span> Feedback
+    </a>
+</div>
+<div data-require="spotify/signupcompletemodal" id="spotify-signup-complete-modal">
+<div class="sparse-modal js-modal"></div>
+</div>
+<div class="needs-js" data-modal-open="" data-require="start/modal">
+<div class="sparse-modal js-modal" data-require="autodismissanoncta">
+<div class="sparse-modal-scroll">
+<div class="sparse-modal-content anon-cta anon-cta--bold anon-cta--popup align-center">
+<h2>Entdecke neue Musik</h2>
+<p class="add-bottom-margin">Last.fm ist ein Service zum Entdecken neuer Musik, der dir personalisierte Empfehlungen auf Basis deiner gespielten Musik gibt.</p>
+<a class="anon-cta-button anon-cta-button--big" href="/join">Starte dein Last.fm-Profil</a>
+<a class=" sparse-modal-close js-close btn btn--rounded btn--icon-only btn--small iconleft iconleft--delete " href="#close">Fenster schließen</a>
+</div>
+</div>
+</div>
+</div> </div>
+<article class="content artist-overview" data-require="music/artistpage" itemscope="" itemtype="http://schema.org/MusicGroup">
+<header class=" page-head without-crumbtrail without-image clearit ">
+<h1 itemprop="name">
+        Elton John    </h1>
+<nav class="secondary-nav" data-require="secondarynav" role="navigation">
+<ul class="visible-menu">
+<li class=" first "><a href="/music/Elton+John/+tracks">Titel</a></li> <li><a href="/music/Elton+John/+albums">Alben</a></li>
+<li><a href="/music/Elton+John/+images">Bilder</a></li>
+<li><a href="/music/Elton+John/+videos">Videos</a></li>
+<li><a href="/music/Elton+John/+events">Events</a></li>
+<li><a href="/music/Elton+John/+wiki">Biografie</a></li>
+<li><a href="/music/Elton+John/+similar">Ähnliche Künstler</a></li> <li><a href="/music/Elton+John/+charts">Charts</a></li> <li><a href="/music/Elton+John/+tags">Tags</a></li> <li><a href="/music/Elton+John/+listeners">Hörer</a></li> <li><a href="/music/Elton+John/+journal">Blog</a></li> <li><a href="/music/Elton+John/+news">News</a></li> <li><a href="/music/Elton+John/+groups">Gruppen</a></li>
+</ul> <div class="drop-down-menu more">
+<a class="menu-toggle" href="#">Mehr…</a>
+<ul class="hidden-menu"></ul>
+</div></nav></header>
+<div class="r artist-header">
+<a class="btn btn--on-tour" href="/music/Elton+John/+events">Auf Tour</a> <section class="g8 artist-images">
+<div class="widget widget-music/heroimage" data-require="music/heroimage" data-template="resourceimages/herosidekick_images" data-url="/music/Elton+John/+modules/herosidekickimages"> <div class="resource-images">
+<h2 class="rm">Bilder</h2>
+<a class="hero-image hero-image--landscape" href="/music/Elton+John/+images/10589331" style="background-image: url(http://userserve-ak.last.fm/serve/_/10589331/Elton+John+ej19.jpg)" title="Bild hochgeladen von bruno__________">
+<img alt="ej19" itemprop="image" src="http://userserve-ak.last.fm/serve/_/10589331/Elton+John+ej19.jpg"/>
+</a>
+<ul class="remove-bottom-margin sidekick-images">
+<li class="sidekick-wrapper primary-sidekick">
+<a class="sidekick-image sidekick-image--landscape" href="/music/Elton+John/+images/84489745" style="background-image: url(http://userserve-ak.last.fm/serve/252/84489745.png)" title="Bild hochgeladen von MyMusicMyDivas">
+<img alt="elton-01-sized" src="http://userserve-ak.last.fm/serve/252/84489745.png"/>
+</a>
+</li>
+<li class="sidekick-wrapper secondary-sidekick">
+<a class="sidekick-image sidekick-image--profile" href="/music/Elton+John/+images/5145" style="background-image: url(http://userserve-ak.last.fm/serve/252/5145.jpg)">
+<img alt="" src="http://userserve-ak.last.fm/serve/252/5145.jpg"/>
+</a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="elton-foto3" data-image-src="http://userserve-ak.last.fm/serve/252/8431959.jpg" href="/music/Elton+John/+images/8431959"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="" data-image-src="http://userserve-ak.last.fm/serve/252/12267.jpg" href="/music/Elton+John/+images/12267"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--square" data-image-alt="ej9" data-image-src="http://userserve-ak.last.fm/serve/252/10589255.jpg" href="/music/Elton+John/+images/10589255" title="Bild hochgeladen von bruno__________"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--landscape" data-image-alt="ej1" data-image-src="http://userserve-ak.last.fm/serve/252/10589169.jpg" href="/music/Elton+John/+images/10589169" title="Bild hochgeladen von bruno__________"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="elton-foto1" data-image-src="http://userserve-ak.last.fm/serve/252/8431973.jpg" href="/music/Elton+John/+images/8431973"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--landscape" data-image-alt="" data-image-src="http://userserve-ak.last.fm/serve/252/5670.jpg" href="/music/Elton+John/+images/5670"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="Elton John - 1972" data-image-src="http://userserve-ak.last.fm/serve/252/17637039.jpg" href="/music/Elton+John/+images/17637039" title="Bild hochgeladen von igor_falc"></a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+<section class="g4 artist-actions remove-bottom-margin">
+<div class="r r--reverse">
+<div class="g4 artist-action-area">
+<h2 class="rm">Anhören, kaufen oder teilen</h2>
+<div class=" user-actions with-station-button" data-require="music/actionarea">
+<div class="user-actions-btn-wrap user-actions-btn-wrap--add">
+<button class=" btn btn--icon-only btn--primary iconleft iconleft--add js-add " title="Zu Musiksammlung hinzufügen">
+                Zu Musiksammlung hinzufügen
+            </button>
+</div>
+<div class="user-actions-btn-wrap user-actions--play">
+<a class="stationbutton btn iconleft iconleft--play btn--primary" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Elton%2BJohn/similarartists">Ähnliche Künstler</a>
+</div>
+</div>
+<section class="ecommerce-actions">
+<h3 class="rm">Kaufen</h3>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--primary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Artist|DirectDownload" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn iconleft iconleft--ecommerce has-retailer-icon " data-analytics-action="Buy|Direct" data-analytics-label="Artist|Amazon" href="http://www.lastfm.de/affiliate/byid/6/1002470/44/artist-overview-top-callout" rel="nofollow">
+                
+    
+                    Bei Amazon kaufen
+        
+        
+                    <img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+</img></a>
+<a class=" needs-js btn dropdown-btn btn--icon-only menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Artist|Amazon" href="http://www.lastfm.de/affiliate/byid/6/1002470/44/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Artist|7digital" href="http://www.lastfm.de/affiliate/byid/6/1002470/13/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Artist|Juno" href="http://www.lastfm.de/affiliate/byid/6/1002470/128/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Juno" class="ecommerce-icon" src="http://cdn.last.fm/favicons/juno.gif">
+                                    
+                                                                            Juno
+                                                                    </img></span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Artist|iTunes" href="http://www.lastfm.de/affiliate/byid/6/1002470/24/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Artist|Amazon" href="http://www.lastfm.de/affiliate/byid/6/1002470/1/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Artist|eBay" href="http://www.lastfm.de/affiliate/byid/6/1002470/90/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </section>
+<section class="share-wrapper">
+<h3 class="rm">Weiterleiten</h3>
+<div class="dropdown-btn-wrapper needs-js" data-dropdownmenu-analytics-action="ShareShowOptions" data-require="dropdownmenu">
+<a class="btn iconleft iconleft--share dropdown-btn menu-toggle iconright iconright--dropdown" href="#share">
+        Weiterleiten
+        <div class="social-icons-wrapper">
+<span class="social-btn social-btn--facebook"></span>
+<span class="social-btn social-btn--twitter"></span>
+<span class="social-btn social-btn--google"></span>
+</div>
+</a>
+<ul class="hidden-menu dropdown-btn-menu">
+<li>
+<a class="dropdown-btn-menu-item social-btn social-btn--facebook" data-analytics-redirect="false" data-analytics-social-action="post" data-analytics-social-network="facebook" data-analytics-social-restype="Artist" data-height="400" data-require="newwindow" data-width="580" data-window-url="https://www.facebook.com/dialog/feed?app_id=192959324047861&amp;link=http%3A%2F%2Fwww.lastfm.de%2Fmusic%2FElton%2BJohn&amp;ref=facebooklink&amp;redirect_uri=http://www.last.fm/facebook/share_popup_close&amp;display=popup" href="https://www.facebook.com/dialog/feed?app_id=192959324047861&amp;link=http%3A%2F%2Fwww.lastfm.de%2Fmusic%2FElton%2BJohn&amp;ref=facebooklink&amp;redirect_uri=http%3A%2F%2Fwww.last.fm%2Fredirect%2Fbnc%3Fbackto%3Dhttp%253A%252F%252Fwww.lastfm.de%252Fmusic%252FElton%252BJohn%26bnc_sig%3D542d69098c7db15b2c1944a2bcc35d4c" target="_blank">
+    Facebook</a> </li>
+<li>
+<a class="dropdown-btn-menu-item social-btn social-btn--twitter" data-analytics-redirect="false" data-analytics-social-action="tweet" data-analytics-social-network="twitter" data-analytics-social-restype="Artist" data-height="253" data-require="newwindow" data-width="580" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.lastfm.de%2Fmusic%2FElton%2BJohn&amp;text=Sieh%20dir%20Elton%20John%20an&amp;via=lastfm&amp;lang=de" target="_blank">
+    Twitter</a> </li>
+<li>
+<a class="dropdown-btn-menu-item social-btn social-btn--google" data-analytics-redirect="false" data-analytics-social-action="post" data-analytics-social-network="google" data-analytics-social-restype="Artist" data-height="400" data-require="newwindow" data-width="580" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.lastfm.de%2Fmusic%2FElton%2BJohn&amp;gpsrc=frameless" target="_blank">
+    Google+</a> </li>
+<li>
+<a class="dropdown-btn-menu-item social-btn social-btn--email" data-require="sendbutton" href="/music/Elton+John">
+    E-Mail</a>
+</li>
+</ul>
+</div> </section> </div>
+<div class="g4 artist-stats-area">
+<div class="media media--overflow-visible music-resource-stats" data-require="music/artiststatsarea">
+<meta content="UserPlays:39996340" itemprop="interactionCount"/>
+<ul class="media-body">
+<li class="scrobbles">
+<b data-count="39996340">39.996.340</b>
+<div class="lite">Scrobbels</div>
+</li>
+<li class="listeners">
+<b data-count="2223166" id="listenerCount">2.223.166</b> <div class="lite">Hörer</div>
+</li>
+</ul>
+<section class="memo listener-details listener-details--listening-now remove-bottom-margin ">
+<ul>
+<li class="media remove-bottom-margin listener-details-user">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/davidrfindlay" title=""> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <img capture="clienticon" class="icon ss-spotify_icon ss_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/><span class="source"><a href="http://www.spotify.com/">Spotify</a></span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/davidrfindlay" title="">davidrfindlay</a> hört
+                                          <em>
+<a href="/music/Elton+John">Elton John</a> – <a href="/music/Elton+John/_/Rocket+Man+(I+Think+It%27s+Going+to+Be+a+Long+Long+Time)">Rocket Man (I Think It's Going to Be a Long Long Time)</a> </em>
+</span>
+</li>
+<li class="media remove-bottom-margin listener-details-user" style="display:none;">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/williamshelde" title=""> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <img capture="clienticon" class="icon ss-spotify_icon ss_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/><span class="source"><a href="http://www.spotify.com/">Spotify</a></span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/williamshelde" title="">williamshelde</a> hört
+                                          <em>
+<a href="/music/Elton+John">Elton John</a> – <a href="/music/Elton+John/_/Daniel">Daniel</a> </em>
+</span>
+</li>
+<li class="media remove-bottom-margin listener-details-user" style="display:none;">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/zhendrickson2" title="24, Männlich, Vereinigte Staaten"> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/96679407.jpg" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <img capture="clienticon" class="icon ss-spotify_icon ss_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/><span class="source"><a href="http://www.spotify.com/">Spotify</a></span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/zhendrickson2" title="24, Männlich, Vereinigte Staaten">zhendrickson2</a> hört
+                                          <em>
+<a href="/music/Elton+John">Elton John</a> – <a href="/music/Elton+John/_/Home+Again">Home Again</a> </em>
+</span>
+</li>
+<li class="media remove-bottom-margin listener-details-user" style="display:none;">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/Wikmans" title=""> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <img capture="clienticon" class="icon ss-spotify_icon ss_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/><span class="source"><a href="http://www.spotify.com/mobile/">Spotify Mobile</a></span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/Wikmans" title="">Wikmans</a> hört
+                                          <em>
+<a href="/music/Elton+John">Elton John</a> – <a href="/music/Elton+John/_/Tiny+Dancer">Tiny Dancer</a> </em>
+</span>
+</li>
+<li class="media remove-bottom-margin listener-details-user" style="display:none;">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/vagrant818" title=""> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <img capture="clienticon" class="icon ss-spotify_icon ss_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/><span class="source"><a href="http://www.spotify.com/">Spotify</a></span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/vagrant818" title="">vagrant818</a> hört
+                                          <em>
+<a href="/music/Elton+John">Elton John</a> – <a href="/music/Elton+John/_/Daniel">Daniel</a> </em>
+</span>
+</li>
+</ul>
+</section>
+</div> </div>
+</div>
+</section>
+</div>
+<div class="r">
+<div class="g8">
+<section>
+<h2 class="rm">Tags</h2>
+<section class="global-tags">
+<h3 class="rm">Die Tags von allen</h3>
+<ul class="tags ">
+<li>
+<a href="/tag/pop" rel="tag">pop</a></li> <li><a href="/tag/classic%20rock" rel="tag">classic rock</a></li> <li><a href="/tag/singer-songwriter" rel="tag">singer-songwriter</a></li> <li><a href="/tag/rock" rel="tag">rock</a></li> <li><a href="/tag/piano" rel="tag">piano</a> </li>
+</ul>
+<button class=" btn btn--brand-blue btn--small iconleft iconleft--tag btn--icon-only add-tag needs-js " data-require="tagbutton" title="Elton John taggen">Elton John taggen</button>
+<a class="more-tags" href="/music/Elton+John/+tags">Mehr Tags</a>
+</section>
+</section>
+<section class="artist-wiki">
+<header>
+<hgroup>
+<h2 class="rm">Biografie</h2>
+</hgroup>
+</header>
+<div class="wiki">
+<div class="wiki-abstract" data-require="music/wiki" id="wikiAbstract">
+<div class="wiki-text">
+ Sir Elton Hercules John, CBE (* 25. März 1947 in Pinner (London), Middlesex; geboren als <a class="bbcode_artist" href="http://www.lastfm.de/music/Reginald+Kenneth+Dwight">Reginald Kenneth Dwight</a>) ist ein britischer Sänger, Komponist und Pianist. Mit 640 Millionen verkauften Tonträgern (ca. 450 Mio Alben und 200 Mio Singles) zählt er seit den frühen 70er Jahren zu den erfolgreichsten Musikern aller Zeiten. Seine Kompositionen intoniert er, sich selbst auf dem Klavier begleitend, mit Blues-Falsett. Sein Repertoire reicht von Balladen über Rock- und Rock-’n’-Roll-Titel bis hin zu gospelartigen Blues- und Boogie-Nummern.
+ <span class="hide"> <br/><br/> Elton John hat vier Halbbrüder von väterlicher Seite.<br/>
+<br/>
+Leben<br/>
+<br/>
+Nach der frühen Trennung seiner Eltern, Stanley und Sheila Dwight, wuchs Reginald Kenneth Dwight vor allem bei seiner Großmutter Ivy auf. Zu seinem Vater hatte er keine gute Beziehung; das von Desinteresse am Sohn geprägte Verhältnis verarbeitete er 1995 in dem autobiographischen Titel Made in England (“I had a quit-me father, had a love-me mother”). Mit elf Jahren begann er sein Studium an der Londoner Royal Academy of Music. Er studierte dort sechs Jahre Piano und Musiktheorie und gründete im Anschluss daran mit Studienkollegen Mitte der 1960er Jahre die Band <a class="bbcode_artist" href="http://www.lastfm.de/music/Bluesology">Bluesology</a>. Dort fand Dwight seinen Künstlernamen. Er kombinierte die Vornamen des Saxophonisten <a class="bbcode_artist" href="http://www.lastfm.de/music/Elton+Dean">Elton Dean</a> und des Sängers „Long“ <a class="bbcode_artist" href="http://www.lastfm.de/music/John+Baldry">John Baldry</a> zu dem Namen Elton John. Der Name wurde auch amtlich geändert. 1969 konnte er eine erste Komposition auf einem Album der Three Dog Night unterbringen, während er bereits an seinem ersten Soloalbum arbeitete.
+ </span> </div>
+<div class="wiki-options">
+<a class="wiki-read-more" href="/music/Elton+John/+wiki"> <span data-read-all="Alles lesen"> Erfahre mehr...
+ </span> </a> <a class="hide" href="/music/Elton+John/+wiki/edit">Biografie bearbeiten</a> </div>
+</div>
+</div>
+</section>
+<section class="needs-js">
+<h2><a class="rm" data-analytics-action="VideoHeadingLink" href="/music/Elton+John/+videos">Videos</a></h2>
+<div class="hero-video videos-on-dark" data-require="music/herovideo" id="hero-video">
+<div class="video">
+<div class="needs-js">
+<div class="clearit source-muzu" id="video-1049882">
+<div data-require="video/muzu" data-video-src="//player.muzu.tv/player/getPlayer/i/5176/?vidId=42117&amp;allowshare=n&amp;nl=y&amp;lfma=y&amp;partnerId=lf111&amp;jse=y&amp;sk=dontscrobble">
+<div class="wrapper" style="width: 620px; height: 355px;"></div>
+<div class="hero-video-info"><h3><a href="/music/Elton+John/_/Sacrifice">Sacrifice</a></h3><p>aus dem Album <a href="/music/Elton+John/Greatest+Hits">Greatest Hits</a></p><a class="hero-video-more-videos" href="/music/Elton+John/+videos">Mehr Videos</a></div>
+</div></div><script>new LFM.Video.FullWidth('video-1049882');</script> </div>
+</div>
+<ul class="clearit videos video-list" restypeclass="">
+<li class="source-muzu external first">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-1" href="/music/Elton+John/_/Nikita/+videos/+7-2301558" title="Nikita"> <img class="rounded" height="79" src="http://static2.muzu.tv/media/images/002/301/558/0001/2301558-thb5.png" width="140"/>
+<div class="play-video">Spielen</div>
+                Nikita    </a>
+</li><li class="source-muzu external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-2" href="/music/Elton+John/_/Cry+To+Heaven/+videos/+7-2301556" title="Cry To Heaven"> <img class="rounded" height="79" src="http://static2.muzu.tv/media/images/002/301/556/0001/2301556-thb5.png" width="140"/>
+<div class="play-video">Spielen</div>
+                Cry To Heaven    </a>
+</li><li class="source-vevo external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-3" href="/music/Elton+John/_/Your+Song/+videos/+3-GBUV70700380" title="Your Song"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/C981E3319E5D4C204A78AC524986354B2014301263732369.png" width="140"/>
+<div class="play-video">Spielen</div>
+                Your Song    </a>
+</li><li class="source-vevo external last">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-4" href="/music/Elton+John/_/I%27m+Still+Standing/+videos/+3-GBUV70700205" title="I'm Still Standing"> <img class="rounded" height="79" src="http://cache.vevo.com/Content/VevoImages/video/A2F7CCF54164D07CB60A160834EC4A61.jpg" width="140"/>
+<div class="play-video">Spielen</div>
+                I'm Still Standing    </a>
+</li>
+</ul></div>
+</section>
+</div>
+<div class="g4 g--padded artist-bio-sidebar">
+<div class="artist-ad-wrapper">
+<div class="LastAd ad-mpu inactive" data-ad-collapsible="" data-ad-placement="mpu" data-ad-static="" data-require="ads/staticadslot" id="LastAd_mpu">
+<span>
+<div id="mpu_top">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("mpu_top"); 
+        });
+    </script>
+</div>
+</span>
+</div> </div>
+<section class="artist-similar-sidebar">
+<aside class="similar-artists">
+<h2><a href="/music/Elton+John/+similar">Ähnliche Künstler</a></h2>
+<ul class="r">
+<li class=" first g2 g--padded">
+<a class="similar-artist" href="/music/Elton+John+&amp;+Leon+Russell"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/53199859.png');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/53199859.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Elton John &amp; Leon Russell</span>
+</div>
+</div> </a>
+</li><li class=" g2 g--padded">
+<a class="similar-artist" href="/music/Billy+Joel"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/339365.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/339365.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Billy Joel</span>
+</div>
+</div> </a>
+</li><li class=" g2 g--padded">
+<a class="similar-artist" href="/music/Three+Dog+Night"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/80837731.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/80837731.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Three Dog Night</span>
+</div>
+</div> </a>
+</li><li class=" g2 g--padded">
+<a class="similar-artist" href="/music/Rod+Stewart"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/346154.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/346154.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Rod Stewart</span>
+</div>
+</div> </a>
+</li><li class=" g2 g--padded">
+<a class="similar-artist" href="/music/Bee+Gees"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/193258.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/193258.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Bee Gees</span>
+</div>
+</div> </a>
+</li><li class=" last g2 g--padded">
+<a class="similar-artist" href="/music/Ringo+Starr"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/39931685.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/39931685.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Ringo Starr</span>
+</div>
+</div> </a>
+</li>
+</ul> </aside>
+</section>
+</div>
+</div>
+<section class="artist-top-tracks" id="artist-top-tracks">
+<div class="module modulecharts modulechartstracks" data-placement="artist" data-require="affiliation/multiaffiliationarea" id="switcher184768">
+<h2 class="heading"><span class="h2Wrapper"><a href="/music/Elton+John/+charts"> Top-Titel
+ </a></span></h2>
+<div class="horizontalOptions clearit">
+<ul>
+<li class=" current first chartweek"><a href="/music/Elton+John/+charts?rangetype=week&amp;subtype=tracks"> Letzte Woche
+ </a></li> <li class="chart6month"><a href="/music/Elton+John/+charts?rangetype=6month&amp;subtype=tracks">Letzte 6 Monate</a></li>
+</ul>
+</div><!-- .horizontalOptions -->
+<div class="module-body chart chartweek current" id="charts187859">
+<table class="candyStriped chart" odd="1">
+<tbody>
+<tr class="first odd" data-track-id="1016174" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 1
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:04Gr5FeYGea5hNSiW3wFBx"></span>
+<meta content="PT4M21S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Your Song, 4.137 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elton+John/_/Your+Song" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:2.713.009" itemprop="interactionCount">
+<a href="/music/Elton+John/_/Your+Song"><span itemprop="name">Your Song</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elton+John/_/Your+Song"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:100%;"><span>4.137</span></div> </td>
+</tr><tr class="" data-track-id="1033546" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 2
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0dOrnSe4PT9nj8NMiEEw1f"></span>
+<meta content="PT6M15S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Tiny Dancer, 3.185 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elton+John/_/Tiny+Dancer" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:2.521.640" itemprop="interactionCount">
+<a href="/music/Elton+John/_/Tiny+Dancer"><span itemprop="name">Tiny Dancer</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elton+John/_/Tiny+Dancer"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:77%;"><span>3.185</span></div> </td>
+</tr><tr class="odd" data-track-id="1345379" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 3
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:02BDRKIiRLkXrlNPLlpH6K"></span>
+<meta content="PT4M39S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Rocket Man (I Think It's Going to Be a Long Long Time), 2.169 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elton+John/_/Rocket+Man+(I+Think+It%27s+Going+to+Be+a+Long+Long+Time)" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:677.893" itemprop="interactionCount">
+<a href="/music/Elton+John/_/Rocket+Man+(I+Think+It%27s+Going+to+Be+a+Long+Long+Time)"><span itemprop="name">Rocket Man (I Think It's Going to Be a Long Long Time)</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elton+John/_/Rocket+Man+(I+Think+It%27s+Going+to+Be+a+Long+Long+Time)"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:52%;"><span>2.169</span></div> </td>
+</tr><tr class="" data-track-id="1028914" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 4
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0C5TfWVf4g6aqBHhHf2oRV"></span>
+<meta content="PT4M0S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Can You Feel the Love Tonight, 1.660 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elton+John/_/Can+You+Feel+the+Love+Tonight" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:1.332.486" itemprop="interactionCount">
+<a href="/music/Elton+John/_/Can+You+Feel+the+Love+Tonight"><span itemprop="name">Can You Feel the Love Tonight</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elton+John/_/Can+You+Feel+the+Love+Tonight"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:40%;"><span>1.660</span></div> </td>
+</tr><tr class="odd" data-track-id="1026204" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 5
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:00BjmmABUufQIiJEzGz2xv"></span>
+<meta content="PT3M14S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Goodbye Yellow Brick Road, 1.390 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elton+John/_/Goodbye+Yellow+Brick+Road" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:1.564.232" itemprop="interactionCount">
+<a href="/music/Elton+John/_/Goodbye+Yellow+Brick+Road"><span itemprop="name">Goodbye Yellow Brick Road</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elton+John/_/Goodbye+Yellow+Brick+Road"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:34%;"><span>1.390</span></div> </td>
+</tr><tr class="" data-track-id="1019719" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 6
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0GLoEbNOdjII71OUD54AoQ"></span>
+<meta content="PT3M3S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="I'm Still Standing, 1.166 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elton+John/_/I%27m+Still+Standing" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:975.779" itemprop="interactionCount">
+<a href="/music/Elton+John/_/I%27m+Still+Standing"><span itemprop="name">I'm Still Standing</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elton+John/_/I%27m+Still+Standing"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:28%;"><span>1.166</span></div> </td>
+</tr><tr class="odd" data-track-id="1016485" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 7
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:07gS7uyUHPRsz6sTUMXwlF"></span>
+<meta content="PT3M56S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Crocodile Rock, 1.155 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elton+John/_/Crocodile+Rock" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:1.091.072" itemprop="interactionCount">
+<a href="/music/Elton+John/_/Crocodile+Rock"><span itemprop="name">Crocodile Rock</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elton+John/_/Crocodile+Rock"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:28%;"><span>1.155</span></div> </td>
+</tr><tr class="" data-track-id="1016183" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 8
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0LHzd11GIXVmND7TfQnGiy"></span>
+<meta content="PT5M21S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Bennie and the Jets, 1.127 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elton+John/_/Bennie+and+the+Jets" itemprop="url">
+<meta content="Goodbye Yellow Brick Road" itemprop="inAlbum">
+<meta content="UserPlays:1.061.030" itemprop="interactionCount">
+<a href="/music/Elton+John/_/Bennie+and+the+Jets"><span itemprop="name">Bennie and the Jets</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elton+John/_/Bennie+and+the+Jets"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:27%;"><span>1.127</span></div> </td>
+</tr><tr class="odd" data-track-id="1015737" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 9
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0P0M4n6hB3Rx1sZZD2OQ5t"></span>
+<meta content="PT3M49S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Candle in the Wind, 983 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elton+John/_/Candle+in+the+Wind" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:1.291.469" itemprop="interactionCount">
+<a href="/music/Elton+John/_/Candle+in+the+Wind"><span itemprop="name">Candle in the Wind</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elton+John/_/Candle+in+the+Wind"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:24%;"><span>983</span></div> </td>
+</tr><tr class="" data-track-id="1265568" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 10
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0Cv9RHuVVVhwUfLx8lbexg"></span>
+<meta content="PT5M0S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Don't Go Breaking My Heart, 927 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elton+John/_/Don%27t+Go+Breaking+My+Heart" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:424.759" itemprop="interactionCount">
+<a href="/music/Elton+John/_/Don%27t+Go+Breaking+My+Heart"><span itemprop="name">Don't Go Breaking My Heart</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elton+John/_/Don%27t+Go+Breaking+My+Heart"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:22%;"><span>927</span></div> </td>
+</tr><tr class="odd" data-track-id="1057913" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 11
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0PQG8JWl1r8IrtK37UiQhc"></span>
+<meta content="PT3M54S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Daniel, 849 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elton+John/_/Daniel" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:975.005" itemprop="interactionCount">
+<a href="/music/Elton+John/_/Daniel"><span itemprop="name">Daniel</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elton+John/_/Daniel"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:21%;"><span>849</span></div> </td>
+</tr><tr class="" data-track-id="1016889" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 12
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0O6A2TgcbLw5Qn3jdokIo5"></span>
+<meta content="PT4M39S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="I Guess That's Why They Call It the Blues, 800 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elton+John/_/I+Guess+That%27s+Why+They+Call+It+the+Blues" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:706.157" itemprop="interactionCount">
+<a href="/music/Elton+John/_/I+Guess+That%27s+Why+They+Call+It+the+Blues"><span itemprop="name">I Guess That's Why They Call It the Blues</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elton+John/_/I+Guess+That%27s+Why+They+Call+It+the+Blues"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:20%;"><span>800</span></div> </td>
+</tr><tr class="odd" data-track-id="1049846" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 13
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0yqmWlxBsMiFopUDzJJm5X"></span>
+<meta content="PT4M40S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Rocket Man, 776 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elton+John/_/Rocket+Man" itemprop="url">
+<meta content="Ballads" itemprop="inAlbum">
+<meta content="UserPlays:808.568" itemprop="interactionCount">
+<a href="/music/Elton+John/_/Rocket+Man"><span itemprop="name">Rocket Man</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elton+John/_/Rocket+Man"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:20%;"><span>776</span></div> </td>
+</tr><tr class="" data-track-id="1049882" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 14
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0e3yhVeNaTfKIWQRw9U9sY"></span>
+<meta content="PT5M4S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Sacrifice, 741 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elton+John/_/Sacrifice" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:775.924" itemprop="interactionCount">
+<a href="/music/Elton+John/_/Sacrifice"><span itemprop="name">Sacrifice</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elton+John/_/Sacrifice"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:20%;"><span>741</span></div> </td>
+</tr><tr class="last odd" data-track-id="1057817" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 15
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:01ZxLz612AAMnobOfRQ3LH"></span>
+<meta content="PT3M49S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Sorry Seems to Be the Hardest Word, 638 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Elton+John/_/Sorry+Seems+to+Be+the+Hardest+Word" itemprop="url">
+<meta content="Greatest Hits" itemprop="inAlbum">
+<meta content="UserPlays:631.952" itemprop="interactionCount">
+<a href="/music/Elton+John/_/Sorry+Seems+to+Be+the+Hardest+Word"><span itemprop="name">Sorry Seems to Be the Hardest Word</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Elton+John/_/Sorry+Seems+to+Be+the+Hardest+Word"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:20%;"><span>638</span></div> </td>
+</tr>
+</tbody>
+</table> <div class="moduleOptions">
+<a class="btn iconleft iconleft--ecommerce btn--small needs-js js-multi-affiliation-button add-bottom-margin" data-target-id="charts187859" href="#buyall">
+ Alle Titel bei Amazon MP3 kaufen
+ </a>
+<a href="/music/Elton+John/+charts?rangetype=week&amp;subtype=tracks">Mehr anzeigen</a> </div>
+</div>
+</div><!-- #chartsswitcher184768 -->
+<script>
+ if (!LFM.Page || !LFM.Page.ChartSwitchers) LFM.set("Page", {ChartSwitchers: {}});
+ LFM.Page.ChartSwitchers["switcher184768"] = new LFM.Charts.Switch("switcher184768", {
+ restype: 6,
+ resid: 1002470,
+ name: 'charts',
+ type: 'tracks'
+ });
+</script>
+</section>
+<section class="artist-top-albums">
+<h2><a href="/music/Elton+John/+albums">Top-Alben</a></h2>
+<ul class="albums r album-list album-list--compact" nthchildren="1">
+<li class=" first item-1 item-2n-plus-1 item-3n-plus-1 item-4n-plus-1 g3 album-list-item ">
+<section class="r album-item " itemscope="" itemtype="http://schema.org/MusicAlbum">
+<meta content="Madman Across The Water" itemprop="name"/>
+<meta content="http://userserve-ak.last.fm/serve/300x300/102127819.png" itemprop="image"/>
+<a class="g3 album-item-cover link-hook" href="/music/Elton+John/Madman+Across+The+Water" itemprop="url"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/300x300/102127819.png');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/300x300/102127819.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Madman Across The Water</span>
+<br/>
+<span class="text-over-image-text text-over-image-text--secondary">148.960 Hörer</span>
+</div>
+</div> </a> <div class="g3 album-item-details link-reference-container">
+<div class="album-item-detail-wrapper">
+<span itemprop="numTracks">9</span> Titel                    <br/>
+<span class="rm">Veröffentlicht am: </span><time datetime="2007-03-26">26 März 2007</time>
+<br/>
+</div>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--secondary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Album|DirectDownload" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn btn--small iconleft iconleft--ecommerce " data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/1421821/44/artist-overview-album-callout" rel="nofollow">
+                
+    
+                    Amazon MP3
+        
+        
+            
+            </a>
+<a class=" needs-js btn dropdown-btn btn--icon-only btn--small menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu dropdown-btn-menu--small hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/1421821/44/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon MP3" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon MP3
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+<span class="additional-info-offer">ANGEBOT</span> $5.00
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|7digital" href="http://www.lastfm.de/affiliate/byid/8/1421821/13/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $9.99
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|iTunes" href="http://www.lastfm.de/affiliate/byid/8/1421821/24/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $7.99
+                                                                            </span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon" href="http://www.lastfm.de/affiliate/byid/8/1421821/1/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $10.29
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|eBay" href="http://www.lastfm.de/affiliate/byid/8/1421821/90/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </div>
+</section>
+</li><li class=" item-2 g3 album-list-item ">
+<section class="r album-item " itemscope="" itemtype="http://schema.org/MusicAlbum">
+<meta content="The Greatest Hits 1970-2002" itemprop="name"/>
+<meta content="http://userserve-ak.last.fm/serve/300x300/79659179.jpg" itemprop="image"/>
+<a class="g3 album-item-cover link-hook" href="/music/Elton+John/The+Greatest+Hits+1970-2002" itemprop="url"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/300x300/79659179.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/300x300/79659179.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">The Greatest Hits 1970-2002</span>
+<br/>
+<span class="text-over-image-text text-over-image-text--secondary">70.639 Hörer</span>
+</div>
+</div> </a> <div class="g3 album-item-details link-reference-container">
+<div class="album-item-detail-wrapper">
+<span itemprop="numTracks">34</span> Titel                    <br/>
+<span class="rm">Veröffentlicht am: </span><time datetime="2002-11-12">12 November 2002</time>
+<br/>
+</div>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--secondary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Album|DirectDownload" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn btn--small iconleft iconleft--ecommerce " data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/3429990/44/artist-overview-album-callout" rel="nofollow">
+                
+    
+                    Amazon MP3
+        
+        
+            
+            </a>
+<a class=" needs-js btn dropdown-btn btn--icon-only btn--small menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu dropdown-btn-menu--small hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/3429990/44/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon MP3" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon MP3
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|7digital" href="http://www.lastfm.de/affiliate/byid/8/3429990/13/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $16.98
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|iTunes" href="http://www.lastfm.de/affiliate/byid/8/3429990/24/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $7.99
+                                                                            </span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon" href="http://www.lastfm.de/affiliate/byid/8/3429990/1/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|eBay" href="http://www.lastfm.de/affiliate/byid/8/3429990/90/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </div>
+</section>
+</li><li class=" item-3 item-2n-plus-1 g3 album-list-item ">
+<section class="r album-item " itemscope="" itemtype="http://schema.org/MusicAlbum">
+<meta content="Goodbye Yellow Brick Road" itemprop="name"/>
+<meta content="http://userserve-ak.last.fm/serve/300x300/98608459.png" itemprop="image"/>
+<a class="g3 album-item-cover link-hook" href="/music/Elton+John/Goodbye+Yellow+Brick+Road" itemprop="url"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/300x300/98608459.png');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/300x300/98608459.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Goodbye Yellow Brick Road</span>
+<br/>
+<span class="text-over-image-text text-over-image-text--secondary">259.396 Hörer</span>
+</div>
+</div> </a> <div class="g3 album-item-details link-reference-container">
+<div class="album-item-detail-wrapper">
+<span itemprop="numTracks">21</span> Titel                    <br/>
+<span class="rm">Veröffentlicht am: </span><time datetime="2007-04-03">3 April 2007</time>
+<br/>
+</div>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--secondary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Album|DirectDownload" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn btn--small iconleft iconleft--ecommerce " data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/2028235/44/artist-overview-album-callout" rel="nofollow">
+                
+    
+                    Amazon MP3
+        
+        
+            
+            </a>
+<a class=" needs-js btn dropdown-btn btn--icon-only btn--small menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu dropdown-btn-menu--small hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/2028235/44/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon MP3" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon MP3
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $18.98
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|7digital" href="http://www.lastfm.de/affiliate/byid/8/2028235/13/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $9.99
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|iTunes" href="http://www.lastfm.de/affiliate/byid/8/2028235/24/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon" href="http://www.lastfm.de/affiliate/byid/8/2028235/1/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $4.95
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|eBay" href="http://www.lastfm.de/affiliate/byid/8/2028235/90/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </div>
+</section>
+</li><li class=" last item-4 item-3n-plus-1 g3 album-list-item ">
+<section class="r album-item " itemscope="" itemtype="http://schema.org/MusicAlbum">
+<meta content="Rocket Man" itemprop="name"/>
+<meta content="http://userserve-ak.last.fm/serve/300x300/80758087.png" itemprop="image"/>
+<a class="g3 album-item-cover link-hook" href="/music/Elton+John/Rocket+Man" itemprop="url"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/300x300/80758087.png');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/300x300/80758087.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Rocket Man</span>
+<br/>
+<span class="text-over-image-text text-over-image-text--secondary">137.906 Hörer</span>
+</div>
+</div> </a> <div class="g3 album-item-details link-reference-container">
+<div class="album-item-detail-wrapper">
+<span itemprop="numTracks">28</span> Titel                    <br/>
+<span class="rm">Veröffentlicht am: </span><time datetime="2007-03-23">23 März 2007</time>
+<br/>
+</div>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--secondary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Album|SearchOnly" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn btn--small iconleft iconleft--ecommerce " data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/2385128/44/artist-overview-album-callout" rel="nofollow">
+                
+    
+                    Amazon MP3
+        
+        
+            
+            </a>
+<a class=" needs-js btn dropdown-btn btn--icon-only btn--small menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu dropdown-btn-menu--small hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/2385128/44/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon MP3" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon MP3
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|7digital" href="http://www.lastfm.de/affiliate/byid/8/2385128/13/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|iTunes" href="http://www.lastfm.de/affiliate/byid/8/2385128/24/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon" href="http://www.lastfm.de/affiliate/byid/8/2385128/1/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|eBay" href="http://www.lastfm.de/affiliate/byid/8/2385128/90/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </div>
+</section>
+</li>
+</ul> </section>
+<section class="artist-events">
+<h2><a href="/music/Elton+John/+events">Events</a></h2>
+<ul class="events-catalogue-pages">
+<li class="gig first future event">
+<div class="r">
+<div class="g5 media">
+<a class="media-pull-left media-link-hook" href="/event/4029809+Elton+John+at+Santander+Arena+on+28+February+2015" title="Elton John in Santander Arena"> <span class="calSheet calSheetBig">
+<time datetime="2015-02-28">
+<abbr class="dtstart" title="Samstag, 28. Februar 2015"> <span title="Elton John">
+<span class="month">Feb</span>
+<span class="day">28</span>
+</span>
+</abbr> </time>
+</span> </a> <div class="media-body">
+<strong><a class="media-link-reference" href="/event/4029809+Elton+John+at+Santander+Arena+on+28+February+2015" title="Elton John in Santander Arena">Elton John</a></strong>
+<div class="time">Samstag, 28. Februar 2015</div>
+</div>
+</div>
+<div class="g3 media venue">
+<a class="media-pull-left media-link-hook" href="/venue/10355308+Santander+Arena"> <img class="transparent_png map_icon" height="32" src="http://cdn.last.fm/flatness/location_icon_32.png" style="" width="32"/> </a> <div class="media-body">
+<div class="name">
+<strong><a class="media-link-reference" href="/venue/10355308+Santander+Arena">Santander Arena</a></strong>
+</div>
+<div class="address"><span class="locality">Reading PA</span>, <span class="country-name">Vereinigte Staaten</span></div>
+</div>
+</div>
+<div class="g4 going">
+<strong>1</strong> gehen hin
+ 
+ <ul class="attendance-list">
+<li class="first last user-going user">
+<a href="/user/Brett_Fisher" title="Brett Fisher, 28, Männlich, Vereinigte Staaten"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/70783418.jpg" width="34"/></span></a>
+</li>
+</ul> </div>
+</div>
+</li><li class="gig future event">
+<div class="r">
+<div class="g5 media">
+<a class="media-pull-left media-link-hook" href="/event/4056618+Elton+John+at+Amway+Center+on+7+March+2015" title="Elton John in Amway Center"> <span class="calSheet calSheetBig">
+<time datetime="2015-03-07">
+<abbr class="dtstart" title="Samstag, 7. März 2015"> <span title="Elton John">
+<span class="month">Mär</span>
+<span class="day">7</span>
+</span>
+</abbr> </time>
+</span> </a> <div class="media-body">
+<strong><a class="media-link-reference" href="/event/4056618+Elton+John+at+Amway+Center+on+7+March+2015" title="Elton John in Amway Center">Elton John</a></strong>
+<div class="time">Samstag, 7. März 2015</div>
+</div>
+</div>
+<div class="g3 media venue">
+<a class="media-pull-left media-link-hook" href="/venue/9126649+Amway+Center"> <img class="transparent_png map_icon" height="32" src="http://cdn.last.fm/flatness/location_icon_32.png" style="" width="32"/> </a> <div class="media-body">
+<div class="name">
+<strong><a class="media-link-reference" href="/venue/9126649+Amway+Center">Amway Center</a></strong>
+</div>
+<div class="address"><span class="locality">Orlando</span>, <span class="country-name">Vereinigte Staaten</span></div>
+</div>
+</div>
+<div class="g4 going">
+<strong>1</strong> gehen hin
+ 
+ <ul class="attendance-list">
+<li class="first last user-going user">
+<a href="/user/jessielou910" title="JessieLou, 22, Weiblich, Vereinigte Staaten"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/103573293.jpg" width="34"/></span></a>
+</li>
+</ul> </div>
+</div>
+</li><li class="festival last future event">
+<div class="r">
+<div class="g5 media">
+<a class="media-pull-left media-link-hook" href="/festival/4052720+New+Orleans+Jazz+-+Heritage+Festival+-+Weekend+2" title="New Orleans Jazz &amp; Heritage Festival - Weekend 2 in Fair Grounds Race Course"> <span class="calSheet calSheetBig">
+<time datetime="2015-04-30">
+<abbr class="dtstart" title="Donnerstag, 30. April 2015"> <span title="New Orleans Jazz &amp; Heritage Festival - Weekend 2">
+<span class="month">Apr</span>
+<span class="day">30</span>
+</span>
+</abbr> </time>
+</span> </a> <div class="media-body">
+<strong><a class="media-link-reference" href="/festival/4052720+New+Orleans+Jazz+-+Heritage+Festival+-+Weekend+2" title="New Orleans Jazz &amp; Heritage Festival - Weekend 2 in Fair Grounds Race Course">New Orleans Jazz &amp; Heritage Festival - Weekend 2</a></strong>
+<div class="time">Donnerstag, 30. April 2015</div>
+<div class="lite"> Elton John und 49 andere
+ </div> </div>
+</div>
+<div class="g3 media venue">
+<a class="media-pull-left media-link-hook" href="/venue/10236020+Fair+Grounds+Race+Course"> <img class="transparent_png map_icon" height="32" src="http://cdn.last.fm/flatness/location_icon_32.png" style="" width="32"/> </a> <div class="media-body">
+<div class="name">
+<strong><a class="media-link-reference" href="/venue/10236020+Fair+Grounds+Race+Course">Fair Grounds Race Course</a></strong>
+</div>
+<div class="address"><span class="locality">New Orleans</span>, <span class="country-name">Vereinigte Staaten</span></div>
+</div>
+</div>
+<div class="g4 going">
+<strong>1</strong> gehen hin
+ 
+ <ul class="attendance-list">
+<li class="first last user-going user">
+<a href="/user/P-Dub" title="THE BETTER YOU LOOK, THE MORE YOU SEE!!, 30, Männlich, Schweden"><span class="userImage"><img alt="" class=" rounded" height="34" src="http://userserve-ak.last.fm/serve/34s/21360277.jpg" width="34"/></span></a>
+</li>
+</ul> </div>
+</div>
+</li>
+</ul>
+<a class="btn iconleft iconleft--add btn--small" href="/events/add?artistNames[]=Elton+John">Event hinzufügen</a>
+</section>
+<section class="r">
+<div class="g8 artist-listening-trend">
+<h2>Hörtrend</h2>
+<script src='https://www.google.com/jsapi?autoload={"modules":[{"name":"visualization","version":"1","packages":["corechart"]}]}'></script>
+<div class="catalogue-scrobble-graph needs-js" data-require="music/scrobblegraph" data-source="scrobblegraph">
+<div class="catalogue-scrobble-graph-top-data">
+<strong>2.223.166</strong><span class="lite">Hörer insgesamt</span>
+</div>
+<div class="catalogue-scrobble-graph-top-data">
+<strong>39.996.340</strong><span class="lite">Scrobbels insgesamt</span>
+</div>
+<div class="catalogue-scrobble-graph-top-data">
+<strong>#188</strong>
+<span class="lite">in den Charts der letzten Woche</span>
+</div>
+<div class="catalogue-scrobble-graph-inner-wrapper">
+<div class="catalogue-scrobble-graph-title">Aktueller Hörtrend:</div>
+<div class="catalogue-scrobble-graph-container"></div>
+</div>
+<script>
+                (function() {
+
+            LFM.Data = LFM.Data || {};
+            LFM.Data.scrobblegraph = [
+                              [
+                  new Date(1424001600*1000),
+                  19557,
+                  19557,
+                  'So., 15. Feb. - So., 22. Feb.\u000D\u000A19.557 Hörer'
+                ]
+                ,                              [
+                  new Date(1423396800*1000),
+                  19380,
+                  19380,
+                  'So., 8. Feb. - So., 15. Feb.\u000D\u000A19.380 Hörer'
+                ]
+                ,                              [
+                  new Date(1422792000*1000),
+                  19908,
+                  19908,
+                  'So., 1. Feb. - So., 8. Feb.\u000D\u000A19.908 Hörer'
+                ]
+                ,                              [
+                  new Date(1422187200*1000),
+                  19462,
+                  19462,
+                  'So., 25. Jan. - So., 1. Feb.\u000D\u000A19.462 Hörer'
+                ]
+                ,                              [
+                  new Date(1421582400*1000),
+                  19464,
+                  19464,
+                  'So., 18. Jan. - So., 25. Jan.\u000D\u000A19.464 Hörer'
+                ]
+                ,                              [
+                  new Date(1420977600*1000),
+                  18467,
+                  18467,
+                  'So., 11. Jan. - So., 18. Jan.\u000D\u000A18.467 Hörer'
+                ]
+                ,                              [
+                  new Date(1420372800*1000),
+                  19533,
+                  19533,
+                  'So., 4. Jan. - So., 11. Jan.\u000D\u000A19.533 Hörer'
+                ]
+                ,                              [
+                  new Date(1419768000*1000),
+                  26065,
+                  26065,
+                  'So., 28. Dez. - So., 4. Jan.\u000D\u000A26.065 Hörer'
+                ]
+                ,                              [
+                  new Date(1419163200*1000),
+                  23842,
+                  23842,
+                  'So., 21. Dez. - So., 28. Dez.\u000D\u000A23.842 Hörer'
+                ]
+                ,                              [
+                  new Date(1418558400*1000),
+                  23466,
+                  23466,
+                  'So., 14. Dez. - So., 21. Dez.\u000D\u000A23.466 Hörer'
+                ]
+                ,                              [
+                  new Date(1417953600*1000),
+                  22951,
+                  22951,
+                  'So., 7. Dez. - So., 14. Dez.\u000D\u000A22.951 Hörer'
+                ]
+                ,                              [
+                  new Date(1417348800*1000),
+                  20267,
+                  20267,
+                  'So., 30. Nov. - So., 7. Dez.\u000D\u000A20.267 Hörer'
+                ]
+                ,                              [
+                  new Date(1416744000*1000),
+                  19275,
+                  19275,
+                  'So., 23. Nov. - So., 30. Nov.\u000D\u000A19.275 Hörer'
+                ]
+                ,                              [
+                  new Date(1416139200*1000),
+                  19608,
+                  19608,
+                  'So., 16. Nov. - So., 23. Nov.\u000D\u000A19.608 Hörer'
+                ]
+                ,                              [
+                  new Date(1415534400*1000),
+                  19236,
+                  19236,
+                  'So., 9. Nov. - So., 16. Nov.\u000D\u000A19.236 Hörer'
+                ]
+                ,                              [
+                  new Date(1414929600*1000),
+                  19100,
+                  19100,
+                  'So., 2. Nov. - So., 9. Nov.\u000D\u000A19.100 Hörer'
+                ]
+                ,                              [
+                  new Date(1414324800*1000),
+                  19007,
+                  19007,
+                  'So., 26. Okt. - So., 2. Nov.\u000D\u000A19.007 Hörer'
+                ]
+                ,                              [
+                  new Date(1413720000*1000),
+                  19240,
+                  19240,
+                  'So., 19. Okt. - So., 26. Okt.\u000D\u000A19.240 Hörer'
+                ]
+                ,                              [
+                  new Date(1413115200*1000),
+                  19429,
+                  19429,
+                  'So., 12. Okt. - So., 19. Okt.\u000D\u000A19.429 Hörer'
+                ]
+                ,                              [
+                  new Date(1412510400*1000),
+                  18844,
+                  18844,
+                  'So., 5. Okt. - So., 12. Okt.\u000D\u000A18.844 Hörer'
+                ]
+                ,                              [
+                  new Date(1411905600*1000),
+                  18843,
+                  18843,
+                  'So., 28. Sep. - So., 5. Okt.\u000D\u000A18.843 Hörer'
+                ]
+                ,                              [
+                  new Date(1411300800*1000),
+                  18967,
+                  18967,
+                  'So., 21. Sep. - So., 28. Sep.\u000D\u000A18.967 Hörer'
+                ]
+                ,                              [
+                  new Date(1410696000*1000),
+                  19151,
+                  19151,
+                  'So., 14. Sep. - So., 21. Sep.\u000D\u000A19.151 Hörer'
+                ]
+                ,                              [
+                  new Date(1410091200*1000),
+                  19790,
+                  19790,
+                  'So., 7. Sep. - So., 14. Sep.\u000D\u000A19.790 Hörer'
+                ]
+                ,                              [
+                  new Date(1409486400*1000),
+                  19758,
+                  19758,
+                  'So., 31. Aug. - So., 7. Sep.\u000D\u000A19.758 Hörer'
+                ]
+                ,                              [
+                  new Date(1408881600*1000),
+                  19294,
+                  19294,
+                  'So., 24. Aug. - So., 31. Aug.\u000D\u000A19.294 Hörer'
+                ]
+                                          ];
+        })();
+</script>
+</div> </div>
+<div class="g4">
+<h2>Beginne mit dem Scrobbeln und baue deinen Hörverlauf auf</h2>
+<p>Last.fm-Benutzer <abbr>scrobbeln</abbr> die Musik, die sie in iTunes, Spotify, Rdio und mehr als <a href="/group/Does+it+Scrobble">200 anderen Musikplayern</a> spielen.</p>
+<a class="btn btn--block" href="/join">Erstelle ein Last.fm-Profil</a>
+</div>
+</section>
+<div class="LastAd ad-widerelatedcontent inactive" data-ad-collapsible="" data-ad-placement="widerelatedcontent" data-ad-static="" data-require="ads/staticadslot" id="LastAd_widerelatedcontent">
+<span>
+</span>
+</div>
+<div class="LastAd ad-middleleaderboard inactive" data-ad-collapsible="" data-ad-placement="middleleaderboard" data-ad-static="" data-require="ads/staticadslot" id="LastAd_middleleaderboard">
+<span>
+</span>
+</div>
+<div class="catalogue-social r r--full-bleed">
+<section class="g8 artist-shouts">
+<a name="shoutbox"></a>
+<div class="widget widget-lazy/shoutbox" data-require="lazy/shoutbox" data-template="shoutbox" data-url="/music/Elton+John/+shoutbox"><h2 class="heading">
+<span class="h2Wrapper">
+<a href="/music/Elton+John/+shoutbox">Shoutbox</a>
+</span>
+</h2>
+<div class="shoutboxContainer artist-shoutbox">
+<div class="memo">
+<strong>Sage etwas.</strong>
+<a href="/login/">Logge dich bei Last.fm ein</a> oder <a href="/join/">registriere dich</a>.
+        </div>
+<ul class="shouts">
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/Sqvoll91">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/102679743.gif" width="64"/>
+</span>
+    Sqvoll91
+</a>
+</h3>
+<p>
+                        Сборник лучших вещей просто божественен, а вот до альбомов руки что-то не доходят.
+                                    </p>
+<div class="meta">
+<span class="date">6. Feb., 18:24</span>
+<a class="shoutbox-reply" href="/user/Sqvoll91#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/thundernoob1337">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/102541047.jpg" width="64"/>
+</span>
+    thundernoob1337
+</a>
+</h3>
+<p>
+                        неинтересно
+                                    </p>
+<div class="meta">
+<span class="date">4. Feb., 19:00</span>
+<a class="shoutbox-reply" href="/user/thundernoob1337#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/O2431">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/99568719.jpg" width="64"/>
+</span>
+    O2431
+</a>
+</h3>
+<p>
+                        the Alex was illegal the tickle one "very important" we have some notes how bout my Crack dealer ahh. and some people had some notes,the wines amazing with Alex on those checks how we cornered with a pen lol! and got what he was doing illegal mm.See you at the Abbey ahh. "them and some others like producers wanted that information-Alex illegal "blocks Alex" T5's coming out some other stuff,I got on that might close this some shadows you know "hero"
+                                    </p>
+<div class="meta">
+<span class="date">31. Jan., 4:57</span>
+<a class="shoutbox-reply" href="/user/O2431#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/AnnaTimek">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/102937383.jpg" width="64"/>
+</span>
+    AnnaTimek
+</a>
+</h3>
+<p>
+                        love &lt;3
+                                    </p>
+<div class="meta">
+<span class="date">12. Jan., 19:47</span>
+<a class="shoutbox-reply" href="/user/AnnaTimek#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/ramos9128">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/52119921.jpg" width="64"/>
+</span>
+    ramos9128
+</a>
+</h3>
+<p>
+                        Love Elton. :)
+                                    </p>
+<div class="meta">
+<span class="date">22. Dez. 2014</span>
+<a class="shoutbox-reply" href="/user/ramos9128#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/MrNorway">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103586467.gif" width="64"/>
+</span>
+    MrNorway
+</a>
+</h3>
+<p>
+                        Congratulations to Elton &amp; David!
+                                    </p>
+<div class="meta">
+<span class="date">22. Dez. 2014</span>
+<a class="shoutbox-reply" href="/user/MrNorway#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/Blacknuz">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/74267776.jpg" width="64"/>
+</span>
+    Blacknuz
+</a>
+</h3>
+<p>
+                        Sleeping with the Past sure is a masterpiece. Might be his best from the '80s.
+                                    </p>
+<div class="meta">
+<span class="date">2. Dez. 2014</span>
+<a class="shoutbox-reply" href="/user/Blacknuz#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/viathin12">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/84919085.gif" width="64"/>
+</span>
+    viathin12
+</a>
+</h3>
+<p>
+                        I have to say with all of his albums I have to say the one that I have enjoyed from the day it first came out  is sleeping with the past  every song from that album just seems to flow smoothly right into the next one and can be very feet moving lol
+                                    </p>
+<div class="meta">
+<span class="date">15. Nov. 2014</span>
+<a class="shoutbox-reply" href="/user/viathin12#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/corpsetastic">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/100952373.jpg" width="64"/>
+</span>
+    corpsetastic
+</a>
+</h3>
+<p>
+                        HOLD MEH CLOZUR TAHNEH DAYANZERRRR. This guy, Taupin too obv, he has such a goddamn beautiful tapestry of work, every album I check out is a wonderful treasure.
+                                    </p>
+<div class="meta">
+<span class="date">13. Nov. 2014</span>
+<a class="shoutbox-reply" href="/user/corpsetastic#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/Atreyuvich">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103388647.png" width="64"/>
+</span>
+    Atreyuvich
+</a>
+</h3>
+<p>
+                        Can You Feel the Love Tonight
+                                    </p>
+<div class="meta">
+<span class="date">10. Nov. 2014</span>
+<a class="shoutbox-reply" href="/user/Atreyuvich#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/surferpip3">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103564285.png" width="64"/>
+</span>
+    surferpip3
+</a>
+</h3>
+<p>
+                        still when i see him i think he looks wrong and should look like Matt King  from star stories lol (i bet that just me though )
+                                    </p>
+<div class="meta">
+<span class="date">9. Nov. 2014</span>
+<a class="shoutbox-reply" href="/user/surferpip3#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/surferpip3">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103564285.png" width="64"/>
+</span>
+    surferpip3
+</a>
+</h3>
+<p>
+                        I'm in love  with his music and  Bernie Taupin lyrics even the stuff he did with tim rice and all the musicals he done what a true true musical genius
+                                    </p>
+<div class="meta">
+<span class="date">9. Nov. 2014</span>
+<a class="shoutbox-reply" href="/user/surferpip3#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/dudu_rocknroll">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/102149983.jpg" width="64"/>
+</span>
+    dudu_rocknroll
+</a>
+</h3>
+<p>
+                        Ele foi o primeiro músico estrangeiro que eu ouvi, juntamente com Bee Gees e ABBA! Elton sem palavras te amo muito! &lt;3
+                                    </p>
+<div class="meta">
+<span class="date">8. Nov. 2014</span>
+<a class="shoutbox-reply" href="/user/dudu_rocknroll#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/eryk_widawski">
+<span class="userImage">
+<img class="avatar " src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/>
+</span>
+    eryk_widawski
+</a>
+</h3>
+<p>
+                        Koncert Eltona John'a  z Kraków Areny będzie transmitowany na żywo tutaj: <a href="http://xbf.lt/eltonjohn" rel="nofollow">http://xbf.lt/eltonjohn</a>
+</p>
+<div class="meta">
+<span class="date">5. Nov. 2014</span>
+<a class="shoutbox-reply" href="/user/eryk_widawski#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/Diegox1012">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/100674207.gif" width="64"/>
+</span>
+    Diegox1012
+</a>
+</h3>
+<p>
+                        First Episode at Hienton ♥
+                                    </p>
+<div class="meta">
+<span class="date">25. Okt. 2014</span>
+<a class="shoutbox-reply" href="/user/Diegox1012#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/CoffeeCharlie">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103220179.jpg" width="64"/>
+</span>
+    CoffeeCharlie
+</a>
+</h3>
+<p>
+                        Love Elton. :)
+                                    </p>
+<div class="meta">
+<span class="date">5. Okt. 2014</span>
+<a class="shoutbox-reply" href="/user/CoffeeCharlie#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/zecchin19">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103367133.jpg" width="64"/>
+</span>
+    zecchin19
+</a>
+</h3>
+<p>
+                        ♥
+                                    </p>
+<div class="meta">
+<span class="date">5. Okt. 2014</span>
+<a class="shoutbox-reply" href="/user/zecchin19#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/Lorelei_94">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103476081.gif" width="64"/>
+</span>
+    Lorelei_94
+</a>
+</h3>
+<p>
+                        Can You Feel the Love Tonight ♥
+                                    </p>
+<div class="meta">
+<span class="date">30. Sep. 2014</span>
+<a class="shoutbox-reply" href="/user/Lorelei_94#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/AvrilsRockstar">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/101458629.gif" width="64"/>
+</span>
+    AvrilsRockstar
+</a>
+</h3>
+<p>
+                        Something About The Way You Look Tonight . ♥
+                                    </p>
+<div class="meta">
+<span class="date">27. Sep. 2014</span>
+<a class="shoutbox-reply" href="/user/AvrilsRockstar#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/Blacknuz">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/74267776.jpg" width="64"/>
+</span>
+    Blacknuz
+</a>
+</h3>
+<p>
+                        Sixty Years On ♥
+                                    </p>
+<div class="meta">
+<span class="date">24. Sep. 2014</span>
+<a class="shoutbox-reply" href="/user/Blacknuz#shoutbox">Antworten</a>
+</div>
+</li>
+<span class="moduleOptions">
+<a href="/music/Elton+John/+shoutbox">Alle 2043 Shouts</a>
+</span>
+</ul>
+</div>
+</div>
+</section>
+<div class="g4">
+<aside>
+<a class="promo-unit promo-unit--twitter add-vertical-margins" data-analytics-action="PromoUnitClick" data-analytics-label="TwitterPromoUnit" href="http://twitter.com/lastfm">
+<h2>Folge uns auf Twitter</h2>
+<div class="media">
+<img alt="@lastfm" class="media-pull-left" src="http://cdn.last.fm/flatness/promo/promounits/twitter.png">
+<div class="media-body">
+        Erhalte die neuesten Aktualisierungen und Ankündigungen von <b>@lastfm</b>
+<br>
+<span class="promo-unit-fake-link">Folge uns</span>
+</br></div>
+</img></div> </a>
+</aside>
+<section class="artist-listeners">
+<section>
+<h2><a href="/music/Elton+John/+listeners">Aktuelle Hörer</a></h2>
+<ul odd="1">
+<li class="first media media--overflow-visible odd user">
+<a class="media-pull-left media-link-hook" href="/user/davidrfindlay" title=""><span class="userImage"><img alt="" class=" rounded" height="64" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><img class="transparent_png playingnow_icon" height="12" src="http://cdn.last.fm/flatness/global/icon_eq.gif" style="" width="12"/> <a class="media-link-reference" href="/user/davidrfindlay" title="">davidrfindlay</a></h3>
+<div class="scrobblesource">Scrobbelt gerade von <span class="source"><a href="http://www.spotify.com/">Spotify</a></span></div>
+<a href="/music/Elton+John">Elton John</a> – <a href="/music/Elton+John/_/Rocket+Man+(I+Think+It%27s+Going+to+Be+a+Long+Long+Time)">Rocket Man (I Think It's Going to Be a Long Long Time)</a>
+</div>
+</li><li class="last media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/mfitzpatrick71" title=""><span class="userImage"><img alt="" class=" rounded" height="64" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><img class="transparent_png playingnow_icon" height="12" src="http://cdn.last.fm/flatness/global/icon_eq.gif" style="" width="12"/> <a class="media-link-reference" href="/user/mfitzpatrick71" title="">mfitzpatrick71</a></h3>
+<div class="scrobblesource">Scrobbelt gerade von <span class="source"><a href="http://www.last.fm/group/Sonos+Multi-Room+Music+System">Sonos Multi-Room Music System</a></span></div>
+<a href="/music/Elton+John">Elton John</a> – <a href="/music/Elton+John/_/Where%27s+The+Shoorah%3F">Where's The Shoorah?</a>
+</div>
+</li>
+</ul></section>
+<section>
+<h2><a href="/music/Elton+John/+listeners">Top-Hörer</a></h2>
+<ul>
+<li class="first media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/oro_verde" title=""><span class="userImage"><img alt="" class=" rounded" height="64" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><a class="media-link-reference" href="/user/oro_verde" title="">oro_verde</a></h3>
+ Top-Hörer
+ </div>
+</li><li class="media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/needleworks" title=""><span class="userImage"><img alt="" class=" rounded" height="64" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><a class="media-link-reference" href="/user/needleworks" title="">needleworks</a></h3>
+ Top-Hörer
+ </div>
+</li><li class="media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/kokepeli" title="Liz Hawkins, 32, Weiblich"><span class="userImage"><img alt="" class=" rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/96108579.jpg" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><a class="media-link-reference" href="/user/kokepeli" title="Liz Hawkins, 32, Weiblich">kokepeli</a></h3>
+ Top-Hörer
+ </div>
+</li><li class="last media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/tatto12" title="Matheus Candido, 20, Männlich, Brasilien"><span class="userImage"><img alt="" class=" rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/87839871.jpg" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><a class="media-link-reference" href="/user/tatto12" title="Matheus Candido, 20, Männlich, Brasilien">tatto12</a></h3>
+ Top-Hörer
+ </div>
+</li>
+</ul></section>
+</section>
+<div class="LastAd ad-lowermpu inactive" data-ad-collapsible="" data-ad-placement="lowermpu" data-ad-static="" data-require="ads/staticadslot" id="LastAd_lowermpu">
+<span>
+<div id="mpu_bottom">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("mpu_bottom"); 
+        });
+    </script>
+</div>
+</span>
+</div> </div>
+</div>
+</article>
+<div class="LastAd ad-lowerleaderboard inactive" data-ad-collapsible="" data-ad-placement="lowerleaderboard" data-ad-static="" data-require="ads/staticadslot" id="LastAd_lowerleaderboard">
+<span>
+<div id="leader_bottom">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("leader_bottom"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<footer class="site-footer" role="banner">
+<nav class="site-footer-nav">
+<div class="r add-bottom-margin">
+<a class="g call-to-action call-to-action--upload" data-analytics-action="FooterClick" data-analytics-label="Artists and Labels" href="/uploadmusic">
+<h2>Künstler und Labels</h2>
+<p>Verbinde dich mit Fans, indem du Musik in den Music Manager lädst</p>
+</a>
+<a class="g call-to-action call-to-action--download" data-analytics-action="FooterClick" data-analytics-label="Download Desktop App" href="/download">
+<h2>Lade unsere Apps herunter</h2>
+<p>Hole dir die Last.fm-Apps für Desktop und Mobilgeräte und scrobble los</p>
+</a>
+</div>
+<hr class="separator"/>
+<ul class="r add-bottom-margin">
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Unternehmen</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-company">
+<h2 class="iconright iconright--dropdown">Unternehmen</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="About us" href="/about">Über uns</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Contact us" href="/about/contact">Kontakt</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Jobs" href="/about/jobs">Jobs</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Blog" href="http://blog.last.fm">Blog</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Advertise" href="/advertise">Werben auf Last.fm</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Mitmachen</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-join">
+<h2 class="iconright iconright--dropdown">Mitmachen</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="Sign up" href="/join">Registrieren</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Find people" href="/community/users">Benutzersuche</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Find groups" href="/community/groups">Gruppensuche</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Community" href="/community">Community</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Forums" href="/forum">Foren</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Gutes</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-goodies">
+<h2 class="iconright iconright--dropdown">Gutes</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="More apps" href="/hardware">Mehr Apps &amp; Geräte</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Last.fm API" href="/api">Entwickler-API</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Tools, plugins &amp; more" href="http://build.last.fm">Tools &amp; Plugins</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Playground" href="http://playground.last.fm">Playground</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Free music downloads" href="/music/+free-music-downloads">Kostenlose Musikdownloads</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Hilfe</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-help">
+<h2 class="iconright iconright--dropdown">Hilfe</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="Help &amp; support" href="/help">Hilfe &amp; Support</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="System status" href="http://status.last.fm/">Systemstatus</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+<hr class="separator"/>
+<nav class="language-selector clearit toggle-container" data-require="toggle" id="change-language" role="navigation">
+<h2 class="rm">Sprachen:</h2>
+<ul class="inline-items inline-items--dotted">
+<li class="current-language">
+<strong class="current-language-text iconleft iconleft--globe">
+                    Deutsch
+                    <span class="rm">(aktuelle Sprache)</span>
+</strong>
+<a class="iconleft iconleft--globe iconright iconright--dropdown language-toggle js-toggle" href="#show-languages">
+<strong>Deutsch</strong><span class="rm">(aktuelle Sprache) — Sprache ändern</span>
+</a>
+</li>
+<li class="language-options toggle-target">
+<ul class="language-options-group">
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; en" href="http://www.last.fm/music/Elton+John?setlang=en" hreflang="en" rel="alternate">English</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; es" href="http://www.lastfm.es/music/Elton+John?setlang=es" hreflang="es" rel="alternate">Español</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; fr" href="http://www.lastfm.fr/music/Elton+John?setlang=fr" hreflang="fr" rel="alternate">Français</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; it" href="http://www.lastfm.it/music/Elton+John?setlang=it" hreflang="it" rel="alternate">Italiano</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; jp" href="http://www.lastfm.jp/music/Elton+John?setlang=jp" hreflang="ja" rel="alternate">日本語</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; pl" href="http://www.lastfm.pl/music/Elton+John?setlang=pl" hreflang="pl" rel="alternate">Polski</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; pt" href="http://www.lastfm.com.br/music/Elton+John?setlang=pt" hreflang="pt" rel="alternate">Português</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; ru" href="http://www.lastfm.ru/music/Elton+John?setlang=ru" hreflang="ru" rel="alternate">Руccкий</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; sv" href="http://www.lastfm.se/music/Elton+John?setlang=sv" hreflang="sv" rel="alternate">Svenska</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; tr" href="http://www.lastfm.com.tr/music/Elton+John?setlang=tr" hreflang="tr" rel="alternate">Türkçe</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; zh" href="http://cn.last.fm/music/Elton+John?setlang=zh" hreflang="zh" rel="alternate">简体中文</a>
+</li>
+</ul>
+</li>
+</ul>
+<hr class="separator"/>
+</nav>
+<div class="site-footer-legalese">
+<blockquote class="site-footer-strapline">“Biting the Hand that Feeds Last.fm.”</blockquote>
+<ul class="inline-items inline-items--dotted">
+<li>
+<a href="http://www.cbsinteractive.com">CBS Interactive</a> © 2015 Last.fm Ltd.         </li>
+<li>
+<a data-analytics-action="FooterClick" data-analytics-label="Terms of Use" href="/legal/terms">Nutzungsbedingungen</a>, 
+                    <a data-analytics-action="FooterClick" data-analytics-label="Privacy Policy" href="/legal/privacy">Datenschutzrichtlinie</a> und 
+       <a data-analytics-action="FooterClick" data-analytics-label="Legal" href="/legal">Rechtliches</a> —
+            <span class="date">Aktualisiert am 26. Nov. 2013</span>
+</li>
+<li>
+<a href="http://www.gamespot.com">Gamespot</a>
+</li>
+</ul>
+<p class="wiki-legalese">
+            Manche der von Benutzern bereitgestellten Texte auf dieser Seite unterliegen der Lizenz <a href="http://creativecommons.org/licenses/by-sa/3.0/legalcode">Creative Commons Attribution/Share-Alike License</a>. Texte können zudem der <a href="/help/gfdl">GNU-Lizenz für freie Dokumentation</a> unterstehen.
+        </p>
+</div></footer> </div>
+<div id="multiButtonMenu" style="display: none;">
+<div>
+<ul class="lfmDropDownBody">
+<li class="mAddToLibrary"><a href="#">Zur Musiksammlung hinzufügen</a></li>
+<li class="mAddToFriends"><a href="#">Als Freund hinzufügen</a></li>
+<!-- <li class="save"><a href="#">Lesezeichen hinzufügen</a></li> -->
+<li class="mSend"><a href="#">Weiterleiten</a></li>
+<li class="mLove"><a href="#">Diesen Titel lieben</a></li>
+<li class="mUnlove"><a href="#">Als Lieblingslied entfernen</a></li>
+<li class="mBan"><a href="#">Titel bannen</a></li>
+<li class="mUnban"><a href="#">Titel ent-bannen</a></li>
+<li class="mAddTags"><a href="#">Tags hinzufügen</a></li>
+<li class="mAddToPlaylist"><a href="#">Zur Playlist hinzufügen</a></li>
+<li class="mRemoveFromLibrary"><a href="#">Aus Musiksammlung entfernen</a></li>
+<li class="mBuy"><a href="#">Lied kaufen</a></li>
+<li class="mMessage"><a href="#">Nachricht schreiben</a></li>
+<li class="mEditDetails"><a href="#">Angaben bearbeiten</a></li>
+<li class="mMessageAll"><a href="#">Allen Benutzern eine Nachricht schicken</a></li>
+<li class="mEditPermissions"><a href="#">Genehmigungen bearbeiten</a></li>
+<li class="mAbdicate"><a href="#">Abdanken</a></li>
+<li class="mLeave"><a href="#">Gruppe verlassen</a></li>
+<li class="mLoading"><a href="#"> </a></li>
+</ul>
+</div>
+</div>
+<div style="display: none">
+<script src="//dw.cbsimg.net/js/cbsi/ds.js"></script>
+<script>
+        if (typeof DW === "object") {
+            DW.pageParams = {
+                siteid: '190',
+                ptid: '6650'
+            };
+            DW.tagNielsen = false;
+            DW.clear();
+        }
+    </script>
+<noscript>
+<img src="//dw.cbsimg.net/clear/c.gif?ts=1424760604&amp;sid=190;"/>
+</noscript>
+</div>
+<div class="LastAd ad-tracking inactive" data-ad-collapsible="" data-ad-placement="tracking" data-ad-static="" data-require="ads/staticadslot" id="LastAd_tracking">
+<span>
+<iframe frameborder="0" height="0" name="__bkframe" src="javascript:void(0)" width="0"></iframe>
+<script src="//tags.bkrtx.com/js/bk-coretag.js" type="text/javascript"></script>
+<script type="text/javascript">
+            bk_addPageCtx("ar", "eltonjohn,eltonjohn&leonrussell,billyjoel,threedognight,rodstewart,beegees,ringostarr,eagles,paulmccartney,wings,paulmccartney&wings");
+            bk_addPageCtx("tag", "pop,classicrock,singer-songwriter,rock,piano,british,80s,70s,eltonjohn,malevocalists");
+            bk_addPageCtx("path", "aw-lastfm/music/artist/overview");
+            bk_addPageCtx("site", "ccbsilastfmsite");
+            bk_addPageCtx("ptype", "artist_door");
+        bk_ignore_meta = true;
+    bk_doJSTag(16515, 4);
+</script>
+</span>
+</div>
+<script data-require="omniture">
+    LFM.viewGuid = LFM.viewGuid ? LFM.viewGuid : uuid();
+    var omdata = {
+        context: {
+                        musicArtistId: "lfm-artist-1002470",
+                                    siteSection: "music",
+            pageType: "artist_door",
+            pageViewGuid: LFM.viewGuid
+        }
+    };
+</script>
+<!-- Adobe Marketing Cloud Tag Loader Code-->
+<script type="text/javascript">//<![CDATA[
+var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};
+document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d2/v2/ZDItY2JzaW50ZXJhY3RpdmUtNDgxNC00MTct/amc.js\"></sc"+"ript>");
+//]]></script>
+<!-- End Adobe Marketing Cloud Tag Loader Code -->
+<script>
+LFM.Button.MultiButton.setup();
+LFM.Display.setMinHeight();
+</script>
+<div id="fb-root"></div>
+<script src="http://cn.cbsimg.net/cnwk.1d/Aud/javascript/last/apex.js"></script>
+<script>
+        var cbsiApexGlobal = {
+                    'SITE' : '190',
+                    'PTYPE' : '2000'
+                  };
+        if (typeof cbsiRunApexTargets === "function") {
+            cbsiRunApexTargets(cbsiApexGlobal, 1000);
+        }
+    </script>
+<script>
+    window.ClickTaleSettings = { XHRWrapper: { Enable: true} };
+    document.write(unescape("%3Cscript%20src='" +
+(document.location.protocol == 'https:' ?
+  'https://clicktalecdn.sslcs.cdngc.net/' :
+  'http://cdn.clicktale.net/') +
+"www09/ptc/220b3951-66a2-4b8e-ac35-fa58bfb30846.js'%3E%3C/script%3E"));
+
+    </script>
+</body>
+</body></body></body></meta></head></html>

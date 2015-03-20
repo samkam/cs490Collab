@@ -1,0 +1,1079 @@
+<!DOCTYPE doctype html>
+
+<html dir="ltr" lang="en">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport">
+<meta content="MediaWiki 1.19.23" name="generator"/>
+<meta content="Alice in Wonderland Wiki,aliceinwonderland,Alice in Wonderland (2010),Mia Wasikowska,Charles Kingsleigh,Alice,The Mad Hatter,Helena Bonham Carter,The Red Queen,Anne Hathaway,The White Queen,Alan Rickman,Michael Sheen" name="keywords"/>
+<meta content="Alice in Wonderland is a 2010 film that presents a continuation of the books Alice's Adventures..." name="description"/>
+<meta content="o5CyVGmHVpO4QI5b53oL4Daza4oP4zlqAV7cDT4G-TA" name="google-site-verification"/>
+<link href="http://aliceinwonderland.wikia.com/wiki/Alice_in_Wonderland_(2010)" rel="canonical"/>
+<link href="/wiki/Alice_in_Wonderland_(2010)?action=edit" rel="alternate" title="Edit page" type="application/x-wiki"/>
+<link href="/wiki/Alice_in_Wonderland_(2010)?action=edit" rel="edit" title="Edit page"/>
+<link href="http://img1.wikia.nocookie.net/__cb14/aliceinwonderland/images/b/bc/Wiki.png" rel="apple-touch-icon"/>
+<link href="http://vignette3.wikia.nocookie.net/aliceinwonderland/images/6/64/Favicon.ico/revision/latest?cb=20090722233646" rel="shortcut icon"/>
+<link href="/opensearch_desc.php" rel="search" title="Alice in Wonderland Wiki (en)" type="application/opensearchdescription+xml"/>
+<link href="http://aliceinwonderland.wikia.com/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="http://wikia.com/Licensing" rel="copyright"/>
+<link href="/wiki/Special:RecentChanges?feed=atom" rel="alternate" title="Alice in Wonderland Wiki Atom feed" type="application/atom+xml"/>
+<title>Alice in Wonderland (2010) - Alice in Wonderland Wiki</title>
+<!-- CSS injected by skin and extensions -->
+<link href="http://slot1.images4.wikia.nocookie.net/__am/1424445818/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimages2.wikia.nocookie.net%252F__cb61851%252Faliceinwonderland%252Fimages%252Farchive%252F5%252F50%252F20121027093846%252521Wiki-background%26background-image-height%3D742%26background-image-width%3D1550%26color-body%3D%2523000000%26color-body-middle%3D%2523000000%26color-buttons%3D%2523009999%26color-header%3D%25233a5766%26color-links%3D%2523009999%26color-page%3D%2523ffffff%26page-opacity%3D100%26widthType%3D2/skins/oasis/css/oasis.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationHubsMenu.scss,extensions/wikia/UserLogin/css/UserLoginDropdown.globalNavigation.scss,extensions/wikia/WallNotifications/styles/WallNotifications.globalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationOasis.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearchOasis.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" rel="stylesheet"/><link href="http://aliceinwonderland.wikia.com/__load/-/cb%3D1424445818%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" rel="stylesheet"/><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: aliceinwonderland:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+<script>
+var Wikia={},
+wgWikiVertical="books",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":true,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"pageArticleId":2035,"pageIsArticle":true,"pageName":"Alice_in_Wonderland_(2010)","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiDbName":"aliceinwonderland","wikiLanguage":"en","wikiVertical":"Entertainment"},"providers":[],"slots":{"bottomLeaderboardImpressionCapping":[2,4,6]},"forceProviders":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[129,100046,100047,100049,100056,100057,100058,100059,100098,100428],
+wgWikiFactoryTagNames=["entertainment","frontline","widget","widget_frontline","wow","t9","skyscraper","skyscrapperwow","oscar","apertureenabled"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1424445818",
+wgDBname="aliceinwonderland",
+wgCityId="38772",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=2035,
+wgCategories=["Films"],
+wgPageName="Alice_in_Wonderland_(2010)",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="movie",
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1424445818",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s17","wiki":"aliceinwonderland","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>
+function syslogReport(priority,message,context){context=context||null;var url='//jserrorslog.wikia.com/',i=new Image(),data={'@message':message,'syslog_pri':priority};if(context){data['@context']=context;}
+try{data['@fields']={server:document.cookie.match(/server.([A-Z]*).cache/)[1]};}catch(e){}
+try{i.src=url+'l?'+JSON.stringify(data);}catch(e){i.src=url+'e?'+e;}}</script><script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img alt="" border="0" height="1" src="http://a.wikia-beacon.com/__track/view?cb=1424445818&amp;c=38772&amp;lc=en&amp;lid=75&amp;x=aliceinwonderland&amp;y=c2&amp;u=0&amp;a=2035&amp;s=oasis&amp;n=0&amp;nojs=1" width="1"/></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1424445818&amp;c=38772&amp;lc=en&amp;lid=75&amp;x=aliceinwonderland&amp;y=c2&amp;u=0&amp;a=2035&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&amp;method=getCode"></script><script src="http://aliceinwonderland.wikia.com/__load/-/cb%3D1424445818%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__load/-/cb%3D1424445818%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script src="http://slot1.images.wikia.nocookie.net/__am/1424445818/groups/-/abtesting,oasis_blocking,analytics_gas_js,adengine2_tracking_js,adengine2_rubicon_rtp_js,adengine2_amazon_match_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js" type="text/javascript"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+<meta content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" property="fb:app_id"/>
+<meta content="article" property="og:type"/>
+<meta content="Alice in Wonderland Wiki" property="og:site_name"/>
+<meta content="Alice in Wonderland (2010)" property="og:title"/>
+<meta content="Alice in Wonderland is a 2010 film that presents a continuation of the books Alice's Adventures in Wonderland and Through the Looking-Glass, and What Alice Found There. It was directed by Tim Burton that was released on March 5, 2010, and was released on DVD and Blu-ray on June 1, 2010. It is really awesome The story begins with Charles Kingsleigh trying to sell his project to some men. His talk is interrupted by 6-year-old Alice who had that nightmare again. She tells her father she saw..." property="og:description"/>
+<meta content="http://aliceinwonderland.wikia.com/wiki/Alice_in_Wonderland_(2010)" property="og:url"/>
+<meta content="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/9/9a/Alice_in_wonderland_poster_2_1_original1.jpg/revision/latest?cb=20120325001129" property="og:image"/>
+<meta content="app-id=623705389" name="apple-itunes-app">
+</meta></meta></meta></head>
+<body class="mediawiki ltr ns-0 ns-subject page-Alice_in_Wonderland_2010 TOC_hide MiniEditor wikinav2 skin-oasis background-fixed background-not-tiled background-dynamic">
+<div class="background-image-gradient"></div>
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Faliceinwonderland.wikia.com%2Fwiki%2FAlice_in_Wonderland_%282010%29%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1"/>
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img alt="Quantcast" height="1" src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" width="1"/></div>
+</noscript>
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require(["ext.wikia.adEngine.amazonMatchOld", "wikia.geo", "wikia.instantGlobals"], function (amazon, geo, globals) {
+		var ac = globals["wgAmazonMatchOldCountries"];
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+	require(["ext.wikia.adEngine.amazonMatch", "wikia.geo", "wikia.instantGlobals"], function (amazon, geo, globals) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (ac && ac.indexOf && ac.indexOf(geo.getCountryCode()) > -1) {
+			amazon.call();
+		}
+	});
+</script>
+<!-- Unsupported language for AnalyticsProviderIVW2 -->
+<!-- Start for RubiconRTP, page_view -->
+<script>
+	require(['wikia.geo', 'wikia.instantGlobals', 'ext.wikia.adEngine.rubiconRtp'], function (geo, instantGlobals, rtp) {
+		var rtpCountries = ["US","GB","BR"], country = geo.getCountryCode();
+
+		if (rtpCountries.indexOf(country) !== -1 && !instantGlobals.wgSitewideDisableRubiconRTP) {
+			rtp.call({"disabled":false,"oz_site":"7450\/11979","oz_zone":"145168","oz_ad_slot_size":"728x90","skin":["oasis"],"oz_cached_only":false,"slotname":["BOTTOM_LEADERBOARD","CORP_TOP_LEADERBOARD","HOME_TOP_LEADERBOARD","HUB_TOP_LEADERBOARD","TOP_LEADERBOARD"]});
+		}
+	});
+</script><div class="WikiaSiteWrapper">
+<h1>Wikia</h1>
+<div class="skiplinkcontainer">
+<a class="skiplink" href="#WikiaArticle" rel="nofollow">Skip to Content</a>
+<a class="skiplink wikinav" href="#WikiHeader" rel="nofollow">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" href="#GlobalNavigation" rel="nofollow">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div class="wikia-ad noprint" id="ad-skin"></div>
+<nav class="global-navigation" id="globalNavigation">
+<div class="page-width">
+<div class="wikia-logo-container table-cell">
+<a class="wikia-logo" data-id="wikia-logo" href="http://www.wikia.com" rel="nofollow">
+<img alt="Wikia" height="24" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Wikia" width="91">
+</img></a>
+</div>
+<div class="hubs-container table-cell" id="hubsEntryPoint">
+<a class="hubs-entry-point"></a>
+<nav class="hubs-menu" id="hubs">
+<ul class="hub-list">
+<li>
+<a class="comics hub-link " data-vertical="comics" href="http://comicshub.wikia.com/wiki/Comics_Hub">
+<span class="icon"></span>
+<span class="label">Comics</span>
+</a>
+</li>
+<li>
+<a class="tv hub-link " data-vertical="tv" href="http://tvhub.wikia.com/wiki/TV_Hub">
+<span class="icon"></span>
+<span class="label">TV</span>
+</a>
+</li>
+<li>
+<a class="movies hub-link " data-vertical="movies" href="http://movieshub.wikia.com/wiki/Movies_Hub">
+<span class="icon"></span>
+<span class="label">Movies</span>
+</a>
+</li>
+<li>
+<a class="music hub-link " data-vertical="music" href="http://musichub.wikia.com/wiki/Music_Hub">
+<span class="icon"></span>
+<span class="label">Music</span>
+</a>
+</li>
+<li>
+<a class="books hub-link active" data-vertical="books" href="http://bookshub.wikia.com/wiki/Books_Hub">
+<span class="icon"></span>
+<span class="label">Books</span>
+</a>
+</li>
+<li>
+<a class="games hub-link " data-vertical="games" href="http://gameshub.wikia.com/wiki/Games_Hub">
+<span class="icon"></span>
+<span class="label">Games</span>
+</a>
+</li>
+<li>
+<a class="lifestyle hub-link " data-vertical="lifestyle" href="http://lifestylehub.wikia.com/wiki/Lifestyle_Hub">
+<span class="icon"></span>
+<span class="label">Lifestyle</span>
+</a>
+</li>
+</ul>
+<div class="hub-links">
+<div class="hub-menu-section books-links active">
+<ul>
+<strong>THIS MONTH</strong>
+<li>
+<a href="http://ow.ly/J5UL7">Read Supernatural Page-Turner The Mime Order with YA Society</a>
+</li>
+<li>
+<a href="http://ow.ly/J5UMP">Author Sarah J. Maas Tells All In Our Exclusive Interview</a>
+</li>
+<li>
+<a href="http://ow.ly/J5UOJ">10 Facts about 50 Shades of Grey</a>
+</li>
+</ul>
+<ul>
+<strong>FROM COMMUNITY</strong>
+<li>
+<a href="http://ow.ly/J5UtT">New Stills from the Upcoming Insurgent Movie</a>
+</li>
+<li>
+<a href="http://ow.ly/J5Uvg">Sneak Preview of the Soundtrack to Showtime’s Outlander</a>
+</li>
+<li>
+<a href="http://ow.ly/J5Ux0">Review of Marisa Meyer’s newest novel Fairest</a>
+</li>
+</ul>
+<ul>
+<strong>TRENDING BOOK COMMUNITIES</strong>
+<li>
+<a href="http://ow.ly/J5Uyw">One Wiki to Rule Them All</a>
+</li>
+<li>
+<a href="http://ow.ly/J5UzP">Warrior Cats Series</a>
+</li>
+<li>
+<a href="http://ow.ly/J5UCj">Pooh Adventures</a>
+</li>
+</ul>
+<ul>
+<strong>NEW RELEASES</strong>
+<li>
+<a href="http://ow.ly/J5UFL">Trigger Warning by Neil Gaiman</a>
+</li>
+<li>
+<a href="http://ow.ly/J5UGG">The Ruby Circle: Bloodlines Series</a>
+</li>
+<li>
+<a href="http://ow.ly/J5UIq">Fairest: The Lunar Chronicles</a>
+</li>
+</ul>
+<a class="more" href="http://bookshub.wikia.com/wiki/Books_Hub">More Books</a>
+</div>
+</div>
+</nav>
+</div>
+<div class="search-container table-cell">
+<div class="search-form-wrapper">
+<form action="http://aliceinwonderland.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+<div class="global-nav-search-input-wrapper">
+<div class="search-select-wrapper">
+<div class="search-select-underlay">
+<div class="search-icon"></div>
+<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+<select class="search-select" id="searchSelect">
+<option data-placeholder="Search within Alice in Wonderland Wiki..." data-search-url="http://aliceinwonderland.wikia.com/wiki/Special:Search" selected="selected" value="local">Search this wikia</option>
+<option data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search" value="global">Search all of Wikia</option>
+</select>
+</div>
+</div>
+<input accesskey="f" autocomplete="off" class="search-input" id="searchInput" name="search" placeholder="Search within Alice in Wonderland Wiki..." type="text" value=""/>
+<input class="search-button" id="searchSubmit" type="submit" value=""/>
+<input name="fulltext" type="hidden" value="Search"/>
+<input disabled="" id="searchInputResultLang" name="resultsLang" type="hidden" value="en"/>
+</div>
+</form>
+</div>
+</div>
+<div class="account-navigation-container table-cell">
+<ul class="AccountNavigation table-cell" id="AccountNavigation">
+<li class="account-navigation-first-item">
+<div class="links-container anon ">
+<a accesskey="o" class="ajaxLogin table-cell" data-id="login" href="/wiki/Special:UserLogin?returnto=Alice_in_Wonderland_(2010)" rel="nofollow" title="Log in"> <div class="avatar-container anon-avatar-placeholder">
+</div>
+</a>
+<span class="sign-in-label">Sign in</span>
+<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+</div>
+<div class="UserLoginDropdown" id="UserLoginDropdown">
+<div class="ajaxRegisterContainer"><a class="ajaxRegister" data-id="register" href="/wiki/Special:UserSignup" rel="nofollow">Sign up</a></div>
+<form action="/wiki/Special:UserLogin" class="WikiaForm" method="post">
+<fieldset>
+<div class="input-group error general-errors">
+<div class="error-msg"></div>
+</div>
+<input name="loginToken" type="hidden" value="">
+<input name="returnto" type="hidden" value="Alice_in_Wonderland_(2010)">
+<input name="returntoquery" type="hidden" value="">
+<div class="input-group hide-label required">
+<label>Username</label>
+<input class="hide-label" id="usernameInput" name="username" placeholder="Username" tabindex="1" type="text">
+</input></div>
+<div class="input-group hide-label required">
+<label>Password</label>
+<input class="hide-label" id="passwordInput" name="password" placeholder="Password" tabindex="2" type="password">
+</input></div>
+<div class="input-group">
+<a class="forgot-password" href="#" tabindex="0">
+	Forgot your password?</a>
+</div>
+<div class="input-group keep-logged-in">
+<label>
+<input class="keep-logged-in" name="keeploggedin" tabindex="3" type="checkbox" value="1">
+								
+						
+													Stay logged in</input></label>
+</div>
+<div class="input-group login-button">
+<input class="login-button" tabindex="4" type="submit" value="Log in">
+</input></div>
+</input></input></input></fieldset>
+</form>
+<div class="sso-login hidden">
+<div class="sso-login-divider">
+<span>Or</span>
+</div>
+<a class="wikia-button wikia-button-facebook sso-login-facebook" data-id="facebook" href="#" tabindex="5"><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15"/> Connect</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="start-wikia-container table-cell">
+<a class="start-wikia" data-id="start-wikia" href="http://www.wikia.com/Special:CreateNewWiki" title="Start a wikia">
+<span>Start a wikia</span>
+</a>
+</div>
+</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+<div class="WikiaTopAdsInner">
+<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div class="wikia-ad noprint default-height" id="TOP_LEADERBOARD">
+<script>
+	window.adslots2.push(["TOP_LEADERBOARD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div class="wikia-ad noprint default-height" id="TOP_BUTTON_WIDE">
+<script>
+	window.adslots2.push(["TOP_BUTTON_WIDE"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+</div>
+<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div class="wikia-ad noprint default-height" id="INVISIBLE_SKIN">
+<script>
+	window.adslots2.push(["INVISIBLE_SKIN"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+</div>
+<section class="WikiaPage V2" id="WikiaPage">
+<div class="WikiaPageBackground" id="WikiaPageBackground"></div>
+<div class="WikiaPageContentWrapper">
+<header class="WikiHeader" id="WikiHeader">
+<h1 class="wordmark medium graphic ">
+<a accesskey="z" href="/wiki/Alice_in_Wonderland_Wiki">
+<img alt="Alice in Wonderland Wiki" height="65" src="http://img2.wikia.nocookie.net/__cb14/aliceinwonderland/images/8/89/Wiki-wordmark.png" width="250">
+</img></a>
+</h1>
+<nav class="WikiNav">
+<h1>Alice in Wonderland Wiki Navigation</h1>
+<ul class="nav">
+<li class="nav-item marked">
+<a href="#">On the Wiki</a>
+<ul class="subnav-2 accent firstChild">
+<li class="subnav-2-item">
+<a class="subnav-2a" data-canonical="wikiactivity" href="/wiki/Special:WikiActivity">Wiki Activity</a>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" data-canonical="random" href="/wiki/Special:Random">Random page</a>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" data-canonical="videos" href="/wiki/Special:Videos">Videos</a>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" data-canonical="newfiles" href="/wiki/Special:NewFiles">Photos</a>
+</li>
+</ul>
+</li>
+<li class="nav-item">
+<a href="/wiki/Books_and_movies">Books and movies</a>
+<ul class="subnav-2 accent">
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Category:Books">Books<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Alice%27s_Adventures_in_Wonderland">Alice's Adventures in Wonderland</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Through_the_Looking-Glass">Through the Looking-Glass</a>
+</li>
+</ul>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Category:Movies">Movies<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Alice_in_Wonderland_(2010)">Alice in Wonderland (2010)</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="nav-item">
+<a href="/wiki/Category:Characters">Characters</a>
+<ul class="subnav-2 accent">
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Main_Characters">Main Characters<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Alice">Alice</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Mad_Hatter">The Mad Hatter</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Red_Queen">The Red Queen</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_White_Queen">The White Queen</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Knave_of_Hearts">The Knave of Hearts</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Category:Characters">More...</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="nav-item">
+<a href="/wiki/Category:Actors">Actors</a>
+<ul class="subnav-2 accent">
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/2010_movie">2010 movie<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Mia_Wasikowska">Mia Wasikowska</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Johnny_Depp">Johnny Depp</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Helena_Bonham_Carter">Helena Bonham Carter</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Anne_Hathaway">Anne Hathaway</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Crispin_Glover">Crispin Glover</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Category:Actors">More...</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="nav-item">
+<a href="/wiki/Alice_in_Wonderland_Wiki:Community_Portal">Community</a>
+<ul class="subnav-2 accent">
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blog posts</a>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/The_Law_of_Wonderland">The Law of Wonderland</a>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Fan_Art">Fan Art</a>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/The_Chessboard">The Chessboard</a>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Category:Administrators">Admins<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/User:Waterwecna">Waterwecna</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/User:%E1%B8%A0w%E1%BA%B5ine_%E1%B8%B8%D9%8D%D9%8Dk%C6%A8_%C4%B9i%C4%B8e_%CF%BE%E1%BB%81%D0%BB%C8%91%E1%BB%81d">Ḡwẵine Ḹٍٍkƨ Ĺiĸe Ͼềлȑềd</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/User:Dryuuu">Dryuuu</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<div class="navbackground">
+<div></div>
+<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+</img></div> </nav>
+<div class="buttons">
+<nav class="wikia-menu-button contribute secondary combined">
+<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22"/> Contribute
+	<span class="drop">
+<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+</img></span>
+<ul class="WikiaMenuElement">
+<li>
+<a data-id="edit" href="/wiki/Alice_in_Wonderland_(2010)?action=edit">Edit this Page</a>
+</li>
+<li>
+<a data-id="wikiavideoadd" href="/wiki/Special:WikiaVideoAdd">Add a Video</a>
+</li>
+<li>
+<a data-id="upload" href="/wiki/Special:Upload">Add a Photo</a>
+</li>
+<li>
+<a class="createpage" data-id="createpage" href="/wiki/Special:CreatePage">Add a Page</a>
+</li>
+<li>
+<a accesskey="g" data-id="wikiactivity" href="/wiki/Special:WikiActivity">Wiki Activity</a>
+</li>
+</ul>
+</nav>
+<a class="wikia-button share-button secondary" data-id="shareButton" href="#"> Share<span class="share-dot"></span><span class="share-pixel"></span></a>
+</div>
+<div class="hiddenLinks">
+<a accesskey="l" href="/wiki/Special:Watchlist" title="Special:Watchlist">Watchlist</a> <a accesskey="x" href="/wiki/Special:Random" title="Special:Random">Random page</a> <a accesskey="r" href="/wiki/Special:RecentChanges" title="Special:RecentChanges">Recent changes</a> </div>
+</header>
+<article class="WikiaMainContent" id="WikiaMainContent">
+<div class="WikiaMainContentContainer" id="WikiaMainContentContainer">
+<header class="WikiaPageHeader" id="WikiaPageHeader">
+<h1>Alice in Wonderland (2010)</h1>
+<nav class="wikia-menu-button">
+<a accesskey="e" data-id="ve-edit" href="/wiki/Alice_in_Wonderland_(2010)?veaction=edit" id="ca-ve-edit">
+<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22"/> Edit page	</a>
+<span class="drop">
+<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+</img></span>
+<ul class="WikiaMenuElement">
+<li>
+<a accesskey="s" data-id="edit" href="/wiki/Alice_in_Wonderland_(2010)?action=edit" id="ca-edit">Classic editor</a>
+</li>
+<li>
+<a accesskey="h" data-id="history" href="/wiki/Alice_in_Wonderland_(2010)?action=history" id="ca-history">History</a>
+</li>
+</ul>
+</nav>
+<a accesskey="t" class="wikia-button comments secondary" data-id="comment" href="#WikiaArticleComments" rel="nofollow"> Comments<span class="commentsbubble">6</span></a>
+<div class="tally">
+<em>270</em><span>pages on<br/> this wiki</span> </div>
+</header>
+<script>
+    
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write(
+        '<div id="monetization-adunit-below_title" class="monetization-module adunit hide-for-edit below-title" ' +
+        'data-mon-type="adunit" data-mon-slot="below_title"><div class="ad-header">Advertisement</div><div>' +
+        '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">' +
+        '</scr' + 'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" ' +
+        'data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_bc_bt_ic_fsl_fft mon_hub_book mon_sl_bt" ' +
+        'data-ad-type="text" ' + 'data-font-size="large" ' +'data-font-face="times" ' +
+        ' data-color-bg="#ffffff" data-color-border="#ffffff" data-color-link="#009999" data-color-url="#009999" data-color-text="#3a3a3a" ></ins>' +
+        '<script>(adsbygoogle = window.adsbygoogle || []).push({});</scr' + 'ipt></div></div>'
+    );
+}
+</script>
+<div class="WikiaArticle" id="WikiaArticle">
+<div class="home-top-right-ads">
+</div>
+<div class="mw-content-ltr mw-content-text" dir="ltr" id="mw-content-text" lang="en"><table class="infobox" style="font-size:89%; width:250px;-moz-border-radius:5px;">
+<tr>
+<th colspan="2" style="background-color:#99BEDE; color:#ffffff; font-size:120%; padding:0.5em;"> Alice in Wonderland (2010)
+</th></tr>
+<tr style="text-align:center;">
+<td colspan="2" style="padding:0.5em;"> <a class="image image-thumbnail" href="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/9/9a/Alice_in_wonderland_poster_2_1_original1.jpg/revision/latest?cb=20120325001129"><img alt="Alice in wonderland poster 2 1 original1" class="lzy lzyPlcHld " data-image-key="Alice_in_wonderland_poster_2_1_original1.jpg" data-image-name="Alice in wonderland poster 2 1 original1.jpg" data-src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/9/9a/Alice_in_wonderland_poster_2_1_original1.jpg/revision/latest/scale-to-width/250?cb=20120325001129" height="346" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="250"><noscript><img alt="Alice in wonderland poster 2 1 original1" class="" data-image-key="Alice_in_wonderland_poster_2_1_original1.jpg" data-image-name="Alice in wonderland poster 2 1 original1.jpg" height="346" src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/9/9a/Alice_in_wonderland_poster_2_1_original1.jpg/revision/latest/scale-to-width/250?cb=20120325001129" width="250"/></noscript></img></a><br/><i> </i>
+</td></tr>
+<tr>
+<th colspan="2" style="background-color:#99BEDE; color:#ffffff;"> <font color="#375361">❖</font> <a class="image image-thumbnail" href="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/5/54/Information.png/revision/latest?cb=20121203134045"><img alt="Information" class="lzy lzyPlcHld " data-image-key="Information.png" data-image-name="Information.png" data-src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/5/54/Information.png/revision/latest?cb=20121203134045" height="19" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="98"><noscript><img alt="Information" class="" data-image-key="Information.png" data-image-name="Information.png" height="19" src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/5/54/Information.png/revision/latest?cb=20121203134045" width="98"/></noscript></img></a> <font color="#375361">❖</font>
+</th></tr>
+<tr>
+<td> <b>Directed by</b>
+</td><td> Tim Burton
+</td></tr>
+<tr>
+<td> <b>Produced by</b>
+</td><td> Richard D. Zanuck<br/>Joe Roth<br/>Suzanne Todd<br/>Jennifer Todd
+</td></tr>
+<tr>
+<td> <b>Written by</b>
+</td><td> Richard D. Zanuck
+</td></tr>
+<tr>
+<td> <b>Starring</b>
+</td><td> <a href="/wiki/Mia_Wasikowska" title="Mia Wasikowska">Mia Wasikowska</a><br/><a href="/wiki/Johnny_Depp" title="Johnny Depp">Johnny Depp</a>
+</td></tr>
+<tr>
+<td> <b>Realease date</b>
+</td><td> February 25, 2010 <small>(London)</small><br/>March 5, 2010
+</td></tr>
+<tr>
+<td> <b>Length</b>
+</td><td> 108 minutes
+</td></tr>
+<tr>
+<td> <b>Country</b>
+</td><td> United States<br/>United Kingdom
+</td></tr>
+<tr>
+<td> <b>Language</b>
+</td><td> English
+</td></tr>
+<tr>
+<td> <b>Trailer</b>
+</td><td> <figure class="article-thumb tright show-info-icon" style="width: 250px"> <a class="video video-thumbnail image lightbox small " href="http://aliceinwonderland.wikia.com/wiki/File:Alice_in_Wonderland_-_New_Official_Full_Trailer_(HQ)"><img alt="Alice in Wonderland - New Official Full Trailer (HQ)" class="thumbimage lzy lzyPlcHld " data-src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/7/75/Alice_in_Wonderland_-_New_Official_Full_Trailer_%28HQ%29/revision/latest/scale-to-width/250?cb=20121015120800" data-video-key="Alice_in_Wonderland_-_New_Official_Full_Trailer_(HQ)" data-video-name="Alice in Wonderland - New Official Full Trailer (HQ)" height="140" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="250"><noscript><img alt="Alice in Wonderland - New Official Full Trailer (HQ)" class="thumbimage " data-video-key="Alice_in_Wonderland_-_New_Official_Full_Trailer_(HQ)" data-video-name="Alice in Wonderland - New Official Full Trailer (HQ)" height="140" src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/7/75/Alice_in_Wonderland_-_New_Official_Full_Trailer_%28HQ%29/revision/latest/scale-to-width/250?cb=20121015120800" width="250"/></noscript><span class="duration" itemprop="duration">02:36</span><span class="play-circle"></span></img></a> <figcaption> <a class="sprite info-icon" href="/wiki/File:Alice_in_Wonderland_-_New_Official_Full_Trailer_(HQ)"></a> <p class="title">Alice in Wonderland - New Official Full Trailer (HQ)</p> </figcaption> </figure>
+</td></tr></table>
+<p><i><b>Alice in Wonderland</b></i> is a 2010 film that presents a continuation of the books <i><a href="/wiki/Alice%27s_Adventures_in_Wonderland" title="Alice's Adventures in Wonderland">Alice's Adventures in Wonderland</a></i> and <i><a href="/wiki/Through_the_Looking-Glass,_and_What_Alice_Found_There" title="Through the Looking-Glass, and What Alice Found There">Through the Looking-Glass, and What Alice Found There</a></i>. It was directed by <a href="/wiki/Tim_Burton" title="Tim Burton">Tim Burton</a> that was released on March 5, 2010, and was released on DVD and Blu-ray on June 1, 2010. It is really awesome
+</p>
+<nav class="toc" id="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a class="internal" data-hide="hide" data-show="show" href="#" id="togglelink">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Plot">Plot</span><span class="editsection"><a href="/wiki/Alice_in_Wonderland_(2010)?action=edit&amp;section=1" title="Edit Plot section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<p>The story begins with <a href="/wiki/Charles_Kingsleigh" title="Charles Kingsleigh">Charles Kingsleigh</a> trying to sell his project to some men. His talk is interrupted by 6-year-old <a href="/wiki/Alice" title="Alice">Alice</a> who had that nightmare again. She tells her father she saw many strange creatures including a dodo bird, a white rabbit wearing a waistcoat, a smiling cat, and a blue caterpillar. Alice wonders if she has gone mad, which Charles responds she
+</p>
+<table border="0" cellpadding="1" cellspacing="1" class="article-table article-table-selected" style="width: 500px;">
+<tr>
+<th scope="col">
+</th><th scope="col">
+</th></tr>
+<tr>
+<td>
+</td><td>
+</td></tr>
+<tr>
+<td>
+</td><td>
+</td></tr></table>
+<p>is. He tells her that all the best people are mad.
+</p><p>Thirteen years later, after losing her beloved father, Alice is a melancholy 19-year-old who doesn't really fit in with her upper-class privileged Victorian lifestyle in a world of high society. She has no friends, is unmotivated and depressed. To much of her mothers concern, and despite her character flaws, Alice is mature, intelligent, a strong-willed girl who always speaks her mind, and has an independent personality which is frowned upon in young ladies of her time. She truly wants to make her own choices in life instead of having everything chosen for her, such as picking out her own husband and not being forced in an arranged and loveless marriage. After running away from an engagement garden party that goes terribly wrong, Alice falls down into the rabbit jole and is ultimately brought back to Wonderland (by McTwisp) to slay the Jabberwocky. Throughout the film Alice reunites with old unfamiliar friends such as Tweedle Dee and Tweedle Dum, the Mad Hatter and even comes across new individuals such the White Queen, (the younger and much more beautiful good sister of the red Queen.) During her escapes. Alice insist that she is simply just trapped within her own mind again and everything around her is just another one of her bizzare and surreal recurring dreams or Nightmares (As she refereed to them as a little girl when her father was still alive.) Alice has had dreams of Wonderland since childhood so she believes her feelings of doubt that none of her surroundings actually exist are correct. Towards the end of her adventure in Wonderland she slowly begans to realize and see that the dream and delusions she's experiencing are really repressed memories and that everything is infact real. Alice finally remembers her first trip to Wonderland all those years ago. (which come to found out she incorrectly called as the land is actually named Underland.) Alice accepts that she was/is indeed the right girl who made a long lasting infamous impression on Wonderland and all it's illogical people and creatures who inhabit it. As everyone keeps going on about who she really is, Alice's return becomes a rite of passage as she discovers herself and faces her fears head-on to not only save Wonderland and fulfill it's long awaited prophecy, but also to save herself. While finding her true calling and way in life, Alice will learn to believe in the impossible. In this dark coming of age fantasy film.
+</p>
+<script>
+    if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write(
+            '<div id="monetization-sharethrough-in_content" class="monetization-module sharethrough hide-for-edit in-content" ' +
+            'data-mon-type="sharethrough" data-mon-slot="in_content">' +
+            '<div data-str-native-key="ee7aabcf" style="display: none;"></div>' +
+            '<script type="text/javascript" src="//native.sharethrough.com/assets/tag.js" async></scr' + 'ipt>' +
+            '</div>'
+        );
+    } else 
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write(
+        '<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" ' +
+        'data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div>' +
+        '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">' +
+        '</scr' + 'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" ' +
+        'data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_bc_bt_ic_fsl_fft mon_hub_book mon_sl_ic" ' +
+        'data-ad-type="text" ' + 'data-font-size="large" ' +'data-font-face="times" ' +
+        ' data-color-bg="#ffffff" data-color-border="#ffffff" data-color-link="#009999" data-color-url="#009999" data-color-text="#3a3a3a" ></ins>' +
+        '<script>(adsbygoogle = window.adsbygoogle || []).push({});</scr' + 'ipt></div></div>'
+    );
+}
+</script><h2><span class="mw-headline" id="Promotional_Images">Promotional Images</span><span class="editsection"><a href="/wiki/Alice_in_Wonderland_(2010)?action=edit&amp;section=2" title="Edit Promotional Images section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-left wikia-gallery-caption-size-medium" hash="9c07eee140a51a7ee4d94dbaf9cef537" id="gallery-0"><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="Alice-poster-hatter-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:Alice-poster-hatter.jpg" style="height:75px; width:100px;" title="Alice-poster-hatter.jpg (550 KB)"><noscript><img alt="Alice-poster-hatter" class="thumbimage" data-image-key="Alice-poster-hatter.jpg" data-image-name="Alice-poster-hatter.jpg" src="http://vignette4.wikia.nocookie.net/aliceinwonderland/images/d/dc/Alice-poster-hatter.jpg/revision/latest/scale-to-width/100?cb=20091118152904" style=" margin-top:-36.5px;" title="Alice-poster-hatter.jpg (550 KB)"/></noscript><img alt="Alice-poster-hatter" class="thumbimage lzy lzyPlcHld" data-image-key="Alice-poster-hatter.jpg" data-image-name="Alice-poster-hatter.jpg" data-src="http://vignette4.wikia.nocookie.net/aliceinwonderland/images/d/dc/Alice-poster-hatter.jpg/revision/latest/scale-to-width/100?cb=20091118152904" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-top:-36.5px;" title="Alice-poster-hatter.jpg (550 KB)"/></a></div></div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="x2010-Alice-logo-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:2010-Alice-logo.jpg" style="height:75px; width:100px;" title="2010-Alice-logo.jpg (29 KB)"><noscript><img alt="2010-Alice-logo" class="thumbimage" data-image-key="2010-Alice-logo.jpg" data-image-name="2010-Alice-logo.jpg" src="http://vignette3.wikia.nocookie.net/aliceinwonderland/images/1/13/2010-Alice-logo.jpg/revision/latest/scale-to-width/116?cb=20090722212400" style=" margin-left:-8px;" title="2010-Alice-logo.jpg (29 KB)"/></noscript><img alt="2010-Alice-logo" class="thumbimage lzy lzyPlcHld" data-image-key="2010-Alice-logo.jpg" data-image-name="2010-Alice-logo.jpg" data-src="http://vignette3.wikia.nocookie.net/aliceinwonderland/images/1/13/2010-Alice-logo.jpg/revision/latest/scale-to-width/116?cb=20090722212400" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-left:-8px;" title="2010-Alice-logo.jpg (29 KB)"/></a></div></div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="x2010-Alice_cup-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:2010-Alice_cup.jpg" style="height:75px; width:100px;" title="2010-Alice cup.jpg (813 KB)"><noscript><img alt="2010-Alice cup" class="thumbimage" data-image-key="2010-Alice_cup.jpg" data-image-name="2010-Alice cup.jpg" src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/4/4a/2010-Alice_cup.jpg/revision/latest/scale-to-width/100?cb=20090722212359" style=" margin-top:-42.5px;" title="2010-Alice cup.jpg (813 KB)"/></noscript><img alt="2010-Alice cup" class="thumbimage lzy lzyPlcHld" data-image-key="2010-Alice_cup.jpg" data-image-name="2010-Alice cup.jpg" data-src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/4/4a/2010-Alice_cup.jpg/revision/latest/scale-to-width/100?cb=20090722212359" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-top:-42.5px;" title="2010-Alice cup.jpg (813 KB)"/></a></div></div><div class="lightbox-caption" style="width:100px;">Alice</div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="x2010-Madhatter-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:2010-Madhatter.jpg" style="height:75px; width:100px;" title="2010-Madhatter.jpg (3.29 MB)"><noscript><img alt="2010-Madhatter" class="thumbimage" data-image-key="2010-Madhatter.jpg" data-image-name="2010-Madhatter.jpg" src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/a/a4/2010-Madhatter.jpg/revision/latest/scale-to-width/100?cb=20090722212401" style=" margin-top:-41px;" title="2010-Madhatter.jpg (3.29 MB)"/></noscript><img alt="2010-Madhatter" class="thumbimage lzy lzyPlcHld" data-image-key="2010-Madhatter.jpg" data-image-name="2010-Madhatter.jpg" data-src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/a/a4/2010-Madhatter.jpg/revision/latest/scale-to-width/100?cb=20090722212401" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-top:-41px;" title="2010-Madhatter.jpg (3.29 MB)"/></a></div></div><div class="lightbox-caption" style="width:100px;">The Mad Hatter</div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="x2010-Red-queen-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:2010-Red-queen.jpg" style="height:75px; width:100px;" title="2010-Red-queen.jpg (3.55 MB)"><noscript><img alt="2010-Red-queen" class="thumbimage" data-image-key="2010-Red-queen.jpg" data-image-name="2010-Red-queen.jpg" src="http://vignette3.wikia.nocookie.net/aliceinwonderland/images/f/ff/2010-Red-queen.jpg/revision/latest/scale-to-width/100?cb=20090722212414" style=" margin-top:-43px;" title="2010-Red-queen.jpg (3.55 MB)"/></noscript><img alt="2010-Red-queen" class="thumbimage lzy lzyPlcHld" data-image-key="2010-Red-queen.jpg" data-image-name="2010-Red-queen.jpg" data-src="http://vignette3.wikia.nocookie.net/aliceinwonderland/images/f/ff/2010-Red-queen.jpg/revision/latest/scale-to-width/100?cb=20090722212414" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-top:-43px;" title="2010-Red-queen.jpg (3.55 MB)"/></a></div></div><div class="lightbox-caption" style="width:100px;">The Red Queen</div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="x2010-Tweedles-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:2010-Tweedles.jpg" style="height:75px; width:100px;" title="2010-Tweedles.jpg (2.49 MB)"><noscript><img alt="2010-Tweedles" class="thumbimage" data-image-key="2010-Tweedles.jpg" data-image-name="2010-Tweedles.jpg" src="http://vignette4.wikia.nocookie.net/aliceinwonderland/images/5/54/2010-Tweedles.jpg/revision/latest/scale-to-width/100?cb=20090722212416" style=" margin-top:-40.5px;" title="2010-Tweedles.jpg (2.49 MB)"/></noscript><img alt="2010-Tweedles" class="thumbimage lzy lzyPlcHld" data-image-key="2010-Tweedles.jpg" data-image-name="2010-Tweedles.jpg" data-src="http://vignette4.wikia.nocookie.net/aliceinwonderland/images/5/54/2010-Tweedles.jpg/revision/latest/scale-to-width/100?cb=20090722212416" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-top:-40.5px;" title="2010-Tweedles.jpg (2.49 MB)"/></a></div></div><div class="lightbox-caption" style="width:100px;">Tweedledee &amp; Tweedledum</div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="x2010-White-queen-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:2010-White-queen.jpg" style="height:75px; width:100px;" title="2010-White-queen.jpg (2.23 MB)"><noscript><img alt="2010-White-queen" class="thumbimage" data-image-key="2010-White-queen.jpg" data-image-name="2010-White-queen.jpg" src="http://vignette4.wikia.nocookie.net/aliceinwonderland/images/1/1e/2010-White-queen.jpg/revision/latest/scale-to-width/100?cb=20090722212419" style=" margin-top:-39.5px;" title="2010-White-queen.jpg (2.23 MB)"/></noscript><img alt="2010-White-queen" class="thumbimage lzy lzyPlcHld" data-image-key="2010-White-queen.jpg" data-image-name="2010-White-queen.jpg" data-src="http://vignette4.wikia.nocookie.net/aliceinwonderland/images/1/1e/2010-White-queen.jpg/revision/latest/scale-to-width/100?cb=20090722212419" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-top:-39.5px;" title="2010-White-queen.jpg (2.23 MB)"/></a></div></div><div class="lightbox-caption" style="width:100px;">The White Queen</div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="x2010-Garden-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:2010-Garden.jpg" style="height:75px; width:100px;" title="2010-Garden.jpg (1.12 MB)"><noscript><img alt="2010-Garden" class="thumbimage" data-image-key="2010-Garden.jpg" data-image-name="2010-Garden.jpg" src="http://vignette1.wikia.nocookie.net/aliceinwonderland/images/6/6c/2010-Garden.jpg/revision/latest/scale-to-width/131?cb=20090722212401" style=" margin-left:-15.5px;" title="2010-Garden.jpg (1.12 MB)"/></noscript><img alt="2010-Garden" class="thumbimage lzy lzyPlcHld" data-image-key="2010-Garden.jpg" data-image-name="2010-Garden.jpg" data-src="http://vignette1.wikia.nocookie.net/aliceinwonderland/images/6/6c/2010-Garden.jpg/revision/latest/scale-to-width/131?cb=20090722212401" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-left:-15.5px;" title="2010-Garden.jpg (1.12 MB)"/></a></div></div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="x2010-Roses1-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:2010-Roses1.jpg" style="height:75px; width:100px;" title="2010-Roses1.jpg (1,001 KB)"><noscript><img alt="2010-Roses1" class="thumbimage" data-image-key="2010-Roses1.jpg" data-image-name="2010-Roses1.jpg" src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/a/aa/2010-Roses1.jpg/revision/latest/scale-to-width/162?cb=20090722212414" style=" margin-left:-31px;" title="2010-Roses1.jpg (1,001 KB)"/></noscript><img alt="2010-Roses1" class="thumbimage lzy lzyPlcHld" data-image-key="2010-Roses1.jpg" data-image-name="2010-Roses1.jpg" data-src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/a/aa/2010-Roses1.jpg/revision/latest/scale-to-width/162?cb=20090722212414" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-left:-31px;" title="2010-Roses1.jpg (1,001 KB)"/></a></div></div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="x2010-Alice_gate-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:2010-Alice_gate.jpg" style="height:75px; width:100px;" title="2010-Alice gate.jpg (2.04 MB)"><noscript><img alt="2010-Alice gate" class="thumbimage" data-image-key="2010-Alice_gate.jpg" data-image-name="2010-Alice gate.jpg" src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/1/1e/2010-Alice_gate.jpg/revision/latest/scale-to-width/212?cb=20090722212400" style=" margin-left:-56px;" title="2010-Alice gate.jpg (2.04 MB)"/></noscript><img alt="2010-Alice gate" class="thumbimage lzy lzyPlcHld" data-image-key="2010-Alice_gate.jpg" data-image-name="2010-Alice gate.jpg" data-src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/1/1e/2010-Alice_gate.jpg/revision/latest/scale-to-width/212?cb=20090722212400" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-left:-56px;" title="2010-Alice gate.jpg (2.04 MB)"/></a></div></div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="Alice2010-beastcat-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:Alice2010-beastcat.jpg" style="height:75px; width:100px;" title="Alice2010-beastcat.jpg (515 KB)"><noscript><img alt="Alice2010-beastcat" class="thumbimage" data-image-key="Alice2010-beastcat.jpg" data-image-name="Alice2010-beastcat.jpg" src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/9/98/Alice2010-beastcat.jpg/revision/latest/scale-to-width/136?cb=20090725041006" style=" margin-left:-18px;" title="Alice2010-beastcat.jpg (515 KB)"/></noscript><img alt="Alice2010-beastcat" class="thumbimage lzy lzyPlcHld" data-image-key="Alice2010-beastcat.jpg" data-image-name="Alice2010-beastcat.jpg" data-src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/9/98/Alice2010-beastcat.jpg/revision/latest/scale-to-width/136?cb=20090725041006" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-left:-18px;" title="Alice2010-beastcat.jpg (515 KB)"/></a></div></div><div class="lightbox-caption" style="width:100px;">Bandersnatch</div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="Alice2010-bigvulture-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:Alice2010-bigvulture.jpg" style="height:75px; width:100px;" title="Alice2010-bigvulture.jpg (388 KB)"><noscript><img alt="Alice2010-bigvulture" class="thumbimage" data-image-key="Alice2010-bigvulture.jpg" data-image-name="Alice2010-bigvulture.jpg" src="http://vignette1.wikia.nocookie.net/aliceinwonderland/images/5/56/Alice2010-bigvulture.jpg/revision/latest/scale-to-width/129?cb=20090725041012" style=" margin-left:-14.5px;" title="Alice2010-bigvulture.jpg (388 KB)"/></noscript><img alt="Alice2010-bigvulture" class="thumbimage lzy lzyPlcHld" data-image-key="Alice2010-bigvulture.jpg" data-image-name="Alice2010-bigvulture.jpg" data-src="http://vignette1.wikia.nocookie.net/aliceinwonderland/images/5/56/Alice2010-bigvulture.jpg/revision/latest/scale-to-width/129?cb=20090725041012" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-left:-14.5px;" title="Alice2010-bigvulture.jpg (388 KB)"/></a></div></div><div class="lightbox-caption" style="width:100px;">Jubjub Bird</div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="Alice2010-cheshirecat-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:Alice2010-cheshirecat.jpg" style="height:75px; width:100px;" title="Alice2010-cheshirecat.jpg (578 KB)"><noscript><img alt="Alice2010-cheshirecat" class="thumbimage" data-image-key="Alice2010-cheshirecat.jpg" data-image-name="Alice2010-cheshirecat.jpg" src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/b/b8/Alice2010-cheshirecat.jpg/revision/latest/scale-to-width/113?cb=20090725041018" style=" margin-left:-6.5px;" title="Alice2010-cheshirecat.jpg (578 KB)"/></noscript><img alt="Alice2010-cheshirecat" class="thumbimage lzy lzyPlcHld" data-image-key="Alice2010-cheshirecat.jpg" data-image-name="Alice2010-cheshirecat.jpg" data-src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/b/b8/Alice2010-cheshirecat.jpg/revision/latest/scale-to-width/113?cb=20090725041018" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-left:-6.5px;" title="Alice2010-cheshirecat.jpg (578 KB)"/></a></div></div><div class="lightbox-caption" style="width:100px;">Cheshire Cat</div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="Alice2010-knavehearts-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:Alice2010-knavehearts.jpg" style="height:75px; width:100px;" title="Alice2010-knavehearts.jpg (516 KB)"><noscript><img alt="Alice2010-knavehearts" class="thumbimage" data-image-key="Alice2010-knavehearts.jpg" data-image-name="Alice2010-knavehearts.jpg" src="http://vignette4.wikia.nocookie.net/aliceinwonderland/images/9/92/Alice2010-knavehearts.jpg/revision/latest/scale-to-width/120?cb=20090725041025" style=" margin-left:-10px;" title="Alice2010-knavehearts.jpg (516 KB)"/></noscript><img alt="Alice2010-knavehearts" class="thumbimage lzy lzyPlcHld" data-image-key="Alice2010-knavehearts.jpg" data-image-name="Alice2010-knavehearts.jpg" data-src="http://vignette4.wikia.nocookie.net/aliceinwonderland/images/9/92/Alice2010-knavehearts.jpg/revision/latest/scale-to-width/120?cb=20090725041025" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-left:-10px;" title="Alice2010-knavehearts.jpg (516 KB)"/></a></div></div><div class="lightbox-caption" style="width:100px;">Knave of Hearts</div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="Alice2010-trailertitle-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:Alice2010-trailertitle.jpg" style="height:75px; width:100px;" title="Alice2010-trailertitle.jpg (824 KB)"><noscript><img alt="Alice2010-trailertitle" class="thumbimage" data-image-key="Alice2010-trailertitle.jpg" data-image-name="Alice2010-trailertitle.jpg" src="http://vignette3.wikia.nocookie.net/aliceinwonderland/images/0/01/Alice2010-trailertitle.jpg/revision/latest/scale-to-width/136?cb=20090725041032" style=" margin-left:-18px;" title="Alice2010-trailertitle.jpg (824 KB)"/></noscript><img alt="Alice2010-trailertitle" class="thumbimage lzy lzyPlcHld" data-image-key="Alice2010-trailertitle.jpg" data-image-name="Alice2010-trailertitle.jpg" data-src="http://vignette3.wikia.nocookie.net/aliceinwonderland/images/0/01/Alice2010-trailertitle.jpg/revision/latest/scale-to-width/136?cb=20090725041032" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-left:-18px;" title="Alice2010-trailertitle.jpg (824 KB)"/></a></div></div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="Alice2010-whiterabbit-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:Alice2010-whiterabbit.jpg" style="height:75px; width:100px;" title="Alice2010-whiterabbit.jpg (62 KB)"><noscript><img alt="Alice2010-whiterabbit" class="thumbimage" data-image-key="Alice2010-whiterabbit.jpg" data-image-name="Alice2010-whiterabbit.jpg" src="http://vignette3.wikia.nocookie.net/aliceinwonderland/images/5/53/Alice2010-whiterabbit.jpg/revision/latest/scale-to-width/100?cb=20100312013325" style=" margin-top:-30px;" title="Alice2010-whiterabbit.jpg (62 KB)"/></noscript><img alt="Alice2010-whiterabbit" class="thumbimage lzy lzyPlcHld" data-image-key="Alice2010-whiterabbit.jpg" data-image-name="Alice2010-whiterabbit.jpg" data-src="http://vignette3.wikia.nocookie.net/aliceinwonderland/images/5/53/Alice2010-whiterabbit.jpg/revision/latest/scale-to-width/100?cb=20100312013325" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-top:-30px;" title="Alice2010-whiterabbit.jpg (62 KB)"/></a></div></div><div class="lightbox-caption" style="width:100px;">White Rabbit</div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="x2010-queenscourt-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:2010-queenscourt.jpg" style="height:75px; width:100px;" title="2010-queenscourt.jpg (669 KB)"><noscript><img alt="2010-queenscourt" class="thumbimage" data-image-key="2010-queenscourt.jpg" data-image-name="2010-queenscourt.jpg" src="http://vignette1.wikia.nocookie.net/aliceinwonderland/images/d/d3/2010-queenscourt.jpg/revision/latest/scale-to-width/100?cb=20090725041811" style=" margin-top:-6.5px;" title="2010-queenscourt.jpg (669 KB)"/></noscript><img alt="2010-queenscourt" class="thumbimage lzy lzyPlcHld" data-image-key="2010-queenscourt.jpg" data-image-name="2010-queenscourt.jpg" data-src="http://vignette1.wikia.nocookie.net/aliceinwonderland/images/d/d3/2010-queenscourt.jpg/revision/latest/scale-to-width/100?cb=20090725041811" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-top:-6.5px;" title="2010-queenscourt.jpg (669 KB)"/></a></div></div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="x2010-jabberwock-gryphon-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:2010-jabberwock-gryphon.jpg" style="height:75px; width:100px;" title="2010-jabberwock-gryphon.jpg (1.31 MB)"><noscript><img alt="2010-jabberwock-gryphon" class="thumbimage" data-image-key="2010-jabberwock-gryphon.jpg" data-image-name="2010-jabberwock-gryphon.jpg" src="http://vignette4.wikia.nocookie.net/aliceinwonderland/images/0/09/2010-jabberwock-gryphon.jpg/revision/latest/scale-to-width/136?cb=20090725041818" style=" margin-left:-18px;" title="2010-jabberwock-gryphon.jpg (1.31 MB)"/></noscript><img alt="2010-jabberwock-gryphon" class="thumbimage lzy lzyPlcHld" data-image-key="2010-jabberwock-gryphon.jpg" data-image-name="2010-jabberwock-gryphon.jpg" data-src="http://vignette4.wikia.nocookie.net/aliceinwonderland/images/0/09/2010-jabberwock-gryphon.jpg/revision/latest/scale-to-width/136?cb=20090725041818" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-left:-18px;" title="2010-jabberwock-gryphon.jpg (1.31 MB)"/></a></div></div><div class="lightbox-caption" style="width:100px;">Jabberwock and Gryphon</div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="Jabberwocky-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:Jabberwocky.jpg" style="height:75px; width:100px;" title="Jabberwocky.jpg (82 KB)"><noscript><img alt="Jabberwocky" class="thumbimage" data-image-key="Jabberwocky.jpg" data-image-name="Jabberwocky.jpg" src="http://vignette4.wikia.nocookie.net/aliceinwonderland/images/d/d0/Jabberwocky.jpg/revision/latest/scale-to-width/100?cb=20100308000908" style=" margin-top:-12.5px;" title="Jabberwocky.jpg (82 KB)"/></noscript><img alt="Jabberwocky" class="thumbimage lzy lzyPlcHld" data-image-key="Jabberwocky.jpg" data-image-name="Jabberwocky.jpg" data-src="http://vignette4.wikia.nocookie.net/aliceinwonderland/images/d/d0/Jabberwocky.jpg/revision/latest/scale-to-width/100?cb=20100308000908" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-top:-12.5px;" title="Jabberwocky.jpg (82 KB)"/></a></div></div><div class="lightbox-caption" style="width:100px;">Jabberwocky</div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="Alice-in-Wonderland-Johnny-Depp-as-The-Mad-Hatter1-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:Alice-in-Wonderland-Johnny-Depp-as-The-Mad-Hatter1.jpg" style="height:75px; width:100px;" title="Alice-in-Wonderland-Johnny-Depp-as-The-Mad-Hatter1.jpg (29 KB)"><noscript><img alt="Alice-in-Wonderland-Johnny-Depp-as-The-Mad-Hatter1" class="thumbimage" data-image-key="Alice-in-Wonderland-Johnny-Depp-as-The-Mad-Hatter1.jpg" data-image-name="Alice-in-Wonderland-Johnny-Depp-as-The-Mad-Hatter1.jpg" src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/0/0a/Alice-in-Wonderland-Johnny-Depp-as-The-Mad-Hatter1.jpg/revision/latest/scale-to-width/127?cb=20100623195122" style=" margin-left:-13.5px;" title="Alice-in-Wonderland-Johnny-Depp-as-The-Mad-Hatter1.jpg (29 KB)"/></noscript><img alt="Alice-in-Wonderland-Johnny-Depp-as-The-Mad-Hatter1" class="thumbimage lzy lzyPlcHld" data-image-key="Alice-in-Wonderland-Johnny-Depp-as-The-Mad-Hatter1.jpg" data-image-name="Alice-in-Wonderland-Johnny-Depp-as-The-Mad-Hatter1.jpg" data-src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/0/0a/Alice-in-Wonderland-Johnny-Depp-as-The-Mad-Hatter1.jpg/revision/latest/scale-to-width/127?cb=20100623195122" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-left:-13.5px;" title="Alice-in-Wonderland-Johnny-Depp-as-The-Mad-Hatter1.jpg (29 KB)"/></a></div></div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:77px;"><div class="gallery-image-wrapper accent" id="x44438_120085964709639_100001247087582_142050_7207880_n-jpg" style="position: relative; height:75px; width:100px;"><a class="image lightbox" href="/wiki/File:44438_120085964709639_100001247087582_142050_7207880_n.jpg" style="height:75px; width:100px;" title="44438 120085964709639 100001247087582 142050 7207880 n.jpg (38 KB)"><noscript><img alt="44438 120085964709639 100001247087582 142050 7207880 n" class="thumbimage" data-image-key="44438_120085964709639_100001247087582_142050_7207880_n.jpg" data-image-name="44438 120085964709639 100001247087582 142050 7207880 n.jpg" src="http://vignette3.wikia.nocookie.net/aliceinwonderland/images/5/5b/44438_120085964709639_100001247087582_142050_7207880_n.jpg/revision/latest/scale-to-width/142?cb=20100821183819" style=" margin-left:-21px;" title="44438 120085964709639 100001247087582 142050 7207880 n.jpg (38 KB)"/></noscript><img alt="44438 120085964709639 100001247087582 142050 7207880 n" class="thumbimage lzy lzyPlcHld" data-image-key="44438_120085964709639_100001247087582_142050_7207880_n.jpg" data-image-name="44438 120085964709639 100001247087582 142050 7207880 n.jpg" data-src="http://vignette3.wikia.nocookie.net/aliceinwonderland/images/5/5b/44438_120085964709639_100001247087582_142050_7207880_n.jpg/revision/latest/scale-to-width/142?cb=20100821183819" onload='if(typeof ImgLzy=="object"){ImgLzy.load(this)}' src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style=" margin-left:-21px;" title="44438 120085964709639 100001247087582 142050 7207880 n.jpg (38 KB)"/></a></div></div></div><br/><a class="wikia-photogallery-add wikia-button noprint" style="display: none"><img class="sprite photo" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="26"/>Add a photo to this gallery</a></div><script>JSSnippetsStack.push({dependencies:[{"url":"http://slot1.images3.wikia.nocookie.net/__am/1424445818/group/-/wikia_photo_gallery_js","type":"js"},{"url":"http://slot1.images2.wikia.nocookie.net/__am/1424445818/sass/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimages2.wikia.nocookie.net%252F__cb61851%252Faliceinwonderland%252Fimages%252Farchive%252F5%252F50%252F20121027093846%252521Wiki-background%26background-image-height%3D742%26background-image-width%3D1550%26color-body%3D%2523000000%26color-body-middle%3D%2523000000%26color-buttons%3D%2523009999%26color-header%3D%25233a5766%26color-links%3D%2523009999%26color-page%3D%2523ffffff%26page-opacity%3D100%26widthType%3D2/extensions/wikia/WikiaPhotoGallery/css/gallery.scss","type":"css"}],callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})</script>
+<h2><span class="mw-headline" id="Cast">Cast</span><span class="editsection"><a href="/wiki/Alice_in_Wonderland_(2010)?action=edit&amp;section=3" title="Edit Cast section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<ul><li><a href="/wiki/Mia_Wasikowska" title="Mia Wasikowska">Mia Wasikowska</a> as <a href="/wiki/Alice" title="Alice">Alice Kingsleigh</a>
+</li><li><a href="/wiki/Johnny_Depp" title="Johnny Depp">Johnny Depp</a> as <a href="/wiki/The_Mad_Hatter" title="The Mad Hatter">Tarrant Hightopp, the Mad Hatter</a>
+</li><li><a href="/wiki/Helena_Bonham_Carter" title="Helena Bonham Carter">Helena Bonham Carter</a> as <a href="/wiki/The_Red_Queen" title="The Red Queen">Iracebeth of Crims, the Red Queen</a>
+</li><li><a href="/wiki/Anne_Hathaway" title="Anne Hathaway">Anne Hathaway</a> as <a href="/wiki/The_White_Queen" title="The White Queen">Mirana of Marmoreal, the White Queen</a>
+</li><li><a href="/wiki/Alan_Rickman" title="Alan Rickman">Alan Rickman</a> as <a class="mw-redirect" href="/wiki/The_Caterpillar" title="The Caterpillar">Absolem the Caterpillar</a>
+</li><li><a href="/wiki/Michael_Sheen" title="Michael Sheen">Michael Sheen</a> as <a href="/wiki/The_White_Rabbit" title="The White Rabbit">Nivens McTwisp, the White Rabbit</a>
+</li><li><a href="/wiki/Stephen_Fry" title="Stephen Fry">Stephen Fry</a> as <a href="/wiki/The_Cheshire_Cat" title="The Cheshire Cat">Chessur, the Cheshire Cat</a>
+</li><li><a href="/wiki/Timothy_Spall" title="Timothy Spall">Timothy Spall</a> as <a href="/wiki/Bayard_the_Bloodhound" title="Bayard the Bloodhound">Bayard Hamar, the Bloodhound</a>
+</li><li><a href="/wiki/Crispin_Glover" title="Crispin Glover">Crispin Glover</a> as <a class="mw-redirect" href="/wiki/The_Knave_of_Hearts" title="The Knave of Hearts">Ilosovic Stayne, the Knave of Hearts</a>
+</li><li><a href="/wiki/Christopher_Lee" title="Christopher Lee">Christopher Lee</a> as <a class="mw-redirect" href="/wiki/The_Jabberwock" title="The Jabberwock">The Jabberwocky</a>
+</li><li><a href="/wiki/Paul_Whitehouse" title="Paul Whitehouse">Paul Whitehouse</a> as <a class="mw-redirect" href="/wiki/The_March_Hare" title="The March Hare">Thackery Earwicket, the March Hare</a>
+</li><li><a href="/wiki/Matt_Lucas" title="Matt Lucas">Matt Lucas</a> as <a href="/wiki/Tweedledee_and_Tweedledum" title="Tweedledee and Tweedledum">Tweedledee and Tweedledum</a>
+</li><li><a href="/wiki/Michael_Gough" title="Michael Gough">Michael Gough</a> as <a href="/wiki/The_Dodo" title="The Dodo">Uilleam, the Dodo</a>
+</li><li><a href="/wiki/Barbara_Windsor" title="Barbara Windsor">Barbara Windsor</a> as <a href="/wiki/The_Dormouse" title="The Dormouse">Mallymkun, the Dormouse</a>
+</li><li><a href="/wiki/Marton_Csokas" title="Marton Csokas">Marton Csokas</a> as <a href="/wiki/Charles_Kingsleigh" title="Charles Kingsleigh">Charles Kingsleigh</a>
+</li><li><a href="/wiki/Leo_Bill" title="Leo Bill">Leo Bill</a> as <a href="/wiki/Hamish_Ascot" title="Hamish Ascot">Hamish Ascot</a>
+</li><li><a href="/wiki/Frances_de_la_Tour" title="Frances de la Tour">Frances de la Tour</a> as <a href="/wiki/Aunt_Imogene" title="Aunt Imogene">Aunt Imogene</a>
+</li><li><a class="new" href="/wiki/Imelda_Staunton?action=edit&amp;redlink=1" title="Imelda Staunton (page does not exist)">Imelda Staunton</a> as <a href="/wiki/The_Flowers" title="The Flowers">Tall Flower Faces</a>
+</li><li><a href="/wiki/Billy_Burton" title="Billy Burton">Billy Burton</a> as <a class="new" href="/wiki/Young_Boy?action=edit&amp;redlink=1" title="Young Boy (page does not exist)">Young Boy</a>
+</li><li><a href="/wiki/Nell_Burton" title="Nell Burton">Nell Burton</a> as <a class="new" href="/wiki/Young_Girl?action=edit&amp;redlink=1" title="Young Girl (page does not exist)">Young Girl</a>
+</li><li><a class="new" href="/wiki/Lindsey_Duncan?action=edit&amp;redlink=1" title="Lindsey Duncan (page does not exist)">Lindsey Duncan</a> as <a href="/wiki/Helen_Kingsleigh" title="Helen Kingsleigh">Helen Kingsleigh</a>
+</li><li><a class="new" href="/wiki/Jemma_Powell?action=edit&amp;redlink=1" title="Jemma Powell (page does not exist)">Jemma Powell</a> as <a class="mw-redirect" href="/wiki/Margaret_Manchester" title="Margaret Manchester">Margaret Manchester</a>
+</li><li><a class="new" href="/wiki/Tim_Pigott-Smith?action=edit&amp;redlink=1" title="Tim Pigott-Smith (page does not exist)">Tim Pigott-Smith</a> as <a class="new" href="/wiki/Lord_Ascot?action=edit&amp;redlink=1" title="Lord Ascot (page does not exist)">Lord Ascot</a>
+</li><li><a class="new" href="/wiki/Geraldine_James?action=edit&amp;redlink=1" title="Geraldine James (page does not exist)">Geraldine James</a> as <a class="new" href="/wiki/Lady_Ascot?action=edit&amp;redlink=1" title="Lady Ascot (page does not exist)">Lady Ascot</a>
+</li><li><a href="/wiki/Harry_Taylor" title="Harry Taylor">Harry Taylor</a> as <a class="new" href="/wiki/Ship_Captain?action=edit&amp;redlink=1" title="Ship Captain (page does not exist)">Ship Captain</a>
+</li><li><a href="/wiki/Jim_Carter" title="Jim Carter">Jim Carter</a> as <a class="new" href="/wiki/Executioner?action=edit&amp;redlink=1" title="Executioner (page does not exist)">Executioner</a>
+</li><li><a href="/wiki/John_Hopkins" title="John Hopkins">John Hopkins</a> as <a class="new" href="/wiki/Lowell?action=edit&amp;redlink=1" title="Lowell (page does not exist)">Lowell</a>
+</li><li><a class="new" href="/wiki/Peter_Mattinson?action=edit&amp;redlink=1" title="Peter Mattinson (page does not exist)">Peter Mattinson</a> as <a class="new" href="/wiki/Colleague?action=edit&amp;redlink=1" title="Colleague (page does not exist)">Colleague #1</a>
+</li><li><a class="new" href="/wiki/John_Surman?action=edit&amp;redlink=1" title="John Surman (page does not exist)">John Surman</a> as <a class="new" href="/wiki/Colleague?action=edit&amp;redlink=1" title="Colleague (page does not exist)">Colleague #2</a>
+</li><li><a href="/wiki/Mairi_Ella_Challen" title="Mairi Ella Challen">Mairi Ella Challen</a> as Young <a class="mw-redirect" href="/wiki/Alice_Kingsley" title="Alice Kingsley">Alice Kingsley</a>
+</li><li>Unknown as <a class="new" href="/wiki/Reader?action=edit&amp;redlink=1" title="Reader (page does not exist)">Reader #1</a>
+</li><li>Unknown as <a class="new" href="/wiki/Reader?action=edit&amp;redlink=1" title="Reader (page does not exist)">Reader #2</a>
+</li><li>Unknown as <a class="new" href="/wiki/Reader?action=edit&amp;redlink=1" title="Reader (page does not exist)">Reader #3</a>
+</li><li><a class="new" href="/wiki/Michael_Chomiak?action=edit&amp;redlink=1" title="Michael Chomiak (page does not exist)">Michael Chomiak</a> as <a class="new" href="/wiki/Reader?action=edit&amp;redlink=1" title="Reader (page does not exist)">Reader #4</a>
+</li><li>Unknown as <a class="new" href="/wiki/Reader?action=edit&amp;redlink=1" title="Reader (page does not exist)">Reader #5</a>
+</li><li><a class="new" href="/wiki/Mandana_Rothschild?action=edit&amp;redlink=1" title="Mandana Rothschild (page does not exist)">Mandana Rothschild</a> as <a class="new" href="/wiki/Reader?action=edit&amp;redlink=1" title="Reader (page does not exist)">Reader #6</a>
+</li><li><a class="new" href="/wiki/Eleanor_Gecks?action=edit&amp;redlink=1" title="Eleanor Gecks (page does not exist)">Eleanor Gecks</a> as <a class="new" href="/wiki/Faith_Chattaway?action=edit&amp;redlink=1" title="Faith Chattaway (page does not exist)">Faith Chattaway</a>
+</li><li><a class="new" href="/wiki/Eleanor_Tomlinson?action=edit&amp;redlink=1" title="Eleanor Tomlinson (page does not exist)">Eleanor Tomlinson</a> as <a class="new" href="/wiki/Fiona_Chattaway?action=edit&amp;redlink=1" title="Fiona Chattaway (page does not exist)">Fiona Chattaway</a>
+</li><li><a class="new" href="/wiki/Frank_Welker?action=edit&amp;redlink=1" title="Frank Welker (page does not exist)">Frank Welker</a> as <a href="/wiki/Bandersnatch" title="Bandersnatch">Bandersnatch</a>/<a href="/wiki/Jubjub_Bird" title="Jubjub Bird">Jubjub Bird</a>/<a href="/wiki/List_of_creatures_in_Wonderland" title="List of creatures in Wonderland">Monkeys</a>
+</li><li><a class="new" href="/wiki/Rebecca_Crookshank?action=edit&amp;redlink=1" title="Rebecca Crookshank (page does not exist)">Rebecca Crookshank</a> as <a class="new" href="/wiki/Strange_Woman_Kisser?action=edit&amp;redlink=1" title="Strange Woman Kisser (page does not exist)">Strange Woman Kisser</a>
+</li><li><a href="/wiki/Holly_Hawkins" title="Holly Hawkins">Holly Hawkins</a> as <a href="/wiki/Woman_with_Large_Nose" title="Woman with Large Nose">Woman with Large Nose</a>
+</li><li><a href="/wiki/Lucy_Davenport" title="Lucy Davenport">Lucy Davenport</a> as <a class="new" href="/wiki/Woman_with_Big_Ears?action=edit&amp;redlink=1" title="Woman with Big Ears (page does not exist)">Woman with Big Ears</a>
+</li><li><a href="/wiki/Joel_Swetow" title="Joel Swetow">Joel Swetow</a> as <a class="new" href="/wiki/Man_with_Large_Belly?action=edit&amp;redlink=1" title="Man with Large Belly (page does not exist)">Man with Large Belly</a>
+</li><li><a href="/wiki/Jessica_Oyelowo" title="Jessica Oyelowo">Jessica Oyelowo</a> as <a class="new" href="/wiki/Woman_with_Large_Poitrine?action=edit&amp;redlink=1" title="Woman with Large Poitrine (page does not exist)">Woman with Large Poitrine</a>
+</li><li><a href="/wiki/Ethan_Cohn" title="Ethan Cohn">Ethan Cohn</a> as <a class="new" href="/wiki/Man_with_Large_Chin?action=edit&amp;redlink=1" title="Man with Large Chin (page does not exist)">Man with Large Chin</a>
+</li><li><a href="/wiki/Richard_Alonzo" title="Richard Alonzo">Richard Alonzo</a> as <a class="new" href="/wiki/Man_with_Big_Forehead?action=edit&amp;redlink=1" title="Man with Big Forehead (page does not exist)">Man with Big Forehead</a>
+</li><li><a class="new" href="/wiki/David_%27Elsewhere%27_Bernal?action=edit&amp;redlink=1" title="David 'Elsewhere' Bernal (page does not exist)">David 'Elsewhere' Bernal</a> as <a class="new" href="/wiki/Hatter_Futterwacken_Dance?action=edit&amp;redlink=1" title="Hatter Futterwacken Dance (page does not exist)">Hatter Futterwacken Dance</a> Double
+</li><li><a class="new" href="/wiki/Chris_Grabher?action=edit&amp;redlink=1" title="Chris Grabher (page does not exist)">Chris Grabher</a> as <a class="new" href="/wiki/High_top_Hat_Juggler?action=edit&amp;redlink=1" title="High top Hat Juggler (page does not exist)">High top Hat Juggler</a>
+</li><li><a class="new" href="/wiki/Hilary_Morris?action=edit&amp;redlink=1" title="Hilary Morris (page does not exist)">Hilary Morris</a> as <a class="new" href="/wiki/Maypole_Dancer?action=edit&amp;redlink=1" title="Maypole Dancer (page does not exist)">Maypole Dancer #1</a>
+</li><li><a class="new" href="/wiki/Savannah_McReynolds?action=edit&amp;redlink=1" title="Savannah McReynolds (page does not exist)">Savannah McReynolds</a> as <a class="new" href="/wiki/Maypole_Dancer?action=edit&amp;redlink=1" title="Maypole Dancer (page does not exist)">Maypole Dancer #2</a>
+</li><li><a class="new" href="/wiki/Brighid_Fleming?action=edit&amp;redlink=1" title="Brighid Fleming (page does not exist)">Brighid Fleming</a> as <a class="new" href="/wiki/Maypole_Dancer?action=edit&amp;redlink=1" title="Maypole Dancer (page does not exist)">Maypole Dancer #3</a>
+</li><li><a class="new" href="/wiki/Regan_Licciardello?action=edit&amp;redlink=1" title="Regan Licciardello (page does not exist)">Regan Licciardello</a> as <a class="new" href="/wiki/Maypole_Dancer?action=edit&amp;redlink=1" title="Maypole Dancer (page does not exist)">Maypole Dancer #4</a>
+</li><li><a class="new" href="/wiki/Austin_James_Wolff?action=edit&amp;redlink=1" title="Austin James Wolff (page does not exist)">Austin James Wolff</a> as <a class="new" href="/wiki/Maypole_Dancer?action=edit&amp;redlink=1" title="Maypole Dancer (page does not exist)">Maypole Dancer #5</a>
+</li><li><a class="new" href="/wiki/Amy_Bailey?action=edit&amp;redlink=1" title="Amy Bailey (page does not exist)">Amy Bailey</a> as <a class="new" href="/wiki/Hatteress?action=edit&amp;redlink=1" title="Hatteress (page does not exist)">Hatteress</a>
+</li><li><a class="new" href="/wiki/Parker_Contreras?action=edit&amp;redlink=1" title="Parker Contreras (page does not exist)">Parker Contreras</a> as <a class="new" href="/wiki/Maypole_Kid?action=edit&amp;redlink=1" title="Maypole Kid (page does not exist)">Maypole Kid</a>
+</li><li>Unknown Actor as <a href="/wiki/The_White_Knight" title="The White Knight">The White Knight</a>
+</li><li><a class="new" href="/wiki/Jacqueline_Delamora?action=edit&amp;redlink=1" title="Jacqueline Delamora (page does not exist)">Jacqueline Delamora</a> as <a class="new" href="/wiki/White_Queen_Loyaltist?action=edit&amp;redlink=1" title="White Queen Loyaltist (page does not exist)">White Queen Loyaltist</a>
+</li><li><a class="new" href="/wiki/Brooke_Forbes?action=edit&amp;redlink=1" title="Brooke Forbes (page does not exist)">Brooke Forbes</a> as <a class="new" href="/wiki/White_Queen%27s_Courtier?action=edit&amp;redlink=1" title="White Queen's Courtier (page does not exist)">White Queen's Courtier</a>
+</li></ul>
+<h2><span class="mw-headline" id="Trailers">Trailers</span><span class="editsection"><a href="/wiki/Alice_in_Wonderland_(2010)?action=edit&amp;section=4" title="Edit Trailers section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<figure class="article-thumb tleft show-info-icon" style="width: 416px"> <a class="video video-thumbnail image lightbox medium " href="http://aliceinwonderland.wikia.com/wiki/File:Alice_in_Wonderland_Teaser_1"><img alt="Alice in Wonderland Teaser 1" class="thumbimage lzy lzyPlcHld " data-src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/b/b1/Alice_in_Wonderland_Teaser_1/revision/latest/scale-to-width/416?cb=20120420022013" data-video-key="Alice_in_Wonderland_Teaser_1" data-video-name="Alice in Wonderland Teaser 1" height="233" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="416"><noscript><img alt="Alice in Wonderland Teaser 1" class="thumbimage " data-video-key="Alice_in_Wonderland_Teaser_1" data-video-name="Alice in Wonderland Teaser 1" height="233" src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/b/b1/Alice_in_Wonderland_Teaser_1/revision/latest/scale-to-width/416?cb=20120420022013" width="416"/></noscript><span class="duration" itemprop="duration">01:41</span><span class="play-circle"></span></img></a> <figcaption> <a class="sprite info-icon" href="/wiki/File:Alice_in_Wonderland_Teaser_1"></a> <p class="title">Alice in Wonderland Teaser 1</p> </figcaption> </figure>
+<p><br/>
+</p><p><br/>
+</p><p><br/>
+</p><p><br/>
+</p><p><br/>
+</p>
+<figure class="article-thumb tleft show-info-icon" style="width: 416px"> <a class="video video-thumbnail image lightbox medium " href="http://aliceinwonderland.wikia.com/wiki/File:Alice_in_Wonderland_Official_Trailer_2"><img alt="Alice in Wonderland Official Trailer 2" class="thumbimage lzy lzyPlcHld " data-src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/5/52/Alice_in_Wonderland_Official_Trailer_2/revision/latest/scale-to-width/416?cb=20120420022044" data-video-key="Alice_in_Wonderland_Official_Trailer_2" data-video-name="Alice in Wonderland Official Trailer 2" height="233" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="416"><noscript><img alt="Alice in Wonderland Official Trailer 2" class="thumbimage " data-video-key="Alice_in_Wonderland_Official_Trailer_2" data-video-name="Alice in Wonderland Official Trailer 2" height="233" src="http://vignette2.wikia.nocookie.net/aliceinwonderland/images/5/52/Alice_in_Wonderland_Official_Trailer_2/revision/latest/scale-to-width/416?cb=20120420022044" width="416"/></noscript><span class="duration" itemprop="duration">01:59</span><span class="play-circle"></span></img></a> <figcaption> <a class="sprite info-icon" href="/wiki/File:Alice_in_Wonderland_Official_Trailer_2"></a> <p class="title">Alice in Wonderland Official Trailer 2</p> </figcaption> </figure>
+<p><br/>
+</p>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> <a class="image image-thumbnail" href="http://vignette1.wikia.nocookie.net/aliceinwonderland/images/0/02/Chessur.jpg/revision/latest?cb=20130505014547"><img alt="Chessur" class="thumbimage lzy lzyPlcHld " data-image-key="Chessur.jpg" data-image-name="Chessur.jpg" data-src="http://vignette1.wikia.nocookie.net/aliceinwonderland/images/0/02/Chessur.jpg/revision/latest/scale-to-width/180?cb=20130505014547" height="112" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="180"><noscript><img alt="Chessur" class="thumbimage " data-image-key="Chessur.jpg" data-image-name="Chessur.jpg" height="112" src="http://vignette1.wikia.nocookie.net/aliceinwonderland/images/0/02/Chessur.jpg/revision/latest/scale-to-width/180?cb=20130505014547" width="180"/></noscript></img></a> <figcaption> <a class="sprite info-icon" href="/wiki/File:Chessur.jpg"></a> <p class="caption">The Chesire Cat</p> </figcaption> </figure>
+<p><br/>
+</p><p><br/>
+</p><p><br/>
+</p><p><br/>
+</p><p><br/>
+</p>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="editsection"><a href="/wiki/Alice_in_Wonderland_(2010)?action=edit&amp;section=5" title="Edit Trivia section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<ul><li>Johnny Depp and Crispin Glover appear together in this movie, and their characters even fight each other at the end. Johnny Depp portrayed Willy Wonka in the Tim Burton film <i>Charlie and the Chocolate Factory</i>, and Crispin Glover portrayed him in the spoof movie, <i>Epic Movie</i>, who is almost identical to the Johnny Depp Willy Wonka.
+</li></ul>
+<h2><span class="mw-headline" id="Script">Script</span><span class="editsection"><a href="/wiki/Alice_in_Wonderland_(2010)?action=edit&amp;section=6" title="Edit Script section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<table border="1" cellpadding="1" cellspacing="1" class="article-table article-table-selected" style="margin: 0 auto;">
+<tr>
+<td><a class="external text exitstitial" href="http://web.archive.org/web/20110717234736/http://www.waltdisneystudiosawards.com/aliceinwonderland/script-alice.pdf" rel="nofollow">View the whole script for the movie here</a>
+</td></tr></table>
+<h2><span class="mw-headline" id="Sequel">Sequel</span><span class="editsection"><a href="/wiki/Alice_in_Wonderland_(2010)?action=edit&amp;section=7" title="Edit Sequel section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<p>On December 7, 2012, <i>Variety</i> announced the development of a sequel to <i>Alice in Wonderland</i>, with Linda Woolverton returning to write a screenplay.<sup class="reference" id="cite_ref-0"><a href="#cite_note-0">[1]</a></sup>
+</p><p>On May 30, 2013, it was announced that James Bobin is in talks to be the director, with the working title <i>Into the Looking Glass</i>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[2]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[3]</a></sup>
+</p><p>On July 12, 2013, it was stated that Johnny Depp is close to signing on to reprise his role as Mad Hatter, as his production company, Infinitum Nihil, is planning a move from Warner Bros. Pictures to Disney.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[4]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[5]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[6]</a></sup>
+</p><p>On November 22, 2013, it was announced that the sequel will be released on May 27, 2016 and that Bobin would direct the film, along with Mia Wasikowska to return as Alice.<sup class="reference" id="cite_ref-alice2.26Jungle_6-0"><a href="#cite_note-alice2.26Jungle-6">[7]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[8]</a></sup>
+</p><p>On January 21, 2014, there was talk that Sacha Baron Cohen will play the villain role in the sequel, now titled <i>Through the Looking Glass</i>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[9]</a></sup><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="editsection"><a href="/wiki/Alice_in_Wonderland_(2010)?action=edit&amp;section=8" title="Edit References section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<ol class="references"><li id="cite_note-0"><a href="#cite_ref-0">↑</a> <span class="reference-text"><a class="external text exitstitial" href="http://www.variety.com/article/VR1118063318" rel="nofollow">Disney mad for 'Alice in Wonderland' sequel</a></span>
+</li>
+<li id="cite_note-1"><a href="#cite_ref-1">↑</a> <span class="reference-text"><a class="external text exitstitial" href="http://variety.com/2013/film/news/james-bobin-in-early-talks-to-direct-alice-in-wonderland-sequel-exclusive-1200490138/" rel="nofollow">James Bobin in Early Talks to Direct ‘Alice in Wonderland’ Sequel (EXCLUSIVE)</a></span>
+</li>
+<li id="cite_note-2"><a href="#cite_ref-2">↑</a> <span class="reference-text"><a class="external text exitstitial" href="http://www.comingsoon.net/news/movienews.php?id=104921" rel="nofollow">James Bobin Eyes Alice in Wonderland Sequel</a></span>
+</li>
+<li id="cite_note-3"><a href="#cite_ref-3">↑</a> <span class="reference-text"><a class="external text exitstitial" href="http://www.comingsoon.net/news/movienews.php?id=106427" rel="nofollow">Johnny Depp Nearly Set for Alice in Wonderland Sequel</a></span>
+</li>
+<li id="cite_note-4"><a href="#cite_ref-4">↑</a> <span class="reference-text"><a class="external text exitstitial" href="http://variety.com/2013/film/news/johnny-depp-moves-production-company-to-disney-exclusive-1200562176/" rel="nofollow">Johnny Depp Moves Production Company to Disney (EXCLUSIVE)</a></span>
+</li>
+<li id="cite_note-5"><a href="#cite_ref-5">↑</a> <span class="reference-text"><a class="external text exitstitial" href="http://www.deadline.com/2013/07/johnny-depp-finalizing-alice-in-wonderland-2/" rel="nofollow">Johnny Depp Finalizing ‘Alice In Wonderland 2′</a></span>
+</li>
+<li id="cite_note-alice2.26Jungle-6"><a href="#cite_ref-alice2.26Jungle_6-0">↑</a> <span class="reference-text"><a class="external text exitstitial" href="http://insidemovies.ew.com/2013/11/22/alice-in-wonderland-2-and-the-jungle-book-snag-release-dates/" rel="nofollow">'Alice in Wonderland 2' and 'The Jungle Book' snag release dates</a></span>
+</li>
+<li id="cite_note-7"><a href="#cite_ref-7">↑</a> <span class="reference-text"><a class="external text exitstitial" href="http://www.comingsoon.net/news/movienews.php?id=111720" rel="nofollow">Disney Sets Release Dates for Alice in Wonderland 2 and The Jungle Book</a></span>
+</li>
+<li id="cite_note-8"><a href="#cite_ref-8">↑</a> <span class="reference-text"><a class="external text exitstitial" href="http://variety.com/2014/film/news/sacha-baron-cohen-looking-glass-alice-1201024607/" rel="nofollow">Sacha Baron Cohen Eyes ‘Wonderland’ Sequel ‘Through the Looking Glass’ (EXCLUSIVE)</a></span>
+</li>
+<li id="cite_note-9"><a href="#cite_ref-9">↑</a> <span class="reference-text"><a class="external text exitstitial" href="http://www.comingsoon.net/news/movienews.php?id=113821" rel="nofollow">Sacha Baron Cohen Eyes Villain Role in Alice in the Wonderland Sequel</a></span>
+</li></ol><a class="external text exitstitial" href="http://www.visualhollywood.com/movies_2010/alice_in_wonderland/about.php" rel="nofollow">The visual side of Wonderland</a>
+<!-- 
+NewPP limit report
+Preprocessor node count: 285/300000
+Post‐expand include size: 1027/2097152 bytes
+Template argument size: 381/2097152 bytes
+Expensive parser function count: 0/100
+-->
+<!-- Saved in parser cache with key aliceinwonderland:pcache:idhash:2035-0!*!0!!en!2!* -->
+<noscript><link href="http://slot1.images.wikia.nocookie.net/__cb1424445818/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" rel="stylesheet"/></noscript><noscript><link href="http://slot1.images.wikia.nocookie.net/__cb1424445818/common/extensions/wikia/TOCimprovements/TOCNoScript.css" rel="stylesheet"/></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://aliceinwonderland.wikia.com/wiki/Alice_in_Wonderland_(2010)?oldid=16346">http://aliceinwonderland.wikia.com/wiki/Alice_in_Wonderland_(2010)?oldid=16346</a>"</div>
+</div>
+<nav class="article-categories CategorySelect articlePage userCanEdit" id="articleCategories">
+<div class="container">
+<div class="special-categories"><a class="categoriesLink" href="/wiki/Special:Categories" rel="nofollow" title="Special:Categories">Categories</a>:</div>
+<ul class="categories">
+<li class="category normal" data-name="Films" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Films" title="Category:Films">Films</a></span>
+<ul class="toolbar">
+<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+</ul>
+</li>
+<li class="last">
+<button class="wikia-button secondary add" id="CategorySelectAdd" type="button">Add category</button>
+<input autocomplete="off" class="input" id="CategorySelectInput" name="CategorySelectInput" placeholder="Add category..." type="text"> </input></li>
+</ul>
+</div>
+<div class="toolbar">
+<button class="wikia-button secondary cancel" id="CategorySelectCancel" type="button">Cancel</button>
+<button class="wikia-button save" disabled="disabled" id="CategorySelectSave" type="button">Save</button>
+</div>
+</nav>
+<nav class="WikiaArticleInterlang">
+<h3>Languages: </h3>
+<ul>
+<li><a href="http://es.aliceinwonderland.wikia.com/wiki/Alicia_en_el_Pa%C3%ADs_de_las_Maravillas_(2010)">Español</a></li>
+</ul>
+</nav>
+<script>
+    
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['JP'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write(
+        '<div id="monetization-adunit-below_category" class="monetization-module adunit hide-for-edit below-category" ' +
+        'data-mon-type="adunit" data-mon-slot="below_category"><div class="ad-header">Advertisement</div><div>' +
+        '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">' +
+        '</scr' + 'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" ' +
+        'data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_bc_bt_ic_fsl_fft mon_hub_book mon_sl_bc" ' +
+        'data-ad-type="text" ' + 'data-font-size="large" ' +'data-font-face="times" ' +
+        ' data-color-bg="#ffffff" data-color-border="#ffffff" data-color-link="#009999" data-color-url="#009999" data-color-text="#3a3a3a" ></ins>' +
+        '<script>(adsbygoogle = window.adsbygoogle || []).push({});</scr' + 'ipt></div></div>'
+    );
+}
+</script>
+<div class="WikiaArticleFooter" id="WikiaArticleFooter">
+<form id="RTEFakeForm"></form><section class="WikiaArticleComments noprint" data-page="1" id="WikiaArticleComments">
+</section><div id="RelatedPagesModuleWrapper"></div> </div>
+<div class="noprint" id="WikiaArticleBottomAd">
+<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div class="wikia-ad noprint default-height" id="PREFOOTER_LEFT_BOXAD">
+<script>
+	window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div class="wikia-ad noprint default-height" id="PREFOOTER_RIGHT_BOXAD">
+<script>
+	window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+</div>
+</div>
+</article><!-- WikiaMainContent -->
+<div class="WikiaRail" id="WikiaRail">
+<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div class="wikia-ad noprint default-height" id="TOP_RIGHT_BOXAD">
+<script>
+	window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+<div class="loading"></div>
+</div>
+<footer class="WikiaFooter notoolbar" id="WikiaFooter">
+<!-- BEGIN SLOTNAME: LEFT_SKYSCRAPER_3 -->
+<div class="wikia-ad noprint default-height" id="LEFT_SKYSCRAPER_3">
+<script>
+	window.adslots2.push(["LEFT_SKYSCRAPER_3"]);
+</script>
+</div>
+<!-- END SLOTNAME: LEFT_SKYSCRAPER_3 -->
+<section>
+<div class="header-container">
+<h1>Around Wikia's network</h1>
+<a class="wikia-button" href="http://community.wikia.com/wiki/Special:RandomWiki/38772" id="WikiaRandomWiki">Random Wiki</a>
+</div>
+<script type="text/javascript">
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+<ul class="LazyLoadAd SPOTLIGHT_FOOTER" id="SPOTLIGHT_FOOTER">
+<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+</ul>
+</section>
+</footer>
+<footer class="global-footer row">
+<nav>
+<div class="branding vertical-books black">
+<a class="wikia-logo" href="http://bookshub.wikia.com/wiki/Books_Hub">
+<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+<span>Books</span>
+</img></a>
+</div>
+<ul>
+<li>
+<a href="http://www.wikia.com/About"><span>About</span></a>
+</li>
+<li>
+<a href="http://community.wikia.com"><span>Community Central</span></a>
+</li>
+<li>
+<a href="http://www.wikia.com/Careers">Careers</a>
+</li>
+<li>
+<a href="http://www.wikia.com/Advertising">Advertise</a>
+</li>
+<li>
+<a href="http://api.wikia.com/"><span>API</span></a>
+</li>
+<li>
+<a href="/wiki/Special:Contact">Contact Wikia</a>
+</li>
+<li>
+<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+</li>
+<li>
+<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+</li>
+<li>
+					Content is available under <a class="external" href="http://wikia.com/Licensing" rel="nofollow">CC-BY-SA</a>.				</li>
+</ul>
+</nav>
+</footer>
+</div>
+</section><!--WikiaPage-->
+<div id="WikiaBar">
+<div class="WikiaBarWrapper hidden" id="WikiaBarWrapper">
+<div class="wikia-bar wikia-bar-anon">
+<a class="arrow" data-tooltip="Collapse" data-tooltipshow="Show" href="#"></a>
+<div class="ad">
+<div class="noprint" id="WIKIA_BAR_BOXAD_1" style="width: 300px; position: relative;"></div>
+</div>
+<div class="message" data-messagetooltip="Click here for more information!" data-wikiabarcontent='[{"text":"Call of Duty Choice Awards! VOTE NOW","href":"http:\/\/ow.ly\/IKYTc"},{"text":"Call of Duty Choice Awards! VOTE NOW","href":"http:\/\/ow.ly\/IKYTc"},{"text":"Call of Duty Choice Awards! VOTE NOW","href":"http:\/\/ow.ly\/IKYTc"},{"text":"Call of Duty Choice Awards! VOTE NOW","href":"http:\/\/ow.ly\/IKYTc"},{"text":"Call of Duty Choice Awards! VOTE NOW","href":"http:\/\/ow.ly\/IKYTc"}]'></div>
+<a class="wikiabar-button" data-index="0" href="http://www.wikia.com/Entertainment">
+<img class="icon cup" src="http://slot1.images.wikia.nocookie.net/__cb1424445818/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png"/>
+<span>Entertainment</span>
+</a>
+<a class="wikiabar-button" data-index="1" href="http://www.wikia.com/Video_Games">
+<img class="icon cup" src="http://slot1.images.wikia.nocookie.net/__cb1424445818/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png"/>
+<span>Video Games</span>
+</a>
+<a class="wikiabar-button" data-index="2" href="http://www.wikia.com/Lifestyle">
+<img class="icon cup" src="http://slot1.images.wikia.nocookie.net/__cb1424445818/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png"/>
+<span>Lifestyle</span>
+</a>
+</div>
+</div>
+<div class="WikiaBarCollapseWrapper">
+<a class="wikia-bar-collapse" data-tooltip="Collapse" href="#"></a>
+</div>
+</div>
+<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div class="wikia-ad noprint default-height" id="GPT_FLUSH">
+<script>
+	window.adslots2.push(["GPT_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: INVISIBLE_1 -->
+<div class="wikia-ad noprint default-height" id="INVISIBLE_1">
+<script>
+	window.adslots2.push(["INVISIBLE_1"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_1 -->
+<!-- BEGIN SLOTNAME: INVISIBLE_2 -->
+<div class="wikia-ad noprint default-height" id="INVISIBLE_2">
+<script>
+	window.adslots2.push(["INVISIBLE_2"]);
+</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_2 -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div class="wikia-ad noprint default-height" id="SEVENONEMEDIA_FLUSH">
+<script>
+	window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1424445818/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1424445818/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+<!-- Combined JS files and head scripts -->
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"aliceinwonderland","kv_article_id":2035,"kv_wpage":"Alice_in_Wonderland_(2010)","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_domain":"aliceinwonderland.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://aliceinwonderland.wikia.com/__load/-/cb%3D1424445818%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis%26ve%3D1/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Alice_in_Wonderland_(2010)","wgTitle":"Alice in Wonderland (2010)","wgCurRevisionId":16346,"wgArticleId":2035,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Films"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Alice_in_Wonderland_(2010)","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://images2.wikia.nocookie.net/__cb61851/aliceinwonderland/images/archive/5/50/20121027093846%21Wiki-background","background-image-height":"742","background-image-width":"1550","color-body":"#000000","color-body-middle":"#000000","color-buttons":"#009999","color-header":"#3a5766","color-links":"#009999","color-page":"#ffffff","page-opacity":"100","widthType":2},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"Alice in Wonderland Wiki","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1424445818/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1424445818/common","wgSitename":"Alice in Wonderland Wiki","wgMWrevId":false,"wgRevisionId":16346,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Alice_in_Wonderland_(2010)","fbReturnToTitle":"Alice_in_Wonderland_(2010)","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"http://slot1.images.wikia.nocookie.net/__cb1424445818/common/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdWvwETAAAAACS_0luypJPV7aiQkpLzoZN26YAf","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":true,"verticalName":"Entertainment","WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Alice in Wonderland (2010)"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"enablerichtext":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"founderemails-joins-38772":0,"founderemails-edits-38772":0,"founderemails-views-digest-38772":0,"founderemails-complete-digest-38772":0,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,
+"searchNs500":false,"searchNs501":false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: aliceinwonderland:resourceloader:filter:minify-js:7:7b307f2b0658b09b667b98cac7a03f19 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikiaViewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.wikiaInYourLang"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1424445818/groups/-/oasis_shared_core_js,adengine2_js,adengine2_late_js,oasis_shared_js,oasis_anon_with_new_global_nav_js,liftium_ads_js,liftium_ads_extra_js,adengine2_oasis_ads_js,adengine2_interactive_maps_js,toc_js,qualaroo_js,global_footer_js,spotlights_js,relatedpages_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic&amp;uselang=en&amp;cb=1424445818.0.76469"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1424445818/group/-/monetization_module_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1424445818/group/-/global_navigation_js"></script>
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://aliceinwonderland.wikia.com/__load/-/cb%3D1424445818%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+<script src="http://aliceinwonderland.wikia.com/__load/-/cb%3D1424445818%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/site"></script>
+<script type="text/javascript">
+var agllGroup = "Entertainment";
+!function(){
+var a=document.createElement("script");a.type="text/javascript";a.async=!0;var b=["http://a98dc034c7781a941eba-bac02262202668bbe918ea9fb5289cd2.r58.cf2.rackcdn.com","https://52e473ee9859b886964f-bac02262202668bbe918ea9fb5289cd2.ssl.cf2.rackcdn.com"];a.src=("https:"==document.location.protocol?b[1]:b[0])+"/c59hk50tip94.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(a,c)
+}();</script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationHubsMenu.scss","extensions\/wikia\/UserLogin\/css\/UserLoginDropdown.globalNavigation.scss","extensions\/wikia\/WallNotifications\/styles\/WallNotifications.globalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationOasis.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearchOasis.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+</body>
+</html>

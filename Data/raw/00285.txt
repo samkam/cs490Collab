@@ -1,0 +1,211 @@
+ <!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8">
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="width=1100, user-scalable=no" name="viewport">
+<meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var o=e[t]={exports:{}};n[t][0].call(o.exports,function(e){var o=n[t][1][e];return r(o?o:e)},o,o.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(n,e){function t(n){function e(e,t,a){n&&n(e,t,a),a||(a={});for(var u=c(e),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(n,e){f[n]=c(n).concat(e)}function c(n){return f[n]||[]}function u(){return t(e)}var f={};return{on:a,emit:e,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");e.exports=t()},{gos:"7eSDFh"}],ee:[function(n,e){e.exports=n("QJf3ax")},{}],3:[function(n,e){function t(n){return function(){r(n,[(new Date).getTime()].concat(i(arguments)))}}var r=n("handle"),o=n(1),i=n(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","trackUserAction","finished","traceEvent","inlineHit","noticeError"];o(a,function(n,e){window.NREUM[e]=t("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(n,e){e.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,e){function t(n,e,t){if(r.call(n,e))return n[e];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],D5DuLP:[function(n,e){function t(n,e,t){return r.listeners(n).length?r.emit(n,e,t):(o[n]||(o[n]=[]),void o[n].push(e))}var r=n("ee").create(),o={};e.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,e){e.exports=n("D5DuLP")},{}],XL7HBI:[function(n,e){function t(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");e.exports=t},{gos:"7eSDFh"}],id:[function(n,e){e.exports=n("XL7HBI")},{}],G9z0Bl:[function(n,e){function t(){var n=v.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(d,function(e,t){e in n||(n[e]=t)}),v.proto="https"===l.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=v.proto+n.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=(n(2),window),f=u.document,s="addEventListener",p="attachEvent",l=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-536.min.js"},v=e.exports={offset:i(),origin:l,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",t,!1)):(f[p]("onreadystatechange",r),u[p]("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(n,e){e.exports=n("G9z0Bl")},{}],12:[function(n,e){function t(n,e){var t=[],o="",i=0;for(o in n)r.call(n,o)&&(t[i]=e(o,n[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],13:[function(n,e){function t(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,o=t-e||0,i=Array(0>o?0:o);++r<o;)i[r]=n[e+r];return i}e.exports=t},{}]},{},["G9z0Bl"]);</script>
+<title>The Avengers Age of Ultron Movie | Trailer &amp; Official Movie Site</title>
+<meta content="The Avengers Age of Ultron Movie | Trailer &amp; Official Movie Site | In Theaters May 1" name="twitter:title"/>
+<meta content="The Avengers Age of Ultron Movie | Trailer &amp; Official Movie Site | In Theaters May 1" name="og:title"/>
+<meta content="The Avengers Age of Ultron Movie | Trailer &amp; Official Movie Site | In Theaters May 1" name="title"/>
+<meta content="Join legions of eager fans anticipating Marvel's Avengers: Age of Ultron. All your favorite heroes – from Iron Man to Captain America – assemble as a mighty team. In Theaters May 1" name="description"/>
+<meta content="Join legions of eager fans anticipating Marvel's Avengers: Age of Ultron. All your favorite heroes – from Iron Man to Captain America – assemble as a mighty team. In Theaters May 1" name="twitter:description"/>
+<meta content="Join legions of eager fans anticipating Marvel's Avengers: Age of Ultron. All your favorite heroes – from Iron Man to Captain America – assemble as a mighty team. In Theaters May 1" name="og:description"/>
+<meta content="@Marvel" name="twitter:site"/>
+<meta content="http://marvel.com/avengers" name="twitter:url"/>
+<meta content="Marvel.com/avengers/" name="og:site_name"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="@Marvel" name="twitter:creator"/>
+<meta content="http://i.annihil.us/u/prod/avengersmovie/avengers2/teaser/images/share.jpg" name="twitter:image"/>
+<meta content="http://i.annihil.us/u/prod/avengersmovie/avengers2/teaser/images/share.jpg" property="og:image"/>
+<meta content="website" property="og:type"/>
+<meta content="763743146995592" property="fb:app_id"/>
+<meta content="text/html;charset=utf-8" name="content-type"/>
+<meta content="index,follow" name="robots"/>
+<meta content="Marvel, The Avengers, Age of Ultron, The Avengers Age of Ultron, Avengers Movie, Joss Whedon, Iron Man, Black Widow, Nick Fury, Hawkeye, Thor, Captain America, Vision, Ultron, Hulk, Quicksilver, Scarlet Witch, Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Jeremy Renner, Aaron Taylor-Johnson, Elizabeth Olsen, Paul Bettany, Cobie Smulders, James Spader, Samuel L. Jackson, Joss Whedon, Kevin Feige, Louis D’Esposito, Alan Fine, Victoria Alonso, Jeremy Latcham, Patricia Whitcher, Stan Lee, Jon Favreau" name="keywords"/>
+<link href="images/favicon.png" rel="shortcut icon"/>
+<link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+<script>
+                                var
+                                    baseURL = "http://i.annihil.us/u/prod/avengersmovie/avengers2/teaser/",
+                                    absURL = "http://marvel.com/avengers/",
+                                    fbApp = '763743146995592',
+                            
+                                    settingsFile = baseURL+'json/settings.json';
+                            </script>
+<base href="http://i.annihil.us/u/prod/avengersmovie/avengers2/teaser/">
+<link href="http://marvel.com/avengers" rel="canonical"/>
+<link href="http://i.annihil.us/u/prod/avengersmovie/avengers2/teaser/images/share.jpg" rel="image_src" type="image/jpeg"/>
+<link href="css/all2.css" rel="stylesheet">
+<script language="JavaScript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://admin.brightcove.com/js/APIModules_all.js" type="text/javascript"></script>
+<script src="http://marvel.com/i/js/marvel-widgets.js" type="text/javascript"></script>
+<script src="js/settings2.min.js" type="text/javascript"></script>
+<script src="js/packages.min.js" type="text/javascript"></script>
+<script src="js/site5.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+                            
+                                var URLs = {
+                                    'login': 'https://secure.marvel.com/user/login?referer=http%3A%2F%2Fmarvel.com%2Favengers',
+                                    'signup': 'https://secure.marvel.com/user/register?referer=http%3A%2F%2Fmarvel.com%2Favengers',
+                                    'comicReader': 'http://reader.marvel.com/#/issue/',
+                                    'rpxWidgetUrl': 'http://widget-cdn.rpxnow.com/js/lib/forge.marvel.com/widget.js',
+                                    'rpxWidgetUrlSecure': 'https://rpxnow.com/js/lib/forge.marvel.com/widget.js'
+                                };
+                                MarvelWidgets.init({
+                                    home_url: "http://www.marvel.com/avengers",
+                                    current_section: "movies",
+                                    staging: "http://marvel.com",
+                                    targets: {
+                                        topnav: "marvelMenu"
+                                    },
+                                    settings: {
+                                        exclude_search: true,
+                                        exclude_login: true,
+                                        small_nav: true,
+                                        version: 2
+                                    }
+                                });
+                            </script>
+</link></base></link></meta></meta></meta></head>
+<!--[if lt IE 9]> <body class="ie8"> <![endif]-->
+<!--[if gte IE 9]> <body> <![endif]-->
+<!--[if !IE]><!--> <body> <!--<![endif]-->
+<div id="fb-root"></div>
+<div id="marvelMenu"></div>
+<div id="preloader">
+<div class="C" id="preloadArt2"></div>
+<div class="C" id="preloadArt">
+<img alt="The Avengers Age of Ultron Movie | Trailer &amp; Official Movie Site" height="221" src="images/downloads/logo.png" width="191">
+<img alt="Loading" height="42" src="images/loading.gif" width="182">
+</img></img></div>
+</div>
+<div class="TL" id="shell">
+<div class="TL abs" id="home">
+<script id="template-home" type="text/template">
+                                    <div id="homeBg" class="TL abs"></div>
+                                    <div id="homeBg2" class="TL abs"></div>
+                                    <a href="#" id="sound" class="TR"></a>
+                                    </script>
+</div>
+<div class="TL" id="header">
+<script id="template-header" type="text/template">
+                                    <div class="TL" id="headerTL"><% _.each(settings.social.socialLinks, function(o,i) {
+                                        %><a href="<%= o.url %>" class="headerSocialBtn <%= o.id %>" target="_blank" onclick="handleExitLink(); <%= o.tracking %>"></a><%
+                                        }); %><div id="news" class="marvelMenuOffset"><div id="newsTitle" class="dosisBold">LATEST NEWS</div><div id="newsContent" class="dosisBold">Loading news...</div></div></div>
+                                    <div id="mainMenuShell" class="TL"><ul id="mainMenu"><%
+                                        _.each(settings.main.menu, function (o,i) {
+                                            if (!o.desktop.visible || !o.desktop.inMenu) return;
+                                            var linkObj = parseLinkObject({ link: o.link, linkType: o.linkType, comingSoon: o.desktop.comingSoon, tracking: o.tracking }),
+                                                hrefLink = linkObj.link;
+                                            switch (o.linkType) {
+                                                case 'html':
+                                                    break;
+                                                case 'javascript':
+                                                    hrefLink = '#';
+                                                    break;
+                                                case 'internal':
+                                                    hrefLink = '#/'+linkObj.link;
+                                                    break;
+                                            }
+                            
+                            
+                                            %><li><a href="<%= hrefLink %>" <% if ( linkObj.target != '') print('target="'+linkObj.target+'"'); %> rel="<%- linkObj.link %>" data-linkType="<%- o.linkType %>" class="mainMenuBtn  <%- linkObj.classes %>" onclick="<%= linkObj.onclick %>"></a></li><%
+                                        }) %></ul></div>
+                                    </script>
+</div><!-- header -->
+<div class="BL" id="footerShell">
+<div class=" TL" id="footerBody">
+<script id="template-footerBody" type="text/template">
+                                        <ul class="hList footerBtnsRow">
+                                            <li class="footerLi">© 2014 MARVEL</li>
+                                            <li class="footerLi"><a target="_blank" href="http://www.marvel.com/corporate/about" onclick="handleExitLink();">MARVEL CORPORATE INFO</a></li>
+                                            <li class="footerLi"><a target="_blank" href="http://www.marvel.com/help?sub=user_help.php" onclick="handleExitLink();">CUSTOMER SERVICE</a></li>
+                                            <li class="footerLi"><a target="_blank" href="http://www.filmratings.com/" onclick="handleExitLink();">FILMRATINGS.COM</a></li>
+                                            <li class="footerLi"><a target="_blank" href="http://www.mpaa.org/" onclick="handleExitLink();">MPAA.ORG</a></li>
+                                            <li class="footerLi"><a target="_blank" href="http://www.marvel.com/corporate/privacy/" onclick="handleExitLink();">PRIVACY POLICY/YOUR CALIFORNIA PRIVACY RIGHTS</a></li>
+                                            <li class="footerLi"><a target="_blank" href="http://www.marvel.com/corporate/terms" onclick="handleExitLink();">TERMS AND CONDITIONS</a></li>
+                                            <li class="footerLi"><div id="ratingBox"><img id="rating" src="images/framework/rating.png" width="159" height="16" style="margin-right: 3px;" alt="This film is not yet rated" ></div></li>
+                                        </ul>
+                                </script>
+</div><!-- footerBody -->
+</div><!-- footerShell -->
+<div class="overlay absFull" id="story">
+<div class="C" id="storyContent">
+<script id="template-storyContent" type="text/template">
+                                        <a href='#' id='closeBtn' class='TR'></a>
+                                        <div id="storyText" class="TL">
+                                            <div id="storyTextInner" class="TL ">
+                                                <div class="scrollbar"><div class="track"><div class="trackStart"></div><div class="trackEnd"></div><div class="thumb"><div class="start"></div><div class="end"></div></div></div></div>
+                                                <div class="viewport"><div class="overview "><%= settings.story.desc %></div></div>
+                                            </div>
+                                        </div>
+                                        </script>
+</div>
+</div>
+<div class="overlay absFull" id="downloads">
+<div class="C" id="downloadsContent">
+<script id="template-downloadsContent" type="text/template">
+                                            <a href='#' id='closeBtn' class='TR'></a>
+                                            <div id="downloadsInnerContent" class="TL">
+                                                <div id='dlLogo' class='TL'></div>
+                                                <div id='dlBar' class='TL'></div><%
+                                                _.each(settings.downloads.links, function(o,i,l) {
+                                                %><div id="downloadsBtns" class="TL"><%
+                                                    _.each(o.links, function (link, j) {
+                                                        %><a href="<%= link.link %>" target="_blank" rel="<%= link.type %>" class="link <%= link.type %>"></a><%
+                                                            });
+                                                %></div><%
+                                                });
+                                            %></div>
+                                        </script>
+</div>
+</div>
+<div class="overlay absFull" id="video">
+<div class="C" id="videoContent">
+<script id="template-videoContent" type="text/template">
+                                        <div id='shareBtns' class='TR'><% print(generateShareBar()) %></div>
+                                        <a href='#' id='closeBtn' class='TR'></a>
+                                        <div id="videoShell" class="TL"></div>
+                                        <ul id="videoMenu" class="TL"></ul>
+                                        </script>
+</div>
+</div>
+</div><!-- shell -->
+<script>
+                              window.fbAsyncInit = function() {
+                                // init the FB JS SDK
+                                FB.init({
+                                  appId      : fbApp, // App ID from the App Dashboard
+                                  status     : false, // check the login status upon init?
+                                  cookie     : false,
+                                  xfbml      : false
+                                });
+                            
+                                // Additional initialization code such as adding Event Listeners goes here
+                            
+                              };
+                            
+                              // Load the SDK's source Asynchronously
+                              (function(d){
+                                 var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+                                 if (d.getElementById(id)) {return;}
+                                 js = d.createElement('script'); js.id = id; js.async = true;
+                                 js.src = "//connect.facebook.net/en_US/all.js";
+                                 ref.parentNode.insertBefore(js, ref);
+                               }(document));
+                            </script>
+<script>
+                              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                              })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                            
+                              ga('create', 'UA-42435060-3', 'auto');
+                              ga('send', 'pageview');
+                            
+                            </script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"77ea7d863b","applicationID":"10928807","transactionName":"b1FXYkYFWUcEBUNaClYbdFVADVhaSgJSVQRNWEEZXBBaWEgWVlQAF11bUlEc","queueTime":0,"applicationTime":510,"atts":"QxZUFA4fSkk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-536.min.js"}</script></body>
+</html>

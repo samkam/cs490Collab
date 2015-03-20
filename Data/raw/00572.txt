@@ -1,0 +1,2386 @@
+
+<!DOCTYPE html>
+
+<html class="no-js lastfm" data-ad-zone="music:artist:overview" lang="de">
+<head>
+<meta charset="utf-8">
+<meta content="IE=edge; chrome=1" http-equiv="X-UA-Compatible"/>
+<link href="http://purl.org/uF/2008/03/" rel="profile"/>
+<!--–[if IE]--><!endif]–>
+
+            <title>Jimi Hendrix – Hören, Videos, Konzerte, Statistiken und Bilder kostenlos bei Last.fm</title>    
+        <script>(function(e) { e.className = e.className.replace(/\bno-js\b/,'js'); })(document.documentElement)</script>
+
+    <link rel="search" type="application/opensearchdescription+xml" href="http://cdn.last.fm/opensearch.xml" title="Last.fm" />
+            <meta name="description" content="Sieh dir Videos an &amp;amp; höre kostenlos Jimi Hendrix: All Along the Watchtower, Purple Haze und mehr, außerdem 415 Bilder. James Marshall Hendrix wurde am 27. November 1942 in Seattle, Washington geboren und war ein amerikanischer Gitarrist und Sänger. Jimi Hendrix gilt wegen seiner experimentellen und innovativen Spielweise auf der E-Gitarre als einer der bedeutendsten Gitarristen und hatte nachhaltigen Einfluss auf die Entwicklung der Rockmusik. Gemeinsam mit seinen Bands, unter anderem The Jimi Hendrix Experience und Gypsy Sun &amp; Rainbows, trat er auf dem Monterey Pop Festival und dem Woodstock-Festival auf. Hendrix starb am 18. September 1970 in London im Alter von 27 Jahren. Nachrufzitate: &quot;Jimi Hendrix - a guy that plays the blues and freaks out occasionally&quot; - Eric Clapton &quot;Uhu&amp;hellip; This is good&quot; - Paul McCartney Entdecke mehr Musik, Konzerte, Videos und Bilder mit dem größten Musikkatalog online bei Last.fm."/>
+
+
+            <meta name="robots" content="NOODP" />
+
+        
+                <meta property="og:site_name" content="Last.fm" />
+<meta property="fb:app_id" content="192959324047861" />
+
+            
+                        
+    <meta property="og:title" content="Jimi Hendrix" />
+    <meta property="og:url" content="http://www.lastfm.de/music/Jimi+Hendrix" />
+    <meta property="og:image" content="http://userserve-ak.last.fm/serve/126/24824871.png" />
+
+    
+            <meta property="og:type" content="band" />    
+                <link rel="shortcut icon" href="http://cdn.last.fm/flatness/favicon.2.ico" />
+        <link rel="apple-touch-icon" href="http://cdn.last.fm/flatness/apple-touch-icon.png" />
+    
+        <meta name="msapplication-TileImage" content="http://cdn.last.fm/flatness/lastfm_win8_tile_144.png" />
+    <meta name="msapplication-TileColor" content="#d51007" />
+    
+        <meta name="apple-itunes-app" content="app-id=585235199">
+
+    
+    
+            <link rev="canonical" href="http://lastfm.de/+aLP" />
+    <link rel="shortlink" href="http://lastfm.de/+aLP" />
+    
+                <link rel="alternate" hreflang="en" href="http://www.last.fm/music/Jimi+Hendrix" />
+    
+                    <link rel="alternate" hreflang="es" href="http://www.lastfm.es/music/Jimi+Hendrix" />
+                <link rel="alternate" hreflang="fr" href="http://www.lastfm.fr/music/Jimi+Hendrix" />
+                <link rel="alternate" hreflang="it" href="http://www.lastfm.it/music/Jimi+Hendrix" />
+                <link rel="alternate" hreflang="ja" href="http://www.lastfm.jp/music/Jimi+Hendrix" />
+                <link rel="alternate" hreflang="pl" href="http://www.lastfm.pl/music/Jimi+Hendrix" />
+                <link rel="alternate" hreflang="pt" href="http://www.lastfm.com.br/music/Jimi+Hendrix" />
+                <link rel="alternate" hreflang="ru" href="http://www.lastfm.ru/music/Jimi+Hendrix" />
+                <link rel="alternate" hreflang="sv" href="http://www.lastfm.se/music/Jimi+Hendrix" />
+                <link rel="alternate" hreflang="tr" href="http://www.lastfm.com.tr/music/Jimi+Hendrix" />
+                <link rel="alternate" hreflang="zh" href="http://cn.last.fm/music/Jimi+Hendrix" />
+        
+    
+        <style>html {zoom: 1;}</style>    <script>
+
+        if(top !== self && top.location.domain !== self.location.domain) {
+            (function(d, s) {
+                if(s && s.insertRule) {
+                    s.insertRule('body { display: none !important }', 0);
+                } else if(s && s.addRule) {
+                    s.addRule('body', 'display: none !important');
+                }
+                top.location.replace(d.location.href);
+            })(document, document.styleSheets[0]);
+        }
+</script>
+
+                                        <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/themes/whittle.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/music/artist/overview.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/master.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/video/module.css" />
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/231990/events/module.css" />
+                        
+        
+<!--[if lt IE 9!>
+<script>
+
+        window.html5 = {
+            shivCSS: false
+        }
+</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/html5shiv.js"></script>
+<!endif]-->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>$.noConflict();</script>
+<script src="//ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
+<script>
+    if(typeof Prototype === 'undefined') {
+        document.write(unescape("%3Cscript src='http://cdn.last.fm/javascript/javascript/232025/lib/prototype.js'%3E%3C/script%3E"));
+    }
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/scriptaculous.js"></script>
+<script>
+    if(typeof Scriptaculous === 'undefined') {
+        document.write(unescape("%3Cscript src='http://cdn.last.fm/javascript/javascript/232025/lib/scriptaculous/scriptaculous.js'%3E%3C/script%3E"));
+    }
+</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/mustache-min.js"></script>
+
+<script>SM2_DEFER = true;</script>
+<script src="http://cdn.last.fm/javascript/javascript/232025/lib/sm2-min.js"></script>
+
+<script src="http://cdn.last.fm/javascript/javascript/232025/LFM.js"></script>
+
+<script>
+    LFM.set("ParentResource", {"id":"1223","type":6,"name":"Jimi Hendrix","url":"\/music\/Jimi+Hendrix","image":{"small":"http:\/\/userserve-ak.last.fm\/serve\/34\/24824871.png","smallsquare":"http:\/\/userserve-ak.last.fm\/serve\/34s\/24824871.png","medium":"http:\/\/userserve-ak.last.fm\/serve\/64\/24824871.png","mediumsquare":"http:\/\/userserve-ak.last.fm\/serve\/64s\/24824871.png","large":"http:\/\/userserve-ak.last.fm\/serve\/126\/24824871.png","largesquare":"http:\/\/userserve-ak.last.fm\/serve\/126s\/24824871.png","mega":"http:\/\/userserve-ak.last.fm\/serve\/252\/24824871.png","original":"http:\/\/userserve-ak.last.fm\/serve\/_\/24824871\/Jimi+Hendrix+H+e+n+d+r+i+x.png"}});
+    LFM.Adserver.showAds = true;
+    LFM.set("Session", {"cookieHost":".lastfm.de","host":"www.lastfm.de","staticHost":"http:\/\/cdn.last.fm","wsHost":"ws.audioscrobbler.com","userserveHost":"http:\/\/userserve-ak.last.fm","wsKey":"ceec2bb03d4c5929f0d6667fc266dc75","formtoken":"2bcd67b944b9e63a7fd1b2c0c95a8d55947c66b3","location":"us","language":"de","ajaxhost":"ajax.last.fm","templatePath":"\/templates\/231606","jsPath":"http:\/\/cdn.last.fm\/javascript\/javascript\/232025","cssPath":"http:\/\/cdn.last.fm\/css\/css\/231990","loggedIn":false});
+    LFM.set("resTypes", {
+        EVENT: 29,
+        ARTIST: 6,
+        ALBUM: 8,
+        TRACK: 9,
+        GROUP: 20,
+        TAG: 32,
+        USER: 4,
+        LABEL: 10
+    });
+    LFM.set("resTypeLookup", {
+        29: "Event",
+        6: "Artist",
+        8: "Album",
+        9: "Track",
+        20: "Group",
+        32: "Tag",
+        4: "User",
+        10: "Label"
+    });
+
+    LFM.set("String", {okText: "OK",cancelText: "Abbrechen",clickToEditText: "Zum Bearbeiten hier klicken",savingText: "Speichern...",loadingText: "Wird geladen...",deletingText: "Lösche...",thereWasAnError: "Es gab einen Fehler.",dialogLoadError: "Beim Laden dieses Dialogs ist ein Fehler aufgetreten.",fileTooBig: "Die Datei ist leider zu groß.",noFile: "Bitte wähle eine Datei aus.",uploadCancelled: "Upload abgebrochen.",deleteMessageTitle: "Nachricht löschen",deleteMessagePrompt: "Bist du sicher, dass du diese Nachricht löschen möchtest?",deleteFriendPrompt: "Bist du sicher, dass du die Freundschaft mit dieser Person beenden möchtest?",deleteImage: "Bist du sicher, dass du dieses Bild löschen möchtest?",deleteButtonText: "Löschen",done: "Fertig",backText: "Zurück",yesText: "Ja",noText: "Nein",saveText: "Speichern",saveTitle: "Zum Profil hinzufügen",sendText: "Senden",sendTitle: "An Freunde weiterleiten",addTitle: "Zu Musiksammlung hinzufügen",tagTitle: "Tags hinzufügen",playlistTitle: "Zur Playlist hinzufügen",befriendTitle: "Einen Freund hinzufügen",labsfeedbackTitle: "Gib uns dein Feedback",joinTitle: "Gruppe beitreten",loved: "Geliebt",RemoveFromLibraryTitle: "Aus deiner Musiksammlung löschen",uploadImageTitle: "Bild hochladen",uploadVideoTitle: "Video hochladen",usernoteTitle: "Add a note",cleanupBioTitle: "Cleanup Bio",flageventTitle: "Zur Überprüfung melden",setLocationTitle: "Standort festlegen",newWindowTooltip: "Dieser Link wird ein neues Fenster öffnen",unloadWarningMessage: "Dies stoppt die Wiedergabe",trackLoved: "Als Lieblingslied markiert",playbackStopped: "Wiedergabe gestoppt",loadingTrackInfo: "Titelinformationen werden geladen",errorLoadingTrackInfo: "Fehler beim Laden der Titelinformationen",emailLineup: "Per E-Mail senden",uploadMessages: {mayTakeLonger: "Dies kann leider ein bisschen länger dauern als gewöhnlich. Bitte warte ein paar Sekunden.",uploading: "Lade hoch...",endUploading: "Fertig",progressDisplay: "PERCENTUPLOADED% komplett (TRANSFERRATE kb/s) – TIMEREMAINING verbleibende Sekunden",progressComplete: "100% komplett",failedRetrying: "Konnte Upload nicht noch einmal versuchen.",processingMedia: "Processing media…",unsupportedFormat: "Sorry, the file you uploaded isn’t encoded in a supported format. Please try again.",uploadError: "There was an error uploading your video, please verify that the file you are uploading is not too large or of an incorrect format and try again."},shortMonths: {'1': "Jan",'2': "Feb",'3': "Mär",'4': "Apr",'5': "Mai",'6': "Jun",'7': "Jul",'8': "Aug",'9': "Sep",'10': "Okt",'11': "Nov",'12': "Dez"},resTypePlural: {29: "Events",6: "Künstler",8: "Alben",9: "Titel",20: "Gruppen",32: "Tags",4: "Benutzer","friends":   "Freunde",10: "Labels"}});LFM.set("Element", {icon_loved_indicator: "<img class=\"icon loved_indicator_icon\" width=\"11\" height=\"9\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_tag: "<img class=\"icon tag_icon\" width=\"14\" height=\"14\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_dismiss: "<img class=\"icon dismiss_icon\" width=\"16\" height=\"16\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" style=\"\" \/>",icon_play: "<img class=\"transparent_png play_icon\" width=\"13\" height=\"13\" alt=\"Spielen\" src=\"http:\/\/cdn.last.fm\/flatness\/preview\/play_indicator.png\" style=\"\" \/>"});
+        LFM.AdPlacements = ["beacon","interstitial","skin","leaderboard","mpu","widerelatedcontent","middleleaderboard","lowermpu","lowerleaderboard"];
+</script>
+
+
+<script data-main="http://cdn.last.fm/javascript/javascript/232025/modules-built/init" src="http://cdn.last.fm/javascript/javascript/232025/lib/requirejs/require-min.js"></script>
+
+    <script src="http://cdn.last.fm/javascript/javascript/232025/components.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/dialog.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/form/typeahead.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/lib/uuid.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/232025/lib/modernizr.js"></script>
+
+<script>
+
+LFM.Page.Tracker = new LFM.Analytics.Tracker('Music/Artist/Overview', window.location.host);
+
+document.observe('dom:loaded', function() {
+
+    LFM.Page.Tracker.bindOutboundLinkListener();
+    LFM.Page.Tracker.bindEventListener();
+
+});
+
+</script>
+
+
+    
+    <script>document.observe("dom:loaded", function () { if (typeof ieHover !== 'undefined') ieHover.setUp(); });</script>
+
+    <script data-require="googleanalytics">LFM.Analytics = LFM.Analytics || {};LFM.Analytics.Helpers = {webhost:"www.lastfm.de",registrationStatus:"LoggedOut",visitorStatus: "Anonymous",artistNameString:"Jimi Hendrix",transformedUrl:"music/artist/overview"}</script></head>
+
+
+
+<!--[if lt IE 7 !> <body class="r-artist a-overview lfmRed lang-de theme-whittle ie ie6"> <!endif]-->
+<!--[if IE 7 !> <body class="r-artist a-overview lfmRed lang-de theme-whittle ie ie7"> <!endif]-->
+<!--[if IE 8 !> <body class="r-artist a-overview lfmRed lang-de theme-whittle ie ie8"> <!endif]-->
+<!--[if IE 9 !> <body class="r-artist a-overview lfmRed lang-de theme-whittle ie ie9"> <!endif]-->
+<!--[if (gt IE 9)|!(IE)!><!--> <body class="r-artist a-overview lfmRed  lang-de theme-whittle" > <!--<![endif]-->
+<script>var WRInitTime = +new Date();</script>
+<div class="page-hack" id="page"></div> <div class=" page-wrapper">
+<div class="LastAd ad-beacon inactive" data-ad-collapsible="" data-ad-placement="beacon" data-ad-static="" data-require="ads/staticadslot" id="LastAd_beacon">
+<span>
+<script>
+
+
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+(function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+
+</script>
+<script>
+    
+    var googleSlots = { };
+    var googleDisplayed = false;
+    
+
+    googletag.cmd.push(function() {
+        var unitName = "/8264/aw-lastfm/music/artist/overview",
+            isVR = false,
+            isDynamic = false,
+            isAnonHome = false;
+    
+
+    function hasPlacement(placement) {
+        return LFM.AdPlacements.indexOf(placement) >= 0;
+    };
+
+    var leaderboardSizes = [[728,90],[970,66],[970,90],[860,55]];
+    // The leaderboard slot height is fixed at 90px when using dynamic ads,
+    // showing a taller leaderboard would cause the page to jump, so we don't request them
+    if ( ! isDynamic) {
+        leaderboardSizes.push([880,150],[880,170],[880,200],[900,150],[900,250],[970,200],[970,250],[860,250],[980,250]);
+    }
+
+    if (hasPlacement('leaderboard')) {
+        googleSlots['leader_top'] = googletag.defineSlot(unitName, leaderboardSizes, "leader_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    var mpuSizes = [[300,250],[138,108]] ;
+    if (! isAnonHome) {
+        mpuSizes.push([300,600]);
+    }
+
+    var lowerMpuSizes = [[300,250]];
+
+    if (hasPlacement('mpu')) {
+        googleSlots['mpu_top'] = googletag.defineSlot(unitName, mpuSizes, "mpu_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    if (hasPlacement('lowermpu')) {
+        googleSlots['mpu_bottom'] = googletag.defineSlot(unitName, lowerMpuSizes, "mpu_bottom")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "bottom");
+    }
+
+    if (hasPlacement('skin')) {
+        googleSlots['skin'] = googletag.defineSlot(unitName, [1600,1000], "skin")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    if (hasPlacement('interstitial')) {
+        googleSlots['intromercial'] = googletag.defineOutOfPageSlot(unitName, "intromercial")
+        .addService(googletag.pubads());
+    }
+
+    var lowerLeaderboardSizes = [[728,90],[970,90],[860,55],[880,150],[880,170],[880,200],[900,150]];
+    if (hasPlacement('lowerleaderboard')) {
+        googleSlots['leader_bottom'] = googletag.defineSlot(unitName, lowerLeaderboardSizes, "leader_bottom")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "bottom");
+    }
+
+    if (hasPlacement('sky')) {
+        googleSlots['sky_top'] = googletag.defineSlot(unitName, [160,600], "sky_top")
+        .addService(googletag.pubads())
+        .setTargeting("pos", "top");
+    }
+
+    // Collapse as soon as display() for the slot is reached and expand only when there is an ad
+    // i.e. no flickering
+    googletag.pubads().collapseEmptyDivs(true);
+
+    if ( ! isVR) {
+        googletag.pubads().enableSingleRequest();    
+
+        if ( ! isDynamic) {
+            googletag.pubads().enableSyncRendering();    
+        }
+    }
+
+    if (screen.width >= 1280) {
+        googletag.pubads().setTargeting("inskin", "yes");
+    }
+
+    
+
+            googletag.pubads().setTargeting("ar", "jimihendrix,thejimihendrixexperience,ledzeppelin,thedoors,cream,stevierayvaughan,bigbrother&theholdingcompany,janisjoplin,ericclapton,deeppurple,jeffersonairplane");
+            googletag.pubads().setTargeting("tag", "classicrock,rock,blues,psychedelic,guitar,psychedelicrock,60s,bluesrock,hardrock,jimihendrix");
+            googletag.pubads().setTargeting("geo", "US");
+            googletag.pubads().setTargeting("lang", "de");
+            googletag.pubads().setTargeting("res", "1223");
+            googletag.pubads().setTargeting("ontourinusercountry", "1");
+            googletag.pubads().setTargeting("established", "1");
+    
+    LFM.viewGuid = LFM.viewGuid ? LFM.viewGuid : uuid();
+    googletag.pubads().setTargeting("vguid", LFM.viewGuid);
+
+    googletag.enableServices();
+    
+
+  });
+
+</script>
+</span>
+</div>
+<div class="LastAd ad-interstitial inactive" data-ad-collapsible="" data-ad-placement="interstitial" data-ad-static="" data-require="ads/staticadslot" id="LastAd_interstitial">
+<span>
+<div id="intromercial">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("intromercial"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<div class="LastAd ad-skin inactive" data-ad-collapsible="" data-ad-placement="skin" data-ad-static="" data-require="ads/staticadslot" id="LastAd_skin">
+<span>
+<div id="skin">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("skin"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<div class="LastAd ad-leaderboard inactive" data-ad-collapsible="" data-ad-placement="leaderboard" data-ad-static="" data-require="ads/staticadslot" id="LastAd_leaderboard">
+<span>
+<div id="leader_top">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("leader_top"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<div class="masthead-wrapper">
+<header class="masthead" role="banner">
+<h1>
+<a class="ir lastfm-logo" href="/">
+                Last.fm
+            </a>
+</h1>
+<form action="/search" class=" site-search search-autocomplete search-autocomplete--main " data-require="search/sitesearch" data-template="search" data-url="/search/autocomplete" method="get" role="search">
+<fieldset>
+<legend class="rm">Suche auf der Seite</legend>
+<input autocomplete="off" autocorrect="off" class="js-search search-box" name="q" placeholder="Musiksuche" size="26" type="text"/>
+<div class="js-search-progress search-progress ir">Lädt</div>
+<input name="from" type="hidden" value="ac"/>
+<button class="search-submit icon iconleft iconleft--search" title="Suchen" type="submit"></button>
+</fieldset>
+</form>
+<nav role="navigation">
+<ul class="primary-nav remove-bottom-margin">
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/music">Musik</a>
+</li>
+<li class="primary-nav-item" id="listenNav">
+<a class="primary-nav-link" href="/listen">Hören</a>
+</li>
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/events">Events</a>
+</li>
+<li class="primary-nav-item">
+<a class="primary-nav-link" href="/charts">Charts</a>
+</li>
+</ul>
+<div class="masthead-right" role="navigation">
+<a class="join" data-analytics-action="SignUpClick" data-analytics-label="Header" href="/join">Registrieren</a>
+<a class="btn btn--small btn--header btn--rounded login" href="/login" id="login-link">Einloggen</a>
+</div>
+</nav>
+</header>
+<link href="//embed.spotify.com/static/css/mediabar/mediabar-lastfm.css" rel="stylesheet" type="text/css"/>
+<div class="persistent-bar">
+<div class="spotify-mediabar-wrapper">
+<div class="spotify-mediabar" data-require="spotify/spotifymediabar" id="spotify-mediabar"></div>
+</div>
+<a class="spotify-mediabar-feedback" data-lab-name="spotifyplayback" data-require="labfeedbackbutton" href="#">
+<span class="beta-badge">Beta</span> Feedback
+    </a>
+</div>
+<div data-require="spotify/signupcompletemodal" id="spotify-signup-complete-modal">
+<div class="sparse-modal js-modal"></div>
+</div>
+<div class="needs-js" data-modal-open="" data-require="start/modal">
+<div class="sparse-modal js-modal" data-require="autodismissanoncta">
+<div class="sparse-modal-scroll">
+<div class="sparse-modal-content anon-cta anon-cta--bold anon-cta--popup align-center">
+<h2>Entdecke neue Musik</h2>
+<p class="add-bottom-margin">Last.fm ist ein Service zum Entdecken neuer Musik, der dir personalisierte Empfehlungen auf Basis deiner gespielten Musik gibt.</p>
+<a class="anon-cta-button anon-cta-button--big" href="/join">Starte dein Last.fm-Profil</a>
+<a class=" sparse-modal-close js-close btn btn--rounded btn--icon-only btn--small iconleft iconleft--delete " href="#close">Fenster schließen</a>
+</div>
+</div>
+</div>
+</div> </div>
+<article class="content artist-overview" data-require="music/artistpage" itemscope="" itemtype="http://schema.org/MusicGroup">
+<header class=" page-head without-crumbtrail without-image clearit ">
+<h1 itemprop="name">
+        Jimi Hendrix    </h1>
+<nav class="secondary-nav" data-require="secondarynav" role="navigation">
+<ul class="visible-menu">
+<li class=" first "><a href="/music/Jimi+Hendrix/+tracks">Titel</a></li> <li><a href="/music/Jimi+Hendrix/+albums">Alben</a></li>
+<li><a href="/music/Jimi+Hendrix/+images">Bilder</a></li>
+<li><a href="/music/Jimi+Hendrix/+videos">Videos</a></li>
+<li><a href="/music/Jimi+Hendrix/+events">Events</a></li>
+<li><a href="/music/Jimi+Hendrix/+wiki">Biografie</a></li>
+<li><a href="/music/Jimi+Hendrix/+similar">Ähnliche Künstler</a></li> <li><a href="/music/Jimi+Hendrix/+charts">Charts</a></li> <li><a href="/music/Jimi+Hendrix/+tags">Tags</a></li> <li><a href="/music/Jimi+Hendrix/+listeners">Hörer</a></li> <li><a href="/music/Jimi+Hendrix/+journal">Blog</a></li> <li><a href="/music/Jimi+Hendrix/+news">News</a></li> <li><a href="/music/Jimi+Hendrix/+groups">Gruppen</a></li>
+</ul> <div class="drop-down-menu more">
+<a class="menu-toggle" href="#">Mehr…</a>
+<ul class="hidden-menu"></ul>
+</div></nav></header>
+<div class="r artist-header">
+<section class="g8 artist-images">
+<div class="widget widget-music/heroimage" data-require="music/heroimage" data-template="resourceimages/herosidekick_images" data-url="/music/Jimi+Hendrix/+modules/herosidekickimages"> <div class="resource-images">
+<h2 class="rm">Bilder</h2>
+<a class="hero-image hero-image--landscape" href="/music/Jimi+Hendrix/+images/24824871" style="background-image: url(http://userserve-ak.last.fm/serve/_/24824871/Jimi+Hendrix+H+e+n+d+r+i+x.png)" title="Bild hochgeladen von ChrisSabbath">
+<img alt="H e n d r i x" itemprop="image" src="http://userserve-ak.last.fm/serve/_/24824871/Jimi+Hendrix+H+e+n+d+r+i+x.png"/>
+</a>
+<ul class="remove-bottom-margin sidekick-images">
+<li class="sidekick-wrapper primary-sidekick">
+<a class="sidekick-image sidekick-image--profile" href="/music/Jimi+Hendrix/+images/5561046" style="background-image: url(http://userserve-ak.last.fm/serve/252/5561046.jpg)" title="Bild hochgeladen von junichi68">
+<img alt="j-hendrix1" src="http://userserve-ak.last.fm/serve/252/5561046.jpg"/>
+</a>
+</li>
+<li class="sidekick-wrapper secondary-sidekick">
+<a class="sidekick-image sidekick-image--profile" href="/music/Jimi+Hendrix/+images/439251" style="background-image: url(http://userserve-ak.last.fm/serve/252/439251.jpg)">
+<img alt="" src="http://userserve-ak.last.fm/serve/252/439251.jpg"/>
+</a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="" data-image-src="http://userserve-ak.last.fm/serve/252/28204265.jpg" href="/music/Jimi+Hendrix/+images/28204265"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="" data-image-src="http://userserve-ak.last.fm/serve/252/158099.jpg" href="/music/Jimi+Hendrix/+images/158099" title="Bild hochgeladen von fugacu"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="" data-image-src="http://userserve-ak.last.fm/serve/252/87002.jpg" href="/music/Jimi+Hendrix/+images/87002" title="Bild hochgeladen von thinworlds"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="" data-image-src="http://userserve-ak.last.fm/serve/252/54838.jpg" href="/music/Jimi+Hendrix/+images/54838"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="" data-image-src="http://userserve-ak.last.fm/serve/252/388933.jpg" href="/music/Jimi+Hendrix/+images/388933" title="Bild hochgeladen von blinddogg"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="" data-image-src="http://userserve-ak.last.fm/serve/252/83921.jpg" href="/music/Jimi+Hendrix/+images/83921" title="Bild hochgeladen von patriciaj102"></a>
+</li>
+<li class="additional-image">
+<a class="sidekick-image sidekick-image--profile" data-image-alt="hendrix_burning_guitar" data-image-src="http://userserve-ak.last.fm/serve/252/5989620.jpg" href="/music/Jimi+Hendrix/+images/5989620" title="Bild hochgeladen von dreamsequence"></a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+<section class="g4 artist-actions remove-bottom-margin">
+<div class="r r--reverse">
+<div class="g4 artist-action-area">
+<h2 class="rm">Anhören, kaufen oder teilen</h2>
+<div class=" user-actions with-station-button" data-require="music/actionarea">
+<div class="user-actions-btn-wrap user-actions-btn-wrap--add">
+<button class=" btn btn--icon-only btn--primary iconleft iconleft--add js-add " title="Zu Musiksammlung hinzufügen">
+                Zu Musiksammlung hinzufügen
+            </button>
+</div>
+<div class="user-actions-btn-wrap user-actions--play">
+<a class="stationbutton btn iconleft iconleft--play btn--primary" data-analytics-action="PlayRadioButton" data-analytics-label="artist" href="/listen/artist/Jimi%2BHendrix/similarartists">Ähnliche Künstler</a>
+</div>
+</div>
+<section class="ecommerce-actions">
+<h3 class="rm">Kaufen</h3>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--primary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Artist|DirectDownload" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn iconleft iconleft--ecommerce has-retailer-icon " data-analytics-action="Buy|Direct" data-analytics-label="Artist|Amazon" href="http://www.lastfm.de/affiliate/byid/6/1223/44/artist-overview-top-callout" rel="nofollow">
+                
+    
+                    Bei Amazon kaufen
+        
+        
+                    <img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+</img></a>
+<a class=" needs-js btn dropdown-btn btn--icon-only menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Artist|Amazon" href="http://www.lastfm.de/affiliate/byid/6/1223/44/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Artist|7digital" href="http://www.lastfm.de/affiliate/byid/6/1223/13/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Artist|iTunes" href="http://www.lastfm.de/affiliate/byid/6/1223/24/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Artist|Amazon" href="http://www.lastfm.de/affiliate/byid/6/1223/1/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Artist|eBay" href="http://www.lastfm.de/affiliate/byid/6/1223/90/artist-overview-top-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </section>
+<section class="share-wrapper">
+<h3 class="rm">Weiterleiten</h3>
+<div class="dropdown-btn-wrapper needs-js" data-dropdownmenu-analytics-action="ShareShowOptions" data-require="dropdownmenu">
+<a class="btn iconleft iconleft--share dropdown-btn menu-toggle iconright iconright--dropdown" href="#share">
+        Weiterleiten
+        <div class="social-icons-wrapper">
+<span class="social-btn social-btn--facebook"></span>
+<span class="social-btn social-btn--twitter"></span>
+<span class="social-btn social-btn--google"></span>
+</div>
+</a>
+<ul class="hidden-menu dropdown-btn-menu">
+<li>
+<a class="dropdown-btn-menu-item social-btn social-btn--facebook" data-analytics-redirect="false" data-analytics-social-action="post" data-analytics-social-network="facebook" data-analytics-social-restype="Artist" data-height="400" data-require="newwindow" data-width="580" data-window-url="https://www.facebook.com/dialog/feed?app_id=192959324047861&amp;link=http%3A%2F%2Fwww.lastfm.de%2Fmusic%2FJimi%2BHendrix&amp;ref=facebooklink&amp;redirect_uri=http://www.last.fm/facebook/share_popup_close&amp;display=popup" href="https://www.facebook.com/dialog/feed?app_id=192959324047861&amp;link=http%3A%2F%2Fwww.lastfm.de%2Fmusic%2FJimi%2BHendrix&amp;ref=facebooklink&amp;redirect_uri=http%3A%2F%2Fwww.last.fm%2Fredirect%2Fbnc%3Fbackto%3Dhttp%253A%252F%252Fwww.lastfm.de%252Fmusic%252FJimi%252BHendrix%26bnc_sig%3D3d295cd761ae498cbc92a84d365e2886" target="_blank">
+    Facebook</a> </li>
+<li>
+<a class="dropdown-btn-menu-item social-btn social-btn--twitter" data-analytics-redirect="false" data-analytics-social-action="tweet" data-analytics-social-network="twitter" data-analytics-social-restype="Artist" data-height="253" data-require="newwindow" data-width="580" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.lastfm.de%2Fmusic%2FJimi%2BHendrix&amp;text=Sieh%20dir%20Jimi%20Hendrix%20an&amp;via=lastfm&amp;lang=de" target="_blank">
+    Twitter</a> </li>
+<li>
+<a class="dropdown-btn-menu-item social-btn social-btn--google" data-analytics-redirect="false" data-analytics-social-action="post" data-analytics-social-network="google" data-analytics-social-restype="Artist" data-height="400" data-require="newwindow" data-width="580" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.lastfm.de%2Fmusic%2FJimi%2BHendrix&amp;gpsrc=frameless" target="_blank">
+    Google+</a> </li>
+<li>
+<a class="dropdown-btn-menu-item social-btn social-btn--email" data-require="sendbutton" href="/music/Jimi+Hendrix">
+    E-Mail</a>
+</li>
+</ul>
+</div> </section> </div>
+<div class="g4 artist-stats-area">
+<div class="media media--overflow-visible music-resource-stats" data-require="music/artiststatsarea">
+<meta content="UserPlays:61433690" itemprop="interactionCount"/>
+<ul class="media-body">
+<li class="scrobbles">
+<b data-count="61433690">61.433.690</b>
+<div class="lite">Scrobbels</div>
+</li>
+<li class="listeners">
+<b data-count="2454354" id="listenerCount">2.454.354</b> <div class="lite">Hörer</div>
+</li>
+</ul>
+<section class="memo listener-details listener-details--listening-now remove-bottom-margin ">
+<ul>
+<li class="media remove-bottom-margin listener-details-user">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/adileg" title="Adil, 39, Männlich, Italien"> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/51322913.jpg" width="64"/></span> </a> <span class="media-body">
+<a class="media-link-reference" href="/user/adileg" title="Adil, 39, Männlich, Italien">adileg</a> hört
+                                          <em>
+<a href="/music/Jimi+Hendrix">Jimi Hendrix</a> – <a href="/music/Jimi+Hendrix/_/Burning+of+the+Midnight+Lamp">Burning of the Midnight Lamp</a> </em>
+</span>
+</li>
+<li class="media remove-bottom-margin listener-details-user" style="display:none;">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/bagusrizky" title=""> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <img capture="clienticon" class="icon ss-itunes_icon ss_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/><span class="source"><a href="/download">iTunes</a></span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/bagusrizky" title="">bagusrizky</a> hört
+                                          <em>
+<a href="/music/Jimi+Hendrix">Jimi Hendrix</a> – <a href="/music/Jimi+Hendrix/_/Little+Wing">Little Wing</a> </em>
+</span>
+</li>
+<li class="media remove-bottom-margin listener-details-user" style="display:none;">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/vasjata" title="Toivo, 46, Männlich, Estland"> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/76820920.jpg" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <img capture="clienticon" class="icon ss-spotify_icon ss_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/><span class="source"><a href="http://www.spotify.com/">Spotify</a></span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/vasjata" title="Toivo, 46, Männlich, Estland">vasjata</a> hört
+                                          <em>
+<a href="/music/Jimi+Hendrix">Jimi Hendrix</a> – <a href="/music/Jimi+Hendrix/_/Hey+Joe">Hey Joe</a> </em>
+</span>
+</li>
+<li class="media remove-bottom-margin listener-details-user" style="display:none;">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/Spikey96" title=""> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/97701609.jpg" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <span class="source"><a href="http://code.google.com/p/a-simple-lastfm-scrobbler/">Simple Last.fm Scrobbler</a></span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/Spikey96" title="">Spikey96</a> hört
+                                          <em>
+<a href="/music/Jimi+Hendrix">Jimi Hendrix</a> – <a href="/music/Jimi+Hendrix/_/Angel">Angel</a> </em>
+</span>
+</li>
+<li class="media remove-bottom-margin listener-details-user" style="display:none;">
+<a class="media-pull-left media-link-hook user-image-link" href="/user/Sh4tteR" title="Pavel , 20, Männlich, Russische Föderation"> <span class="userImage"><img alt="" class="user-image rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/96064519.jpg" width="64"/></span> <div class="scrobblesource"><img class="icon scrobbling_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/>Scrobbelt gerade von <img capture="clienticon" class="icon ss-lfm_icon ss_icon" height="16" src="http://cdn.last.fm/flatness/clear.gif" style="" width="16"/><span class="source"><a href="/download#content_desktop">Last.fm-Scrobbler</a></span></div>
+</a> <span class="media-body">
+<a class="media-link-reference" href="/user/Sh4tteR" title="Pavel , 20, Männlich, Russische Föderation">Sh4tteR</a> hört
+                                          <em>
+<a href="/music/Jimi+Hendrix">Jimi Hendrix</a> – <a href="/music/Jimi+Hendrix/_/Crosstown+Traffic">Crosstown Traffic</a> </em>
+</span>
+</li>
+</ul>
+</section>
+</div> </div>
+</div>
+</section>
+</div>
+<div class="r">
+<div class="g8">
+<section>
+<h2 class="rm">Tags</h2>
+<section class="global-tags">
+<h3 class="rm">Die Tags von allen</h3>
+<ul class="tags ">
+<li>
+<a href="/tag/classic%20rock" rel="tag">classic rock</a></li> <li><a href="/tag/rock" rel="tag">rock</a></li> <li><a href="/tag/blues" rel="tag">blues</a></li> <li><a href="/tag/psychedelic" rel="tag">psychedelic</a></li> <li><a href="/tag/guitar" rel="tag">guitar</a> </li>
+</ul>
+<button class=" btn btn--brand-blue btn--small iconleft iconleft--tag btn--icon-only add-tag needs-js " data-require="tagbutton" title="Jimi Hendrix taggen">Jimi Hendrix taggen</button>
+<a class="more-tags" href="/music/Jimi+Hendrix/+tags">Mehr Tags</a>
+</section>
+</section>
+<section class="artist-wiki">
+<header>
+<hgroup>
+<h2 class="rm">Biografie</h2>
+<h3 class="remove-top-margin"><span class="locality">Seattle</span>, <span class="country-name">Vereinigte Staaten</span>    
+    (<span itemprop="foundingDate">1942</span> – 1970)</h3> </hgroup>
+</header>
+<div class="wiki">
+<div class="wiki-abstract" data-require="music/wiki" id="wikiAbstract">
+<div class="wiki-text">
+<a class="bbcode_artist" href="http://www.lastfm.de/music/+noredirect/James+Marshall+Hendrix">James Marshall Hendrix</a> wurde am 27. November 1942 in Seattle, Washington geboren und war ein amerikanischer Gitarrist und Sänger. Jimi Hendrix gilt wegen seiner experimentellen und innovativen Spielweise auf der E-Gitarre als einer der bedeutendsten Gitarristen und hatte nachhaltigen Einfluss auf die Entwicklung der Rockmusik. Gemeinsam mit seinen Bands, unter anderem <a class="bbcode_artist" href="http://www.lastfm.de/music/The+Jimi+Hendrix+Experience">The Jimi Hendrix Experience</a> und <a class="bbcode_artist" href="http://www.lastfm.de/music/Gypsy+Sun+&amp;+Rainbows">Gypsy Sun &amp; Rainbows</a>, trat er auf dem Monterey Pop Festival und dem Woodstock-Festival auf. Hendrix starb am 18. September 1970 in London im Alter von 27 Jahren.
+ <span class="hide"> <br/><br/> Nachrufzitate:<br/>
+<br/>
+ „Jimi Hendrix - a guy that plays the blues and freaks out occasionally“ - Eric Clapton<br/>
+ „Uhu… This is good“ - Paul McCartney <br/>
+ „He’s gonna put us all outta work, man…“ - Pete Townshend to Eric Clapton <br/>
+Kindheit und Jugend:<br/>
+<br/>
+Jimi Hendrix wurde am 27. November 1942 im General County Hospital in Seattle im US-Bundesstaat Washington als Sohn von <span class="bbcode_unknown" title="Unknown artist">James Allen Hendrix</span> und Lucille Jeter unter dem bürgerlichen Namen „<span class="bbcode_unknown" title="Unknown artist">John Allen Hendrix</span>“ geboren. Sein Vater war Afroamerikaner und seine Mutter indianisch-irischer Abstammung. James Allen Hendrix war zur Zeit der Geburt seines Sohnes gerade mit der US-Armee in Alabama stationiert. Nach seiner Entlassung im Jahr 1946 ließ er den Namen seines Sohnes in „James Marshall Hendrix“ ändern. James Allen und <span class="bbcode_unknown" title="Unknown artist">Lucille Hendrix</span> bekamen 1948 noch einen weiteren gemeinsamen Sohn namens <a class="bbcode_artist" href="http://www.lastfm.de/music/Leon+Hendrix">Leon Hendrix</a>, ließen sich aber 1950 scheiden. Jimi Hendrix wuchs fortan bei seinem Vater auf.
+ </span> </div>
+<div class="wiki-options">
+<a class="wiki-read-more" href="/music/Jimi+Hendrix/+wiki"> <span data-read-all="Alles lesen"> Erfahre mehr...
+ </span> </a> <a class="hide" href="/music/Jimi+Hendrix/+wiki/edit">Biografie bearbeiten</a> </div>
+</div>
+</div>
+</section>
+<section class="needs-js">
+<h2><a class="rm" data-analytics-action="VideoHeadingLink" href="/music/Jimi+Hendrix/+videos">Videos</a></h2>
+<div class="hero-video videos-on-dark" data-require="music/herovideo" id="hero-video">
+<div class="video">
+<div class="needs-js">
+<div class="clearit source-muzu" id="video-11081">
+<div data-require="video/muzu" data-video-src="//player.muzu.tv/player/getPlayer/i/343195/?vidId=2337490&amp;allowshare=n&amp;nl=y&amp;lfma=y&amp;partnerId=lf111&amp;jse=y&amp;sk=dontscrobble">
+<div class="wrapper" style="width: 620px; height: 355px;"></div>
+<div class="hero-video-info"><h3><a href="/music/Jimi+Hendrix/_/Purple+Haze">Purple Haze</a></h3><p>aus dem Album <a href="/music/Jimi+Hendrix/Are+You+Experienced%3F">Are You Experienced?</a></p><a class="hero-video-more-videos" href="/music/Jimi+Hendrix/+videos">Mehr Videos</a></div>
+</div></div><script>new LFM.Video.FullWidth('video-11081');</script> </div>
+</div>
+<ul class="clearit videos video-list" restypeclass="">
+<li class="source-muzu external first">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-1" href="/music/Jimi+Hendrix/_/The+Wind+Cries+Mary/+videos/+7-2337496" title="The Wind Cries Mary"> <img class="rounded" height="79" src="http://static3.muzu.tv/media/images/002/337/496/0001/2337496-thb5e.png" width="140"/>
+<div class="play-video">Spielen</div>
+                The Wind Cries…    </a>
+</li><li class="source-muzu external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-2" href="/music/Jimi+Hendrix/_/Red+House/+videos/+7-2337492" title="Red House"> <img class="rounded" height="79" src="http://static3.muzu.tv/media/images/002/337/492/0001/2337492-thb5e.png" width="140"/>
+<div class="play-video">Spielen</div>
+                Red House    </a>
+</li><li class="source-muzu external">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-3" href="/music/Jimi+Hendrix/_/Voodoo+Chile/+videos/+7-2337502" title="Voodoo Chile"> <img class="rounded" height="79" src="http://static3.muzu.tv/media/images/002/337/502/0001/2337502-thb5e.png" width="140"/>
+<div class="play-video">Spielen</div>
+                Voodoo Chile    </a>
+</li><li class="source-muzu external last">
+<a class="video-list-link js-video-switch" data-analytics-action="VideoThumbnail" data-analytics-label="Position-4" href="/music/Jimi+Hendrix/_/Star+Spangled+Banner/+videos/+7-2325784" title="Star Spangled Banner"> <img class="rounded" height="79" src="http://static3.muzu.tv/media/images/002/325/784/0004/2325784-thb5e.png" width="140"/>
+<div class="play-video">Spielen</div>
+                Star Spangled…    </a>
+</li>
+</ul></div>
+</section>
+</div>
+<div class="g4 g--padded artist-bio-sidebar">
+<div class="artist-ad-wrapper">
+<div class="LastAd ad-mpu inactive" data-ad-collapsible="" data-ad-placement="mpu" data-ad-static="" data-require="ads/staticadslot" id="LastAd_mpu">
+<span>
+<div id="mpu_top">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("mpu_top"); 
+        });
+    </script>
+</div>
+</span>
+</div> </div>
+<section class="artist-similar-sidebar">
+<aside class="similar-artists">
+<h2><a href="/music/Jimi+Hendrix/+similar">Ähnliche Künstler</a></h2>
+<ul class="r">
+<li class=" first g2 g--padded">
+<a class="similar-artist" href="/music/The+Jimi+Hendrix+Experience"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/105945.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/105945.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">The Jimi Hendrix Experience</span>
+</div>
+</div> </a>
+</li><li class=" g2 g--padded">
+<a class="similar-artist" href="/music/Led+Zeppelin"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/42469.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/42469.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Led Zeppelin</span>
+</div>
+</div> </a>
+</li><li class=" g2 g--padded">
+<a class="similar-artist" href="/music/The+Doors"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/18012809.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/18012809.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">The Doors</span>
+</div>
+</div> </a>
+</li><li class=" g2 g--padded">
+<a class="similar-artist" href="/music/Cream"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/33468219.png');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/33468219.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Cream</span>
+</div>
+</div> </a>
+</li><li class=" g2 g--padded">
+<a class="similar-artist" href="/music/Stevie+Ray+Vaughan"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/17691693.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/17691693.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Stevie Ray Vaughan</span>
+</div>
+</div> </a>
+</li><li class=" last g2 g--padded">
+<a class="similar-artist" href="/music/Big+Brother+&amp;+The+Holding+Company"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/126s/24569.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/126s/24569.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Big Brother &amp; The Holding Company</span>
+</div>
+</div> </a>
+</li>
+</ul> </aside>
+</section>
+</div>
+</div>
+<section class="artist-top-tracks" id="artist-top-tracks">
+<div class="module modulecharts modulechartstracks" data-placement="artist" data-require="affiliation/multiaffiliationarea" id="switcher529087">
+<h2 class="heading"><span class="h2Wrapper"><a href="/music/Jimi+Hendrix/+charts"> Top-Titel
+ </a></span></h2>
+<div class="horizontalOptions clearit">
+<ul>
+<li class=" current first chartweek"><a href="/music/Jimi+Hendrix/+charts?rangetype=week&amp;subtype=tracks"> Letzte Woche
+ </a></li> <li class="chart6month"><a href="/music/Jimi+Hendrix/+charts?rangetype=6month&amp;subtype=tracks">Letzte 6 Monate</a></li>
+</ul>
+</div><!-- .horizontalOptions -->
+<div class="module-body chart chartweek current" id="charts151984">
+<table class="candyStriped chart" odd="1">
+<tbody>
+<tr class="first odd" data-track-id="11067" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 1
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0GuQcX8wTe8bUZ72ZncR7m"></span>
+<meta content="PT5M40S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="All Along the Watchtower, 6.316 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Jimi+Hendrix/_/All+Along+the+Watchtower" itemprop="url">
+<meta content="Electric Ladyland" itemprop="inAlbum">
+<meta content="UserPlays:4.281.405" itemprop="interactionCount">
+<a href="/music/Jimi+Hendrix/_/All+Along+the+Watchtower"><span itemprop="name">All Along the Watchtower</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Jimi+Hendrix/_/All+Along+the+Watchtower"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:100%;"><span>6.316</span></div> </td>
+</tr><tr class="" data-track-id="11081" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 2
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:083qnM76rfn7mKDL5ps1Kb"></span>
+<meta content="PT4M23S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Purple Haze, 4.585 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Jimi+Hendrix/_/Purple+Haze" itemprop="url">
+<meta content="Are You Experienced?" itemprop="inAlbum">
+<meta content="UserPlays:3.740.618" itemprop="interactionCount">
+<a href="/music/Jimi+Hendrix/_/Purple+Haze"><span itemprop="name">Purple Haze</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Jimi+Hendrix/_/Purple+Haze"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:73%;"><span>4.585</span></div> </td>
+</tr><tr class="odd" data-track-id="11076" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 3
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0Cjb25Ok3LN0h7lzI9D8VA"></span>
+<meta content="PT4M32S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Hey Joe, 3.901 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Jimi+Hendrix/_/Hey+Joe" itemprop="url">
+<meta content="Are You Experienced?" itemprop="inAlbum">
+<meta content="UserPlays:3.229.801" itemprop="interactionCount">
+<a href="/music/Jimi+Hendrix/_/Hey+Joe"><span itemprop="name">Hey Joe</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Jimi+Hendrix/_/Hey+Joe"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:62%;"><span>3.901</span></div> </td>
+</tr><tr class="" data-track-id="11078" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 4
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0Lv8tGOt6fUx1Iur3m4DKh"></span>
+<meta content="PT3M6S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Little Wing, 2.601 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Jimi+Hendrix/_/Little+Wing" itemprop="url">
+<meta content="AXIS: Bolder Than Love" itemprop="inAlbum">
+<meta content="UserPlays:2.327.623" itemprop="interactionCount">
+<a href="/music/Jimi+Hendrix/_/Little+Wing"><span itemprop="name">Little Wing</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Jimi+Hendrix/_/Little+Wing"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:41%;"><span>2.601</span></div> </td>
+</tr><tr class="odd" data-track-id="11086" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 5
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:00a4rg1SuBitpVDMhFamrm"></span>
+<meta content="PT13M40S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Voodoo Child (Slight Return), 2.335 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Jimi+Hendrix/_/Voodoo+Child+(Slight+Return)" itemprop="url">
+<meta content="Electric Ladyland" itemprop="inAlbum">
+<meta content="UserPlays:1.409.048" itemprop="interactionCount">
+<a href="/music/Jimi+Hendrix/_/Voodoo+Child+(Slight+Return)"><span itemprop="name">Voodoo Child (Slight Return)</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Jimi+Hendrix/_/Voodoo+Child+(Slight+Return)"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:37%;"><span>2.335</span></div> </td>
+</tr><tr class="" data-track-id="11074" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 6
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:01JzDfEbf7VYn5g9M20PkU"></span>
+<meta content="PT3M45S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Foxy Lady, 2.317 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Jimi+Hendrix/_/Foxy+Lady" itemprop="url">
+<meta content="Are You Experienced?" itemprop="inAlbum">
+<meta content="UserPlays:2.956.428" itemprop="interactionCount">
+<a href="/music/Jimi+Hendrix/_/Foxy+Lady"><span itemprop="name">Foxy Lady</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Jimi+Hendrix/_/Foxy+Lady"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:37%;"><span>2.317</span></div> </td>
+</tr><tr class="odd" data-track-id="13384" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 7
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:05aAXFtxMmmrUdyd1pdTRo"></span>
+<meta content="PT3M31S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="The Wind Cries Mary, 1.948 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Jimi+Hendrix/_/The+Wind+Cries+Mary" itemprop="url">
+<meta content="Are You Experienced?" itemprop="inAlbum">
+<meta content="UserPlays:2.198.577" itemprop="interactionCount">
+<a href="/music/Jimi+Hendrix/_/The+Wind+Cries+Mary"><span itemprop="name">The Wind Cries Mary</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Jimi+Hendrix/_/The+Wind+Cries+Mary"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:31%;"><span>1.948</span></div> </td>
+</tr><tr class="" data-track-id="11082" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 8
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:03yOfBJXGQv386B19dwBZm"></span>
+<meta content="PT5M24S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Red House, 1.594 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Jimi+Hendrix/_/Red+House" itemprop="url">
+<meta content="Are You Experienced" itemprop="inAlbum">
+<meta content="UserPlays:1.939.150" itemprop="interactionCount">
+<a href="/music/Jimi+Hendrix/_/Red+House"><span itemprop="name">Red House</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Jimi+Hendrix/_/Red+House"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:25%;"><span>1.594</span></div> </td>
+</tr><tr class="odd" data-track-id="11073" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 9
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0EIFtlTG3pmjEJKrzbBrzI"></span>
+<meta content="PT3M42S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Fire, 1.542 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Jimi+Hendrix/_/Fire" itemprop="url">
+<meta content="Are You Experienced?" itemprop="inAlbum">
+<meta content="UserPlays:2.124.837" itemprop="interactionCount">
+<a href="/music/Jimi+Hendrix/_/Fire"><span itemprop="name">Fire</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Jimi+Hendrix/_/Fire"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:24%;"><span>1.542</span></div> </td>
+</tr><tr class="" data-track-id="11071" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 10
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:0NsPRrx4TU4a9HA1RVh179"></span>
+<meta content="PT2M16S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Crosstown Traffic, 1.488 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Jimi+Hendrix/_/Crosstown+Traffic" itemprop="url">
+<meta content="Electric Ladyland" itemprop="inAlbum">
+<meta content="UserPlays:1.417.358" itemprop="interactionCount">
+<a href="/music/Jimi+Hendrix/_/Crosstown+Traffic"><span itemprop="name">Crosstown Traffic</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Jimi+Hendrix/_/Crosstown+Traffic"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:24%;"><span>1.488</span></div> </td>
+</tr><tr class="odd" data-track-id="13372" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 11
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:1KDMcygBCEmjPjwcmq4288"></span>
+<meta content="PT2M46S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Castles Made Of Sand, 1.244 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Jimi+Hendrix/_/Castles+Made+Of+Sand" itemprop="url">
+<meta content="The Ultimate Experience" itemprop="inAlbum">
+<meta content="UserPlays:1.250.156" itemprop="interactionCount">
+<a href="/music/Jimi+Hendrix/_/Castles+Made+Of+Sand"><span itemprop="name">Castles Made Of Sand</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Jimi+Hendrix/_/Castles+Made+Of+Sand"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:20%;"><span>1.244</span></div> </td>
+</tr><tr class="" data-track-id="11079" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 12
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:02PMeNYNWgtEBqveTihYbJ"></span>
+<meta content="PT3M43S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Manic Depression, 1.010 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Jimi+Hendrix/_/Manic+Depression" itemprop="url">
+<meta content="Are You Experienced?" itemprop="inAlbum">
+<meta content="UserPlays:1.185.575" itemprop="interactionCount">
+<a href="/music/Jimi+Hendrix/_/Manic+Depression"><span itemprop="name">Manic Depression</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Jimi+Hendrix/_/Manic+Depression"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:20%;"><span>1.010</span></div> </td>
+</tr><tr class="odd" data-track-id="13370" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 13
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:03V76BC54TdmRq3YQEekle"></span>
+<meta content="PT12M56S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Stone Free, 784 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Jimi+Hendrix/_/Stone+Free" itemprop="url">
+<meta content="Are You Experienced?" itemprop="inAlbum">
+<meta content="UserPlays:1.093.773" itemprop="interactionCount">
+<a href="/music/Jimi+Hendrix/_/Stone+Free"><span itemprop="name">Stone Free</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Jimi+Hendrix/_/Stone+Free"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:20%;"><span>784</span></div> </td>
+</tr><tr class="" data-track-id="13360" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 14
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:16AAYFEuQujBSfOQZIaOnu"></span>
+<meta content="PT4M22S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Angel, 722 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Jimi+Hendrix/_/Angel" itemprop="url">
+<meta content="Experience Hendrix: The Best of Jimi Hendrix" itemprop="inAlbum">
+<meta content="UserPlays:1.074.837" itemprop="interactionCount">
+<a href="/music/Jimi+Hendrix/_/Angel"><span itemprop="name">Angel</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Jimi+Hendrix/_/Angel"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:20%;"><span>722</span></div> </td>
+</tr><tr class="last odd" data-track-id="11069" itemprop="tracks" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="positionCell">
+ 15
+ </td>
+<td class="playbuttonCell">
+<span class="spotify-inline-play-button inline-play-button" data-uri="spotify:track:020MhUvox3ySBbUrdSH2c5"></span>
+<meta content="PT4M7S" itemprop="duration"> </meta></td>
+<td class="subjectCell" title="Bold As Love, 682 Hörer">
+<div>
+<meta content="http://www.lastfm.de/music/Jimi+Hendrix/_/Bold+As+Love" itemprop="url">
+<meta content="AXIS: Bolder Than Love" itemprop="inAlbum">
+<meta content="UserPlays:800.575" itemprop="interactionCount">
+<a href="/music/Jimi+Hendrix/_/Bold+As+Love"><span itemprop="name">Bold As Love</span></a>
+</meta></meta></meta></div>
+</td>
+<td class="lovedCell">
+</td>
+<td class="multibuttonCell">
+<a class=" mAddToLibrary mSend mAddTags mAddToPlaylist mBuy lfmButton lfmMultiButton lfmButtonFortrack lfmSmallButton lfmSmallMultiButton lfmMultiButtonFull " forcelink="1" href="/music/Jimi+Hendrix/_/Bold+As+Love"><span></span></a> </td>
+<td class="chartbarCell">
+<div class="chartbar" style="width:20%;"><span>682</span></div> </td>
+</tr>
+</tbody>
+</table> <div class="moduleOptions">
+<a class="btn iconleft iconleft--ecommerce btn--small needs-js js-multi-affiliation-button add-bottom-margin" data-target-id="charts151984" href="#buyall">
+ Alle Titel bei Amazon MP3 kaufen
+ </a>
+<a href="/music/Jimi+Hendrix/+charts?rangetype=week&amp;subtype=tracks">Mehr anzeigen</a> </div>
+</div>
+</div><!-- #chartsswitcher529087 -->
+<script>
+ if (!LFM.Page || !LFM.Page.ChartSwitchers) LFM.set("Page", {ChartSwitchers: {}});
+ LFM.Page.ChartSwitchers["switcher529087"] = new LFM.Charts.Switch("switcher529087", {
+ restype: 6,
+ resid: 1223,
+ name: 'charts',
+ type: 'tracks'
+ });
+</script>
+</section>
+<section class="artist-top-albums">
+<h2><a href="/music/Jimi+Hendrix/+albums">Top-Alben</a></h2>
+<ul class="albums r album-list album-list--compact" nthchildren="1">
+<li class=" first item-1 item-2n-plus-1 item-3n-plus-1 item-4n-plus-1 g3 album-list-item ">
+<section class="r album-item " itemscope="" itemtype="http://schema.org/MusicAlbum">
+<meta content="Experience Hendrix: The Best of Jimi Hendrix" itemprop="name"/>
+<meta content="http://userserve-ak.last.fm/serve/300x300/99806763.jpg" itemprop="image"/>
+<a class="g3 album-item-cover link-hook" href="/music/Jimi+Hendrix/Experience+Hendrix:+The+Best+of+Jimi+Hendrix" itemprop="url"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/300x300/99806763.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/300x300/99806763.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Experience Hendrix: The Best of Jimi Hendrix</span>
+<br/>
+<span class="text-over-image-text text-over-image-text--secondary">658.952 Hörer</span>
+</div>
+</div> </a> <div class="g3 album-item-details link-reference-container">
+<div class="album-item-detail-wrapper">
+<span itemprop="numTracks">43</span> Titel                    <br/>
+</div>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--secondary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Album|DirectDownload" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn btn--small iconleft iconleft--ecommerce " data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/1632/44/artist-overview-album-callout" rel="nofollow">
+                
+    
+                    Amazon MP3
+        
+        
+            
+            </a>
+<a class=" needs-js btn dropdown-btn btn--icon-only btn--small menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu dropdown-btn-menu--small hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/1632/44/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon MP3" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon MP3
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $11.99
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|7digital" href="http://www.lastfm.de/affiliate/byid/8/1632/13/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $11.99
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|iTunes" href="http://www.lastfm.de/affiliate/byid/8/1632/24/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $7.99
+                                                                            </span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon" href="http://www.lastfm.de/affiliate/byid/8/1632/1/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $3.01
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|eBay" href="http://www.lastfm.de/affiliate/byid/8/1632/90/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </div>
+</section>
+</li><li class=" item-2 g3 album-list-item ">
+<section class="r album-item " itemscope="" itemtype="http://schema.org/MusicAlbum">
+<meta content="Electric Ladyland" itemprop="name"/>
+<meta content="http://userserve-ak.last.fm/serve/300x300/103540625.png" itemprop="image"/>
+<a class="g3 album-item-cover link-hook" href="/music/Jimi+Hendrix/Electric+Ladyland" itemprop="url"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/300x300/103540625.png');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/300x300/103540625.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Electric Ladyland</span>
+<br/>
+<span class="text-over-image-text text-over-image-text--secondary">584.036 Hörer</span>
+</div>
+</div> </a> <div class="g3 album-item-details link-reference-container">
+<div class="album-item-detail-wrapper">
+<span itemprop="numTracks">16</span> Titel                    <br/>
+</div>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--secondary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Album|DirectDownload" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn btn--small iconleft iconleft--ecommerce " data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/8376/44/artist-overview-album-callout" rel="nofollow">
+                
+    
+                    Amazon MP3
+        
+        
+            
+            </a>
+<a class=" needs-js btn dropdown-btn btn--icon-only btn--small menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu dropdown-btn-menu--small hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/8376/44/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon MP3" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon MP3
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|7digital" href="http://www.lastfm.de/affiliate/byid/8/8376/13/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|iTunes" href="http://www.lastfm.de/affiliate/byid/8/8376/24/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon" href="http://www.lastfm.de/affiliate/byid/8/8376/1/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $32.45
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|eBay" href="http://www.lastfm.de/affiliate/byid/8/8376/90/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </div>
+</section>
+</li><li class=" item-3 item-2n-plus-1 g3 album-list-item ">
+<section class="r album-item " itemscope="" itemtype="http://schema.org/MusicAlbum">
+<meta content="Are You Experienced" itemprop="name"/>
+<meta content="http://userserve-ak.last.fm/serve/300x300/103149557.png" itemprop="image"/>
+<a class="g3 album-item-cover link-hook" href="/music/Jimi+Hendrix/Are+You+Experienced" itemprop="url"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/300x300/103149557.png');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/300x300/103149557.png"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Are You Experienced</span>
+<br/>
+<span class="text-over-image-text text-over-image-text--secondary">151.865 Hörer</span>
+</div>
+</div> </a> <div class="g3 album-item-details link-reference-container">
+<div class="album-item-detail-wrapper">
+<span itemprop="numTracks">17</span> Titel                    <br/>
+<span class="rm">Veröffentlicht am: </span><time datetime="2002-04-22">22 April 2002</time>
+<br/>
+</div>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--secondary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Album|DirectDownload" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn btn--small iconleft iconleft--ecommerce " data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/2056028/44/artist-overview-album-callout" rel="nofollow">
+                
+    
+                    Amazon MP3
+        
+        
+            
+            </a>
+<a class=" needs-js btn dropdown-btn btn--icon-only btn--small menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu dropdown-btn-menu--small hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/2056028/44/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon MP3" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon MP3
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|7digital" href="http://www.lastfm.de/affiliate/byid/8/2056028/13/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|iTunes" href="http://www.lastfm.de/affiliate/byid/8/2056028/24/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon" href="http://www.lastfm.de/affiliate/byid/8/2056028/1/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $8.75
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|eBay" href="http://www.lastfm.de/affiliate/byid/8/2056028/90/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </div>
+</section>
+</li><li class=" last item-4 item-3n-plus-1 g3 album-list-item ">
+<section class="r album-item " itemscope="" itemtype="http://schema.org/MusicAlbum">
+<meta content="Axis: Bold As Love" itemprop="name"/>
+<meta content="http://userserve-ak.last.fm/serve/300x300/97387829.jpg" itemprop="image"/>
+<a class="g3 album-item-cover link-hook" href="/music/Jimi+Hendrix/Axis:+Bold+As+Love" itemprop="url"> <div class="cover-image " style="background-image: url('http://userserve-ak.last.fm/serve/300x300/97387829.jpg');">
+<img alt="" class="cover-image-image" src="http://userserve-ak.last.fm/serve/300x300/97387829.jpg"/>
+<div class="text-over-image ">
+<span class="text-over-image-text">Axis: Bold As Love</span>
+<br/>
+<span class="text-over-image-text text-over-image-text--secondary">227.917 Hörer</span>
+</div>
+</div> </a> <div class="g3 album-item-details link-reference-container">
+<div class="album-item-detail-wrapper">
+<span itemprop="numTracks">14</span> Titel                    <br/>
+<span class="rm">Veröffentlicht am: </span><time datetime="2008-11-04">4 November 2008</time>
+<br/>
+</div>
+<div class=" dropdown-btn-wrapper ecommerce-dropdown ecommerce-dropdown--secondary has-preferred-retailer " data-dropdownmenu-analytics-action="BuyShowOptions" data-dropdownmenu-analytics-label="Album|DirectDownload" data-require="dropdownmenu">
+<a class=" ecommerce-btn-text btn dropdown-btn btn--small iconleft iconleft--ecommerce " data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/2039891/44/artist-overview-album-callout" rel="nofollow">
+                
+    
+                    Amazon MP3
+        
+        
+            
+            </a>
+<a class=" needs-js btn dropdown-btn btn--icon-only btn--small menu-toggle iconright iconright--dropdown " href="#expand-purchase-options">
+                Kaufoptionen erweitern
+            </a>
+<ul class="dropdown-btn-menu dropdown-btn-menu--small hidden-menu">
+<li class="dropdown-btn-section-title">
+                                                    Digitaler Download
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|Amazon MP3" href="http://www.lastfm.de/affiliate/byid/8/2039891/44/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon MP3" class="ecommerce-icon" src="http://cdn.last.fm/favicons/amazon-mp3-16x16-a.gif">
+                                    
+                                                                            Amazon MP3
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|7digital" href="http://www.lastfm.de/affiliate/byid/8/2039891/13/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="7digital" class="ecommerce-icon" src="http://cdn.last.fm/favicons/7digital.gif">
+                                    
+                                                                            7digital
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|iTunes" href="http://www.lastfm.de/affiliate/byid/8/2039891/24/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="iTunes" class="ecommerce-icon" src="http://cdn.last.fm/favicons/itunesbadge.gif">
+                                    
+                                                                            iTunes
+                                                                    </img></span>
+</a>
+</li>
+<li class="dropdown-btn-section-title">
+                                                    Physische Medien
+                                            </li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Direct" data-analytics-label="Album|Amazon" href="http://www.lastfm.de/affiliate/byid/8/2039891/1/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="Amazon" class="ecommerce-icon" src="http://cdn.last.fm/favicons/1/amazon.gif">
+                                    
+                                                                            Amazon
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">
+                                                                                    $4.44
+                                                                            </span>
+</a>
+</li>
+<li>
+<a class="dropdown-btn-menu-item media remove-bottom-margin" data-analytics-action="Buy|Search" data-analytics-label="Album|eBay" href="http://www.lastfm.de/affiliate/byid/8/2039891/90/artist-overview-album-dropdown" rel="nofollow" target="_blank">
+<span class="media-body">
+<img alt="eBay" class="ecommerce-icon" src="http://cdn.last.fm/favicons/ebay.gif">
+                                    
+                                                                            eBay
+                                                                    </img></span>
+<span class="media-pull-right remove-left-margin">Suchen</span>
+</a>
+</li>
+</ul>
+</div> </div>
+</section>
+</li>
+</ul> </section>
+<section class="artist-events">
+<h2><a href="/music/Jimi+Hendrix/+events">Events</a></h2>
+<ul class="events-catalogue-pages">
+<li class="gig first last future cancelled event">
+<div class="r">
+<div class="g5 media">
+<a class="media-pull-left media-link-hook" href="/event/4051011+Jimi+Hendrix+at+Sleep+Train+Amphiteatre+on+26+September+2015" title="Jimi Hendrix in Sleep Train Amphiteatre"> <span class="calSheet calSheetBig">
+<time datetime="2015-09-26">
+<abbr class="dtstart" title="Samstag, 26. September 2015"> <span title="Jimi Hendrix">
+<span class="month">Sep</span>
+<span class="day">26</span>
+</span>
+</abbr> </time>
+</span> </a> <div class="media-body">
+<strong><a class="media-link-reference" href="/event/4051011+Jimi+Hendrix+at+Sleep+Train+Amphiteatre+on+26+September+2015" title="Jimi Hendrix in Sleep Train Amphiteatre">Jimi Hendrix</a></strong>
+<div class="time">Samstag, 26. September 2015</div>
+</div>
+</div>
+<div class="g3 media venue">
+<a class="media-pull-left media-link-hook" href="/venue/10376413+Sleep+Train+Amphiteatre"> <img class="transparent_png map_icon" height="32" src="http://cdn.last.fm/flatness/location_icon_32.png" style="" width="32"/> </a> <div class="media-body">
+<div class="name">
+<strong><a class="media-link-reference" href="/venue/10376413+Sleep+Train+Amphiteatre">Sleep Train Amphiteatre</a></strong>
+</div>
+<div class="address"><span class="locality">San Diego</span>, <span class="country-name">Vereinigte Staaten</span></div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<a class="btn iconleft iconleft--add btn--small" href="/events/add?artistNames[]=Jimi+Hendrix">Event hinzufügen</a>
+</section>
+<section class="r">
+<div class="g8 artist-listening-trend">
+<h2>Hörtrend</h2>
+<script src='https://www.google.com/jsapi?autoload={"modules":[{"name":"visualization","version":"1","packages":["corechart"]}]}'></script>
+<div class="catalogue-scrobble-graph needs-js" data-require="music/scrobblegraph" data-source="scrobblegraph">
+<div class="catalogue-scrobble-graph-top-data">
+<strong>2.454.354</strong><span class="lite">Hörer insgesamt</span>
+</div>
+<div class="catalogue-scrobble-graph-top-data">
+<strong>61.433.690</strong><span class="lite">Scrobbels insgesamt</span>
+</div>
+<div class="catalogue-scrobble-graph-top-data">
+<a href="/charts/artists/top/place/all?limit=150"> <strong>#148</strong>
+</a> <span class="lite">in den Charts der letzten Woche</span>
+</div>
+<div class="catalogue-scrobble-graph-inner-wrapper">
+<div class="catalogue-scrobble-graph-title">Aktueller Hörtrend:</div>
+<div class="catalogue-scrobble-graph-container"></div>
+</div>
+<script>
+                (function() {
+
+            LFM.Data = LFM.Data || {};
+            LFM.Data.scrobblegraph = [
+                              [
+                  new Date(1424001600*1000),
+                  21369,
+                  21369,
+                  'So., 15. Feb. - So., 22. Feb.\u000D\u000A21.369 Hörer'
+                ]
+                ,                              [
+                  new Date(1423396800*1000),
+                  21432,
+                  21432,
+                  'So., 8. Feb. - So., 15. Feb.\u000D\u000A21.432 Hörer'
+                ]
+                ,                              [
+                  new Date(1422792000*1000),
+                  22111,
+                  22111,
+                  'So., 1. Feb. - So., 8. Feb.\u000D\u000A22.111 Hörer'
+                ]
+                ,                              [
+                  new Date(1422187200*1000),
+                  22022,
+                  22022,
+                  'So., 25. Jan. - So., 1. Feb.\u000D\u000A22.022 Hörer'
+                ]
+                ,                              [
+                  new Date(1421582400*1000),
+                  22155,
+                  22155,
+                  'So., 18. Jan. - So., 25. Jan.\u000D\u000A22.155 Hörer'
+                ]
+                ,                              [
+                  new Date(1420977600*1000),
+                  21484,
+                  21484,
+                  'So., 11. Jan. - So., 18. Jan.\u000D\u000A21.484 Hörer'
+                ]
+                ,                              [
+                  new Date(1420372800*1000),
+                  19613,
+                  19613,
+                  'So., 4. Jan. - So., 11. Jan.\u000D\u000A19.613 Hörer'
+                ]
+                ,                              [
+                  new Date(1419768000*1000),
+                  18851,
+                  18851,
+                  'So., 28. Dez. - So., 4. Jan.\u000D\u000A18.851 Hörer'
+                ]
+                ,                              [
+                  new Date(1419163200*1000),
+                  21035,
+                  21035,
+                  'So., 21. Dez. - So., 28. Dez.\u000D\u000A21.035 Hörer'
+                ]
+                ,                              [
+                  new Date(1418558400*1000),
+                  21570,
+                  21570,
+                  'So., 14. Dez. - So., 21. Dez.\u000D\u000A21.570 Hörer'
+                ]
+                ,                              [
+                  new Date(1417953600*1000),
+                  21561,
+                  21561,
+                  'So., 7. Dez. - So., 14. Dez.\u000D\u000A21.561 Hörer'
+                ]
+                ,                              [
+                  new Date(1417348800*1000),
+                  21885,
+                  21885,
+                  'So., 30. Nov. - So., 7. Dez.\u000D\u000A21.885 Hörer'
+                ]
+                ,                              [
+                  new Date(1416744000*1000),
+                  20834,
+                  20834,
+                  'So., 23. Nov. - So., 30. Nov.\u000D\u000A20.834 Hörer'
+                ]
+                ,                              [
+                  new Date(1416139200*1000),
+                  21477,
+                  21477,
+                  'So., 16. Nov. - So., 23. Nov.\u000D\u000A21.477 Hörer'
+                ]
+                ,                              [
+                  new Date(1415534400*1000),
+                  21765,
+                  21765,
+                  'So., 9. Nov. - So., 16. Nov.\u000D\u000A21.765 Hörer'
+                ]
+                ,                              [
+                  new Date(1414929600*1000),
+                  22341,
+                  22341,
+                  'So., 2. Nov. - So., 9. Nov.\u000D\u000A22.341 Hörer'
+                ]
+                ,                              [
+                  new Date(1414324800*1000),
+                  21430,
+                  21430,
+                  'So., 26. Okt. - So., 2. Nov.\u000D\u000A21.430 Hörer'
+                ]
+                ,                              [
+                  new Date(1413720000*1000),
+                  21726,
+                  21726,
+                  'So., 19. Okt. - So., 26. Okt.\u000D\u000A21.726 Hörer'
+                ]
+                ,                              [
+                  new Date(1413115200*1000),
+                  22095,
+                  22095,
+                  'So., 12. Okt. - So., 19. Okt.\u000D\u000A22.095 Hörer'
+                ]
+                ,                              [
+                  new Date(1412510400*1000),
+                  22110,
+                  22110,
+                  'So., 5. Okt. - So., 12. Okt.\u000D\u000A22.110 Hörer'
+                ]
+                ,                              [
+                  new Date(1411905600*1000),
+                  22326,
+                  22326,
+                  'So., 28. Sep. - So., 5. Okt.\u000D\u000A22.326 Hörer'
+                ]
+                ,                              [
+                  new Date(1411300800*1000),
+                  22607,
+                  22607,
+                  'So., 21. Sep. - So., 28. Sep.\u000D\u000A22.607 Hörer'
+                ]
+                ,                              [
+                  new Date(1410696000*1000),
+                  21942,
+                  21942,
+                  'So., 14. Sep. - So., 21. Sep.\u000D\u000A21.942 Hörer'
+                ]
+                ,                              [
+                  new Date(1410091200*1000),
+                  22178,
+                  22178,
+                  'So., 7. Sep. - So., 14. Sep.\u000D\u000A22.178 Hörer'
+                ]
+                ,                              [
+                  new Date(1409486400*1000),
+                  22299,
+                  22299,
+                  'So., 31. Aug. - So., 7. Sep.\u000D\u000A22.299 Hörer'
+                ]
+                ,                              [
+                  new Date(1408881600*1000),
+                  22086,
+                  22086,
+                  'So., 24. Aug. - So., 31. Aug.\u000D\u000A22.086 Hörer'
+                ]
+                                          ];
+        })();
+</script>
+</div> </div>
+<div class="g4">
+<h2>Beginne mit dem Scrobbeln und baue deinen Hörverlauf auf</h2>
+<p>Last.fm-Benutzer <abbr>scrobbeln</abbr> die Musik, die sie in iTunes, Spotify, Rdio und mehr als <a href="/group/Does+it+Scrobble">200 anderen Musikplayern</a> spielen.</p>
+<a class="btn btn--block" href="/join">Erstelle ein Last.fm-Profil</a>
+</div>
+</section>
+<div class="LastAd ad-widerelatedcontent inactive" data-ad-collapsible="" data-ad-placement="widerelatedcontent" data-ad-static="" data-require="ads/staticadslot" id="LastAd_widerelatedcontent">
+<span>
+</span>
+</div>
+<div class="LastAd ad-middleleaderboard inactive" data-ad-collapsible="" data-ad-placement="middleleaderboard" data-ad-static="" data-require="ads/staticadslot" id="LastAd_middleleaderboard">
+<span>
+</span>
+</div>
+<div class="catalogue-social r r--full-bleed">
+<section class="g8 artist-shouts">
+<a name="shoutbox"></a>
+<div class="widget widget-lazy/shoutbox" data-require="lazy/shoutbox" data-template="shoutbox" data-url="/music/Jimi+Hendrix/+shoutbox"><h2 class="heading">
+<span class="h2Wrapper">
+<a href="/music/Jimi+Hendrix/+shoutbox">Shoutbox</a>
+</span>
+</h2>
+<div class="shoutboxContainer artist-shoutbox">
+<div class="memo">
+<strong>Sage etwas.</strong>
+<a href="/login/">Logge dich bei Last.fm ein</a> oder <a href="/join/">registriere dich</a>.
+        </div>
+<ul class="shouts">
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/meninoestranho">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103460179.png" width="64"/>
+</span>
+    meninoestranho
+</a>
+</h3>
+<p>
+                        God.
+                                    </p>
+<div class="meta">
+<span class="date">22. Feb., 3:23</span>
+<a class="shoutbox-reply" href="/user/meninoestranho#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/pem0910">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103541033.gif" width="64"/>
+</span>
+    pem0910
+</a>
+</h3>
+<p>
+                        blah blah woof woof
+                                    </p>
+<div class="meta">
+<span class="date">21. Feb., 23:14</span>
+<a class="shoutbox-reply" href="/user/pem0910#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/ChristFollower3">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/58291005.jpg" width="64"/>
+</span>
+    ChristFollower3
+</a>
+</h3>
+<p>
+                        A fool hath no delight in understanding, but that his heart may discover itself. –Proverbs 18:2
+                                    </p>
+<div class="meta">
+<span class="date">12. Feb., 20:57</span>
+<a class="shoutbox-reply" href="/user/ChristFollower3#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/Radioakhar">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/80623573.jpg" width="64"/>
+</span>
+    Radioakhar
+</a>
+</h3>
+<p>
+                        Burning Desire Album ـ Trak Ezy Ryder,mlk Jam (Aka Captain Coconut)(23-01-1970)
+                                    </p>
+<div class="meta">
+<span class="date">12. Feb., 17:46</span>
+<a class="shoutbox-reply" href="/user/Radioakhar#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/laryoverkill">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/102525521.jpg" width="64"/>
+</span>
+    laryoverkill
+</a>
+</h3>
+<p>
+                        Patti smith playing hey joe is one of the greatest things that i've seen
+                                    </p>
+<div class="meta">
+<span class="date">12. Feb., 5:09</span>
+<a class="shoutbox-reply" href="/user/laryoverkill#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/pem0910">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103541033.gif" width="64"/>
+</span>
+    pem0910
+</a>
+</h3>
+<p>
+                        Are you all experienced?
+                                    </p>
+<div class="meta">
+<span class="date">10. Feb., 0:40</span>
+<a class="shoutbox-reply" href="/user/pem0910#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/DKDC22">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103551353.png" width="64"/>
+</span>
+    DKDC22
+</a>
+</h3>
+<p>
+                        One of the greatest musicians to have ever graced the planet Earth.
+                                    </p>
+<div class="meta">
+<span class="date">8. Feb., 18:57</span>
+<a class="shoutbox-reply" href="/user/DKDC22#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/AndrewakaDragon">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103367819.jpg" width="64"/>
+</span>
+    AndrewakaDragon
+</a>
+</h3>
+<p>
+<a href="https://www.youtube.com/watch?v=LGhFJYliMwU" rel="nofollow">https://www.youtube.com/watch?v=LGhFJYliMwU</a> NPR Desk Submission. :) Like and Share please. :)
+                                    </p>
+<div class="meta">
+<span class="date">6. Feb., 8:55</span>
+<a class="shoutbox-reply" href="/user/AndrewakaDragon#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/pem0910">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103541033.gif" width="64"/>
+</span>
+    pem0910
+</a>
+</h3>
+<p>
+                        Here he comes to save the day.
+                                    </p>
+<div class="meta">
+<span class="date">28. Jan., 3:17</span>
+<a class="shoutbox-reply" href="/user/pem0910#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/owllf">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103602341.jpg" width="64"/>
+</span>
+    owllf
+</a>
+</h3>
+<p>
+                        (-:
+                                    </p>
+<div class="meta">
+<span class="date">27. Jan., 20:20</span>
+<a class="shoutbox-reply" href="/user/owllf#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/OG-Gurda">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/99509689.jpg" width="64"/>
+</span>
+    OG-Gurda
+</a>
+</h3>
+<p>
+                        I am not. I have asked, i did not say that my statement was truthful.
+                                    </p>
+<div class="meta">
+<span class="date">26. Jan., 17:59</span>
+<a class="shoutbox-reply" href="/user/OG-Gurda#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/Aristoxenous">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103586059.jpg" width="64"/>
+</span>
+    Aristoxenous
+</a>
+</h3>
+<p>
+                        Gurda you're dumb.
+                                    </p>
+<div class="meta">
+<span class="date">26. Jan., 14:55</span>
+<a class="shoutbox-reply" href="/user/Aristoxenous#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/LucasDeMarchi">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/103090953.jpg" width="64"/>
+</span>
+    LucasDeMarchi
+</a>
+</h3>
+<p>
+                        Greatest man that ever lived.
+                                    </p>
+<div class="meta">
+<span class="date">26. Jan., 12:39</span>
+<a class="shoutbox-reply" href="/user/LucasDeMarchi#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/M0rbidBoy">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/102538789.jpg" width="64"/>
+</span>
+    M0rbidBoy
+</a>
+</h3>
+<p>
+                        Come to Brazil!
+                                    </p>
+<div class="meta">
+<span class="date">24. Jan., 14:05</span>
+<a class="shoutbox-reply" href="/user/M0rbidBoy#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/OG-Gurda">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/99509689.jpg" width="64"/>
+</span>
+    OG-Gurda
+</a>
+</h3>
+<p>
+                        Gotcha.
+                                    </p>
+<div class="meta">
+<span class="date">21. Jan., 17:38</span>
+<a class="shoutbox-reply" href="/user/OG-Gurda#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/MisterJunior">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/102311073.jpg" width="64"/>
+</span>
+    MisterJunior
+</a>
+</h3>
+<p>
+                        Not sure how that's ironic. There have been tons of great black guitar players throughout the instrument's history.
+                                    </p>
+<div class="meta">
+<span class="date">21. Jan., 9:43</span>
+<a class="shoutbox-reply" href="/user/MisterJunior#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/OG-Gurda">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/99509689.jpg" width="64"/>
+</span>
+    OG-Gurda
+</a>
+</h3>
+<p>
+                        thats the irony that the best guitarist is black?
+                                    </p>
+<div class="meta">
+<span class="date">20. Jan., 17:20</span>
+<a class="shoutbox-reply" href="/user/OG-Gurda#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/Moonlight_Dawn">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/102976039.jpg" width="64"/>
+</span>
+    Moonlight_Dawn
+</a>
+</h3>
+<p>
+                        Fiery, dreamy, and Brilliant! &lt;3
+                                    </p>
+<div class="meta">
+<span class="date">17. Jan., 8:11</span>
+<a class="shoutbox-reply" href="/user/Moonlight_Dawn#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/BuddieLove">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/102684477.png" width="64"/>
+</span>
+    BuddieLove
+</a>
+</h3>
+<p>
+                        baby, why'd you burn your brother's house down?
+                                    </p>
+<div class="meta">
+<span class="date">15. Jan., 3:19</span>
+<a class="shoutbox-reply" href="/user/BuddieLove#shoutbox">Antworten</a>
+</div>
+</li>
+<li class="clearit message">
+<h3 class="author ">
+<a href="/user/alex_robe">
+<span class="userImage">
+<img class="avatar " src="http://userserve-ak.last.fm/serve/64/101658657.gif" width="64"/>
+</span>
+    alex_robe
+</a>
+</h3>
+<p>
+                        nothing to say. genius.
+                                    </p>
+<div class="meta">
+<span class="date">14. Jan., 16:58</span>
+<a class="shoutbox-reply" href="/user/alex_robe#shoutbox">Antworten</a>
+</div>
+</li>
+<span class="moduleOptions">
+<a href="/music/Jimi+Hendrix/+shoutbox">Alle 4759 Shouts</a>
+</span>
+</ul>
+</div>
+</div>
+</section>
+<div class="g4">
+<aside>
+<a class="promo-unit promo-unit--client add-vertical-margins" data-analytics-action="PromoUnitClick" data-analytics-label="ClientPromoUnit" href="/download">
+<h2>Lade den neuen Last.fm-Scrobbler herunter</h2>
+<div class="media">
+<img alt="Symbol für den Last.fm-Scrobbler" class="media-pull-left" src="http://cdn.last.fm/flatness/client/lastfm_icon_60.png">
+<div class="media-body">
+        Der Scrobbler fügt von dir wiedergegebene Titel automatisch deinem Last.fm-Profil hinzu.
+        <br>
+<span class="promo-unit-fake-link">Downloads</span>
+</br></div>
+</img></div> </a>
+</aside>
+<section class="artist-listeners">
+<section>
+<h2><a href="/music/Jimi+Hendrix/+listeners">Aktuelle Hörer</a></h2>
+<ul odd="1">
+<li class="first media media--overflow-visible odd user">
+<a class="media-pull-left media-link-hook" href="/user/Onndator" title="Vitaly Derbin, 24, Männlich"><span class="userImage"><img alt="" class=" rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/90938329.jpg" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><img class="transparent_png playingnow_icon" height="12" src="http://cdn.last.fm/flatness/global/icon_eq.gif" style="" width="12"/> <a class="media-link-reference" href="/user/Onndator" title="Vitaly Derbin, 24, Männlich">Onndator</a></h3>
+<div class="scrobblesource">Scrobbelt gerade von <span class="source"><a href="/download#content_desktop">Last.fm-Scrobbler</a></span></div>
+<a href="/music/Jimi+Hendrix">Jimi Hendrix</a> – <a href="/music/Jimi+Hendrix/_/Have+You+Ever+Been+(To+Electric+Ladyland)">Have You Ever Been (To Electric Ladyland)</a>
+</div>
+</li><li class="last media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/bagusrizky" title=""><span class="userImage"><img alt="" class=" rounded" height="64" src="http://cdn.last.fm/flatness/responsive/2/noimage/default_user_60_g1.png" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><img class="transparent_png playingnow_icon" height="12" src="http://cdn.last.fm/flatness/global/icon_eq.gif" style="" width="12"/> <a class="media-link-reference" href="/user/bagusrizky" title="">bagusrizky</a></h3>
+<div class="scrobblesource">Scrobbelt gerade von <span class="source"><a href="/download">iTunes</a></span></div>
+<a href="/music/Jimi+Hendrix">Jimi Hendrix</a> – <a href="/music/Jimi+Hendrix/_/Little+Wing">Little Wing</a>
+</div>
+</li>
+</ul></section>
+<section>
+<h2><a href="/music/Jimi+Hendrix/+listeners">Top-Hörer</a></h2>
+<ul>
+<li class="first media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/benlikesmusics" title="Ben Harris, 20, Männlich, Vereinigtes Königreich"><span class="userImage"><img alt="" class=" rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/76670992.jpg" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><a class="media-link-reference" href="/user/benlikesmusics" title="Ben Harris, 20, Männlich, Vereinigtes Königreich">benlikesmusics</a></h3>
+ Top-Hörer
+ </div>
+</li><li class="media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/Nurim" title="Nurim, 107, Männlich, Kasachstan"><span class="userImage"><img alt="" class=" rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/21824819.gif" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><a class="media-link-reference" href="/user/Nurim" title="Nurim, 107, Männlich, Kasachstan">Nurim</a></h3>
+ Top-Hörer
+ </div>
+</li><li class="media media--overflow-visible subscriber">
+<a class="media-pull-left media-link-hook" href="/user/bEATWEAKer" title="[scrIBE]™, Männlich, Vereinigte Staaten"><span class="userImage"><img alt="" class=" rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/82976969.gif" width="64"/><img class="icon subscriber_icon" height="6" src="http://cdn.last.fm/flatness/clear.gif" style="" width="6"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><a class="media-link-reference" href="/user/bEATWEAKer" title="[scrIBE]™, Männlich, Vereinigte Staaten">bEATWEAKer</a></h3>
+ Top-Hörer
+ </div>
+</li><li class="last media media--overflow-visible user">
+<a class="media-pull-left media-link-hook" href="/user/mrSaxonAcres" title="Brian, 31, Männlich, Vereinigte Staaten"><span class="userImage"><img alt="" class=" rounded" height="64" src="http://userserve-ak.last.fm/serve/64s/2713570.jpg" width="64"/></span></a> <div class="media-body">
+<h3 class="remove-bottom-margin"><a class="media-link-reference" href="/user/mrSaxonAcres" title="Brian, 31, Männlich, Vereinigte Staaten">mrSaxonAcres</a></h3>
+ Top-Hörer
+ </div>
+</li>
+</ul></section>
+</section>
+<div class="LastAd ad-lowermpu inactive" data-ad-collapsible="" data-ad-placement="lowermpu" data-ad-static="" data-require="ads/staticadslot" id="LastAd_lowermpu">
+<span>
+<div id="mpu_bottom">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("mpu_bottom"); 
+        });
+    </script>
+</div>
+</span>
+</div> </div>
+</div>
+</article>
+<div class="LastAd ad-lowerleaderboard inactive" data-ad-collapsible="" data-ad-placement="lowerleaderboard" data-ad-static="" data-require="ads/staticadslot" id="LastAd_lowerleaderboard">
+<span>
+<div id="leader_bottom">
+<script>
+        googletag.cmd.push(function() {
+            googletag.display("leader_bottom"); 
+        });
+    </script>
+</div>
+</span>
+</div>
+<footer class="site-footer" role="banner">
+<nav class="site-footer-nav">
+<div class="r add-bottom-margin">
+<a class="g call-to-action call-to-action--upload" data-analytics-action="FooterClick" data-analytics-label="Artists and Labels" href="/uploadmusic">
+<h2>Künstler und Labels</h2>
+<p>Verbinde dich mit Fans, indem du Musik in den Music Manager lädst</p>
+</a>
+<a class="g call-to-action call-to-action--download" data-analytics-action="FooterClick" data-analytics-label="Download Desktop App" href="/download">
+<h2>Lade unsere Apps herunter</h2>
+<p>Hole dir die Last.fm-Apps für Desktop und Mobilgeräte und scrobble los</p>
+</a>
+</div>
+<hr class="separator"/>
+<ul class="r add-bottom-margin">
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Unternehmen</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-company">
+<h2 class="iconright iconright--dropdown">Unternehmen</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="About us" href="/about">Über uns</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Contact us" href="/about/contact">Kontakt</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Jobs" href="/about/jobs">Jobs</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Blog" href="http://blog.last.fm">Blog</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Advertise" href="/advertise">Werben auf Last.fm</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Mitmachen</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-join">
+<h2 class="iconright iconright--dropdown">Mitmachen</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="Sign up" href="/join">Registrieren</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Find people" href="/community/users">Benutzersuche</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Find groups" href="/community/groups">Gruppensuche</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Community" href="/community">Community</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Forums" href="/forum">Foren</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Gutes</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-goodies">
+<h2 class="iconright iconright--dropdown">Gutes</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="More apps" href="/hardware">Mehr Apps &amp; Geräte</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Last.fm API" href="/api">Entwickler-API</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Tools, plugins &amp; more" href="http://build.last.fm">Tools &amp; Plugins</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Playground" href="http://playground.last.fm">Playground</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="Free music downloads" href="/music/+free-music-downloads">Kostenlose Musikdownloads</a></li>
+</ul>
+<hr class="separator" role="presentation"/>
+</li>
+<li class="g g--padded site-footer-nav-group toggle-container" data-require="toggle">
+<h2>Hilfe</h2>
+<a class="conditional-footer-toggle js-toggle" href="#show-help">
+<h2 class="iconright iconright--dropdown">Hilfe</h2>
+</a>
+<ul class="toggle-target">
+<li><a data-analytics-action="FooterClick" data-analytics-label="Help &amp; support" href="/help">Hilfe &amp; Support</a></li>
+<li><a data-analytics-action="FooterClick" data-analytics-label="System status" href="http://status.last.fm/">Systemstatus</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+<hr class="separator"/>
+<nav class="language-selector clearit toggle-container" data-require="toggle" id="change-language" role="navigation">
+<h2 class="rm">Sprachen:</h2>
+<ul class="inline-items inline-items--dotted">
+<li class="current-language">
+<strong class="current-language-text iconleft iconleft--globe">
+                    Deutsch
+                    <span class="rm">(aktuelle Sprache)</span>
+</strong>
+<a class="iconleft iconleft--globe iconright iconright--dropdown language-toggle js-toggle" href="#show-languages">
+<strong>Deutsch</strong><span class="rm">(aktuelle Sprache) — Sprache ändern</span>
+</a>
+</li>
+<li class="language-options toggle-target">
+<ul class="language-options-group">
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; en" href="http://www.last.fm/music/Jimi+Hendrix?setlang=en" hreflang="en" rel="alternate">English</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; es" href="http://www.lastfm.es/music/Jimi+Hendrix?setlang=es" hreflang="es" rel="alternate">Español</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; fr" href="http://www.lastfm.fr/music/Jimi+Hendrix?setlang=fr" hreflang="fr" rel="alternate">Français</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; it" href="http://www.lastfm.it/music/Jimi+Hendrix?setlang=it" hreflang="it" rel="alternate">Italiano</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; jp" href="http://www.lastfm.jp/music/Jimi+Hendrix?setlang=jp" hreflang="ja" rel="alternate">日本語</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; pl" href="http://www.lastfm.pl/music/Jimi+Hendrix?setlang=pl" hreflang="pl" rel="alternate">Polski</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; pt" href="http://www.lastfm.com.br/music/Jimi+Hendrix?setlang=pt" hreflang="pt" rel="alternate">Português</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; ru" href="http://www.lastfm.ru/music/Jimi+Hendrix?setlang=ru" hreflang="ru" rel="alternate">Руccкий</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; sv" href="http://www.lastfm.se/music/Jimi+Hendrix?setlang=sv" hreflang="sv" rel="alternate">Svenska</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; tr" href="http://www.lastfm.com.tr/music/Jimi+Hendrix?setlang=tr" hreflang="tr" rel="alternate">Türkçe</a>
+</li>
+<li class="language-option">
+<a data-analytics-action="LanguageSelectorLanguageSelected" data-analytics-label="de:us|www.lastfm.de &gt; zh" href="http://cn.last.fm/music/Jimi+Hendrix?setlang=zh" hreflang="zh" rel="alternate">简体中文</a>
+</li>
+</ul>
+</li>
+</ul>
+<hr class="separator"/>
+</nav>
+<div class="site-footer-legalese">
+<blockquote class="site-footer-strapline">“Life's Pretty Straight Without Last.fm.”</blockquote>
+<ul class="inline-items inline-items--dotted">
+<li>
+<a href="http://www.cbsinteractive.com">CBS Interactive</a> © 2015 Last.fm Ltd.         </li>
+<li>
+<a data-analytics-action="FooterClick" data-analytics-label="Terms of Use" href="/legal/terms">Nutzungsbedingungen</a>, 
+                    <a data-analytics-action="FooterClick" data-analytics-label="Privacy Policy" href="/legal/privacy">Datenschutzrichtlinie</a> und 
+       <a data-analytics-action="FooterClick" data-analytics-label="Legal" href="/legal">Rechtliches</a> —
+            <span class="date">Aktualisiert am 26. Nov. 2013</span>
+</li>
+<li>
+<a href="http://www.gamespot.com">Gamespot</a>
+</li>
+</ul>
+<p class="wiki-legalese">
+            Manche der von Benutzern bereitgestellten Texte auf dieser Seite unterliegen der Lizenz <a href="http://creativecommons.org/licenses/by-sa/3.0/legalcode">Creative Commons Attribution/Share-Alike License</a>. Texte können zudem der <a href="/help/gfdl">GNU-Lizenz für freie Dokumentation</a> unterstehen.
+        </p>
+</div></footer> </div>
+<div id="multiButtonMenu" style="display: none;">
+<div>
+<ul class="lfmDropDownBody">
+<li class="mAddToLibrary"><a href="#">Zur Musiksammlung hinzufügen</a></li>
+<li class="mAddToFriends"><a href="#">Als Freund hinzufügen</a></li>
+<!-- <li class="save"><a href="#">Lesezeichen hinzufügen</a></li> -->
+<li class="mSend"><a href="#">Weiterleiten</a></li>
+<li class="mLove"><a href="#">Diesen Titel lieben</a></li>
+<li class="mUnlove"><a href="#">Als Lieblingslied entfernen</a></li>
+<li class="mBan"><a href="#">Titel bannen</a></li>
+<li class="mUnban"><a href="#">Titel ent-bannen</a></li>
+<li class="mAddTags"><a href="#">Tags hinzufügen</a></li>
+<li class="mAddToPlaylist"><a href="#">Zur Playlist hinzufügen</a></li>
+<li class="mRemoveFromLibrary"><a href="#">Aus Musiksammlung entfernen</a></li>
+<li class="mBuy"><a href="#">Lied kaufen</a></li>
+<li class="mMessage"><a href="#">Nachricht schreiben</a></li>
+<li class="mEditDetails"><a href="#">Angaben bearbeiten</a></li>
+<li class="mMessageAll"><a href="#">Allen Benutzern eine Nachricht schicken</a></li>
+<li class="mEditPermissions"><a href="#">Genehmigungen bearbeiten</a></li>
+<li class="mAbdicate"><a href="#">Abdanken</a></li>
+<li class="mLeave"><a href="#">Gruppe verlassen</a></li>
+<li class="mLoading"><a href="#"> </a></li>
+</ul>
+</div>
+</div>
+<div style="display: none">
+<script src="//dw.cbsimg.net/js/cbsi/ds.js"></script>
+<script>
+        if (typeof DW === "object") {
+            DW.pageParams = {
+                siteid: '190',
+                ptid: '6650'
+            };
+            DW.tagNielsen = false;
+            DW.clear();
+        }
+    </script>
+<noscript>
+<img src="//dw.cbsimg.net/clear/c.gif?ts=1424760696&amp;sid=190;"/>
+</noscript>
+</div>
+<div class="LastAd ad-tracking inactive" data-ad-collapsible="" data-ad-placement="tracking" data-ad-static="" data-require="ads/staticadslot" id="LastAd_tracking">
+<span>
+<iframe frameborder="0" height="0" name="__bkframe" src="javascript:void(0)" width="0"></iframe>
+<script src="//tags.bkrtx.com/js/bk-coretag.js" type="text/javascript"></script>
+<script type="text/javascript">
+            bk_addPageCtx("ar", "jimihendrix,thejimihendrixexperience,ledzeppelin,thedoors,cream,stevierayvaughan,bigbrother&theholdingcompany,janisjoplin,ericclapton,deeppurple,jeffersonairplane");
+            bk_addPageCtx("tag", "classicrock,rock,blues,psychedelic,guitar,psychedelicrock,60s,bluesrock,hardrock,jimihendrix");
+            bk_addPageCtx("path", "aw-lastfm/music/artist/overview");
+            bk_addPageCtx("site", "ccbsilastfmsite");
+            bk_addPageCtx("ptype", "artist_door");
+        bk_ignore_meta = true;
+    bk_doJSTag(16515, 4);
+</script>
+</span>
+</div>
+<script data-require="omniture">
+    LFM.viewGuid = LFM.viewGuid ? LFM.viewGuid : uuid();
+    var omdata = {
+        context: {
+                        musicArtistId: "lfm-artist-1223",
+                                    siteSection: "music",
+            pageType: "artist_door",
+            pageViewGuid: LFM.viewGuid
+        }
+    };
+</script>
+<!-- Adobe Marketing Cloud Tag Loader Code-->
+<script type="text/javascript">//<![CDATA[
+var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};
+document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d2/v2/ZDItY2JzaW50ZXJhY3RpdmUtNDgxNC00MTct/amc.js\"></sc"+"ript>");
+//]]></script>
+<!-- End Adobe Marketing Cloud Tag Loader Code -->
+<script>
+LFM.Button.MultiButton.setup();
+LFM.Display.setMinHeight();
+</script>
+<div id="fb-root"></div>
+<script src="http://cn.cbsimg.net/cnwk.1d/Aud/javascript/last/apex.js"></script>
+<script>
+        var cbsiApexGlobal = {
+                    'SITE' : '190',
+                    'PTYPE' : '2000'
+                  };
+        if (typeof cbsiRunApexTargets === "function") {
+            cbsiRunApexTargets(cbsiApexGlobal, 1000);
+        }
+    </script>
+<script>
+    window.ClickTaleSettings = { XHRWrapper: { Enable: true} };
+    document.write(unescape("%3Cscript%20src='" +
+(document.location.protocol == 'https:' ?
+  'https://clicktalecdn.sslcs.cdngc.net/' :
+  'http://cdn.clicktale.net/') +
+"www09/ptc/220b3951-66a2-4b8e-ac35-fa58bfb30846.js'%3E%3C/script%3E"));
+
+    </script>
+</body>
+</body></body></body></meta></head></html>

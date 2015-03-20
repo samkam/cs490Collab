@@ -1,0 +1,547 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html dir="ltr" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible"/>
+<link href="http://www.literaryladies.com/?bfa_ata_file=css" media="all" rel="stylesheet" type="text/css"/>
+<title>And Then There Were None « Literary Ladies Discussion Society</title>
+<link href="http://www.literaryladies.com/wp-content/themes/atahualpa/images/favicon/http://i979.photobucket.com/albums/ae274/horses_etc/unihead-3.png" rel="shortcut icon"/><link href="http://www.literaryladies.com/feed/" rel="alternate" title="Literary Ladies Discussion Society RSS Feed" type="application/rss+xml"/>
+<link href="http://www.literaryladies.com/feed/atom/" rel="alternate" title="Literary Ladies Discussion Society Atom Feed" type="application/atom+xml"/>
+<link href="http://www.literaryladies.com/xmlrpc.php" rel="pingback"/>
+<link href="http://www.literaryladies.com/tag/and-then-there-were-none/feed/" rel="alternate" title="Literary Ladies Discussion Society » And Then There Were None Tag Feed" type="application/rss+xml"/>
+<link href="http://www.literaryladies.com/wp-content/plugins/members-list/css/members-list.css?ver=3.1.2" id="tern_wp_members_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/smoothness/jquery-ui.css?ver=3.1.2" id="jquery-ui-all-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.literaryladies.com/wp-content/plugins/mingle/css/mingle.css?ver=3.1.2" id="mingle-css" media="all" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">var tern_wp_root = "http://www.literaryladies.com";</script>
+<script src="http://www.literaryladies.com/wp-includes/js/l10n.js?ver=20101110" type="text/javascript"></script>
+<script src="http://www.literaryladies.com/wp-includes/js/jquery/jquery.js?ver=1.4.4" type="text/javascript"></script>
+<script src="http://www.literaryladies.com/wp-content/plugins/members-list/js/scripts.js?ver=3.1.2" type="text/javascript"></script>
+<script src="http://www.literaryladies.com/wp-content/plugins/mingle/js/jquery.elastic.js?ver=3.1.2" type="text/javascript"></script>
+<script src="http://www.literaryladies.com/wp-content/plugins/mingle/js/jquery.qtip-1.0.0-rc3.min.js?ver=3.1.2" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js?ver=3.1.2" type="text/javascript"></script>
+<script src="http://www.literaryladies.com/mingle-js/mingle.js?ver=3.1.2" type="text/javascript"></script>
+<script src="http://www.literaryladies.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.3" type="text/javascript"></script>
+<link href="http://www.literaryladies.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://www.literaryladies.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="http://www.literaryladies.com/" rel="index" title="Literary Ladies Discussion Society"/>
+<style type="text/css">
+      body {font-family: Arial, Helvetica, sans-serif; font-weight:normal;}
+
+      h2 {color: #3366CC; font-size: 18px; font-weight: normal}
+      h3 {font-size: 13px; font-weight: normal}
+      h4 {color: grey; font-size: 11px; font-weight: normal}
+
+      .memberPhoto {
+        width: 45px;
+        height: 45px;
+        padding: 7px;
+      }
+
+      .leftbar {
+        float:left;
+        width: 40%;
+        border-right: 1px solid grey;
+        padding-right: 50px;
+      }
+
+      .rightbar {
+        float: left;
+        padding-left: 50px;
+        width: 40%;
+      }
+
+      .main {
+        width: 700px;
+        margin: auto;
+        padding: 5px;
+      }
+
+      #profile {
+        font-size:13px;
+        margin: 20px 40px;
+        border: 1px solid blue;
+        padding: 15px;
+        background-color: #E5ECF9;
+      }
+      
+      #profile_back {
+        font-size:13px;
+        margin: 20px 40px;
+        border: 1px solid grey;
+        padding: 15px;
+        background-color: #FFFFCC;
+      }
+      
+      #members {
+        padding: 0px 80px;
+        height: 59px;
+      }
+
+      #membersText {
+        padding: 0px 87px;
+        margin-top: -20px;
+      }
+
+      #colorTable {
+        width: 100%;
+      }
+
+      #colorPicker {
+        margin: 20px 40px;
+        border: 1px solid grey;
+        background-color: #E5ECF9;
+      }
+
+      .cell {
+        width: 20px;
+        height: 20px;
+        border: 3px solid #E5ECF9;
+      }
+
+      .item {
+        padding: 5px;
+        font-size: smaller;
+      }
+    </style>
+<script type="text/javascript">var tern_wp_root = "http://www.literaryladies.com";</script>
+<script src="http://www.literaryladies.com/wp-includes/js/tw-sack.js?ver=1.6.1" type="text/javascript"></script>
+<!-- Load the Google AJAX API Loader -->
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<!-- Load the Google Friend Connect javascript library. -->
+<script type="text/javascript">
+      google.load('friendconnect', '0.8');
+    </script>
+<!-- Initialize the Google Friend Connect OpenSocial API. -->
+<script type="text/javascript">
+       var SITE_ID = "02496317651520313911"
+       google.friendconnect.container.setParentUrl('/' /* location of rpc_relay.html and canvas.html */);
+       google.friendconnect.container.initOpenSocialApi({
+       site: SITE_ID,
+       onload: function(securityToken) { initAllData(securityToken); }
+      });
+    </script>
+<script type="text/javascript">
+
+    // Send request to FC with request for uesr properties
+    function initAllData(securityToken) {
+      var req = opensocial.newDataRequest();
+      var opt_params = {};
+      opt_params[opensocial.DataRequest.PeopleRequestFields.PROFILE_DETAILS] =
+        [ opensocial.Person.Field.ID, opensocial.Person.Field.THUMBNAIL_URL,
+          opensocial.Person.Field.PROFILE_URL, opensocial.Person.Field.URLS, opensocial.Person.Field.NAME ];
+      req.add(req.newFetchPersonRequest('VIEWER', opt_params), 'viewer');
+      req.send(setupData);
+    };   
+
+    // The password is simply the profileId as of now.
+    // Modify this to get a new password scheme
+    function getPassword(profilestr) {
+      var newString = profilestr.split('&');
+      if (newString.length < 1) 
+        return profilestr;
+      return newString[1];
+    }
+
+    function setupData(data) {
+      viewer = data.get('viewer').getData();
+
+      if (viewer) {
+        // We have a valid user. SetUp the display profile. Everything except the
+        // SignOut link as we dont yet want the user to click on it. This is because
+        // the user is not yet loged in. Create a div instead so that we can come back
+        // and replace it with the SignOut link once the user does get logged in.
+        document.getElementById('profile').innerHTML =
+          '<img align="left" src="' +  viewer.getField("thumbnailUrl") + '">' +
+          '<b>Hello ' +  viewer.getField("displayName") + '!</b><br>' +
+          '<a href="#" onclick="google.friendconnect.requestSettings()">Settings</a><br>' +   
+          '<a href="#" onclick="google.friendconnect.requestInvite()">Invite</a><br>' +
+          '<div id="loadprof"></div>';
+
+
+        profile_id_url = viewer.getField("profileUrl");
+        profileurl = viewer.getField(opensocial.Person.Field.URLS)[0].getField('address');
+
+        // Remove spaces in name
+        var nameString = viewer.getField("displayName").split(' ');
+        username = nameString.join('');
+
+        // If we are logging in for he first time, create an AJAX
+        // request to login/create this user in wp
+        if (document.getElementById("author") != null) {
+          document.getElementById("loadprof").innerHTML=
+            "Loading profile...";
+
+          passwd = getPassword(profile_id_url);
+          image_url = viewer.getField("thumbnailUrl");
+          CreateRequest(username, passwd, profileurl, profile_id_url, image_url);
+        } else {
+          // If we are already logged in, simply replace the original
+          // html with our custom html
+          replaceText();
+        }
+      } else {
+        google.friendconnect.renderSignInButton({ 'id': 'profile' });
+      }
+    };
+
+    // This function will be called on the completion of the user
+    // logging AJAX call
+    function loadedProfile() {
+      replaceText();
+      window.location.reload();
+    }
+
+    // Remove the logout button around the comment and add our own logout mechanism.
+    // We implement a non-recursive DOM tree traversal as recursion seems to
+    // be expensive in javascript
+    function replaceText() {
+      root = document.getElementById('commentform');
+      var nodeArray = new Array();
+      var parArray = new(Array);
+      nodeArray.push(root);
+      parArray.push(root.parentNode);
+      while(nodeArray.length > 0) {
+        curNode = nodeArray.pop();
+        parNode = parArray.pop();
+        if (curNode.nodeName == "a" || curNode.nodeName == "A") {
+          href_comp = curNode.href.split('wp-login.php');
+          if (href_comp.length > 1)
+            parNode.removeChild(curNode);
+        }
+        children = curNode.childNodes;
+        for (i = 0; i < children.length; i++) {
+          nodeArray.push(children[i]);
+          parArray.push(curNode);
+        }
+      }
+      document.getElementById("loadprof").innerHTML=
+           '<a href="http://www.literaryladies.com/wp-login.php?action=logout&amp;redirect_to=http%3A%2F%2Fwww.literaryladies.com%2F2010%2F07%2Fdiscussing-and-then-there-were-none%2F&amp;_wpnonce=a636e4a155" onClick="google.friendconnect.requestSignOut()"> Sign out</a>';
+    }
+    
+    // The call to the SACK library to send an AJAX request to the 
+    // server side for user logging/creation
+    function CreateRequest(username, passwd, profileurl, profile_id_url, image_url) {
+      var mysack = new sack( 
+       "http://www.literaryladies.com/wp-content/plugins/fc_plugin/server_code.php" );         
+      mysack.execute = 1;
+      mysack.method = 'POST';
+      mysack.setVar( "username", username );
+      mysack.setVar( "passwd", passwd );
+      mysack.setVar( "profileurl", profileurl);
+      mysack.setVar( "profile_id_url", profile_id_url);
+      mysack.setVar( "image_url", image_url);
+      mysack.onError = function() { alert('Ajax error in user' )};
+      mysack.onCompletion = function() { loadedProfile(); };
+      mysack.runAJAX();
+      return true;
+    };
+   </script>
+<script src="http://www.google.com/friendconnect/script/friendconnect.js" type="text/javascript"></script>
+<link href="http://www.literaryladies.com/wp-content/plugins/profiler/pfstyle.css" media="screen" rel="stylesheet" type="text/css"/><script src="http://www.literaryladies.com/wp-content/plugins/profiles/js/jquery.js.php?ver=1.2.3" type="text/javascript"></script>
+<script src="http://www.literaryladies.com/wp-content/plugins/profiles/js/profiles.js.php" type="text/javascript"></script>
+<link href="http://www.literaryladies.com/wp-content/plugins/profiles/css/profiles.css" media="screen" rel="stylesheet" type="text/css">
+<script src="http://www.literaryladies.com/?bfa_ata_file=js" type="text/javascript"></script>
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!-- Google Analytics Tracking by Google Analyticator 6.1.3: http://ronaldheft.com/code/analyticator/ -->
+<script type="text/javascript">
+	var analyticsFileTypes = [''];
+	var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-20162649-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+<!--[if IE 6]>
+<script type="text/javascript" src="http://www.literaryladies.com/wp-content/themes/atahualpa/js/DD_roundies.js"></script>
+<script type="text/javascript">DD_roundies.addRule('a.posts-icon, a.comments-icon, a.email-icon, img.logo');</script>
+<![endif]-->
+</link></head>
+<body class="archive tag tag-and-then-there-were-none tag-40">
+<div id="wrapper">
+<div id="container">
+<table border="0" cellpadding="0" cellspacing="0" id="layout">
+<colgroup>
+<col class="coltwo"></col>
+<col class="colthree-inner"></col><col class="colthree"></col></colgroup>
+<tr>
+<!-- Header -->
+<td colspan="3" id="header">
+<div class="horbar1"> </div> <div class="header-image-container" id="imagecontainer" style="background: url('http://www.literaryladies.com/wp-content/themes/atahualpa/images/header/literaryladiesheader.png') top center no-repeat;"><div class="clickable">
+<a class="divclick" href="http://www.literaryladies.com/" title="Literary Ladies Discussion Society"> </a></div><div class="opacityleft"> </div><div class="opacityright"> </div></div> <div class="horbar1"> </div> <div id="menu1"><table cellpadding="0" cellspacing="0" style="margin: 0 auto"><tr><td align="center">
+<ul class="clearfix rMenu-hor rMenu" id="rmenu2">
+<li class="page_item"><a href="http://www.literaryladies.com/" title="Literary Ladies Discussion Society">Home</a></li>
+<li class="page_item page-item-721"><a href="http://www.literaryladies.com/about/">About</a></li>
+<li class="page_item page-item-187"><a href="http://www.literaryladies.com/book-lists/">Book Lists</a></li>
+<li class="page_item page-item-51"><a href="http://www.literaryladies.com/contact/">Contact</a></li>
+<li class="page_item page-item-452"><a href="http://www.literaryladies.com/llds-store/">LLDS Store</a></li>
+<li class="page_item page-item-355"><a href="http://www.literaryladies.com/social-profiles/">Social Profiles</a></li>
+</ul></td></tr></table></div>
+<div class="horbar1"> </div> <div id="menu2"><table cellpadding="0" cellspacing="0" style="margin: 0 auto"><tr><td align="center">
+<ul class="clearfix rMenu-hor rMenu" id="rmenu">
+<li class="rMenu-expand cat-item cat-item-6"><a href="http://www.literaryladies.com/category/book-discussion/">Book Discussions</a>
+<ul class="rMenu-ver children">
+<li class="cat-item cat-item-12"><a href="http://www.literaryladies.com/category/book-discussion/adventure/">Adventure</a>
+</li>
+<li class="cat-item cat-item-7"><a href="http://www.literaryladies.com/category/book-discussion/fantasy/">Fantasy</a>
+</li>
+<li class="cat-item cat-item-8"><a href="http://www.literaryladies.com/category/book-discussion/historical-fiction/">Historical Fiction</a>
+</li>
+<li class="cat-item cat-item-11"><a href="http://www.literaryladies.com/category/book-discussion/mystery/">Mystery</a>
+</li>
+<li class="cat-item cat-item-13"><a href="http://www.literaryladies.com/category/book-discussion/non-fiction/">Non-Fiction</a>
+</li>
+<li class="cat-item cat-item-9"><a href="http://www.literaryladies.com/category/book-discussion/romance/">Romance</a>
+</li>
+<li class="cat-item cat-item-10"><a href="http://www.literaryladies.com/category/book-discussion/sci-fi/">Sci-Fi</a>
+</li>
+</ul>
+</li>
+<li class="cat-item cat-item-14"><a href="http://www.literaryladies.com/category/book-suggestions-voting/">Book Suggestions &amp; Voting</a>
+</li>
+<li class="cat-item cat-item-54"><a href="http://www.literaryladies.com/category/giveaways-events-and-games/">Giveaways, Events, and Games</a>
+</li>
+<li class="cat-item cat-item-24"><a href="http://www.literaryladies.com/category/news/">News</a>
+</li>
+<li class="cat-item cat-item-1"><a href="http://www.literaryladies.com/category/uncategorized/">Uncategorized</a>
+</li>
+</ul></td></tr></table></div>
+</td>
+<!-- / Header -->
+</tr>
+<!-- Main Body -->
+<tr id="bodyrow">
+<!-- Main Column -->
+<td id="middle">
+<div class="post-492 post type-post status-publish format-standard hentry category-book-discussion category-historical-fiction category-mystery tag-and-then-there-were-none" id="post-492">
+<div class="post-headline"> <h2>
+<a href="http://www.literaryladies.com/2010/07/discussing-and-then-there-were-none/" rel="bookmark" title="Permanent Link to Discussing ‘And Then There Were None’">Discussing 'And Then There Were None'</a></h2>
+</div>
+<div class="post-bodycopy clearfix"><div>
+<div style="position: relative; width: 400px; height: 400px; text-align: center;"><a href="http://www.polyvore.com/then_there_were_none/set?.mid=embed&amp;id=19702717"><img alt="And Then There Were None" border="0" height="400" src="http://www.polyvore.com/cgi/img-set/BQcDAAAAAwoDanBnAAAABC5vdXQKFmFrVlZQUzE0M3hHUmRZWjBmUWpUQUEAAAACaWQKAWUAAAAEc2l6ZQ.jpg" title="And Then There Were None" width="400"/></a><a href="http://www.polyvore.com/" style="line-height: 1%; position: absolute; bottom: 2px; right: 2px;"><img alt="Fashion Trends &amp; Styles - Polyvore" src="http://www.polyvorecdn.com/rsrc/img/logo_embed_alt_63x21.png" style="border-width: 0px; padding: 0px; margin: 0px;" title="Fashion Trends &amp; Styles - Polyvore"/></a></div>
+</div>
+<p><small><a href="http://www.polyvore.com/then_there_were_none/set?.mid=embed&amp;id=19702717">And Then There Were None</a> by <a href="http://www.polyvore.com/cgi/profile?.mid=embed&amp;id=1630868">Lèrowen</a> on <a href="http://www.polyvore.com/">Polyvore.com</a></small><br/>
+The above collage was made by our new member Lerowen… I think that it is positively wonderful!</p>
+<p>Anyway, sorry I’m a few days late everyone! I’ve got my chemistry final exam on Tuesday and I’ve been swamped with studying!</p>
+<p>How did you all enjoy this month’s book? I’ve talked to some of you and it sounds like this was a popular one! (It’s one of my favorite books! <img alt=":D" class="wp-smiley" src="http://www.literaryladies.com/wp-includes/images/smilies/icon_biggrin.gif"/> )</p>
+<p>Anyway, I look forward to hearing your thoughts, and, if it suits your fancy, to reading and joining in discussion around the following questions OR whatever caught your interest.</p>
+<p>(<strong>PLEASE note:</strong> You don’t need to fill out answers to all of the questions unless you want to. Just read through them and pick something that you feel like sharing or discussing further. It’s up to you and there are no rules about how much you can share- or how little. *smiles*)</p>
+<p style="text-align: center;">——————————————————————————————————-</p>
+<div>First, there were ten – a curious assortment of  strangers summoned as weekend guests to a private island off the coast  of Devon. Their host, an eccentric millionaire unknown to all of them,  is nowhere to be found. All that the guests have in common is a wicked  past they’re unwilling to reveal – and a secret that will seal their  fate. For each has been marked for murder. One by one they fall prey.  Before the weekend is out, there will be none. And only the dead are  above suspicion…</div>
+<div></div>
+<div style="text-align: center;"><strong>Reading Group  Guide Questions</strong></div>
+<div></div>
+<div>1. Who is telling the story of And Then  There Were None? What effect did the tone, voice, or language employed  by the narrator have on you (i.e., it was frightening)? Explain.</div>
+<div>
+2. What is a motive? (Distinguish between the words motive and  motivation.) What motives, if any, did each of the ten guests have for  committing these horrible murders?</div>
+<div>
+3. Did you “see it coming”? If not, before you read the “Manuscript  Document,” what did you think explained the murders? If you were asked  to rewrite the story’s conclusion, which character would you make the  murderer and what would see as his/her motive?</div>
+<div>
+4. Which one of the killings depicted in the novel seemed especially  accurate or believable to you, and which one seemed especially  incredible or fantastic? How would you rewrite the former murder so that  it is less realistic, or the latter so that it is less farfetched?</div>
+<div>
+5. Discuss the depiction of group psychology in this novel. Are there  any scenes where events or ideas are altered or influenced by how the  characters interact with one another? Also, does the dynamic of group  psychology in this novel strike you as realistic, frenzied, contrived,  simplified, or otherwise?</div>
+<div>
+6. Think a bit more about how this story is told, especially its  remarkable plot. What are the inherent problems a storyteller might  encounter in killing off all of his or her main characters one by one?  And what are the problems an author might face in basing his or her plot  on a familiar nursery rhyme? How does Christie successfully avoid these  problems, or if you think she fails, how so?</div>
+<div>
+7. Were there moments when you as a reader thought the characters were  acting in ways such as you yourself would have acted? If so, explain.<br/>
+If not, how and why would you have behaved differently?</div>
+<div>
+8. Though there isn’t a real “main character,” Vera Claythorne is one of  the more fully developed ones (if only because she lives longer). What  do you think of the way that she dies and do you think it is consistent  with her character up until that point?</div>
+<div>
+9. The effect of guilt emerges as one of the major underlying themes in  the book. Based on your own experience, how accurately does Christie  portray the different human responses?</div>
+<div>
+10. Talk about the idea of “justice” in the mystery.  Did people “get  what they deserved,” or were any of the characters punished unfairly?   Does “just behavior” (i.e., Warfield punishing the others for their  prior actions) mean that you are a “good” person? Why or why not?</div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">——————————————————————————————————-</div>
+<div style="text-align: center;"><strong><br/>
+</strong></div>
+<div style="text-align: center;"><strong>CHRISTIE ON “And Then There Were None” </strong></div>
+<div style="text-align: left;">
+And Then There Were None is one of the most carefully planned of  Christie’s mysteries; she herself considered the plot “near-impossible.”</div></div></div></td></tr></table></div></div></body></html>
+<p>“It was so difficult to do that the idea had fascinated me…I wrote the  book after a tremendous amount of planning, and I was pleased with what  I had made of it.”—Agatha Christie: An Autobiography, 1977.</p>
+<p>The rhyme comes from a Victorian music hall show song written by Frank  Green in 1869, an adaptation in itself of the American comic song, Ten  Little Indians, written by Septimus Winner, published in 1868.</p>
+<p>© 2006 Agatha Christie Ltd, A Chorion Company. All rights reserved.</p>
+
+<div class="post-footer">July 2nd, 2010 | Tags: <a href="http://www.literaryladies.com/tag/and-then-there-were-none/" rel="tag">And Then There Were None</a> |  Category: <a href="http://www.literaryladies.com/category/book-discussion/" rel="category tag" title="View all posts in Book Discussions">Book Discussions</a>, <a href="http://www.literaryladies.com/category/book-discussion/historical-fiction/" rel="category tag" title="View all posts in Historical Fiction">Historical Fiction</a>, <a href="http://www.literaryladies.com/category/book-discussion/mystery/" rel="category tag" title="View all posts in Mystery">Mystery</a> | <a class="comments-link" href="http://www.literaryladies.com/2010/07/discussing-and-then-there-were-none/#comments" title="Comment on Discussing ‘And Then There Were None’">6 comments</a> </div>
+<!-- / Post -->
+<div class="post-484 post type-post status-publish format-standard hentry category-mystery tag-and-then-there-were-none" id="post-484">
+<div class="post-headline"> <h2>
+<a href="http://www.literaryladies.com/2010/06/reading-and-then-there-were-none/" rel="bookmark" title="Permanent Link to Reading ‘And Then There Were None’">Reading ‘And Then There Were None’</a></h2>
+</div>
+<div class="post-bodycopy clearfix"><p style="text-align: center;"><a href="http://www.literaryladies.com/wp-content/uploads/2010/06/And-Then-There-Were-None.jpg"><img alt="" class="aligncenter size-full wp-image-485" height="500" src="http://www.literaryladies.com/wp-content/uploads/2010/06/And-Then-There-Were-None.jpg" title="And Then There Were None" width="500"/></a></p>
+<p style="text-align: center;">“Somehow, that was the most frightening thing of all…”<br/>
+- Agatha  Christie, <em>And Then There Were None</em>, Ch. 5</p>
+<p style="text-align: center;"><strong>Get  ready for ‘And Then There Were None’ by Agatha Christie- Literary  Ladies’ book for the month of June!</strong></p>
+<p style="text-align: center;"><strong><br/>
+</strong></p>
+<p>In the novel, ten people, who have previously been complicit in the deaths of others but have escaped notice and/or punishment, are tricked into coming onto an island. Even though the guests are the only people on the island, they are all mysteriously murdered one by one, in a manner paralleling, inexorably and sometimes grotesquely, the old nursery rhyme, “Ten Little Indians”… It is Agatha Christie’s best-selling novel with 100 million sales to date, making it the world’s best-selling mystery and the seventh most popular book of all time.</p>
+<p style="text-align: center;">-From <a href="http://en.wikipedia.org/wiki/And_then_there_were_none">Wikipedia</a></p>
+<p style="text-align: center;">
+<p style="text-align: center;"><strong>You can purchase the book from Amazon by following this link: <a href="http://www.amazon.com/gp/product/0312330871?ie=UTF8&amp;tag=cassswebs-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0312330871">And Then There Were None</a><img alt="" border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=cassswebs-20&amp;l=as2&amp;o=1&amp;a=0312330871" style="border: none !important; margin: 0px !important;" width="1"/></strong></p>
+</p></div>
+<div class="post-footer">June 2nd, 2010 | Tags: <a href="http://www.literaryladies.com/tag/and-then-there-were-none/" rel="tag">And Then There Were None</a> |  Category: <a href="http://www.literaryladies.com/category/book-discussion/mystery/" rel="category tag" title="View all posts in Mystery">Mystery</a> | <a class="comments-link" href="http://www.literaryladies.com/2010/06/reading-and-then-there-were-none/#comments" title="Comment on Reading ‘And Then There Were None’">7 comments</a> </div>
+</div><!-- / Post -->
+
+<!-- / Main Column -->
+<!-- Right Inner Sidebar -->
+<td id="right-inner">
+<div class="widget widget_search" id="search-3"><div class="widget-title"><h3>Search…</h3></div><form action="http://www.literaryladies.com/" class="searchform" method="get">
+<table border="0" cellpadding="0" cellspacing="0" class="searchform">
+<tr>
+<td class="searchfield">
+<input class="text inputblur" name="s" type="text" value=""/>
+</td>
+<td class="searchbutton">
+<input name="submit" src="http://www.literaryladies.com/wp-content/themes/atahualpa/images/magnifier2-gray.gif" style="display: block; border:none; padding: 0 0 0 5px; margin: 0;" type="image" value="Search LLDS"/>
+</td>
+</tr></table>
+</form></div><div class="widget widget_calendar" id="calendar-3"><div class="widget-title"><h3> </h3></div><div id="calendar_wrap"><table id="wp-calendar" summary="Calendar">
+<caption>February 2015</caption>
+<thead>
+<tr>
+<th scope="col" title="Sunday">S</th>
+<th scope="col" title="Monday">M</th>
+<th scope="col" title="Tuesday">T</th>
+<th scope="col" title="Wednesday">W</th>
+<th scope="col" title="Thursday">T</th>
+<th scope="col" title="Friday">F</th>
+<th scope="col" title="Saturday">S</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="3" id="prev"><a href="http://www.literaryladies.com/2011/10/" title="View posts for October 2011">« Oct</a></td>
+<td class="pad"> </td>
+<td class="pad" colspan="3" id="next"> </td>
+</tr>
+</tfoot>
+<tbody>
+<tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td>
+</tr>
+<tr>
+<td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td>
+</tr>
+<tr>
+<td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td>
+</tr>
+<tr>
+<td>22</td><td id="today">23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td>
+</tr>
+</tbody>
+</table></div></div><div class="widget widget_archive" id="archives-3"><div class="widget-title"><h3>Archives</h3></div> <ul>
+<li><a href="http://www.literaryladies.com/2011/10/" title="October 2011">October 2011</a></li>
+<li><a href="http://www.literaryladies.com/2011/09/" title="September 2011">September 2011</a></li>
+<li><a href="http://www.literaryladies.com/2011/08/" title="August 2011">August 2011</a></li>
+<li><a href="http://www.literaryladies.com/2011/07/" title="July 2011">July 2011</a></li>
+<li><a href="http://www.literaryladies.com/2011/03/" title="March 2011">March 2011</a></li>
+<li><a href="http://www.literaryladies.com/2011/02/" title="February 2011">February 2011</a></li>
+<li><a href="http://www.literaryladies.com/2011/01/" title="January 2011">January 2011</a></li>
+<li><a href="http://www.literaryladies.com/2010/12/" title="December 2010">December 2010</a></li>
+<li><a href="http://www.literaryladies.com/2010/11/" title="November 2010">November 2010</a></li>
+<li><a href="http://www.literaryladies.com/2010/10/" title="October 2010">October 2010</a></li>
+<li><a href="http://www.literaryladies.com/2010/09/" title="September 2010">September 2010</a></li>
+<li><a href="http://www.literaryladies.com/2010/08/" title="August 2010">August 2010</a></li>
+<li><a href="http://www.literaryladies.com/2010/07/" title="July 2010">July 2010</a></li>
+<li><a href="http://www.literaryladies.com/2010/06/" title="June 2010">June 2010</a></li>
+<li><a href="http://www.literaryladies.com/2010/05/" title="May 2010">May 2010</a></li>
+<li><a href="http://www.literaryladies.com/2010/04/" title="April 2010">April 2010</a></li>
+<li><a href="http://www.literaryladies.com/2010/03/" title="March 2010">March 2010</a></li>
+<li><a href="http://www.literaryladies.com/2010/02/" title="February 2010">February 2010</a></li>
+<li><a href="http://www.literaryladies.com/2010/01/" title="January 2010">January 2010</a></li>
+</ul>
+</div><div class="widget GFCIWidget_Members" id="gfc-members"><div class="widget-title"><h3></h3></div>
+<div id="gfci-member" style="width:px;border:1px solid #gray;"></div>
+<script type="text/javascript">
+var skin = {};
+skin['HEIGHT'] = '';
+skin['BORDER_COLOR'] = '';
+skin['ENDCAP_BG_COLOR'] = '';
+skin['ENDCAP_TEXT_COLOR'] = '';
+skin['ENDCAP_LINK_COLOR'] = '';
+skin['ALTERNATE_BG_COLOR'] = '';
+skin['CONTENT_BG_COLOR'] = '';
+skin['CONTENT_LINK_COLOR'] = '666';
+skin['CONTENT_TEXT_COLOR'] = 'D581A2';
+skin['CONTENT_SECONDARY_LINK_COLOR'] = '666';
+skin['CONTENT_SECONDARY_TEXT_COLOR'] = 'D581A2';
+skin['CONTENT_HEADLINE_COLOR'] = 'D581A2';
+google.friendconnect.container.setParentUrl('' /* location of rpc_relay.html and canvas.html */);
+google.friendconnect.container.renderMembersGadget(
+ { id: 'gfci-member',
+   site: '02496317651520313911'},
+  skin);
+</script>
+</div>
+</td>
+<!-- / Right Inner Sidebar -->
+<!-- Right Sidebar -->
+<td id="right">
+<div class="widget widget_meta" id="meta-3"><div class="widget-title"><h3>Join Literary Ladies!</h3></div> <ul>
+<li><a href="http://www.literaryladies.com/wp-login.php">Log in</a></li>
+<li><a href="http://www.literaryladies.com/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="http://www.literaryladies.com/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>
+</ul>
+</div><div class="widget widget_text" id="text-4"><div class="widget-title"><h3>LLDS Button- Take One!</h3></div> <div class="textwidget"><div style="text-align: left;"><span class="Apple-style-span" style="  white-space: pre-wrap; font-family:'Lucida Grande';font-size:0px;"><center><img src="http://i933.photobucket.com/albums/ad172/RobinBlogs/lldsbuttonlittle.jpg"/></center></span></div><span class="Apple-style-span" style="  white-space: pre-wrap; font-family:'Lucida Grande';font-size:11px;"><textarea cols="24" rows="4" style="text-align:center"><center><a border="0" href="http://www.literaryladies.com/" target="_blank"><img src="http://i933.photobucket.com/albums/ad172/RobinBlogs/lldsbutton.jpg"/></a></center></textarea><span class="Apple-style-span" style="  white-space: normal; font-family:Georgia;font-size:16px;"><div></div></span></span></div>
+</div><div class="widget widget_recent_comments" id="recent-comments-3"><div class="widget-title"><h3>Recent Comments</h3></div><ul id="recentcomments"><li class="recentcomments"><a class="url" href="http://highlandbookclub.wordpress.com/2014/02/13/reading-resources-and-then-there-were-none/" rel="external nofollow">Reading Resources – And Then There Were None | Highland Book Club</a> on <a href="http://www.literaryladies.com/2010/07/discussing-and-then-there-were-none/comment-page-1/#comment-412">Discussing ‘And Then There Were None’</a></li><li class="recentcomments"><a class="url" href="http://www.literaryladies.com/social-profiles/my-profile/?u=Lerowen" rel="external nofollow">Lerowen</a> on <a href="http://www.literaryladies.com/2011/10/discussing-anne-of-green-gables/comment-page-1/#comment-410">Discussing ‘Anne of Green Gables’</a></li><li class="recentcomments"><a class="url" href="http://www.literaryladies.com/social-profiles/my-profile/?u=Brianna" rel="external nofollow">Brianna</a> on <a href="http://www.literaryladies.com/2011/10/reading-anne-of-green-gables/comment-page-1/#comment-409">Reading Anne of Green Gables</a></li><li class="recentcomments"><a class="url" href="http://www.literaryladies.com/social-profiles/my-profile/?u=Brianna" rel="external nofollow">Brianna</a> on <a href="http://www.literaryladies.com/2011/10/discussing-anne-of-green-gables/comment-page-1/#comment-408">Discussing ‘Anne of Green Gables’</a></li><li class="recentcomments"><a class="url" href="http://www.literaryladies.com/social-profiles/my-profile/?u=Libby" rel="external nofollow">Libby</a> on <a href="http://www.literaryladies.com/2011/08/voting-sept-dec-2011/comment-page-1/#comment-405">Voting Sept.-Dec. 2011</a></li></ul></div> <div class="widget widget_mngluserswidget" id="mngluserswidget-3"> <div class="widget-title"><h3>Literary Ladies/Members</h3></div> <div class="mngl-user-grid">
+<p class="mngl-user-grid-header">88 Users - <a href="http://www.literaryladies.com/social-profiles/directory/">Show All</a></p>
+<table class="mngl-user-grid-table" width="100%">
+<tr>
+<td style="max-width: 50px;" valign="top" width="50px"><center><div class="mngl-grid-cell" rel="&lt;strong&gt;Taylor&lt;/strong&gt;&lt;br/&gt;Taylor"><a href="http://www.literaryladies.com/social-profiles/my-profile/?u=Taylor"></a></div></center></td>
+<td style="max-width: 50px;" valign="top" width="50px"><center><div class="mngl-grid-cell" rel="&lt;strong&gt;Morgan&lt;/strong&gt;&lt;br/&gt;Morgan"><a href="http://www.literaryladies.com/social-profiles/my-profile/?u=Morgan"></a></div></center></td>
+<td style="max-width: 50px;" valign="top" width="50px"><center><div class="mngl-grid-cell" rel="&lt;strong&gt;Jadina&lt;/strong&gt;&lt;br/&gt;Jadina"><a href="http://www.literaryladies.com/social-profiles/my-profile/?u=Jadina"></a></div></center></td>
+</tr>
+<tr>
+<td style="max-width: 50px;" valign="top" width="50px"><center><div class="mngl-grid-cell" rel="&lt;strong&gt;mpmovies&lt;/strong&gt;&lt;br/&gt;mpmovies"><a href="http://www.literaryladies.com/social-profiles/my-profile/?u=mpmovies"></a></div></center></td>
+<td style="max-width: 50px;" valign="top" width="50px"><center><div class="mngl-grid-cell" rel="&lt;strong&gt;AnnaMaliere&lt;/strong&gt;&lt;br/&gt;AnnaMaliere"><a href="http://www.literaryladies.com/social-profiles/my-profile/?u=AnnaMaliere"></a></div></center></td>
+<td style="max-width: 50px;" valign="top" width="50px"><center><div class="mngl-grid-cell" rel="&lt;strong&gt;Rose&lt;/strong&gt;&lt;br/&gt;Emily"><a href="http://www.literaryladies.com/social-profiles/my-profile/?u=Rose"></a></div></center></td>
+</tr>
+</table>
+</div>
+<p style="font-size: 8px;">Powered by <span><img alt="Small Mingle Icon" height="10px" src="http://www.literaryladies.com/wp-content/plugins/mingle/images/mingle_16.png" width="10px"> <a href="http://blairwilliams.com/mingle" style="text-decoration: none;">Mingle</a></img></span></p>
+</div> <div class="widget widget_mnglloginwidget" id="mnglloginwidget-3"> <div class="widget-title"><h3>Social Profile Login</h3></div> <p>Login to connect with Others on Literary Ladies Discussion Society:</p>
+<form action="http://www.literaryladies.com/social-profiles/login/" id="loginform" method="post" name="loginform">
+<p>
+<label><strong>Username</strong><br/>
+<input class="input" id="user_login" name="log" style="width: 100%; font-size: 12px; padding: 4px;" tabindex="710" type="text" value=""/></label>
+<label><strong>Password</strong><br/>
+<input class="input" id="user_pass" name="pwd" style="width: 100%; line-height: 12px; padding: 4px;" tabindex="720" type="password" value=""/></label><br/>
+<label><input id="rememberme" name="rememberme" style="width: 15px;" tabindex="730" type="checkbox" value="forever"/> Remember Me</label>
+</p>
+<p class="submit">
+<input class="button-primary mngl-share-button" id="wp-submit" name="wp-submit" tabindex="740" type="submit" value="Log In"/>
+<input name="redirect_to" type="hidden" value="http://www.literaryladies.com/social-profiles/my-activities/"/>
+<input name="testcookie" type="hidden" value="1"/>
+<input name="mngl_process_login_form" type="hidden" value="true"/>
+</p>
+</form>
+<p class="mngl-login-actions" style="font-size: 10px">
+<a href="http://www.literaryladies.com/social-profiles/login/?action=forgot_password">Lost Password?</a>
+<p><a href="http://www.literaryladies.com/social-profiles/directory/">Directory</a></p>
+</p>
+<p style="font-size: 8px;">Powered by <span><img alt="Small Mingle Icon" height="10px" src="http://www.literaryladies.com/wp-content/plugins/mingle/images/mingle_16.png" width="10px"> <a href="http://blairwilliams.com/mingle" style="text-decoration: none;">Mingle</a></img></span></p>
+</div>
+</td>
+<!-- / Right Sidebar -->
+
+<!-- / Main Body -->
+<tr>
+<!-- Footer -->
+<td colspan="3" id="footer">
+<p>
+    Copyright © 2015 <a href="http://www.literaryladies.com/">Literary Ladies Discussion Society</a> - All Rights Reserved---
+Site Owned and Set Up By: <a href="http://insidecassiesmind.blogspot.com/">Cassie R.</a><br/>Powered by <a href="http://wordpress.org/">WordPress</a> &amp; the <a href="http://wordpress.bytesforall.com/" title="Customizable WordPress themes">Atahualpa Theme</a> by <a href="http://www.bytesforall.com/" title="BFA Webdesign">BytesForAll</a>. Discuss on our <a href="http://forum.bytesforall.com/" title="Atahualpa &amp; WordPress">WP Forum</a> </p>
+</td>
+<!-- / Footer -->
+</tr>
+<!-- / layout -->
+<!-- / container -->
+<!-- / wrapper -->
+

@@ -1,0 +1,11 @@
+Server: nginx
+Date: Tue, 24 Feb 2015 06:34:17 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+X-Powered-By: PHP/5.4.31
+cache-control: private, must-revalidate
+pragma: no-cache
+expires: -1
+Set-Cookie: IKAN=cf93ce30c85a0d20676fe5f9660965fc058b5de7%2B00TKrOjmOUdUoGigPv2c9xWUH6ZmQqghbVinGFXT; expires=Tue, 24-Feb-2015 07:34:17 GMT; path=/; httponly
+

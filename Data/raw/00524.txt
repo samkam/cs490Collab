@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+
+<html lang="en"><!--<![endif]-->
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta content="yes" name="apple-mobile-web-app-capable">
+<meta content="minimum-scale=1.0, width=device-width, maximum-scale=1, user-scalable=no" name="viewport">
+<meta charset="utf-8">
+<title> Elvis The Music</title>
+<meta content="Elvis" name="key">
+<meta content="" name="description">
+<link href="http://www.elvisthemusic.com/wp-content/themes/elvis/css/reset.css" media="all" rel="stylesheet">
+<link href="http://fonts.googleapis.com/css?family=Raleway:400,700" media="all" rel="stylesheet">
+<link href="http://www.elvisthemusic.com/wp-content/themes/elvis/css/fonts.css" media="all" rel="stylesheet">
+<link href="http://www.elvisthemusic.com/wp-content/themes/elvis/css/owl.carousel.css" media="all" rel="stylesheet">
+<link href="http://www.elvisthemusic.com/wp-content/themes/elvis/css/responsive.gs.12col.css" media="all" rel="stylesheet">
+<link href="http://www.elvisthemusic.com/wp-content/themes/elvis/css/jquery.fancybox.css" media="all" rel="stylesheet">
+<link href="http://www.elvisthemusic.com/wp-content/themes/elvis/css/style.css" media="all" rel="stylesheet">
+<meta content="The Official Elvis Presley Site" property="og:site_name">
+<meta content="Elvis Presley" property="og:title">
+<meta content="website" property="og:type">
+<meta content="http://www.elvisthemusic.com" property="og:url">
+<meta content="Check out Elvis Presley at http://www.elvisthemusic.com" property="og:description">
+<meta content="http://www.elvisthemusic.com/wp-content/themes/elvis/images/default.jpg" property="og:image">
+<link href="http://www.elvisthemusic.com/wp-content/themes/elvis/favicon.ico" rel="shortcut icon">
+<link href="http://www.elvisthemusic.com/wp-content/themes/elvis/favicon.ico" rel="apple-touch-icon">
+<link href="http://www.elvisthemusic.com/wp-content/themes/elvis/favicon.ico" rel="apple-touch-icon" sizes="72x72">
+<link href="http://www.elvisthemusic.com/wp-content/themes/elvis/favicon.ico" rel="apple-touch-icon" sizes="114x114">
+<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-5947938-34', 'auto');
+	  ga('create', 'UA-58121018-1', 'auto', {'name': 'haloTracker'});
+	  
+	  ga('send', 'pageview');
+	  ga('haloTracker.send', 'pageview');
+	</script>
+<script src="http://www.elvisthemusic.com/wp-content/themes/elvis/js/respond.min.js"></script>
+<link href="http://www.elvisthemusic.com/home/feed/" rel="alternate" title="Elvis Presley Official Web Site » Home Comments Feed" type="application/rss+xml"/>
+<link href="http://www.elvisthemusic.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=4.6.5" id="rs-plugin-settings-css" media="all" rel="stylesheet" type="text/css"/>
+<style type="text/css">
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link href="http://www.elvisthemusic.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" id="wp-pagenavi-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="http://www.elvisthemusic.com/wp-includes/js/jquery/jquery.js?ver=1.11.1" type="text/javascript"></script>
+<script src="http://www.elvisthemusic.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1" type="text/javascript"></script>
+<script src="http://www.elvisthemusic.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?ver=4.6.5" type="text/javascript"></script>
+<script src="http://www.elvisthemusic.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=4.6.5" type="text/javascript"></script>
+<link href="http://www.elvisthemusic.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://www.elvisthemusic.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="http://www.elvisthemusic.com/" rel="canonical"/>
+<link href="http://www.elvisthemusic.com/" rel="shortlink"/>
+<meta content="1536163246639259" property="fb:app_id"/>
+<meta content="" property="fb:admins"/>
+<script type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '8c4fec8541';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"https://www.elvisthemusic.com/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+<script>(function() {
+		var _fbq = window._fbq || (window._fbq = []);
+		if (!_fbq.loaded) {
+		var fbds = document.createElement('script');
+		fbds.async = true;
+		fbds.src = '//connect.facebook.net/en_US/fbds.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(fbds, s);
+		_fbq.loaded = true;
+		}
+		_fbq.push(['addPixelId', "360115874131187"]);
+		})();
+		window._fbq = window._fbq || [];
+		window._fbq.push(["track", "PixelInitialized", {}]);
+	</script>
+<noscript><img alt="" border="0" height="1" src="https://www.facebook.com/tr?id=360115874131187&amp;ev=NoScript" style="display:none" width="1"/></noscript>
+</link></link></link></link></meta></meta></meta></meta></meta></meta></link></link></link></link></link></link></link></meta></meta></meta></meta></meta></meta></head>
+<body class="home page page-id-5 page-template page-template-page-home-php">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<header class="main-header">
+<div class="mh-content">
+<div class="cols clr">
+<div class="col-item span_2">
+<h1 class="logo">
+<a href="index.html" title="Elvis The Music"><span class="logo-name"><img alt="Elvis" src="http://www.elvisthemusic.com/wp-content/themes/elvis/images/logo.png"/></span> The Music</a>
+</h1>
+</div>
+<div class="col-item span_7">
+<ul class="nav-grp" id="menu-primary"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5 current_page_item menu-item-9" id="menu-item-9"><a href="http://www.elvisthemusic.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20" id="menu-item-20"><a href="http://www.elvisthemusic.com/news/">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19" id="menu-item-19"><a href="http://www.elvisthemusic.com/music/">Music</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18" id="menu-item-18"><a href="http://www.elvisthemusic.com/playlist/">Playlists</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10" id="menu-item-10"><a href="http://smarturl.it/elvisstore">Store</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11" id="menu-item-11"><a href="http://smarturl.it/elvisstore" target="_blank">Music Store</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-399" id="menu-item-399"><a href="http://smarturl.it/elvis_itunes" target="_blank">iTunes Store</a></li>
+</ul>
+</li>
+</ul> </div>
+<div class="col-item ci-mob span_2">
+<a class="btn-signup js-signup" href="#modal-signup" title="Newsletter Signup">Newsletter Signup</a>
+</div>
+<div class="col-item ci-mob span_1">
+<div class="fb-like" data-action="like" data-href="http://www.facebook.com/Elvisthemusic" data-layout="button_count" data-share="false" data-show-faces="false"></div>
+</div>
+</div>
+</div>
+</header>
+<section class="featured-rotator">
+<div class="rev_slider_wrapper fullscreen-container" id="rev_slider_1_1_wrapper" style="background-color:#E9E9E9;padding:0px;">
+<!-- START REVOLUTION SLIDER 4.6.5 fullscreen mode -->
+<div class="rev_slider fullscreenbanner" id="rev_slider_1_1" style="display:none;">
+<ul> <!-- SLIDE  -->
+<li data-link="http://smarturl.it/elvis80playlist" data-masterspeed="300" data-saveperformance="off" data-slotamount="7" data-target="_blank" data-transition="random">
+<!-- MAIN IMAGE -->
+<img alt="150108_spotify_hp_bkgd" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat" src="http://www.elvisthemusic.com/wp-content/uploads/2015/01/150108_spotify_hp_bkgd.jpg">
+<!-- LAYERS -->
+<!-- LAYER NR. 1 -->
+<div class="tp-caption tp-fade" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" data-speed="300" data-start="500" data-x="14" data-y="112" style="z-index: 5;"><img alt="" data-hh="215" data-ww="589" src="http://www.elvisthemusic.com/wp-content/uploads/2015/01/150108_spotify_hp_text.png">
+</img></div>
+</img></li>
+<!-- SLIDE  -->
+<li data-link="/music" data-masterspeed="300" data-saveperformance="off" data-slotamount="7" data-transition="random">
+<!-- MAIN IMAGE -->
+<img alt="150107_main_hp_bkgd" data-bgfit="cover" data-bgposition="12% 50%" data-bgrepeat="no-repeat" src="http://www.elvisthemusic.com/wp-content/uploads/2015/01/150107_main_hp_bkgd.jpg">
+<!-- LAYERS -->
+<!-- LAYER NR. 1 -->
+<div class="tp-caption tp-fade" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" data-speed="300" data-start="500" data-x="690" data-y="14" style="z-index: 5;"><img alt="" src="http://www.elvisthemusic.com/wp-content/uploads/2015/01/hero-title11.png">
+</img></div>
+</img></li>
+<!-- SLIDE  -->
+<li data-link="http://www.elvisthemusic.com/elvis-radio-only-on-siriusxm/" data-masterspeed="300" data-saveperformance="off" data-slotamount="7" data-transition="random">
+<!-- MAIN IMAGE -->
+<img alt="150130_elvisradio_bkgd" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat" src="http://www.elvisthemusic.com/wp-content/uploads/2015/02/150130_elvisradio_bkgd.jpg">
+<!-- LAYERS -->
+<!-- LAYER NR. 1 -->
+<div class="tp-caption tp-fade" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" data-speed="300" data-start="500" data-x="537" data-y="64" style="z-index: 5;"><img alt="" data-hh="187" data-ww="456" src="http://www.elvisthemusic.com/wp-content/uploads/2015/02/150130_elvisradio_logo.png">
+</img></div>
+</img></li>
+<!-- SLIDE  -->
+<li data-link="http://smarturl.it/elvis60s_itunes" data-masterspeed="300" data-saveperformance="off" data-slotamount="7" data-target="_blank" data-transition="random">
+<!-- MAIN IMAGE -->
+<img alt="150108_itunes_hp_bkgd" data-bgfit="cover" data-bgposition="right center" data-bgrepeat="no-repeat" src="http://www.elvisthemusic.com/wp-content/uploads/2015/01/150108_itunes_hp_bkgd.jpg">
+<!-- LAYERS -->
+<!-- LAYER NR. 1 -->
+<div class="tp-caption tp-fade" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" data-speed="300" data-start="500" data-x="-2" data-y="-14" style="z-index: 5;"><img alt="" data-hh="396" data-ww="409" src="http://www.elvisthemusic.com/wp-content/uploads/2015/01/150108_itunes_hp_text.png">
+</img></div>
+</img></li>
+</ul>
+<div class="tp-bannertimer"></div> </div>
+<style scoped=""></style>
+<script type="text/javascript">
+
+				/******************************************
+					-	PREPARE PLACEHOLDER FOR SLIDER	-
+				******************************************/
+				
+
+				var setREVStartSize = function() {
+					var	tpopt = new Object();
+						tpopt.startwidth = 960;
+						tpopt.startheight = 350;
+						tpopt.container = jQuery('#rev_slider_1_1');
+						tpopt.fullScreen = "on";
+						tpopt.forceFullWidth="off";
+
+					tpopt.container.closest(".rev_slider_wrapper").css({height:tpopt.container.height()});tpopt.width=parseInt(tpopt.container.width(),0);tpopt.height=parseInt(tpopt.container.height(),0);tpopt.bw=tpopt.width/tpopt.startwidth;tpopt.bh=tpopt.height/tpopt.startheight;if(tpopt.bh>tpopt.bw)tpopt.bh=tpopt.bw;if(tpopt.bh<tpopt.bw)tpopt.bw=tpopt.bh;if(tpopt.bw<tpopt.bh)tpopt.bh=tpopt.bw;if(tpopt.bh>1){tpopt.bw=1;tpopt.bh=1}if(tpopt.bw>1){tpopt.bw=1;tpopt.bh=1}tpopt.height=Math.round(tpopt.startheight*(tpopt.width/tpopt.startwidth));if(tpopt.height>tpopt.startheight&&tpopt.autoHeight!="on")tpopt.height=tpopt.startheight;if(tpopt.fullScreen=="on"){tpopt.height=tpopt.bw*tpopt.startheight;var cow=tpopt.container.parent().width();var coh=jQuery(window).height();if(tpopt.fullScreenOffsetContainer!=undefined){try{var offcontainers=tpopt.fullScreenOffsetContainer.split(",");jQuery.each(offcontainers,function(e,t){coh=coh-jQuery(t).outerHeight(true);if(coh<tpopt.minFullScreenHeight)coh=tpopt.minFullScreenHeight})}catch(e){}}tpopt.container.parent().height(coh);tpopt.container.height(coh);tpopt.container.closest(".rev_slider_wrapper").height(coh);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(coh);tpopt.container.css({height:"100%"});tpopt.height=coh;}else{tpopt.container.height(tpopt.height);tpopt.container.closest(".rev_slider_wrapper").height(tpopt.height);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(tpopt.height);}
+				};
+
+				/* CALL PLACEHOLDER */
+				setREVStartSize();
+
+
+				var tpj=jQuery;
+				tpj.noConflict();
+				var revapi1;
+
+				tpj(document).ready(function() {
+
+				if(tpj('#rev_slider_1_1').revolution == undefined){
+					revslider_showDoubleJqueryError('#rev_slider_1_1');
+				}else{
+				   revapi1 = tpj('#rev_slider_1_1').show().revolution(
+					{	
+												dottedOverlay:"none",
+						delay:9000,
+						startwidth:960,
+						startheight:350,
+						hideThumbs:200,
+
+						thumbWidth:100,
+						thumbHeight:50,
+						thumbAmount:4,
+						
+												
+						simplifyAll:"off",
+
+						navigationType:"bullet",
+						navigationArrows:"solo",
+						navigationStyle:"round",
+
+						touchenabled:"on",
+						onHoverStop:"on",
+						nextSlideOnWindowFocus:"off",
+
+						swipe_threshold: 75,
+						swipe_min_touches: 1,
+						drag_block_vertical: false,
+						
+												
+												
+						keyboardNavigation:"off",
+
+						navigationHAlign:"center",
+						navigationVAlign:"bottom",
+						navigationHOffset:0,
+						navigationVOffset:20,
+
+						soloArrowLeftHalign:"left",
+						soloArrowLeftValign:"center",
+						soloArrowLeftHOffset:20,
+						soloArrowLeftVOffset:0,
+
+						soloArrowRightHalign:"right",
+						soloArrowRightValign:"center",
+						soloArrowRightHOffset:20,
+						soloArrowRightVOffset:0,
+
+						shadow:0,
+						fullWidth:"off",
+						fullScreen:"on",
+
+												spinner:"spinner0",
+												
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+
+						shuffle:"off",
+
+						
+						forceFullWidth:"off",
+						fullScreenAlignForce:"off",
+						minFullScreenHeight:"",
+						
+						hideThumbsOnMobile:"off",
+						hideNavDelayOnMobile:1500,
+						hideBulletsOnMobile:"off",
+						hideArrowsOnMobile:"off",
+						hideThumbsUnderResolution:0,
+
+												fullScreenOffsetContainer: ".main-header, .main-footer",
+						fullScreenOffset: "",
+												hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						startWithSlide:0					});
+
+
+
+									}
+				});	/*ready*/
+
+			</script>
+</div><!-- END REVOLUTION SLIDER --></section>
+<a class="btn-swn js-btn-swn" href="#" title="See What's New!">See What's New! <span class="icon-arrow-down"></span></a>
+<div class="body-hide">
+<section class="features">
+<a class="feat-close js-fclose icon-angle-double-down" href="#" title="Close"></a>
+<div class="container">
+<div class="gutters clr">
+<section class="col span_4">
+<h1 class="featured-title">Featured News</h1>
+<article class="article-item">
+<a href="http://www.elvisthemusic.com/country-outfitter-year-long-elvis-celebration-continues/" title="Country Outfitter Year-Long Elvis Celebration Continues!"><img alt="" class="img-full" src="http://www.elvisthemusic.com/wp-content/uploads/2015/02/150212_vday.jpg"/></a>
+<header class="article-header trans-4">
+<div class="article-content">
+<h1 class="article-title">Country Outfitter Year-Long Elvis Celebration Continues!</h1>
+</div>
+</header>
+<div class="view-article trans-4">
+<a href="http://www.elvisthemusic.com/country-outfitter-year-long-elvis-celebration-continues/" title="Read More">Read More<span class="icon-angle-right view-arrow"></span></a>
+</div>
+</article>
+</section>
+<section class="col span_4">
+<h1 class="featured-title">Featured Product</h1>
+<article class="article-item">
+<a href="http://www.elvisthemusic.com/music/thats-the-way-it-is-deluxe-edition/" title="That’s The Way It Is – Deluxe Edition"><img alt="That’s The Way It Is – Deluxe Edition" class="img-full" src="http://www.elvisthemusic.com/wp-content/uploads/2014/08/elvis_ttwii_deluxe1.jpg"/></a>
+<header class="article-header trans-4">
+<div class="article-content">
+<h1 class="article-title">That’s The Way It Is – Deluxe Edition</h1>
+</div>
+</header>
+<div class="view-article trans-4">
+<a href="http://www.elvisthemusic.com/music/thats-the-way-it-is-deluxe-edition/" title="Buy Now">Buy Now<span class="icon-angle-right view-arrow"></span></a>
+</div>
+</article>
+</section>
+<section class="col span_4">
+<h1 class="featured-title">Featured Playlist</h1>
+<article class="article-item featured-item">
+<iframe allowtransparency="true" frameborder="0" height="380" src="https://embed.spotify.com/?uri=spotify:user:elvispresleymusic:playlist:5DSH3KEuGZiqjBVP0sdd2s" width="300"></iframe> <img alt="" class="img-full" src="http://www.elvisthemusic.com/wp-content/themes/elvis/images/blank-feat.gif">
+</img></article>
+</section>
+</div>
+</div>
+</section>
+</div>
+<div class="modal-form" id="modal-signup">
+<a class="modal-close js-mod-close" href="#" title="Close">x</a>
+<img alt="" src="http://www.elvisthemusic.com/wp-content/themes/elvis/images/litebox-header.jpg">
+<h1 class="modal-title">Be the first to hear about <span class="modal-txt">new</span> Elvis music <i>&amp;</i> News. Sign Up here:</h1>
+<form action="https://fc.myplay.com/apps/sf/signup" method="POST" name="Signup" onsubmit="return validateSignupForm(this)" signupform="true">
+<div id="landing">
+<div id="errorDiv" style="border: 1px solid; background-repeat: no-repeat; background-position: 10px center; color: #D8000C; background-color: #FFBABA; font-weight:normal; font-size:12px; visibility:hidden;"></div>
+<div class="signup" id="mainForm" style="display: none;">
+<div class="clr gutters inputs">
+<div class="col span_6">
+<label class="label modal-label" id="emailLabel"><span class="required">*</span>Email Address</label>
+<div class="field single" id="emailDiv">
+<input maxlength="50" name="email" size="20" type="text" value="">
+</input></div>
+<input name="required_fields" type="hidden" value="email">
+<input name="demographics_on_form" type="hidden" value="email">
+</input></input></div>
+<div class="col span_6">
+<label class="label modal-label" id="countryLabel">Country/Region</label>
+<div class="field selector" id="countryDiv">
+<select name="country">
+<option value="">Select Your Country/Region</option>
+<option value="US">United States</option>
+<option value="AF">Afghanistan</option>
+<option value="AX">Aland Islands</option>
+<option value="AL">Albania</option>
+<option value="DZ">Algeria</option>
+<option value="AS">American Samoa</option>
+<option value="AD">Andorra</option>
+<option value="AO">Angola</option>
+<option value="AI">Anguilla</option>
+<option value="AQ">Antartica</option>
+<option value="AG">Antigua and Barbuda</option>
+<option value="AR">Argentina</option>
+<option value="AM">Armenia</option>
+<option value="AW">Aruba</option>
+<option value="AU">Australia</option>
+<option value="AT">Austria</option>
+<option value="AZ">Azerbaijan</option>
+<option value="BS">Bahamas</option>
+<option value="BH">Bahrain</option>
+<option value="BD">Bangladesh</option>
+<option value="BB">Barbados</option>
+<option value="BY">Belarus</option>
+<option value="BE">Belgium</option>
+<option value="BZ">Belize</option>
+<option value="BJ">Benin</option>
+<option value="BM">Bermuda</option>
+<option value="BT">Bhutan</option>
+<option value="GW">Bissau</option>
+<option value="BO">Bolivia</option>
+<option value="BA">Bosnia and Herzegovina</option>
+<option value="BW">Botswana</option>
+<option value="BV">Bouvet island</option>
+<option value="BR">Brazil</option>
+<option value="IO">British Indian Ocean Territory</option>
+<option value="VG">British Virgin Islands</option>
+<option value="BN">Brunei Darussalam</option>
+<option value="BG">Bulgaria</option>
+<option value="BF">Burkina Faso</option>
+<option value="BI">Burundi</option>
+<option value="KH">Cambodia</option>
+<option value="CM">Cameroon</option>
+<option value="CA">Canada</option>
+<option value="CV">Cape Verde</option>
+<option value="KY">Cayman islands</option>
+<option value="CF">Central Africa Republic</option>
+<option value="TD">Chad</option>
+<option value="CL">Chile</option>
+<option value="CN">China</option>
+<option value="CX">Christmas Island</option>
+<option value="CC">Coco Islands</option>
+<option value="CO">Colombia</option>
+<option value="KM">Comoros</option>
+<option value="CK">Cook Islands</option>
+<option value="CR">Costa Rica</option>
+<option value="HR">Croatia</option>
+<option value="CU">Cuba</option>
+<option value="CY">Cyprus</option>
+<option value="CZ">Czech Republic</option>
+<option value="CD">Democratic Republic of Congo</option>
+<option value="DK">Denmark</option>
+<option value="DJ">Djibouti</option>
+<option value="DM">Dominica</option>
+<option value="DO">Dominican Republic</option>
+<option value="EC">Ecuador</option>
+<option value="EG">Egypt</option>
+<option value="SV">El Salvador</option>
+<option value="GQ">Equatorial Guinea</option>
+<option value="ER">Eritrea</option>
+<option value="EE">Estonia</option>
+<option value="ET">Ethiopia</option>
+<option value="FO">Faeroe Islands</option>
+<option value="FK">Falkland Islands</option>
+<option value="FJ">Fiji</option>
+<option value="FI">Finland</option>
+<option value="FR">France</option>
+<option value="GF">French Guiana</option>
+<option value="PF">French Polynesia</option>
+<option value="TF">French Southern Territories</option>
+<option value="GA">Gabon</option>
+<option value="GM">Gambia</option>
+<option value="GE">Georgia</option>
+<option value="DE">Germany</option>
+<option value="GH">Ghana</option>
+<option value="GI">Gibraltar</option>
+<option value="GR">Greece</option>
+<option value="GL">Greenland</option>
+<option value="GD">Grenada</option>
+<option value="GP">Guadeloupe</option>
+<option value="GU">Guam</option>
+<option value="GT">Guatemala</option>
+<option value="GN">Guinea</option>
+<option value="GY">Guyana</option>
+<option value="HT">Haiti</option>
+<option value="HM">Heard Island and McDonald Islands</option>
+<option value="HN">Honduras</option>
+<option value="HK">Hong Kong</option>
+<option value="HU">Hungary</option>
+<option value="IS">Iceland</option>
+<option value="IN">India</option>
+<option value="ID">Indonesia</option>
+<option value="IR">Iran</option>
+<option value="IQ">Iraq</option>
+<option value="IE">Ireland</option>
+<option value="IL">Israel</option>
+<option value="IT">Italy</option>
+<option value="CI">Ivory Coast</option>
+<option value="JM">Jamaica</option>
+<option value="JP">Japan</option>
+<option value="JO">Jordan</option>
+<option value="KZ">Kazakhstan</option>
+<option value="KE">Kenya</option>
+<option value="KI">Kiribati</option>
+<option value="KR">Korea</option>
+<option value="KW">Kuwait</option>
+<option value="KG">Kyrgyzstan</option>
+<option value="LA">Lao</option>
+<option value="LV">Latvia</option>
+<option value="LB">Lebanon</option>
+<option value="LS">Lesotho</option>
+<option value="LR">Liberia</option>
+<option value="LY">Libya</option>
+<option value="LI">Liechtenstein</option>
+<option value="LT">Lithuania</option>
+<option value="LU">Luxembourg</option>
+<option value="MO">Macao</option>
+<option value="MK">Macedonia</option>
+<option value="MG">Madagascar</option>
+<option value="MW">Malawi</option>
+<option value="MY">Malaysia</option>
+<option value="MV">Maldives</option>
+<option value="ML">Mali</option>
+<option value="MT">Malta</option>
+<option value="MH">Marshall Islands</option>
+<option value="MQ">Martinique</option>
+<option value="MR">Mauritania</option>
+<option value="MU">Mauritius</option>
+<option value="YT">Mayotte</option>
+<option value="MX">Mexico</option>
+<option value="FM">Micronesia</option>
+<option value="MD">Moldova</option>
+<option value="MC">Monaco</option>
+<option value="MN">Mongolia</option>
+<option value="ME">Montenegro</option>
+<option value="MS">Montserrat</option>
+<option value="MA">Morocco</option>
+<option value="MZ">Mozambique</option>
+<option value="MM">Myanmar</option>
+<option value="NA">Namibia</option>
+<option value="NR">Nauru</option>
+<option value="NP">Nepal</option>
+<option value="NL">Netherlands</option>
+<option value="AN">Netherlands Antilles</option>
+<option value="NC">New Caledonia</option>
+<option value="NZ">New Zealand</option>
+<option value="NI">Nicaragua</option>
+<option value="NE">Niger</option>
+<option value="NG">Nigeria</option>
+<option value="NU">Niue</option>
+<option value="NF">Norfolk Island</option>
+<option value="KP">Northern Korea</option>
+<option value="MP">Northern Mariana Islands</option>
+<option value="NO">Norway</option>
+<option value="OM">Oman</option>
+<option value="PK">Pakistan</option>
+<option value="PW">Palau</option>
+<option value="PS">Palestinian territories</option>
+<option value="PA">Panama</option>
+<option value="PG">Papua New Guinea</option>
+<option value="PY">Paraguay</option>
+<option value="PE">Peru</option>
+<option value="PH">Philippines</option>
+<option value="PN">Pitcairn</option>
+<option value="PL">Poland</option>
+<option value="PT">Portugal</option>
+<option value="PR">Puerto Rico</option>
+<option value="QA">Qatar</option>
+<option value="CG">Republic of Congo</option>
+<option value="RO">Romania</option>
+<option value="RU">Russia</option>
+<option value="RW">Rwanda</option>
+<option value="RE">Réunion</option>
+<option value="KN">Saint Kitts and Nevis</option>
+<option value="LC">Saint Lucia</option>
+<option value="PM">Saint Pierre and Miquelon</option>
+<option value="VC">Saint Vincent and the Grenadines</option>
+<option value="SH">Saint elena</option>
+<option value="WS">Samoa</option>
+<option value="SM">San Marino</option>
+<option value="ST">Sao Tome and Principe</option>
+<option value="SA">Saudi Arabia</option>
+<option value="SN">Senegal</option>
+<option value="RS">Serbia</option>
+<option value="SC">Seychelles</option>
+<option value="SL">Sierra Leone</option>
+<option value="SG">Singapore</option>
+<option value="SK">Slovakia</option>
+<option value="SI">Slovenia</option>
+<option value="SB">Solomon Islands</option>
+<option value="SO">Somalia</option>
+<option value="ZA">South Africa</option>
+<option value="GS">South Georgia and the South Sandwich Islands</option>
+<option value="ES">Spain</option>
+<option value="LK">Sri Lanka</option>
+<option value="SD">Sudan</option>
+<option value="SR">Suriname</option>
+<option value="SJ">Svalbard and Jan Mayen</option>
+<option value="SZ">Swaziland</option>
+<option value="SE">Sweden</option>
+<option value="CH">Switzerland</option>
+<option value="SY">Syria</option>
+<option value="TW">Taiwan</option>
+<option value="TJ">Tajikistan</option>
+<option value="TZ">Tanzania</option>
+<option value="TH">Thailand</option>
+<option value="TL">Timor-Leste</option>
+<option value="TG">Togo</option>
+<option value="TK">Tokelau</option>
+<option value="TO">Tonga</option>
+<option value="TT">Trinidad and Tobago</option>
+<option value="TN">Tunisia</option>
+<option value="TR">Turkey</option>
+<option value="TM">Turkmenistan</option>
+<option value="TC">Turks and Caicos Islands</option>
+<option value="TV">Tuvalu</option>
+<option value="VI">U.S. Virgin Islands</option>
+<option value="UG">Uganda</option>
+<option value="UA">Ukraine</option>
+<option value="AE">United Arab Emirates</option>
+<option value="GB">United Kingdom</option>
+<option value="UM">United States Minor Outlying Islands</option>
+<option value="XX">Unknown</option>
+<option value="UY">Uruguay</option>
+<option value="UZ">Uzbekistan</option>
+<option value="VU">Vanuatu</option>
+<option value="VA">Vatican</option>
+<option value="VE">Venezuela</option>
+<option value="VN">Vietnam</option>
+<option value="WF">Wallis and Futuna</option>
+<option value="EH">Western Sahara</option>
+<option value="YE">Yemen</option>
+<option value="ZM">Zambia</option>
+<option value="ZW">Zimbabwe</option>
+</select>
+<div class="arrow"></div>
+</div>
+<input name="demographics_on_form" type="hidden" value="country">
+</input></div>
+</div>
+<label class="label"></label>
+<input name="list" type="hidden" value="ln_elvis_presley">
+<div class="choice checkbox">
+<label><input name="list" type="checkbox" value="ln_legacy_recordings"/></label><span>Join the Legacy Recordings Newsletter</span>
+</div>
+<div id="primaryNotification" style="display:none;">
+</div>
+<div class="modal-submit">
+<input formtarget="_blank" id="submit" type="submit" value="Sign Up">
+<a class="btn-cancel js-btn-cancel" href="#" title="Cancel">Cancel</a>
+</input></div>
+<div id="privacy">
+<div class="privacy">
+<span id="req_fields_lbl"><span class="required">*</span>Required Fields</span><br>
+
+
+	 
+	<a href="http://www.sonymusic.com/privacy-policy/" target="_blank">Privacy policy</a>
+</br></div>
+</div>
+<div id="secondaryNotification" style="display:none;">
+</div>
+</input></div>
+</div><!--#landing-->
+<!-- Thankyou -->
+<div class="hidden" id="thankyou">
+<div class="after">
+<div class="title">
+			Welcome to the Elvis Presley Mailing List!
+			</div>
+<div class="txt">
+<p>Thanks for signing up for the ElvisTheMusic.com mailing list! Stay tuned for Elvis Presley news, contests and more!</p>
+<p>Visit <a href="http://www.elvisthemusic.com" target="_top">ElvisTheMusic.com</a> &gt;&gt;</p>
+</div>
+<div class="media-title">
+</div>
+</div>
+</div>
+<!-- Download -->
+<div class="hidden" id="download">
+<div class="after">
+<div class="title">
+</div>
+<div class="txt">
+</div>
+<div class="btn">
+</div>
+</div>
+</div>
+<!-- Geo Block  -->
+<div class="hidden" id="block">
+<div class="after">
+<div class="title">
+</div>
+</div>
+</div>
+<!-- Campaign Expired Message -->
+<div class="hidden" id="not-live">
+<div class="after">
+<div class="title">
+</div>
+</div>
+</div>
+<!-- Form Signup Limit Exceeded Message -->
+<div class="hidden" id="no-more">
+<div class="after">
+<div class="title">
+				Form signup limit reached
+			</div>
+</div>
+</div>
+<!-- Form List ID -->
+<input name="fc_form" type="hidden" value="19c39"/>
+<!-- Form Misc -->
+<input name="confirm" type="hidden" value="Y">
+<input name="email_vc" type="hidden" value="NL">
+<input name="mobile_vc" type="hidden" value="MZ">
+<!-- for promo options div display -->
+<input id="promo_on_lg" type="hidden" value="false">
+<input id="promo_on_ty" type="hidden" value="false">
+<input id="promo_on_bl" type="hidden" value="false">
+<!-- for enter site div display -->
+<input id="entersite_on_lg" type="hidden" value="false">
+<input id="entersite_on_ty" type="hidden" value="false">
+<input id="entersite_on_bl" type="hidden" value="false">
+<!-- FCv2.2 - for service list validation in sFC.js -->
+<input id="formType" type="hidden" value="newsletter">
+<input name="demographics_on_form" type="hidden" value="signup_source">
+<input id="signup_source" name="signup_source" type="hidden" value="EMAIL">
+</input></input></input></input></input></input></input></input></input></input></input></input></form>
+</img></div>
+<div class="overlay"></div>
+<script src="https://fcmedia.myplayd2c.com/elvis-presley/19c39/js/lp-main-script.js?vr=2014311216660" type="text/javascript"></script>
+<script src="http://www.elvisthemusic.com/wp-content/themes/elvis/js/vendor/jquery.cookie.js"></script>
+<script src="http://www.elvisthemusic.com/wp-content/themes/elvis/js/vendor/jquery.fancybox.js"></script>
+<script src="http://www.elvisthemusic.com/wp-content/themes/elvis/js/desktop.js"></script>
+<script src="http://www.elvisthemusic.com/wp-content/themes/elvis/js/scripts.js"></script>
+<footer class="main-footer">
+<div class="mf-content clr">
+<div class="col span_5">
+<p class="mf-copy">Visit <a href="http://www.onguardonline.gov/" target="_blank" title="OnGuardOnline.gov">www.OnGuardOnline.gov</a> for social networking safety tips for <a href="http://www.onguardonline.gov/articles/0012-kids-and-socializing-online" target="_blank" title="parents">parents</a> and <a href="http://www.onguardonline.gov/features/feature-0001-featured-info-kids" target="_blank" title="youth">youth</a>.</p>
+    © 2015 <a href="http://www.sonymusic.com/" target="_blank" title="Sony Music Entertainment">Sony Music Entertainment</a>. All Rights Reserved.
+    <div class="mf-links"><a href="http://hub.sonymusic.com/about/feedback.php" target="_blank" title="Send Us Feedback">Send Us Feedback</a> | <a href="http://www.sonymusic.com/privacy-policy/" target="_blank" title="Privacy Policy/Your Privacy Rights">Privacy Policy/Your Privacy Rights</a> | <a href="http://www.sonymusic.com/terms-and-conditions/" target="_blank" title="Terms and Conditions">Terms and Conditions</a> | <a href="http://www.whymusicmatters.com/" target="_blank" title="Why Music Matters">Why Music Matters</a></div>
+</div>
+<div class="col span_2">
+<a href="http://www.truste.com/products-and-services/enterprise-privacy/coppa" target="_blank" title="COPPA / Kid's Privacy Certification"><img alt="TRUSTe Kids Privacy" src="http://www.elvisthemusic.com/wp-content/themes/elvis/images/icon-truste.png"/></a>
+</div>
+<div class="col span_5 rt-align footer-rt">
+<ul class="socials rt-align col-item">
+<li class="social-item"><a class="icon-facebook" href="https://www.facebook.com/elvisthemusic" target="_blank" title="Facebook"></a></li>
+<li class="social-item"><a class="ico ico-vevo" href="http://www.vevo.com/artist/elvis-presley" target="_blank" title="VEVO"></a></li>
+<li class="social-item"><a class="icon-spotify" href="http://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE" target="_blank" title="Spotify"></a></li>
+<li class="social-item si-gp"><a class="icon-google-plus" href="https://plus.google.com/+elvispresley" target="_blank" title="Google+"></a></li>
+</ul>
+<div class="col-item footer-links">
+<span class="space"> </span><a href="http://elvis.com" target="_blank" title="Elvis.com">Elvis.com</a><span class="space-m">|</span><a href="http://Graceland.com" target="_blank" title="Graceland.com"><img alt="Graceland" src="http://www.elvisthemusic.com/wp-content/themes/elvis/images/logo-graceland.png"/></a><span class="space-m">|</span><a href="http://www.siriusxm.com/elvisradio" target="_blank" title="Elvis Radio"><img alt="Elvis Radio" src="http://www.elvisthemusic.com/wp-content/themes/elvis/images/logo-elradio.png"/></a>
+</div>
+</div>
+</div></footer>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1536163246639259&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- tag 1 for Elvis Presely Website -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1013538408;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "S1TlCLjowwMQ6Lyl4wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script src="http://www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+</script>
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="http://www.googleadservices.com/pagead/conversion/1013538408/?label=S1TlCLjowwMQ6Lyl4wM&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+<!-- tag 2 for Elvis Presely Website -->
+<script type="text/javascript">
+var google_conversion_id = 1013538408;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "EU44CLDpwwMQ6Lyl4wM";
+var google_conversion_value = 0;
+</script>
+<script src="http://www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+</script>
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="http://www.googleadservices.com/pagead/conversion/1013538408/?label=EU44CLDpwwMQ6Lyl4wM&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+<!-- End Elvis Presely Website tags -->
+</body>
+</html>
