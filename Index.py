@@ -5,6 +5,7 @@ from nltk import stem
 import os
 import pickle
 import math
+import random
 class Index:
     def __init__(self, dbfile ="Data/cache.db" ):
         self.database = WebDB.WebDB(dbfile)
@@ -72,7 +73,7 @@ class Index:
             for DocID in self.index[term].keys():
                 #multiply weights of each term in query by document weight to find cosine distance
                 if DocID not in scores:
-                    scores[DocID] = 0.0
+                    scores[DocID] = 0.00001*random.random()
                 scores[DocID] +=query_dic[term] *self.index[term][DocID][0]
         s = collections.OrderedDict(sorted(scores.items(), key=lambda t: t[1],reverse=True))
         #iter_dic = s.iterkeys()

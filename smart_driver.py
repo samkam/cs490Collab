@@ -126,6 +126,12 @@ def evaluation():
                 #do all of the calculations (ap, r, k, AUC)
                 #add to average results
             print(average_results)
+#utility functions
+def tabbed_print(list):
+    temp = ""
+    for item in list:
+        temp+= str(item)+"\t"
+    print(temp)
 
 def main():
     evaluation()
