@@ -86,46 +86,100 @@ def evaluation():
             current_index._addWeights_nnn()
         else:
             current_index._addWeights_ltc()
+
         for queryType in isQueryNNN:
+            print(queryType)
             items = []
             average_results = [0,0,0,0]
-            # items =current_index.database.Get_All_ITEmS
+            #items =current_index.database.Get_All_ITEmS
             items = current_index.database.getItems() #list of tuple of id, name, type
-            #print(items)
-            #sys.exit(0)
             for item in items:
                 query_results = []
-                #print(item[2])
                 if queryType:
                     query_dic = current_index.nnn_query(item[1]+" "+item[2])
                 else:
                     query_dic = current_index.ltc_query(item[1]+" "+item[2])
 
                 results = current_index.process_query(query_dic)
-                #print(results)
                 for result in results:
                     query_results.append(result[0])
-                print("item[0] is "+str(item[0]))
                 results = current_index.database.lookupURLs_byItemID(item[0]) # list of tuples of url and id number
                 expected_results = []
                 for result in results:
                     expected_results.append(result[1])
 
-                print(query_results)
-                print(expected_results)
                 binary_list = []
                 for i in query_results:
                     if i in expected_results:
                         binary_list.append(1)
                     else:
                         binary_list.append(0)
-                print(binary_list)
-                sys.exit(0)
-                #get results of item name inputted as search query
-                #compare to list of URLids associated with that item in the database
-                #do all of the calculations (ap, r, k, AUC)
-                #add to average results
-            print(average_results)
+                #print(binary_list)
+                average_results[0] += prec_at_K(binary_list)
+                average_results[1] += prec_at_R(binary_list)
+                average_results[2] += avgPrec(binary_list)
+                average_results[3] += AUC(binary_list)
+                #print(average_results)
+
+            for i in range(len(average_results)):
+                average_results[i] = average_results[i]/len(items)
+            tabbed_print(average_results)
+            ##super sloppy coding activate!
+            #random shit
+#evaluation functions
+def prec_at_K(doclist):
+    K = 1
+    count = 0.0
+    newdoclist = []
+    for i in range(K):
+        newdoclist.append(doclist[i])
+        if doclist[i] == 1:
+            count += 1
+    precision = count/len(newdoclist)
+    return precision
+
+def prec_at_R(doclist):
+    relDocs = 0
+    for i in range(len(doclist)):
+        if doclist[i] == 1:
+            relDocs += 1
+    K = relDocs
+    count = 0.0
+    newdoclist = []
+    for i in range(K):
+        newdoclist.append(doclist[i])
+        if doclist[i] == 1:
+            count += 1
+    precision = count/len(newdoclist)
+    return precision
+
+def avgPrec(doclist):
+    accum = 0.0
+    count = 1
+    for i in range(len(doclist)):
+        if doclist[i] == 1:
+            prec = count/(i+1)
+            accum += prec
+            count += 1
+    avgPrec = accum/(count-1)
+    return avgPrec
+
+def AUC(doclist):
+    tpCount = 0
+    tpCount2 = 0
+    fpCount = 0
+    for i in range(len(doclist)):
+        if doclist[i] == 1:
+            tpCount += 1
+    fpTotal = len(doclist)-tpCount
+    AUC = 0.0
+    for i in range(len(doclist)):
+        if doclist[i] == 1:
+            tpCount2 += 1
+        else:
+            fpCount += 1
+            AUC += ((1/fpTotal)*(tpCount2/tpCount))
+    return AUC
 #utility functions
 def tabbed_print(list):
     temp = ""

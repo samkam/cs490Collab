@@ -6,8 +6,10 @@ import os
 import pickle
 import math
 import random
+import re
 class Index:
     def __init__(self, dbfile ="Data/cache.db" ):
+        print("initializing index")
         self.database = WebDB.WebDB(dbfile)
         self.index = dict()
         self.total_count = 0 #number of documents we have
@@ -16,17 +18,19 @@ class Index:
         temp = filename.rstrip(".txt")
         return int(temp)
     def populate(self):
+        list1 = os.walk("Data/clean")
+        #os walk is a generator, and returns a tuple. Weird shit
+        list2 = []
+        for i in list1:
+            list2 = i[2]
+        self.total_count = len(list2)
         if os.path.exists("data/index.p"):
-            print("pickle found")
+            print("Index pickle file found")
             self.index = pickle.load(open("data/index.p", "rb"))
+
         else:
             print("making pickle")
-            list1 = os.walk("Data/clean")
-            #os walk is a generator, and returns a tuple. Weird shit
-            list2 = []
-            for i in list1:
-                list2 = i[2]
-            self.total_count = len(list2)
+
             for DocID, filename in enumerate(list2):
                 #this is running under the assumption  that walk itemizes files in ascii order
                 with open("./Data/clean/"+filename, 'r') as f:
@@ -61,6 +65,10 @@ class Index:
         for key in query_dic.keys():
             term_freq = 1+ math.log10(query_dic[key])
             try:
+                #print("len(self.index[term].keys())")
+                #print(len(self.index[term].keys()))
+                #print("self.total_count")
+                #print(self.total_count)
                 inverse_document_freq = math.log10(self.total_count/(len(self.index[term].keys())))
                 query_dic[key] = term_freq * inverse_document_freq
             except KeyError:
@@ -88,6 +96,7 @@ class Index:
 
     def _stem_query(self, word):
         word = word.lower()
+        word = re.sub('\W+','', word)
         s = stem.PorterStemmer()
         return s.stem(word)
     def _addToken(self, token, DocID, token_position):
@@ -100,6 +109,7 @@ class Index:
             #print("novel docId added to ")
         self.index[token][DocID].append(token_position)
     def _addWeights_nnn(self):
+        print("adding nnn weighting to Index")
         for term in self.index.keys():
             for docID in self.index[term].keys():
                 self.index[term][docID][0]= len(self.index[term][docID]) -1
@@ -108,6 +118,7 @@ class Index:
         adds weight calculated by (ltc) idf and tf values for each key in the sub dictionary
         :return:
         '''
+        print("adding ltc weighting to Index")
         N = self.total_count #number of all documents
         docLengths = dict()
         for term in self.index.keys():
