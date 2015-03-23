@@ -1,5 +1,5 @@
 __author__ = 'Samuel'
-import WebDB, Index, collections,sys
+import WebDB, Index, collections,sys, os, random
 class controller:
     def __init__(self):
         self.database = WebDB.WebDB("./Data/cache.db")
@@ -86,12 +86,10 @@ def evaluation():
             current_index._addWeights_nnn()
         else:
             current_index._addWeights_ltc()
-
         for queryType in isQueryNNN:
             print(queryType)
             items = []
             average_results = [0,0,0,0]
-            #items =current_index.database.Get_All_ITEmS
             items = current_index.database.getItems() #list of tuple of id, name, type
             for item in items:
                 query_results = []
@@ -99,7 +97,6 @@ def evaluation():
                     query_dic = current_index.nnn_query(item[1]+" "+item[2])
                 else:
                     query_dic = current_index.ltc_query(item[1]+" "+item[2])
-
                 results = current_index.process_query(query_dic)
                 for result in results:
                     query_results.append(result[0])
@@ -107,25 +104,53 @@ def evaluation():
                 expected_results = []
                 for result in results:
                     expected_results.append(result[1])
-
                 binary_list = []
                 for i in query_results:
                     if i in expected_results:
                         binary_list.append(1)
                     else:
                         binary_list.append(0)
-                #print(binary_list)
                 average_results[0] += prec_at_K(binary_list)
                 average_results[1] += prec_at_R(binary_list)
                 average_results[2] += avgPrec(binary_list)
                 average_results[3] += AUC(binary_list)
-                #print(average_results)
 
             for i in range(len(average_results)):
                 average_results[i] = average_results[i]/len(items)
             tabbed_print(average_results)
+            random_eval(len(items))
             ##super sloppy coding activate!
-            #random shit
+def random_eval(numItems):
+     print("random results:")
+     list1 = os.walk("Data/clean")
+     #os walk is a generator, and returns a tuple. Weird shit
+     list2 = []
+     average_results = [0,0,0,0]
+     for i in list1:
+         list2 = i[2]
+     total_count = len(list2)
+     for i in range(numItems):
+         binary_list = random_binary_list(total_count,10)
+         average_results[0] += prec_at_K(binary_list)
+         average_results[1] += prec_at_R(binary_list)
+         average_results[2] += avgPrec(binary_list)
+         average_results[3] += AUC(binary_list)
+     for i in range(len(average_results)):
+         average_results[i] = average_results[i]/numItems
+     tabbed_print(average_results)
+
+
+def random_binary_list(length, num_relevant_results):
+    out = []
+    temp = num_relevant_results
+    for i in range(length):
+        out.append(0)
+    while(temp >0):
+        temp_index = random.randint(0,length-1)
+        if out[temp_index] == 0:
+            out[temp_index] = 1
+            temp += -1
+    return out
 #evaluation functions
 def prec_at_K(doclist):
     K = 1
